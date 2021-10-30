@@ -266,3 +266,6 @@ Blue:- Hi, Suggesting Icecream, Welcome to WFAF, which stands for Waiting For A 
 Aqua:- '!uptime'
 Blue:- I've been here for 12 hours and 26 minutes
 Blue:- 'The river of life bubbles when Aqua comes near~ '
+Blue:- 'The river of life bubbles when Aqua comes near~ '
+Blue:- 'Hi, its Blue ^-^'
+Blue:- 'Hi, its Blue ^-^'
