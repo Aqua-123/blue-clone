@@ -1,0 +1,2580 @@
+Eva:- 'Hi Blue, Welcome to WFAF. You are here because the person u tried to message did not accept your friend request yet, we call this Waiting For A Friend. Enjoy your stay and keep this family friendly.'
+purpleflower:- 'ig so'
+Blue:- 'Hi, its Blue ^-^'
+Blue:- 'hiiiiii :D'
+Aqua:- 'blue whos here'
+Blue:- I can see 'Eva', 'Aqua' and no lurkers :p
+Blue:- 'The river of life bubbles when Aqua comes near~ '
+Eva:- Hello again Aqua, retrying won't help. You can try asking 'what is wfaf'.
+Aqua:- '$ disable greets'
+Aqua:- 'idk what the command is'
+Aqua:- 'ill disable blues '
+Aqua:- 'blue disable greets'
+Blue:- 'Okai done ^-^'
+Aqua:- 'blue whos here'
+Blue:- I can see 'Eva', 'Aqua' and no lurkers :p
+Aqua:- 'eva whos here'
+Eva:- 'These are the people here :Eva\u202d, \u202ddeferea name\u202d, \u202dBlue\u202d, \u202dAqua. Maybe some are lurking'
+Aqua:- 'blue enable greets'
+Blue:- 'Okai done ^-^'
+Blue:- 'The river of life bubbles when Aqua comes near~ '
+Blue:- 'A dude? B dude? what dude? which dude? what is A? what is dude? who am i? what is wfaf..... x-x'
+Aqua:- 'sweet ig'
+A dude:- 'not sure why nurse is on break'
+Aqua:- 'yea was wondering that too'
+Mecha Nurse:- ' test\n'
+Blue:- Hi, Mecha Nurse, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Mecha Nurse:- 'Howdy Blue?'
+Blue:- 'hewwos'
+A dude:- hmm. it had left the room somehow. or lost its websocket connection and didn't reconnect until it had to send something.
+Blue:- Hi, Shaquille oatmeal, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+A dude:- 'blah. coding is hard.'
+Aqua:- 'lmao'
+Aqua:- 'getting those words from you is funny'
+Blue:- Hi, Antho, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Aqua:- 'btw a dude can you think of a reason why blue just decided to halt'
+A dude:- 'halt how?'
+Aqua:- 'just paused '
+A dude:- 'like did it quit the program?'
+A dude:- 'ah.'
+Aqua:- 'with the last message registered as '
+Aqua:- '++Rcv decoded: fin=1 opcode=1 data=b\'{type:ping,message:1631644934}\'\n'
+Aqua:- '^ if that went through idk'
+A dude:- not a python expert, but my first guess would be it's blocked on some network operation.
+Aqua:- 'that... could be it'
+A dude:- 'although that should eventually timeout.'
+Aqua:- 'also once it happened when i gave my system a huge cpu usage spike'
+Aqua:- 'also i didnt give it enough time to timeout'
+A dude:- 'ah.. not sure how CPU contention would matter here. it should just slow it down momentarily.'
+Aqua:- 'idk...'
+Blue:- 'Hamtaro, the karmic wonder, has arrived ·ᴗ·'
+Blue:- Hi, ⛓Glitchtrap⛓, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+⛓Glitchtrap⛓:- 'blue whos here?'
+Blue:- I can see '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧', '⛓Glitchtrap⛓', 'A dude', 'Aqua' and 2 peeps lurking :p
+Blue:- Hi, Mecha Nurse, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Mecha Nurse:- 'Howdy Blue?'
+Blue:- 'hewwos'
+Blue:- Hi, ⛓Glitchtrap⛓, retrying won't help, you can try asking 'what is wfaf' for more info :D
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'honestly i feel like kms'
+Blue:- Hi, yourfavoritemesh, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+yourfavoritemesh:- 'thanks blue'
+Blue:- You're welcome :D
+yourfavoritemesh:- 'Boo!'
+yourfavoritemesh:- 'you ok poeple?'
+yourfavoritemesh:- 'blue wjos here'
+yourfavoritemesh:- 'blue whos here'
+Blue:- I can see 'Mecha Nurse', 'yourfavoritemesh', 'Aqua' and 2 peeps lurking :p
+Blue:- Hi again, ⛓Glitchtrap⛓, try asking 'what is wfaf' for more info :D 
+yourfavoritemesh:- 'vlue whos lurking'
+A dude:- 'howdy mesh'
+yourfavoritemesh:- 'blue whos lurking'
+Blue:- I can see 'Eva', 'Aqua' lurking
+yourfavoritemesh:- 'hey Dude'
+yourfavoritemesh:- 'you ok?'
+A dude:- 'all good'
+A dude:- 'how are you?'
+yourfavoritemesh:- 'sweet'
+yourfavoritemesh:- yeah i'm good thanks
+A dude:- 'nice'
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Ryan, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Ryan, retrying won't help, you can try asking 'what is wfaf' for more info :D
+yourfavoritemesh:- 'blue whos here'
+Blue:- I can see 'yourfavoritemesh', 'A dude' and 3 peeps lurking :p
+Blue:- Hi, old F looking for old M, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, old F looking for old M, retrying won't help, you can try asking 'what is wfaf' for more info :D
+yourfavoritemesh:- 'hey old F'
+yourfavoritemesh:- 'how are you?'
+Blue:- Hi again, old F looking for old M, try asking 'what is wfaf' for more info :D 
+yourfavoritemesh:- 'hi old f'
+yourfavoritemesh:- can't help some people can you?
+Blue:- 'Hi, its Blue ^-^'
+yourfavoritemesh:- 'Hello blue'
+yourfavoritemesh:- 'guessing the name always comes first?'
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- 'hmmm blue is bacc'
+S​o​u​L:- '!uptime'
+Blue:- I've been here for only 0 minutes
+Eva:- I've been here for 0 hour(s) 52 minute(s) and 41 seconds.
+Mecha Nurse:- I've been here for 10 minutes.
+S​o​u​L:- '$ users'
+Eva:- 'These are the people here :Eva\u202d, \u202ddeferea name\u202d, \u202dA dude\u202d, \u202dAqua\u202d, \u202dMecha Nurse\u202d, \u202dyourfavoritemesh\u202d, \u202dBlue\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+S​o​u​L:- 'blue whos here'
+Blue:- I can see 'Mecha Nurse', 'yourfavoritemesh', 'S\u200bo\u200bu\u200bL', 'Eva' and no lurkers :p
+Blue:- Hi, Earth Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Earth Magikarp, retrying won't help, you can try asking 'what is wfaf' for more info :D
+yourfavoritemesh:- 'Hey Magi'
+Blue:- Hi again, Earth Magikarp, try asking 'what is wfaf' for more info :D 
+S​o​u​L:- 'ahhhh i forgot to set it to send greets disabled while disabling greets lel'
+S​o​u​L:- 'eva, go to sleep'
+Eva:- 'zzz'
+Eva:- 'hiyall'
+Blue:- Hi, Eva, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- '$ enable greets'
+Eva:- 'Greets are now enabled'
+S​o​u​L:- '$ disable greets'
+Eva:- 'Greets are now disabled'
+S​o​u​L:- 'oke '
+Blue:- 'A dude? B dude? what dude? which dude? what is A? what is dude? who am i? what is wfaf..... x-x'
+S​o​u​L:- 'hi mesg'
+S​o​u​L:- 'mesh*'
+yourfavoritemesh:- she's coming along soul.  how long before i can marry her? lol
+S​o​u​L:- 'who?'
+yourfavoritemesh:- 'Eva lol just a joke'
+S​o​u​L:- 'oh oke'
+Blue:- Hi, Uranus Voltorb, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Mecha Nurse, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Mecha Nurse:- 'Hi Blue!'
+Blue:- 'hiiiiii :D'
+S​o​u​L:- '2 + 5'
+A dude:- '\u200b2 + 5 = 7'
+A dude:- '\u200b2 + 5 = 7'
+Uranus Voltorb:- 'Hey '
+Mecha Nurse:- Hi, Earth Magikarp\u202d, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Mecha Nurse:- Hi again, Earth Magikarp\u202d, try asking 'what is wfaf' for more info :D
+yourfavoritemesh:- 'how are you two so quick at that math?'
+S​o​u​L:- 'i dunno why, but eme decided to kick all the greeters at the same time'
+A dude:- 'cyborg parts.'
+yourfavoritemesh:- 'sweet'
+S​o​u​L:- 'mecha was un affected by it tho'
+Blue:- Hi, Uranus Voltorb, retrying won't help, you can try asking 'what is wfaf' for more info :D
+S​o​u​L:- 'blue and eva both got kicked'
+Uranus Voltorb:- 'Hello'
+Eva:- 'hi'
+A dude:- 'luck of the draw, probably'
+S​o​u​L:- 'at the same time?'
+S​o​u​L:- 'hello there'
+Eva:- 'general kenobi'
+S​o​u​L:- 'still funne'
+S​o​u​L:- 'magi, why u keep joining and leaving?'
+S​o​u​L:- 'aight imma go '
+S​o​u​L:- 'imma take eva with me'
+S​o​u​L:- 'eva, go to sleep'
+Eva:- 'zzz'
+Blue:- Hi, Mecha Nurse, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Mecha Nurse:- 'Hello Blue'
+S​o​u​L:- 'aight'
+Mecha Nurse:- Hi, Earth Magikarp\u202c\u202c, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, 7 inch, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+7 inch:- 'M'
+Blue:- Hi, 7 inch, retrying won't help, you can try asking 'what is wfaf' for more info :D
+yourfavoritemesh:- yeah that don't work here 7 inch
+yourfavoritemesh:- we're family friendly
+Blue:- Hi, Snapping Rectangle, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Snapping Rectangle:- 'blue whos here'
+Blue:- I can see 'Earth Magikarp', 'Snapping Rectangle', 'Mecha Nurse', 'yourfavoritemesh' and 1 person lurking :p
+Snapping Rectangle:- 'blue whos idle'
+Blue:- I can see 'A dude' lurking
+Mecha Nurse:- Hi again, Earth Magikarp\u202c\u202c, try asking 'what is wfaf' for more info :D
+Blue:- Hi, Landon, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Landon:- 'hey'
+yourfavoritemesh:- right i'm gonna bug out. prob be gone for couple of days as got family visit.  you kids have fun
+Blue:- Hi, Pink Cockeral, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Earth Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, ⛓Glitchtrap⛓, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Earth Magikarp, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Earth Magikarp, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, deferea name, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Opiate the Nerd , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Opiate the Nerd :- 'Hello'
+Opiate the Nerd :- 'Blue who’s here'
+Blue:- I can see 'deferea name', 'Earth Magikarp', 'Opiate the Nerd ' and 3 peeps lurking :p
+Opiate the Nerd :- 'Blue who’s idle'
+Blue:- I can see 'Mecha Nurse', '⛓Glitchtrap⛓', 'A dude' lurking
+Opiate the Nerd :- 'Megumin who’s here'
+Opiate the Nerd :- 'Hmm'
+Opiate the Nerd :- 'Megumin whos here'
+Mecha Nurse:- I can see 'Blue\u202c\u202c', '\u202edeferea name\u202c\u202c', 'Opiate the Nerd \u202c\u202c'. Also 2 people are idle, and there may be lurkers.
+Blue:- Hi, 𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, 𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Opiate the Nerd , retrying won't help, you can try asking 'what is wfaf' for more info :D
+𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊:- 'blue whos here'
+Blue:- I can see 'Mecha Nurse', 'deferea name', 'Earth Magikarp', 'Opiate the Nerd ', '𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊' and 1 person lurking :p
+Blue:- Hi again, Opiate the Nerd , try asking 'what is wfaf' for more info :D 
+Blue:- Hi, Cyan Twilek, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, ᛒᛖᛒ ᵘˢ, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+ᛒᛖᛒ ᵘˢ:- 'blue whos here'
+Blue:- I can see 'ᛒᛖᛒ ᵘˢ', 'Earth Magikarp' and 3 peeps lurking :p
+Blue:- Hi, K a e d a e (Ani), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Yellow Walrus, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Yellow Walrus, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Yellow Walrus, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, Entangling Pizza, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Entangling Pizza:- 'hello'
+Blue:- Hi, Lil bit crazy , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Lil bit crazy :- 'Blue whos here'
+Blue:- I can see 'Lil bit crazy ' and 4 peeps lurking :p
+Blue:- Hi, Pink Cockeral, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Lil bit crazy :- 'Blue whos lurking '
+Blue:- I can see 'Earth Magikarp', 'A dude', 'Mecha Nurse', 'deferea name' lurking
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+Lil bit crazy :- 'Hey sat'
+Saturn sans pic:- 'hi lil :)'
+Saturn sans pic:- 'everything OK?'
+Blue:- Hi, Lil bit crazy , retrying won't help, you can try asking 'what is wfaf' for more info :D
+Saturn sans pic:- 'you left and came back'
+Lil bit crazy :- 'My internet sucks'
+Lil bit crazy :- 'Says I left '
+Saturn sans pic:- 'ah'
+Lil bit crazy :- 'I did not'
+Saturn sans pic:- 'oh'
+Saturn sans pic:- 'confusing then'
+Saturn sans pic:- '!u'
+Lil bit crazy :- 'How are you sweetheart? '
+Saturn sans pic:- '!i'
+Mecha Nurse:- I can see 'Lil bit crazy \u202c\u202c', 'Saturn sans pic\u202c\u202c', 'Blue\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+Mecha Nurse:- I think '\u202edeferea name\u202c\u202c' is idle.
+Blue:- Hi, IAmAPenguin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn sans pic:- 'me?!'
+Blue:- Hi, IAmAPenguin, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Lil bit crazy :- 'Yea'
+Blue:- Hi again, IAmAPenguin, try asking 'what is wfaf' for more info :D 
+Saturn sans pic:- 'im OK :)'
+Saturn sans pic:- 'bumbling around a bit'
+IAmAPenguin:- 'hi penguin'
+Blue:- Hi, Earth Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn sans pic:- 'need a coffee'
+Blue:- Hi again, Lil bit crazy , try asking 'what is wfaf' for more info :D 
+Saturn sans pic:- 'hi penguin, welcome to WFAF'
+Lil bit crazy :- 'Damn blue chill '
+Saturn sans pic:- '!uptime'
+Mecha Nurse:- I've been here for 34 minutes.
+Blue:- I've been here for only 43 minutes
+Saturn sans pic:- 'well its nice emerald is still going :)'
+Saturn sans pic:- 'in its careless way'
+Blue:- Hi, Earth Magikarp, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Earth Magikarp, try asking 'what is wfaf' for more info :D 
+Blue:- 'The river of life bubbles when Aqua comes near~ '
+Aqua:- '!uptime'
+Blue:- I've been here for only 48 minutes
+Mecha Nurse:- I've been here for 38 minutes.
+Aqua:- 'blue stats'
+Blue:- '80 have entered wfaf and 25 unique people have joined in the past 0 hours and 48 minutes, and it is Tue, 14 Sep 2021 08:41:57 PM GMT in wfaf'
+Aqua:- 'noice...'
+Aqua:- 'tho something makes me think its inflated'
+Aqua:- 'a bit'
+Aqua:- 'and not wokring properlu'
+Aqua:- 'y'
+Aqua:- 'will test tomorrow'
+Aqua:- 'anyways'
+Aqua:- 'f'
+Aqua:- 'good night wfad'
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+Saturn sans pic:- 'goodnight Aqua :)'
+Saturn sans pic:- 'blue send pats to Aqua'
+Blue:- '._.)/(._.'
+Blue:- 'Sending pats to Aqua  *pat pat*'
+A dude:- 'hmm. I should have a stats command.'
+A dude:- 'good night '
+A dude:- 'good night *Aqua'
+Blue:- Hi, Tending Cube, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Bbc, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, deferea name, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Neptune Wigglytuff, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Neptune Wigglytuff:- 'Hi'
+Neptune Wigglytuff:- 'U ther3'
+Blue:- Hi, Earth Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- 'Hi, its Blue ^-^'
+Blue:- 'The river of life bubbles when Aqua comes near~ '
+Blue:- 'A dude? B dude? what dude? which dude? what is A? what is dude? who am i? what is wfaf..... x-x'
+Blue:- Hi, deferea name, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Earth Magikarp, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- 'A dude? B dude? what dude? which dude? what is A? what is dude? who am i? what is wfaf..... x-x'
+Blue:- Hi, Unanamos, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Unanamos:- 'Hi'
+Blue:- Hi, Unanamos, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Unanamos, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, Earth Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Earth Magikarp, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, K a e d a e (Ani), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Eva:- 'hiyall'
+Blue:- Hi, Eva, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Guy, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, John Doe, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Ally, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+John Doe:- 'hey'
+Ally:- 'wtf'
+Blue:- Hi, Earth Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Ally:- 'heyo'
+John Doe:- 'we got rejected'
+Ally:- 'no wayyyyy '
+Ally:- 'that’s so fucjing funny'
+Blue:- Hi, John Doe, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, John Doe, try asking 'what is wfaf' for more info :D 
+Ally:- 'damn ur persistent atleast '
+Blue:- Hi, Mecha Nurse, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Mecha Nurse:- 'Hi Blue!'
+Ally:- 'two bots talking '
+Blue:- 'hiiiiii :D'
+Ally:- 'these are the end times '
+A dude:- they're not bots, they're greeters and it's classy.
+Ally:- 'oh actually? '
+Ally:- 'i thought blue was a bot'
+A dude:- we try not to use the B word. it's their words.
+Ally:- 'my bad'
+Ally:- 'i thought blue was an artificial intelligence* '
+A dude:- 'blue joke'
+Blue:- Hi, ravenkiller53, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+Mecha Nurse:- Hi, Earth Magikarp\u202c\u202c, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Earth Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Ally:- 'oh my god '
+Ally:- 'this is so weird i’m dying'
+A dude:- yeah.. Earth has been joining on a loop. something's glitchy with them
+Ally:- 'hm'
+Ally:- 'great website :D'
+Mecha Nurse:- Welcome, Saturn sans pic\u202c\u202c, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who you've sent a friend request to and they haven't accepted your request.
+Saturn sans pic:- 'hi ally'
+Saturn sans pic:- 'welcome to WFAF'
+Ally:- 'heyo '
+Saturn sans pic:- 'how are you Ally?'
+Ally:- 'pls dont'
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+A dude:- 'Hey Saturn'
+Saturn sans pic:- 'hi dude :)'
+Ally:- 'im okay '
+Ally:- 'you? '
+Saturn sans pic:- 'please dont what?'
+Saturn sans pic:- 'thats good'
+Saturn sans pic:- 'i am ok thanks'
+Saturn sans pic:- 'need food i think'
+Ally:- 'wait is saturn like blue and mechan'
+Ally:- 'mecha'
+Saturn sans pic:- 'hmm'
+Ally:- 'the b word'
+Saturn sans pic:- 'do i look like blue and mecha nurse?'
+Saturn sans pic:- 'i is saturn :)'
+Saturn sans pic:- 'you is ally :)'
+A dude:- 'saturn is perhaps our most advanced greeter.'
+Ally:- 'i’m not entirely sure what they look like'
+Saturn sans pic:- ':)'
+Saturn sans pic:- 'advanced greeter, wow! :)'
+Saturn sans pic:- 'sounds cool'
+Saturn sans pic:- 'well the pics all got stuffed'
+Saturn sans pic:- 'maybe eme owner no pay the bills :)'
+Blue:- Hi, Nick30, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn sans pic:- 'pic free zone now'
+Ally:- 'yeaa'
+Saturn sans pic:- 'i hope he paid his bills for the text'
+Ally:- 'kinda sucks but also is good '
+Saturn sans pic:- 'or we gonna be sitting here typing spaces'
+Ally:- 'that would suck '
+Saturn sans pic:- 'its teaching us to be creative with language'
+Saturn sans pic:- 'we gotta describe everything the long way now'
+Ally:- 'yeah or just like '
+Ally:- 'be lazy '
+Ally:- 'and just say nevermind when u gotta describe something '
+Saturn sans pic:- 'well i can imagine you however i like just now'
+Ally:- 'that’s what i usually do '
+Saturn sans pic:- 'so i got free range there'
+Saturn sans pic:- 'ah ok'
+Ally:- 'you can actually '
+Saturn sans pic:- 'i can stick a pic on my screen where you are :)'
+Saturn sans pic:- 'instant pic'
+Ally:- 'what do i look like in ur head saturn '
+Saturn sans pic:- 'well very cool of course'
+Saturn sans pic:- 'very pink and girly'
+Ally:- 'am i cute an i cute '
+Saturn sans pic:- 'very cute'
+Ally:- 'am*'
+Saturn sans pic:- 'yesss'
+Ally:- 'yaaaaaa'
+Saturn sans pic:- 'i not gonna go too far here'
+Saturn sans pic:- 'because WFAF is family friendly'
+Saturn sans pic:- 'so lets go with cute and girly'
+Ally:- 'i call my baby cousins cute all the time it’s okay '
+Ally:- 'we’re still PG'
+Saturn sans pic:- 'ah right must be ok then'
+Saturn sans pic:- 'if its ok for little cousins'
+Ally:- 'if it’s okay for cousins, it’s okay for the rest of the world '
+Saturn sans pic:- 'yess'
+Saturn sans pic:- 'so anyway we got very peaceful emerald now'
+Saturn sans pic:- 'no video, no sounds'
+Saturn sans pic:- 'no pics'
+Saturn sans pic:- 'well just some bleeps'
+Saturn sans pic:- 'and text'
+Ally:- 'i meaaaan i wouldn’t use peaceful '
+A dude:- 'I taught my dog the cute command. he sits on his back leg and puts his front paws half-way up together. it\'s.. cute.'
+Saturn sans pic:- 'we still have colours and fonts'
+Ally:- 'still lots of spammers, like rn some guys spamming in the group chat '
+Saturn sans pic:- 'that sounds sweet'
+Saturn sans pic:- 'what a nice dog'
+Saturn sans pic:- 'well thats always gonna happen in GC'
+Ally:- 'yea true'
+Saturn sans pic:- 'i gotta say the mute button is a lifesaver sometimes'
+Ally:- 'i wish '
+Saturn sans pic:- 'GC always seems too unpleasant for me anyway'
+Ally:- 'new accounts plague my every move'
+Saturn sans pic:- 'sounds difficult for you then'
+Ally:- 'nah it’s an exaggeration dw '
+Ally:- 'they’re not that bad '
+Saturn sans pic:- 'right'
+Ally:- 'pretty rare '
+Saturn sans pic:- 'well in the random chat now'
+Saturn sans pic:- 'there is a plauge of the yellow bots'
+Saturn sans pic:- 'so maybe not a good time in there if they go after you'
+Ally:- 'true '
+Ally:- 'it would be kinda funny though '
+Saturn sans pic:- 'we seemed to have maybe a couple of days without them'
+Saturn sans pic:- 'but now they are back'
+Ally:- 'a bunch of bots hanging up on peooke'
+Saturn sans pic:- 'even though they got no pics'
+Ally:- 'people* '
+Saturn sans pic:- 'yes'
+Mecha Nurse:- Hi again, Earth Magikarp\u202c\u202c, try asking 'what is wfaf' for more info :D
+Saturn sans pic:- 'hi earth magikarp'
+Saturn sans pic:- 'i think bresh might be around'
+Blue:- Hi, Earth Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn sans pic:- 'i wonder if he will do somethign to GC'
+Saturn sans pic:- '!u'
+Saturn sans pic:- '!i'
+Mecha Nurse:- I can see 'Ally\u202c\u202c', 'Saturn sans pic\u202c\u202c', 'A dude\u202c\u202c', 'Blue\u202c\u202c'. Also 2 people are idle, and there may be lurkers.
+Mecha Nurse:- I think 'Eva\u202c\u202c', 'Earth Magikarp\u202c\u202c' are idle.
+Saturn sans pic:- 'eva whos here'
+Eva:- 'These are the people here :Eva\u202d, \u202dAlly\u202d, \u202dMecha Nurse\u202d, \u202dA dude\u202d, \u202dSaturn sans pic\u202d, \u202dEarth Magikarp. Maybe some are lurking'
+Saturn sans pic:- '!uptime'
+Mecha Nurse:- I've been here for 13 minutes.
+A dude:- I'm trying to add a `stats` command now.
+Saturn sans pic:- 'oh ok nice'
+Blue:- I've been here for 1 hours and 39 minutes
+Saturn sans pic:- 'i hope our greeters will be a bit consistent with commands'
+Saturn sans pic:- 'or we gonna spend a lifetime muddlign them up :)'
+Saturn sans pic:- 'lurking and idle get me'
+Saturn sans pic:- 'and tldr and wfaf and variations on those'
+Saturn sans pic:- 'blue running slow maybe'
+A dude:- 'right. I just implement them as synonyms.'
+A dude:- 'blue restart'
+A dude:- not sure if that's a thing
+Saturn sans pic:- 'we need a greeter command defining committe :)'
+Saturn sans pic:- 'blue listen'
+Saturn sans pic:- ':)'
+Saturn sans pic:- 'blue'
+A dude:- 'nurse help'
+Mecha Nurse:- Command available: !i, !u, !uptime, !wfaf, nurse help, nurse hi, nurse ignore, nurse mode, nurse quit, nurse reset, nurse seen, nurse show ignore list, nurse stats, nurse unignore, nurse uptime, nurse wfaf, nurse who's here, nurse who's lurking
+Saturn sans pic:- 'oh that is good'
+Saturn sans pic:- 'twi did that too'
+A dude:- I don't have individual command help tho.
+A dude:- 'maybe later'
+Saturn sans pic:- 'very helpful'
+Saturn sans pic:- 'blue uptime'
+Saturn sans pic:- 'i think we might fast be losing blue'
+A dude:- and I'm not listing which command are restricted to guardians.
+A dude:- 'which btw you are.'
+Saturn sans pic:- 'oh ok thanks'
+Saturn sans pic:- 'i gotta another promotion :)'
+Blue:- I've been here for 1 hours and 42 minutes
+A dude:- it's not super useful tbh
+A dude:- 'oof'
+Saturn sans pic:- 'blue restart'
+Saturn sans pic:- 'blue send pats to ally'
+Saturn sans pic:- 'maybe eventually'
+A dude:- yeah.. it can't start handling the next command until it finishes the previous one.
+Saturn sans pic:- 'ah ok'
+Blue:- '._.)/(._.'
+Blue:- 'Sending pats to ally  *pat pat*'
+Saturn sans pic:- 'a bit of a watch this space then'
+A dude:- 'ok. so restart is not a thing.'
+A dude:- 'blue reset'
+Saturn sans pic:- 'blue clear memory'
+Blue:- Hi, Forestlegacy, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Forestlegacy, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Forestlegacy, try asking 'what is wfaf' for more info :D 
+Blue:- 'Just had some memory loss x-x'
+Saturn sans pic:- 'aha'
+A dude:- '!uptime'
+Mecha Nurse:- I've been here for 19 minutes.
+Saturn sans pic:- 'blue disable greets'
+Blue:- I've been here for 1 hours and 45 minutes
+Blue:- 'Okai done ^-^'
+Saturn sans pic:- 'blue disable chats'
+A dude:- 'blue die'
+Blue:- 'Hi, its Blue ^-^'
+Blue:- 'Hi, its Blue ^-^'
+K a e d a e (Ani):- ':>'
+Blue:- '<:'
+K a e d a e (Ani):- 'das cool tho uwu'
+Saturn:- '!u'
+Saturn:- '!i'
+🤖 Mecha Nurse 💉:- I can see 'K a e d a e (Ani)\u202c\u202c', 'Saturn\u202c\u202c', 'Blue\u202c\u202c'. Also 2 people are idle, and there may be lurkers.
+🤖 Mecha Nurse 💉:- I think 'Aqua\u202c\u202c', 'Eva\u202c\u202c' are idle.
+Saturn:- 'hi Ani :)'
+Saturn:- 'HI Aqua - Blue was seemed to have got all lagged before and we accidentally dropped them'
+K a e d a e (Ani):- 'Hi'
+Blue:- Hi, Plum Icecream, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Pleasuresoftheimagination, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn:- '!u'
+Blue:- Hi, Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn:- '!i'
+🤖 Mecha Nurse 💉:- I think 'Eva\u202c\u202c' is idle.
+Magikarp:- 'hii '
+Saturn:- 'hi magikarp'
+Saturn:- 'did you shorten your name?!'
+Magikarp:- 'for the meanwhile'
+Magikarp:- 'but this is a new account'
+Saturn:- 'no longer earthy'
+Saturn:- 'maybe someone could help you with that account'
+Magikarp:- it's a permanent account though 
+Blue:- Hi, Horny Horse Cock Teen, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Magikarp:- 'but I do know which cookies I must save if I make a temp account'
+Magikarp:- but if you're speaking about karma then maybe yes :p
+Saturn:- 'was the latter'
+Saturn:- 'you look a bit vulnerable'
+Saturn:- 'hopefully you could contact our farmers'
+Magikarp:- 'yes hopefully so, have you seen n.m recently? '
+Saturn:- 'fortunately not lately'
+Saturn:- 'i have mostly stayed here and hardly looked in GC'
+K a e d a e (Ani):- 'Good night guys'
+Saturn:- 'goodnight Ani'
+Blue:- Hi, Bolt Up, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn:- 'have a nice sleep'
+Magikarp:- 'good night K a e d a e :)'
+Saturn:- 'sweet dreams'
+Saturn:- '!u'
+Saturn:- '!i'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c', 'Pleasuresoftheimagination\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+🤖 Mecha Nurse 💉:- I think 'Eva\u202c\u202c' is idle.
+Saturn:- 'eva whos here'
+Eva:- 'These are the people here :Eva\u202d, \u202dA dude\u202d, \u202dAqua\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dSaturn\u202d, \u202dBlue\u202d, \u202dMagikarp. Maybe some are lurking'
+Saturn:- 'eva whos lurking'
+🤖 Mecha Nurse 💉:- I don't see anybody idle.
+Blue:- Hi, Iizypizy, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Iizypizy, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Iizypizy:- 'hello'
+Eva:- 'hi'
+Blue:- Hi again, Iizypizy, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, Iizypizy, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Rabdoge, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Rabdoge:- 'oh lol '
+Rabdoge:- 'that friend i think exited emerald...'
+Blue:- Hi, naughtyBenFireman, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+Saturn:- '!u'
+Saturn:- '!i'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+🤖 Mecha Nurse 💉:- I think 'Eva\u202c\u202c' is idle.
+Blue:- Hi, Iizypizy, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Iizypizy, try asking 'what is wfaf' for more info :D 
+Iizypizy:- 'hi sorry I was disconnected'
+Blue:- Hi, naughtyBenFireman, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Rear Window, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Rear Window, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Magikarp:- blue who's here?
+Blue:- I can see 'Magikarp' and 2 peeps lurking :p
+Magikarp:- blue who's lurking?
+Blue:- I can see 'Eva', '🤖 Mecha Nurse 💉' lurking
+Magikarp:- '<3'
+Blue:- '<3'
+Magikarp:- '<:'
+Blue:- ':>'
+Magikarp:- Eva who's here?
+🤖 Mecha Nurse 💉:- I can see 'Blue\u202c\u202c', 'Pleasuresoftheimagination\u202c\u202c'. Also 2 people are idle, and there may be lurkers.
+Magikarp:- Eva who's lurking?
+Blue:- Hi, Colouring Koffing, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Colouring Koffing:- 'hey'
+Blue:- Hi, Magikarp, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Magikarp:- blue who's here?
+Blue:- I can see 'Magikarp' and 2 peeps lurking :p
+Magikarp:- eva, who's lurking?
+🤖 Mecha Nurse 💉:- I think 'Eva\u202c\u202c', 'Iizypizy\u202c\u202c' are idle.
+Blue:- Hi, 🤖 Mecha Nurse 💉, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Bolt Up, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Bolt Up, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Saturn Square, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn Square:- 'juice'
+Blue:- Hi, Sky Blue Buffalo, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Sky Blue Buffalo:- 'hi'
+Blue:- Hi, Sky Blue Buffalo, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Sky Blue Buffalo:- 'hi'
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c', and maybe some lurkers.
+Saturn:- '!i'
+🤖 Mecha Nurse 💉:- I don't see anybody idle.
+Blue:- Hi, látom, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Salmon Jawa, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Salmon Jawa:- 'Are you a moderator'
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c', and maybe some lurkers.
+Blue:- Hi, Bolt Up, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Rear Window, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Rear Window, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, 🤖 Mecha Nurse 💉, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Guiding Clefairy, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, JΛЯЯΣƬƬ, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Do what you gotta do, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Do what you gotta do, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Do what you gotta do:- 'Hey'
+Blue:- Hi again, Do what you gotta do, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, Blowing Cube, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Guiding Clefairy, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Guiding Clefairy, try asking 'what is wfaf' for more info :D 
+Guiding Clefairy:- 'hi'
+Guiding Clefairy:- 'wfaf'
+Do what you gotta do:- 'Hey'
+Do what you gotta do:- 'I think the server went'
+Guiding Clefairy:- 'hello'
+Eva:- 'hi'
+Do what you gotta do:- 'Ermm'
+Guiding Clefairy:- 'how are you'
+Do what you gotta do:- I'm good
+Do what you gotta do:- 'What about you?'
+Guiding Clefairy:- 'im ok'
+Guiding Clefairy:- 'horny'
+Do what you gotta do:- 'Snap?'
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+Do what you gotta do:- 'Still there?'
+Saturn:- 'yes'
+Do what you gotta do:- 'Wait what?'
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn:- 'how are you?'
+Do what you gotta do:- 'Tf is going on 😅'
+S​o​u​L:- '!uptime'
+Blue:- I've been here for 1 hours and 48 minutes
+🤖 Mecha Nurse 💉:- I've been here for 1 hour, 6 minutes.
+Eva:- I've been here for 5 hour(s) 28 minute(s) and 23 seconds.
+Saturn:- 'we are chatting'
+Saturn:- 'chat is going on :)'
+S​o​u​L:- '5 hr achievement unlocked'
+Saturn:- 'well thats nice Soul'
+Saturn:- ':)'
+Saturn:- 'you gotta robust greeter there then :)'
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Eva\u202c\u202c', 'Blue\u202c\u202c', and maybe some lurkers.
+Saturn:- 'he ran away then'
+S​o​u​L:- '$ users'
+Eva:- 'These are the people here :Eva\u202d, \u202dA dude\u202d, \u202dAqua\u202d, \u202dBlue\u202d, \u202dRear Window\u202d, \u202dSaturn\u202d, \u202dS\u200bo\u200bu\u200bL\u202d, \u202d🤖 Mecha Nurse 💉. Maybe some are lurking'
+Saturn:- 'gotta have a window in WFAF i suppose'
+Saturn:- 'be dark otherwise'
+S​o​u​L:- 'blue whos here'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'S\u200bo\u200bu\u200bL', 'Eva', 'Saturn' and no lurkers :p
+S​o​u​L:- 'hmm'
+Saturn:- 'ha'
+Saturn:- 'someone made off with our window'
+S​o​u​L:- 'maybe the list isnt accurate'
+Saturn:- 'could be bad news'
+Saturn:- 'now we got a great big hole'
+Saturn:- 'oh yes could be that'
+S​o​u​L:- '3+5'
+A dude:- 'the list is never accurate.'
+A dude:- '\u200b3+5 = 8'
+A dude:- 'but, you know, we try.'
+S​o​u​L:- 'maybe it is accurate?'
+A dude:- 'any accurate user list is entirely coincidental.'
+S​o​u​L:- 'aight'
+Saturn:- 'emerald bugs out often enough so we are a bit stuck'
+S​o​u​L:- 'btw hi satt, a dude'
+Blue:- Hi, Blue Sphere, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+A dude:- 'Hi Soul'
+Saturn:- 'hi soul'
+A dude:- 'nurse stats'
+🤖 Mecha Nurse 💉:- 'In the last 24 hours 223 unique users have joined WFAF 862 times and 112 unique users have sent 4,099 messages.'
+A dude:- 'nurse stats *'
+🤖 Mecha Nurse 💉:- 'In the last 24 hours 1,998 unique users have joined group chats 13,428 times and 852 unique users have sent 30,032 messages.'
+Blue:- Hi, S\u200bo\u200bu\u200bL, retrying won't help, you can try asking 'what is wfaf' for more info :D
+S​o​u​L:- 'eva, whos here'
+🤖 Mecha Nurse 💉:- I can see 'S\u200bo\u200bu\u200bL\u202c\u202c', 'A dude\u202c\u202c', 'Blue\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+Eva:- 'These are the people here :Eva\u202d, \u202dA dude\u202d, \u202dAqua\u202d, \u202dBlue\u202d, \u202dRear Window\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+S​o​u​L:- 'shes slow'
+S​o​u​L:- '$ uptime'
+Eva:- I've been here for 5 hour(s) 44 minute(s) and 25 seconds.
+S​o​u​L:- 'eva, go to sleep'
+Eva:- 'zzz'
+Blue:- Hi, My Tits are Heavy Af 😭, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+My Tits are Heavy Af 😭:- Blue who's here
+Blue:- I can see 'My Tits are Heavy Af 😭' and 2 peeps lurking :p
+Blue:- Hi, That Guy, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+Blue:- Hi, Earth Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Earth Magikarp:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Blue\u202c\u202c', 'Earth Magikarp\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+Earth Magikarp:- '!i'
+🤖 Mecha Nurse 💉:- I think 'A dude\u202c\u202c' is idle.
+Earth Magikarp:- '100*100/3'
+A dude:- '\u200b100*100/3 = 3333.3333333333335'
+Earth Magikarp:- '1/1000000'
+A dude:- '\u200b1/1000000 = 0.000001'
+Blue:- Hi, Green Ivysaur, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Green Ivysaur:- 'hi'
+Earth Magikarp:- 'hi'
+Blue:- Hi, Dying Sphere, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Dying Sphere:- 'Hi'
+Earth Magikarp:- '2^2'
+Dying Sphere:- '22 '
+Earth Magikarp:- 'lmao'
+Dying Sphere:- 'Huh?'
+Dying Sphere:- 'You m or f'
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Earth Magikarp:- 'SouL'
+Dying Sphere:- 'Hi '
+S​o​u​L:- 'magi'
+Dying Sphere:- 'Tt'
+S​o​u​L:- 'tt?'
+Earth Magikarp:- 'have you been working on eva?'
+Blue:- Hi, S\u200bo\u200bu\u200bL, retrying won't help, you can try asking 'what is wfaf' for more info :D
+S​o​u​L:- 'blue whos here'
+Blue:- I can see 'Earth Magikarp', 'S\u200bo\u200bu\u200bL' and 2 peeps lurking :p
+S​o​u​L:- blue who's lurking
+Blue:- I can see '🤖 Mecha Nurse 💉', 'A dude' lurking
+Earth Magikarp:- '7/4'
+S​o​u​L:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Blue\u202c\u202c', 'Earth Magikarp\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+S​o​u​L:- '!i'
+🤖 Mecha Nurse 💉:- I think 'A dude\u202c\u202c' is idle.
+S​o​u​L:- '4+5'
+A dude:- '\u200b4+5 = 9'
+Blue:- Hi, Blue Sphere, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- 'byeall'
+Earth Magikarp:- 'cyaa '
+Blue:- Hi, Ivory Wookiee, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, MatmatM25, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Ally, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Im horny.... It happens 🙄, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Rear Window, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Rear Window, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Sub M, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Saugahoe, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Purple desk, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Heaving Porg, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Heaving Porg:- 'hey'
+Heaving Porg:- 'sorry was disconnected just now'
+Blue:- Hi, Informing Diamond, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Informing Diamond:- 'i wanna purge'
+Blue:- Hi, Ally, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Flex, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Jari, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- 'Hamtaro, the karmic wonder, has arrived ·ᴗ·'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Blue das crazy '
+Blue:- I can see '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧' and 2 peeps lurking :p
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Blue whos here'
+Blue:- I can see '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧' and 2 peeps lurking :p
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue whos idle'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'A dude' lurking
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'O.o'
+Blue:- Hi, Ally, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- 'Hi, its Blue ^-^'
+Blue:- Hi, Cactus jam, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Pink Rhydon, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Pink Rhydon, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Pink Rhydon:- 'hey'
+Blue:- Hi, Informing Diamond, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Neko (Shy but nice), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Neko (Shy but nice):- 'Hewwo everyone'
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Eva:- 'hi everyone'
+Blue:- Hi, Eva, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Eva:- 'hi everyone'
+Blue:- Hi, Eva, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, 🤖 Mecha Nurse 💉, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Crazymace, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Eva:- 'hi everyone'
+Blue:- Hi, Eva, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Salmon Hitmonchan, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Salmon Hitmonchan:- 'blue whos here'
+Blue:- I can see 'Salmon Hitmonchan' and no lurkers :p
+Salmon Hitmonchan:- 'd e a d '
+Blue:- Hi, Mark , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Crazymace, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Crazymace, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, Orange Sphere, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Orange Sphere:- 'Hey wanna trade'
+Blue:- 'Hamtaro, the karmic wonder, has arrived ·ᴗ·'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue whos here '
+Blue:- I can see '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧' and no lurkers :p
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'o'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'oof'
+Blue:- Hi, Jari, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Jari, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Earth Magikarp, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Earth Magikarp:- blue who's here?
+Blue:- I can see 'Earth Magikarp' and no lurkers :p
+Earth Magikarp:- 'thank you blue'
+Blue:- You're welcome :D
+Blue:- Hi, Amd, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, cant find you, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Amd, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Plum Cube, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Plum Cube:- 'hey'
+Plum Cube:- 'liked the pics'
+Blue:- Hi, Eva, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Eva, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Idolizing Gloom, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- '!u'
+S​o​u​L:- '!i'
+🤖 Mecha Nurse 💉:- I can see 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Blue\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+🤖 Mecha Nurse 💉:- I think 'Eva\u202c\u202c' is idle.
+Blue:- 'Hamtaro, the karmic wonder, has arrived ·ᴗ·'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue whos here'
+Blue:- I can see '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧' and 2 peeps lurking :p
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue whos idle'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Eva' lurking
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue kill me'
+Blue:- 'Nu, smh'
+Blue:- Hi, kylie, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+kylie:- 'hewwo'
+Blue:- Hi, S\u200bo\u200bu\u200bL, retrying won't help, you can try asking 'what is wfaf' for more info :D
+S​o​u​L:- '$ uptime'
+Eva:- I've been here for 0 hour(s) 15 minute(s) and 11 seconds.
+S​o​u​L:- '$ users'
+Eva:- 'These are the people here :Eva\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+S​o​u​L:- '$ users'
+Eva:- 'These are the people here :Eva\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+Blue:- Hi, Saturn Pringle, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi again, S\u200bo\u200bu\u200bL, try asking 'what is wfaf' for more info :D 
+S​o​u​L:- eva, who's here?
+🤖 Mecha Nurse 💉:- I can see 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Blue\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+S​o​u​L:- $ alias userlist who's here?
+Blue:- Hi, Horny, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Eva, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- $ alias userlist who's here?
+Eva:- Alias set for userlist: who's here?
+S​o​u​L:- '$ alias userlist whos here?'
+Eva:- 'Alias set for userlist: whos here?'
+S​o​u​L:- '$ alias userlist who’s here?'
+Eva:- 'Alias set for userlist: who’s here?'
+Blue:- Hi, Horny, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- '$ users'
+Eva:- 'These are the people here :Eva\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+Blue:- Hi, IAmAPenguin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Jupiter Wookiee, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, IAmAPenguin, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, IAmAPenguin, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Neko (Shy but nice), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Horny, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Earth Gamorreans, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Earth Gamorreans, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Pink Roll, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Pink Roll, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, 🤖 Mecha Nurse 💉, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Horny, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Horny, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Horny, try asking 'what is wfaf' for more info :D 
+Blue:- 'Hamtaro, the karmic wonder, has arrived ·ᴗ·'
+Blue:- Hi, Healing Pringle, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'now im listening to arabic music'
+Blue:- Hi, Healing Pringle, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Neko (Shy but nice), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Neko (Shy but nice):- 'Blue whos here'
+Blue:- I can see 'Neko (Shy but nice)' and 2 peeps lurking :p
+Neko (Shy but nice):- 'Blue joke'
+Blue:- 'How do you make holy water? You boil the hell out of it.'
+Neko (Shy but nice):- 'Lol\n'
+Neko (Shy but nice):- 'Blue whos lurking'
+Blue:- I can see 'S\u200bo\u200bu\u200bL', 'Eva' lurking
+Neko (Shy but nice):- 'Blue joke'
+Blue:- 'What do you call an alligator in a vest? An in-vest-igator!'
+Neko (Shy but nice):- 'Blue joke'
+Blue:- 'Why don’t skeletons ever go trick or treating? Because they have nobody to go with.'
+Neko (Shy but nice):- 'Blue joke'
+Blue:- 'What do I look like? A JOKE MACHINE!?'
+Neko (Shy but nice):- 'Yes u do\n'
+Neko (Shy but nice):- ':3'
+Neko (Shy but nice):- 'Blue joke'
+Neko (Shy but nice):- 'UwU'
+Blue:- 'UwU'
+Eva:- 'moist'
+Eva:- 'moist'
+Neko (Shy but nice):- 'Lol\n'
+S​o​u​L:- 'lel, i actually dunno if that was an actual joke or an api error message'
+S​o​u​L:- 'eva, whos here'
+Eva:- 'These are the people here :Eva\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+S​o​u​L:- uh oh, eva didn't know blues existence and i might know why
+Blue:- Hi, Neko (Shy but nice), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Grey Hutt, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Grey Hutt, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Grey Hutt:- 'ok'
+Blue:- Hi again, Grey Hutt, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- eva who's here
+Eva:- 'These are the people here :Eva\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+Blue:- Hi, Purple monkey dishwasher , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, S\u200bo\u200bu\u200bL, retrying won't help, you can try asking 'what is wfaf' for more info :D
+S​o​u​L:- '$ users'
+Eva:- 'These are the people here :Eva\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+Blue:- 'Hamtaro, the karmic wonder, has arrived ·ᴗ·'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue whos here'
+Blue:- I can see '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧' and 1 person lurking :p
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue whos idle'
+Blue:- I can see 'Eva' lurking
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'hi eva'
+Eva:- 'hello there'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'noice'
+Blue:- Hi, Neko (Shy but nice), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- '$ users'
+Eva:- 'These are the people here :Eva\u202d, \u202dNeko (Shy but nice)\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+Blue:- Hi, caroline :), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+caroline :):- 'ok'
+caroline :):- 'anyone here?'
+Neko (Shy but nice):- 'Yup\n'
+Blue:- Hi, Master, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Master, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Master, try asking 'what is wfaf' for more info :D 
+🤖 Mecha Nurse 💉:- Hi again, Master\u202c\u202c, try asking 'what is wfaf' for more info :D
+Blue:- Hi, Retaining Rapidash, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Dominik (M), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Retaining Rapidash:- 'hi plz reply me'
+Blue:- Hi, Retaining Rapidash, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Retaining Rapidash, try asking 'what is wfaf' for more info :D 
+🤖 Mecha Nurse 💉:- Hi, Retaining Rapidash\u202c\u202c, retrying won't help, you can try asking 'what is wfaf' for more info :D
+🤖 Mecha Nurse 💉:- Hi again, Retaining Rapidash\u202c\u202c, try asking 'what is wfaf' for more info :D
+🤖 Mecha Nurse 💉:- Hi again, Retaining Rapidash\u202c\u202c, try asking 'what is wfaf' for more info :D
+🤖 Mecha Nurse 💉:- Hi again, Retaining Rapidash\u202c\u202c, try asking 'what is wfaf' for more info :D
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Guarding Dolphin, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Yellow Koffing, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Yellow Koffing:- 'Hi'
+Blue:- Hi, Yellow Koffing, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- '!u'
+S​o​u​L:- '!i'
+🤖 Mecha Nurse 💉:- I can see 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Blue\u202c\u202c', and maybe some lurkers.
+🤖 Mecha Nurse 💉:- I don't see anybody idle.
+Blue:- Hi, Adam, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Adam, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- '$ whos here'
+Eva:- 'These are the people here :Eva\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Eva\u202c\u202c', 'Blue\u202c\u202c', and maybe some lurkers.
+Saturn:- 'blue whos here'
+Blue:- I can see 'S\u200bo\u200bu\u200bL', '🤖 Mecha Nurse 💉', 'Saturn', 'Eva' and no lurkers :p
+Saturn:- 'eva whos here'
+Eva:- 'These are the people here :Eva\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dS\u200bo\u200bu\u200bL\u202d, \u202dSaturn. Maybe some are lurking'
+Saturn:- '!uptime'
+Blue:- I've been here for 8 hours and 31 minutes
+🤖 Mecha Nurse 💉:- I've been here for 7 hours, 49 minutes.
+Eva:- I've been here for 2 hour(s) 50 minute(s) and 32 seconds.
+Saturn:- Welcome! Friends! Welcome to WFAF - Waiting for a Friend! You are here because either you added someone who hasn't added you back, or because someone has un-added you. This is a family-friendly, PG establishment so please keep your clothes on and your chat friendly. And a friendly reminder, none of us are bots. Thanks so much and enjoy your stay!
+S​o​u​L:- 'eva, whos here'
+Eva:- 'These are the people here :Eva\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dS\u200bo\u200bu\u200bL\u202d, \u202dSaturn. Maybe some are lurking'
+Blue:- 'Hamtaro, the karmic wonder, has arrived ·ᴗ·'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue whos here '
+Blue:- I can see '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧' and 3 peeps lurking :p
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- '-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue whos idle'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Saturn', 'Eva' lurking
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'n u r s e '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- ' U n U '
+Saturn:- 'hi ham :)'
+Saturn:- how's you?
+Blue:- Hi, Lime Poppadom, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Silver Porg, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+Saturn:- '!i'
+🤖 Mecha Nurse 💉:- I think 'Eva\u202c\u202c' is idle.
+Blue:- Hi, exho, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Hello , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Salmon Pyramid, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Salmon Pyramid:- 'hi'
+Blue:- Hi, exho, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Turquoise Pyramid, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, exho, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Teal Hypno, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Dyeing Wookiee, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, exho, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, exho, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Lil bit crazy , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Lil bit crazy :- 'Blue whos here'
+Blue:- I can see 'Lil bit crazy ' and 2 peeps lurking :p
+Lil bit crazy :- 'Blue whos lurking '
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Eva' lurking
+Blue:- Hi, Turquoise Pyramid, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, samantha smith, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, samantha smith, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Blessing Neimoidian, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- 'Shhhh... The one and only drama queen cat is here *meow* '
+Im Kim Yeon-Soo lol:- 'blue whos here'
+Blue:- I can see 'Im Kim Yeon-Soo lol' and 2 peeps lurking :p
+Im Kim Yeon-Soo lol:- 'blue whos lurking'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Eva' lurking
+Blue:- Hi, Wolfie girl, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Wolfie girl:- 'Hey Blue'
+Blue:- Hi again, exho, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, 𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊:- 'Blue whos here'
+Blue:- I can see '𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊' and 2 peeps lurking :p
+Blue:- Hi, 🤖 Mecha Nurse 💉, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Purple monkey dishwasher , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- '!uptime'
+Blue:- I've been here for 10 hours and 16 minutes
+🤖 Mecha Nurse 💉:- I've been here for 9 hours, 33 minutes.
+Eva:- I've been here for 4 hour(s) 34 minute(s) and 57 seconds.
+Blue:- Hi, 🤖 Mecha Nurse 💉, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Rear Window, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Rear Window, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Frightening Aerodactyl, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Frightening Aerodactyl:- 'Hey'
+Blue:- Hi, exho, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- 'Shhhh... The one and only drama queen cat is here *meow* '
+Im Kim Yeon-Soo lol:- 'blue whos here'
+Blue:- I can see 'Im Kim Yeon-Soo lol' and 1 person lurking :p
+Im Kim Yeon-Soo lol:- 'blue whos lurking'
+Blue:- I can see 'Eva' lurking
+Blue:- Hi, ethan, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Renouncing Magneton, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Renouncing Magneton, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Renouncing Magneton, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Renouncing Magneton:- 'Hi'
+Blue:- 'Shhhh... The one and only drama queen cat is here *meow* '
+Im Kim Yeon-Soo lol:- 'blue whos here'
+Blue:- I can see 'Im Kim Yeon-Soo lol' and 1 person lurking :p
+Im Kim Yeon-Soo lol:- 'blue whos lurking'
+Blue:- I can see 'Eva' lurking
+Im Kim Yeon-Soo lol:- 'i-'
+Blue:- Hi, Fonso, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- '!uptime'
+Blue:- I've been here for 10 hours and 45 minutes
+Eva:- I've been here for 5 hour(s) 4 minute(s) and 48 seconds.
+🤖 Mecha Nurse 💉:- I've been here for 10 hours, 3 minutes.
+S​o​u​L:- '$ users'
+Eva:- 'These are the people here :Eva\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+Blue:- 'Shhhh... The one and only drama queen cat is here *meow* '
+Im Kim Yeon-Soo lol:- 'blue whos here'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Im Kim Yeon-Soo lol', 'Eva' and no lurkers :p
+Blue:- Hi, Disturbing Ithorian, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Im Kim Yeon-Soo lol:- 'mecha whos here'
+🤖 Mecha Nurse 💉:- I can see 'I'm Kim Yeon-Soo lol\u202c\u202c', 'Eva\u202c\u202c', 'Blue\u202c\u202c', 'Disturbing Ithorian\u202c\u202c', and maybe some lurkers.
+Im Kim Yeon-Soo lol:- 'eva whos here'
+Eva:- These are the people here :Eva\u202d, \u202dI'm Kim Yeon-Soo lol\u202d, \u202dDisturbing Ithorian\u202d, \u202d🤖 Mecha Nurse 💉. Maybe some are lurking
+Im Kim Yeon-Soo lol:- 'oOp-'
+Blue:- Hi, Disturbing Ithorian, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Im Kim Yeon-Soo lol:- 'blue whos here'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Im Kim Yeon-Soo lol', 'Eva' and no lurkers :p
+Blue:- Hi, 𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊:- 'Blue whos here'
+Blue:- I can see '𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊', '🤖 Mecha Nurse 💉', 'Eva' and no lurkers :p
+Blue:- Hi, S\u200bo\u200bu\u200bL, retrying won't help, you can try asking 'what is wfaf' for more info :D
+S​o​u​L:- '$ users'
+Eva:- 'These are the people here :Eva\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking'
+S​o​u​L:- '$ uptime'
+Eva:- I've been here for 5 hour(s) 10 minute(s) and 43 seconds.
+S​o​u​L:- '$ leave'
+Eva:- 'aight, bye'
+Blue:- Hi, Z💙Midoriya, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Z💙Midoriya:- 'anyone here'
+Z💙Midoriya:- 'Blue whos here'
+Blue:- I can see 'Z💙Midoriya', 'S\u200bo\u200bu\u200bL' and 1 person lurking :p
+S​o​u​L:- 'maybe'
+Z💙Midoriya:- 'OFC'
+S​o​u​L:- 'bye'
+Blue:- Hi, ethan, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, 𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊:- 'blue whos here'
+Blue:- I can see '𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊' and 1 person lurking :p
+𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊:- 'UwU'
+Blue:- 'UwU'
+Blue:- Hi, airohpue, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊:- ':>'
+Blue:- '<:'
+𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊:- '<:'
+Blue:- ':>'
+𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊:- 'okay this is boring'
+𝕯𝖆𝖓𝖎𝖊𝖑𝖑𝖊:- ':<'
+Blue:- Hi, Rear Window, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Rear Window, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Yellow Circle, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Yellow Circle:- 'Hey'
+Blue:- Hi, Ivory Kadabra, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Gay couple, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Ivory Kadabra, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Ivory Kadabra, try asking 'what is wfaf' for more info :D 
+Ivory Kadabra:- 'hola'
+Blue:- Hi, Straight M, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Mars Burger, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Ariana, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Ariana:- 'hi'
+Blue:- Hi, Ariana, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Ariana, try asking 'what is wfaf' for more info :D 
+Blue:- 'Hamtaro, the karmic wonder, has arrived ·ᴗ·'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Hoi'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Blue whos here'
+Blue:- I can see '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧' and 1 person lurking :p
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Hmmmmpgh'
+Blue:- Hi, Dreamer, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, lost, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+lost:- 'hola'
+Blue:- Hi, lost, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, lost, try asking 'what is wfaf' for more info :D 
+lost:- 'hola'
+Blue:- Hi, lost, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Mercury Cat, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, lost, retrying won't help, you can try asking 'what is wfaf' for more info :D
+lost:- 'hola'
+Blue:- Hi again, lost, try asking 'what is wfaf' for more info :D 
+Blue:- 'Shhhh... The one and only drama queen cat is here *meow* '
+Im Kim Yeon-Soo lol:- 'blue whos here'
+Blue:- I can see 'Im Kim Yeon-Soo lol' and 1 person lurking :p
+Im Kim Yeon-Soo lol:- 'blue whos lurking'
+Blue:- I can see '🤖 Mecha Nurse 💉' lurking
+Blue:- Hi, exho, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, exho, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- 'The river of life bubbles when Aqua comes near~ '
+Blue:- 'Shhhh... The one and only drama queen cat is here *meow* '
+Aqua:- '!uptime'
+🤖 Mecha Nurse 💉:- I've been here for 11 hours, 20 minutes.
+Blue:- I've been here for 12 hours and 3 minutes
+Im Kim Yeon-Soo lol:- 'blue whos here'
+Blue:- I can see 'Aqua', '🤖 Mecha Nurse 💉', 'Im Kim Yeon-Soo lol' and no lurkers :p
+Im Kim Yeon-Soo lol:- 'ah-'
+Aqua:- 'hey kim'
+Im Kim Yeon-Soo lol:- 'aquuuuuuuuuaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+Aqua:- 'kimmmmmmmmmmmmmmmmmmmmmmmmmmm'
+Im Kim Yeon-Soo lol:- 'how are youuuuuu'
+Aqua:- 'im alrightttt'
+Aqua:- 'wbuuuu'
+Im Kim Yeon-Soo lol:- 'idrk tbh.'
+Im Kim Yeon-Soo lol:- 'alot of my friends left eme today.'
+Im Kim Yeon-Soo lol:- 'kinda made me upset'
+Im Kim Yeon-Soo lol:- 'but '
+Aqua:- ':('
+Im Kim Yeon-Soo lol:- 'idk-'
+Aqua:- 'ikr- i miss so many people '
+Im Kim Yeon-Soo lol:- 'i wanna ask something'
+Aqua:- 'sure'
+Im Kim Yeon-Soo lol:- 'is it true that '
+Im Kim Yeon-Soo lol:- 'callan sold eme?'
+Aqua:- 'look he has lied in past and in my opinion he just said it to knock off the hate he gets so that whenever someone says something to him he can just say oh no i sold it not my problem, im not gona believe he sold it until i see the new owners honestly '
+Im Kim Yeon-Soo lol:- 'ykw same'
+Im Kim Yeon-Soo lol:- 'i think he sold it because he couldnt handle the fucked up profile pictures.'
+Im Kim Yeon-Soo lol:- 'thats what i think but again im not sure.'
+Im Kim Yeon-Soo lol:- 'and opal is crashed-'
+Aqua:- yikes, yea null said he's gonna work on it tho i can expect opal being regularly fixed as opposed to eme
+Im Kim Yeon-Soo lol:- 'mhm'
+Im Kim Yeon-Soo lol:- 'i gave him suggestions too'
+Im Kim Yeon-Soo lol:- 'and i feel prouD-'
+Aqua:- 'and yk today he asked me if i would like to be a mod of opal'
+Im Kim Yeon-Soo lol:- 'OMGGGGGGG'
+Im Kim Yeon-Soo lol:- 'DID YOU SAY YES?-'
+Aqua:- 'then he realised im under 18 '
+Aqua:- 'na'
+Im Kim Yeon-Soo lol:- 'lmfao.'
+Aqua:- 'lamkslmd'
+Im Kim Yeon-Soo lol:- 'THAT SHOULDNT EVEN MATTER WHAT-'
+Im Kim Yeon-Soo lol:- 'most 25 yos dont even know what javascript is.'
+Im Kim Yeon-Soo lol:- 'smfh'
+Aqua:- 'lmao'
+Aqua:- 'fair'
+Im Kim Yeon-Soo lol:- 'i thought null was 17 or something.'
+Im Kim Yeon-Soo lol:- 'he looked old '
+Im Kim Yeon-Soo lol:- 'no offense lmfao '
+Im Kim Yeon-Soo lol:- 'but idk-'
+Aqua:- 'lmao'
+Aqua:- 'yea idk how old he is'
+Aqua:- 'most likely he is older than 18 tho'
+Im Kim Yeon-Soo lol:- 'prolly 24 or sumn?'
+Im Kim Yeon-Soo lol:- 'yuh'
+Im Kim Yeon-Soo lol:- 'ykw '
+Im Kim Yeon-Soo lol:- 'i wanna create a site too.'
+Im Kim Yeon-Soo lol:- 'but idrk where to start off.'
+Im Kim Yeon-Soo lol:- 'first of all'
+Im Kim Yeon-Soo lol:- 'idek python.'
+Im Kim Yeon-Soo lol:- 'even if i do know bits of it, i really suck at it.'
+Aqua:- 'you dont need python got sites tbh'
+Aqua:- 'you can do with js and other shit'
+Im Kim Yeon-Soo lol:- 'js is easy'
+Im Kim Yeon-Soo lol:- 'but not like '
+Aqua:- 'python does come handy in the backend because it can do fancy stuff '
+Im Kim Yeon-Soo lol:- 'to that level '
+Im Kim Yeon-Soo lol:- '.'
+Im Kim Yeon-Soo lol:- 'mhm'
+Im Kim Yeon-Soo lol:- 'omg i tried printing micdrop and it finally printed it im so pRouD yeEjhdghsjdhf'
+Aqua:- 'aeyyyyyy'
+Im Kim Yeon-Soo lol:- 'LMFAOO'
+Blue:- Hi, Jamesd, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Aqua:- 'like blue is in python, fancy part of her being she run practically endlessly as opposed to thea or something who lag out because of ram usage '
+Im Kim Yeon-Soo lol:- 'ah'
+Im Kim Yeon-Soo lol:- 'thea doesnt run on python? '
+Aqua:- 'thea is js'
+Im Kim Yeon-Soo lol:- :')
+Aqua:- 'all greeters except mine and now the new ones like megumin and eva are in python'
+Im Kim Yeon-Soo lol:- 'im literally watching this site fall apart in front of my goDdAmn eyes. '
+Im Kim Yeon-Soo lol:- 'who made eva '
+Aqua:- 'soul'
+Im Kim Yeon-Soo lol:- 'im curious- '
+Im Kim Yeon-Soo lol:- 'DAMN-'
+Im Kim Yeon-Soo lol:- 'OMFG NOW I FEEL EVEN MORE DUMB.'
+Aqua:- 'lmaomdlkmdlkmnd'
+Im Kim Yeon-Soo lol:- 'i wanna make a greeter too.'
+Im Kim Yeon-Soo lol:- 'i guess idk how to make one.'
+Im Kim Yeon-Soo lol:- so i'll try being one myself.
+Im Kim Yeon-Soo lol:- 'ill be the first human greeter '
+Im Kim Yeon-Soo lol:- 'ever to exist. '
+Im Kim Yeon-Soo lol:- '*flips hair*'
+Aqua:- 'lmaooo'
+Aqua:- 'yussss'
+Im Kim Yeon-Soo lol:- 'sigh.'
+Aqua:- 'sigh'
+Im Kim Yeon-Soo lol:- ':('
+Aqua:- ':<'
+Im Kim Yeon-Soo lol:- 'mari left again.'
+Aqua:- 'hm-hmm'
+Aqua:- 'most people left'
+Im Kim Yeon-Soo lol:- 'jix left too'
+Im Kim Yeon-Soo lol:- 'i guess..'
+Im Kim Yeon-Soo lol:- 'yes :(('
+Aqua:- 'i barely see anyone except bots'
+Im Kim Yeon-Soo lol:- 'idk but everyday i come here thinking the gc will be toxic and shit.'
+Im Kim Yeon-Soo lol:- 'but welp-'
+Im Kim Yeon-Soo lol:- 'lmao same'
+Aqua:- 'even bresh doesnt come online'
+Im Kim Yeon-Soo lol:- and they're the same bots in every chat room.
+Im Kim Yeon-Soo lol:- 'mhmm'
+Aqua:- 'yea '
+Blue:- Hi, M, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Im Kim Yeon-Soo lol:- 'idk if i should make an opal account'
+Im Kim Yeon-Soo lol:- 'i really do not know-'
+Aqua:- 'your name and then a password, doesnt even require an email id'
+Im Kim Yeon-Soo lol:- 'hm.'
+Im Kim Yeon-Soo lol:- 'but is it possible to delete an account?'
+Im Kim Yeon-Soo lol:- 'idfk what i have with deleting accounts.'
+Im Kim Yeon-Soo lol:- 'and then making new ones.'
+Aqua:- 'idts-'
+Im Kim Yeon-Soo lol:- 'its just oddly satisfying.  '
+Im Kim Yeon-Soo lol:- 'omfg thats bad.'
+Im Kim Yeon-Soo lol:- 'but like when i change my name '
+Im Kim Yeon-Soo lol:- 'it tells me to use a password '
+Im Kim Yeon-Soo lol:- 'prolly cuz i use the same name everytime i go in there. '
+Im Kim Yeon-Soo lol:- 'so ig imma make one.'
+Aqua:- 'yus yus '
+Im Kim Yeon-Soo lol:- 'opal isnt even working rn-'
+Im Kim Yeon-Soo lol:- 'is it just me'
+Im Kim Yeon-Soo lol:- 'orrrrrr'
+Aqua:- 'wait'
+Im Kim Yeon-Soo lol:- 'alright'
+Aqua:- 'works for meh'
+Im Kim Yeon-Soo lol:- 'whattttt'
+Im Kim Yeon-Soo lol:- 'it keeps loading for me '
+Im Kim Yeon-Soo lol:- 'should i refresh '
+Im Kim Yeon-Soo lol:- 'hold on'
+Aqua:- 'yea'
+Im Kim Yeon-Soo lol:- 'it still isnt working.'
+Im Kim Yeon-Soo lol:- 'i guess my laptop is cursed.'
+Aqua:- 'lmao-'
+Aqua:- 'laptop hates opal'
+Im Kim Yeon-Soo lol:- 'laptop hates eme too nowadays '
+Aqua:- 'dam'
+Im Kim Yeon-Soo lol:- 'my laptop hates everything honestly. '
+Im Kim Yeon-Soo lol:- 'i had to delete all my 156 memes yesterday.'
+Im Kim Yeon-Soo lol:- :'(
+Aqua:- 'oh noooooooooo'
+Aqua:- ':((('
+Im Kim Yeon-Soo lol:- 'i was saving them from the beginning of 2021  ngl-'
+Im Kim Yeon-Soo lol:- '😔✨'
+Aqua:- 'sad :<'
+Aqua:- 'blue send pats to kim'
+Blue:- '._.)/(._.'
+Blue:- 'Sending pats to kim  *pat pat*'
+Im Kim Yeon-Soo lol:- 'AHAHAJDHGHSJDHJD-'
+Im Kim Yeon-Soo lol:- 'blue kill me'
+Blue:- 'Nu, smh'
+Im Kim Yeon-Soo lol:- '.'
+Im Kim Yeon-Soo lol:- 'bro this is torture. '
+Aqua:- ':D'
+Im Kim Yeon-Soo lol:- 'great'
+Im Kim Yeon-Soo lol:- 'now hams sick too'
+Im Kim Yeon-Soo lol:- '.'
+Aqua:- 'yea he texted me '
+Aqua:- 'sad'
+Im Kim Yeon-Soo lol:- 'sad.'
+Aqua:- 'said he has viral'
+Blue:- Hi, Booyaka , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Im Kim Yeon-Soo lol:- 'i told him to boil noodles and make a cup of tea '
+Im Kim Yeon-Soo lol:- 'he just'
+Im Kim Yeon-Soo lol:- 'cursed me out.'
+Im Kim Yeon-Soo lol:- 'lmfao'
+Aqua:- 'lmao'
+Aqua:- 'ive to school work and submit in like 4 hours'
+Im Kim Yeon-Soo lol:- 'same i have so many assignments due tomorrow. '
+Im Kim Yeon-Soo lol:- 'i just dont know where to start.'
+Im Kim Yeon-Soo lol:- 'im contemplating the most random stuff instead of doing those :D'
+Aqua:- 'i sometimes number each one and use a random number generator to choose which one to do first'
+Im Kim Yeon-Soo lol:- 'LMAOOOOOOO'
+Aqua:- 'lamlkdmdklj'
+Im Kim Yeon-Soo lol:- 'I USE IT FOR ALL MY DECISIONS '
+Blue:- Hi, LonelyWolf, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Aqua:- 'LMALMSL;MDLD'
+Im Kim Yeon-Soo lol:- 'omfg i thought that was just me.'
+Im Kim Yeon-Soo lol:- 'even for like the profile pictures. '
+Im Kim Yeon-Soo lol:- 'i had like a pfp 1 pfp 2 and a pfp 3 '
+Im Kim Yeon-Soo lol:- 'then i would use the number generator '
+Im Kim Yeon-Soo lol:- 'omg im such a genius. '
+Aqua:- 'PFFFFFFTTTT'
+Im Kim Yeon-Soo lol:- 'LMAOOOOOO'
+Im Kim Yeon-Soo lol:- 'sad now i cant change my pfp '
+Im Kim Yeon-Soo lol:- ':('
+Aqua:- 'Awe :<'
+Im Kim Yeon-Soo lol:- 'ahajshdgh but it doesnt matter anyways.'
+Im Kim Yeon-Soo lol:- 'i was gonna change it to the cat one in the end. '
+Im Kim Yeon-Soo lol:- 'kfjhjfjhg'
+Aqua:- 'jsnkjdnd cat pfp is da best'
+Aqua:- 'yk the new update of RxE changes all pfps to kitties for the viewer'
+Im Kim Yeon-Soo lol:- 'LMFAOOOOOOOOOOOOOOOOOO'
+Aqua:- 'and yours is a pink kitty'
+Aqua:- 'ill show you the ss'
+Im Kim Yeon-Soo lol:- 'alright lmao'
+Aqua:- 'gofile io/d/ddFnqh'
+Aqua:- 'add dot instead of space'
+Im Kim Yeon-Soo lol:- 'alrighty'
+Im Kim Yeon-Soo lol:- 'i-'
+Im Kim Yeon-Soo lol:- 'LMAOOOOOOOOOOOOOOOOOOOO'
+Aqua:- 'lmalkmslkdlkndlkdn'
+Blue:- 'Hamtaro, the karmic wonder, has arrived ·ᴗ·'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'F'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'U'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'uwu'
+Im Kim Yeon-Soo lol:- 'c'
+Blue:- 'UwU'
+Im Kim Yeon-Soo lol:- 'k'
+Im Kim Yeon-Soo lol:- '.'
+Im Kim Yeon-Soo lol:- 'oop-'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'U'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Uwu'
+Blue:- 'UwU'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'uwU'
+Blue:- 'UwU'
+Im Kim Yeon-Soo lol:- 'aqua you have been running eme in two windows?'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'UwU'
+Blue:- 'UwU'
+Im Kim Yeon-Soo lol:- 'wait im confused.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'I’m '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'runnung'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'eme'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'on'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'ios'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'uwu'
+Blue:- 'UwU'
+Aqua:- 'lmaooo'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Windowz'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'rep'
+Aqua:- 'ive to go'
+Aqua:- 'cya'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'rip'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'byee '
+Im Kim Yeon-Soo lol:- 'alrightttt'
+Im Kim Yeon-Soo lol:- 'take careeee aquaa'
+Im Kim Yeon-Soo lol:- '.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'I wanna leave this world'
+Im Kim Yeon-Soo lol:- 'now its dead again.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'too'
+Im Kim Yeon-Soo lol:- 'same'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'But'
+Im Kim Yeon-Soo lol:- 'lets die.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Yan wants'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'to'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'live'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'more'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'moreeeee'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'unu'
+Im Kim Yeon-Soo lol:- 'fine then ill die alone.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Nu'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'f'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'u'
+Im Kim Yeon-Soo lol:- 'c'
+Im Kim Yeon-Soo lol:- 'k'
+Im Kim Yeon-Soo lol:- '.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'U'
+Im Kim Yeon-Soo lol:- 'n'
+Im Kim Yeon-Soo lol:- 'o'
+Im Kim Yeon-Soo lol:- '.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Y'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'e'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 's'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'd'
+Im Kim Yeon-Soo lol:- 's'
+Im Kim Yeon-Soo lol:- 'h'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'a'
+Im Kim Yeon-Soo lol:- 'u'
+Im Kim Yeon-Soo lol:- 't'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'd'
+Im Kim Yeon-Soo lol:- 'u'
+Im Kim Yeon-Soo lol:- 'p'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'd'
+Im Kim Yeon-Soo lol:- '.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'y'
+Im Kim Yeon-Soo lol:- 'SHUT'
+Im Kim Yeon-Soo lol:- 'UP'
+Im Kim Yeon-Soo lol:- '.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Kim did u read what I typed'
+Im Kim Yeon-Soo lol:- 'you feelin better now?'
+Im Kim Yeon-Soo lol:- 'OMG'
+Im Kim Yeon-Soo lol:- 'YOU NEED'
+Im Kim Yeon-Soo lol:- 'JESUS'
+Im Kim Yeon-Soo lol:- 'AND HOLY'
+Im Kim Yeon-Soo lol:- 'WATER'
+Im Kim Yeon-Soo lol:- 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Uwu'
+Blue:- 'UwU'
+Im Kim Yeon-Soo lol:- 'wait'
+Im Kim Yeon-Soo lol:- 'i still remember '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Waiting'
+Im Kim Yeon-Soo lol:- 'when we could send pictures'
+Im Kim Yeon-Soo lol:- 'and'
+Im Kim Yeon-Soo lol:- 'i would send '
+Im Kim Yeon-Soo lol:- 'hobi'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'that I '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'like'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'yan'
+Im Kim Yeon-Soo lol:- 'wotah'
+Im Kim Yeon-Soo lol:- '.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Yes'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'i have that'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'pix'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'in'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'my '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'laptop'
+Im Kim Yeon-Soo lol:- 'LMFAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO'
+Im Kim Yeon-Soo lol:- 'hobi is the prettiest boy to ever exist.'
+Im Kim Yeon-Soo lol:- 'morever '
+Im Kim Yeon-Soo lol:- 'hes '
+Im Kim Yeon-Soo lol:- 'h o l y.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Laughing cats are so cute'
+Im Kim Yeon-Soo lol:- 'LMAOOO'
+Im Kim Yeon-Soo lol:- 'LAUGHING CATS?'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'U'
+Im Kim Yeon-Soo lol:- 'oh.'
+Im Kim Yeon-Soo lol:- 'bitch did you just call me cute.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- '🔫🔫🔫👉🥴👈'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'lmfaooooooooooooo'
+Im Kim Yeon-Soo lol:- 'im not cute shut up.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- '🤣🤣🤣🤣🤣🤣🤣🤣'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'yes bish'
+Im Kim Yeon-Soo lol:- 'SHUT UP LSJDHFJ'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'no u'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'uwu'
+Blue:- 'UwU'
+Im Kim Yeon-Soo lol:- 'no you'
+Im Kim Yeon-Soo lol:- '.'
+Im Kim Yeon-Soo lol:- 'im a converse high.'
+Im Kim Yeon-Soo lol:- 'fuck i wanna change my name.'
+Im Kim Yeon-Soo lol:- 'brb in a sec'
+Im Kim Yeon-Soo lol:- 'uwu'
+Blue:- 'UwU'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Me?'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'No'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'oof'
+Blue:- 'Shhhh... The one and only drama queen cat is here *meow* '
+Converse high:- 'okay im back.'
+Converse high:- 'now im a converse high.'
+Converse high:- 'dont be shy'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Mwoe'
+Converse high:- 'say hi.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'meow'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'drama'
+Converse high:- 'BITCH'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'cat'
+Converse high:- 'i miss my'
+Converse high:- 'kdrama'
+Converse high:- :')
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'U cal me bitch'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'whwt should I call u bish?'
+Converse high:- 'idk'
+Converse high:- 'call me '
+Converse high:- 'converse high'
+Converse high:- '.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Mine..?'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'o'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'lenfkirjelewjbww'
+Blue:- Hi, ♡´･ᴗ･`♡, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- '🤣🤣🤣🤣🥴'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'mommyyyy'
+Converse high:- 'BITCH'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'I miss ya'
+Converse high:- 'Oh'
+♡´･ᴗ･`♡:- 'hiii ham'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'yes catto'
+Converse high:- 'hiiiiiiii '
+Converse high:- 'uhm'
+Converse high:- 'mommy?-'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Mommy'
+Converse high:- 'that sounds weird '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- '🔫'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'right'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'no'
+Converse high:- 'you have another name?'
+Converse high:- '-'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'No'
+♡´･ᴗ･`♡:- ' I miss u too!!'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Only nommy'
+♡´･ᴗ･`♡:- 'how are uu'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'mommmy*'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'uwu'
+Blue:- 'UwU'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'sick'
+♡´･ᴗ･`♡:- 'u can call me naya high '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Nyaaaaaaaa~*'
+Converse high:- 'alright'
+Converse high:- 'thank you ^^'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- '✨✨✨✨💖✨⚡️✨💖💖⚡️❇️'
+Converse high:- 'why do people forget me when i change my name.'
+♡´･ᴗ･`♡:- 'oh nooo why hope u feel better soon '
+Converse high:- 'like what the fuck.'
+♡´･ᴗ･`♡:- 'UR KIM I REMEMBER DUH'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Cus my cage'
+Converse high:- 'LMAO'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'ehich is my body'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'is being hot'
+Converse high:- 'ehich'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'ugh'
+Converse high:- 'im a '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'uwu'
+Converse high:- 'converse'
+Blue:- 'UwU'
+Converse high:- 'high'
+Converse high:- '.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- '🥴'
+Converse high:- 'i wish pfps existed.'
+Converse high:- 'UGHHHHHHHHH'
+Blue:- Hi, 🤖 Mecha Nurse 💉, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Mommy'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Today '
+Converse high:- 'ew ham'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'A stranger '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'hurt me'
+Converse high:- 'this is so cringee 😭😭'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Why ew?'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'UwU '
+Blue:- 'UwU'
+Converse high:- 'ill shut up lmao-'
+♡´･ᴗ･`♡:- 'get a lot of rest ham and drink lemon and honey '
+♡´･ᴗ･`♡:- 'OMFG WGY'
+Blue:- Hi, STR-3 𝔸𝕝𝕚, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'yan calls me cringe mafia-'
+[STR-3] 𝔸𝕝𝕚:- 'Blue whos here '
+Blue:- I can see 'STR-3 𝔸𝕝𝕚', 'Converse high', '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧', '♡´･ᴗ･`♡' and 1 person lurking :p
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'lmao'
+Converse high:- 'izuru '
+[STR-3] 𝔸𝕝𝕚:- 'yuh'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Sure'
+Converse high:- 'did jackie really leave?'
+Converse high:- 'or is it just like'
+Converse high:- 'a'
+Converse high:- ' break'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'thank you mommy 🥰🥰🥰'
+Converse high:- 'or something?'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'so'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'he hurt me'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'cus'
+[STR-3] 𝔸𝕝𝕚:- 'I think a break '
+[STR-3] 𝔸𝕝𝕚:- 'for a while'
+[STR-3] 𝔸𝕝𝕚:- 'that’s all I know'
+Converse high:- 'alright thats good phew'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'he wanted to'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'testme'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'UnU'
+[STR-3] 𝔸𝕝𝕚:- 'She said she really doesn’t like emerald anymore and just needed time for school and stuff'
+Converse high:- 'mhm'
+Converse high:- 'understandable. '
+♡´･ᴗ･`♡:- 'DUDE WHAT'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Yee '
+♡´･ᴗ･`♡:- 'AND U LET HIM?'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'UnU'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'yee'
+Converse high:- 'just dont let her leave okay? :('
+Converse high:- 'ill delete my account if that ever happens.'
+Converse high:- 'because then theres no point of having an account.'
+Blue:- Hi, Mike, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'He took a sharp syringe and just put it inside my vein all through '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- '🤣🤣🤣🤣🤣'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'my blood test'
+[STR-3] 𝔸𝕝𝕚:- 'I promise ;v;'
+Converse high:- 'thank you, for once your being nice :>'
+♡´･ᴗ･`♡:- 'OH LMFAOOOO '
+[STR-3] 𝔸𝕝𝕚:- '🧍'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'The blood test says…'
+Converse high:- '🧍🏻\u200d♀️💅🏻'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'my platelets are low'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'UnU'
+[STR-3] 𝔸𝕝𝕚:- 'Plates'
+Converse high:- 'plate.'
+Converse high:- 'break a plate'
+Converse high:- 'aye'
+Converse high:- 'break a leg'
+Converse high:- 'ayE'
+Converse high:- 'break a window'
+Converse high:- 'AYE'
+Converse high:- 'break a baby'
+Converse high:- 'AYEEEEEEEEEEEEEEEEE'
+Converse high:- 'im sorry.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'And that bish already started painting her freaking fongers'
+[STR-3] 𝔸𝕝𝕚:- 'done'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'smfh'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'lmfao'
+Converse high:- 'i was already painting dem ham'
+Converse high:- 'uwu'
+Blue:- 'UwU'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'UnU'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'yee'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'bad bish'
+Converse high:- '*walks up in a lambo and drops the mic and walks out of the car with a grammy just like that scene in one taylor swift mv*'
+[STR-3] 𝔸𝕝𝕚:- 'woah'
+Converse high:- 'me being in my own little imaginary pretend world where i reject all the boys and then i evilly laugh.'
+Converse high:- 'damn i should be a wattpad writer'
+[STR-3] 𝔸𝕝𝕚:- 'really is imaginary, isn’t it?'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Kim'
+Converse high:- 'why must you hurt me in this way.'
+[STR-3] 𝔸𝕝𝕚:- ': )'
+♡´･ᴗ･`♡:- 'na when u become a wattpad u literally get cursed'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Kim'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'bish'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'kim'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Gib me attention'
+♡´･ᴗ･`♡:- 'the most awful shit happens to wattpad writers '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'imma attention seeker'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'unu'
+Converse high:- 'my spotify playlist went from a badass song to a sad song just the moment where you said rEaLlY is imaginAry, iSnT iT?'
+Converse high:- '.'
+[STR-3] 𝔸𝕝𝕚:- '💃🕺'
+Converse high:- '😔✨'
+Converse high:- 'HAM '
+Converse high:- 'HAM. '
+Converse high:- 'what is it.'
+Converse high:- 'lmao naya '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Attention '
+Converse high:- 'im already cursed.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Nya'
+Converse high:- 'dont worry.'
+Converse high:- 'my whole life is cursed. '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Same'
+Converse high:- 'donT woRrY <3'
+[STR-3] 𝔸𝕝𝕚:- 'kim why tf are u named after a S h 0 E'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Lmfaooo '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'my shoe'
+Converse high:- 'CUZ ITS PRETTY'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Imma but'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'buy'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'kim'
+Converse high:- 'you cant buy me.'
+Converse high:- 'im the manager. '
+Converse high:- 'sir-'
+Converse high:- '.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Ok'
+Converse high:- 'ok.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'j will but'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'buy'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'rhe'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'the'
+Converse high:- 'i feel like annoying someone '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'owner of the manager'
+Converse high:- 'or trolling someone.'
+[STR-3] 𝔸𝕝𝕚:- 'Every boss/manager has a manager. I am that manager’s manager.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Trooll'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'me'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Roast me'
+Converse high:- 'im the managers managers manager.'
+Converse high:- 'h a h.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'deep fry me'
+Converse high:- 'i-'
+Converse high:- 'ham chill-'
+[STR-3] 𝔸𝕝𝕚:- 'That makes 0 sense'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'nuuu'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'uwu'
+Blue:- 'UwU'
+Converse high:- 'well it doesnt.'
+Converse high:- 'k a r e n.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'K '
+Converse high:- 'ok.'
+[STR-3] 𝔸𝕝𝕚:- 'w a T-'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'K'
+Converse high:- 'ok.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'k for kat'
+Converse high:- 'ok.'
+Converse high:- 'im sorry i wanna spam.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'K for kim'
+Converse high:- 'reAaAaAl bad'
+Converse high:- '.'
+Converse high:- 'ok.'
+Converse high:- 'ok.  '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'im not sorrry'
+Converse high:- 'ok'
+Converse high:- 'ok.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'but I wanna spam'
+Converse high:- 'did i ask.'
+Converse high:- 'ok.'
+Converse high:- 'ok.  '
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Yes'
+Converse high:- 'ok.'
+Converse high:- 'good for you bih.'
+Converse high:- 'ok.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Give a fk about meee'
+Converse high:- 'no thanks'
+Converse high:- 'ok.'
+Converse high:- 'ok.  '
+Converse high:- 'ok.'
+Converse high:- 'ok.'
+Converse high:- 'ok'
+Converse high:- 'ok.'
+Converse high:- 'ok'
+Converse high:- 'ok.'
+Converse high:- 'ok'
+Converse high:- 'fuck.'
+Converse high:- 'im so slow at spamming.'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'U'
+Converse high:- 'kjdhjkdjh'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'uwu'
+Blue:- 'UwU'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'slow'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'spammwr'
+Converse high:- 'blue whos here'
+Blue:- I can see 'STR-3 𝔸𝕝𝕚', 'Converse high', '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧' and 1 person lurking :p
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Kim'
+Converse high:- 'do you really want me to spam ham.'
+Converse high:- 'say no more'
+Converse high:- 'd'
+Converse high:- 'f'
+Converse high:- 'ds'
+Converse high:- 'd'
+Converse high:- 'df'
+Converse high:- 'd'
+Converse high:- 'sd'
+Converse high:- 'd'
+Converse high:- 'fd'
+Converse high:- 'f'
+Converse high:- 'df'
+Converse high:- 'df'
+Converse high:- 'f'
+Converse high:- 'f'
+Converse high:- 'f'
+Converse high:- 'd'
+Converse high:- 'fd'
+Converse high:- 'dfd'
+Converse high:- 'ff'
+Converse high:- '\nfdfv'
+Converse high:- 'df'
+Converse high:- 'vf'
+Converse high:- 'f'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Kim'
+Converse high:- 'AYEEEEEE'
+Converse high:- 'THIS IS FUN'
+Converse high:- 'LESSGOOOO'
+Converse high:- 'f'
+Converse high:- 'd'
+Converse high:- 'sd'
+Converse high:- 'd'
+Converse high:- 'dd'
+Converse high:- 's'
+Converse high:- 'dd'
+Converse high:- 'd'
+Converse high:- 'f'
+Converse high:- 'd'
+Converse high:- 'g'
+Converse high:- 'fg'
+Converse high:- 'f'
+Converse high:- 'f'
+Converse high:- 'gf'
+Converse high:- 'f'
+Converse high:- 'd'
+Converse high:- 's'
+Converse high:- 's'
+Converse high:- 'd'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'Kimmmmm'
+Converse high:- 'will i get banned.'
+Converse high:- 'nvm.'
+Converse high:- 'df'
+Converse high:- 'd'
+Converse high:- 'f'
+Converse high:- 'df'
+Converse high:- 'fg'
+Converse high:- 'f'
+Converse high:- 'gf'
+Converse high:- 'gf'
+Converse high:- 'gf'
+[STR-3] 𝔸𝕝𝕚:- 'Being banned is Kim’s hobby'
+Converse high:- 'gf'
+Converse high:- 'fg'
+Converse high:- 'f'
+Converse high:- 'shut uplksdjhf-'
+[STR-3] 𝔸𝕝𝕚:- 'no u'
+Converse high:- 'im just feeling so badass.'
+Converse high:- 'whY mUsT yOu hUrT Me.'
+🤖 Mecha Nurse 💉:- Welcome, Optimizing Termite\u202c\u202c, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who you've sent a friend request to and they haven't accepted your request.
+Blue:- Hi, Optimizing Termite, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Aqua:- '!uptime'
+[STR-3] 𝔸𝕝𝕚:- 'Cuz the most hurt, hurt people.. 😔😔'
+Blue:- I've been here for 12 hours and 46 minutes
+🤖 Mecha Nurse 💉:- I've been here for 12 hours, 4 minutes.
+Converse high:- 'good.'
+Converse high:- 'did i ask.'
+Converse high:- 'im the manager fyi.'
+[STR-3] 𝔸𝕝𝕚:- 'yes actually '
+Converse high:- 'bitch when.'
+[STR-3] 𝔸𝕝𝕚:- 'you said “why must you hurt me”'
+Converse high:- 'exclude the why.'
+Converse high:- 'thank you very much.'
+Converse high:- 'wait'
+Converse high:- 'exclude the why and the must.'
+Converse high:- 'thAnk You VeRy MUcH x 2'
+Converse high:- '.'
+[STR-3] 𝔸𝕝𝕚:- 'You’re welcome '
+Converse high:- 'you\'re welcome dumbledore said cALmly.'
+[STR-3] 𝔸𝕝𝕚:- 'What'
+Converse high:- 'nvm.'
+[STR-3] 𝔸𝕝𝕚:- 'Gladly'
+Converse high:- 'thank you i guess?'
+[STR-3] 𝔸𝕝𝕚:- ': )'
+Converse high:- ':            )'
+Converse high:- 'wait'
+Converse high:- 'uh'
+Converse high:- :' )
+Converse high:- 'damn the space bar really makes this face look long.'
+[STR-3] 𝔸𝕝𝕚:- ':        )'
+Blue:- Hi, Mars Chicken, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Converse high:- 'lemme just pretend im on roblox'
+[STR-3] 𝔸𝕝𝕚:- 'But then stupid eme takes the spaces away'
+Converse high:- '#### ## ######### #### ##'
+Mars Chicken:- 'Blue whos here '
+Converse high:- '.'
+Blue:- I can see 'STR-3 𝔸𝕝𝕚', 'Converse high', 'Aqua', '🤖 Mecha Nurse 💉', 'Mars Chicken' and no lurkers :p
+Converse high:- 'stupid eme.'
+Mars Chicken:- 'Thanks blue '
+Blue:- You're welcome :D
+Converse high:- 'damn mars.'
+Converse high:- 'are you under disguise. '
+Converse high:- 'perhApS?-'
+Mars Chicken:- 'No? 👀 '
+Converse high:- 'damn okay im sorry.'
+[STR-3] 𝔸𝕝𝕚:- 'Bruh it’s a disguise definitely '
+Converse high:- 'lmfao'
+Converse high:- 'well'
+Converse high:- 'maybe the bot isnt new here'
+[STR-3] 𝔸𝕝𝕚:- 'Mars what’s my middle name '
+Mars Chicken:- 'Ann?'
+[STR-3] 𝔸𝕝𝕚:- 'I-'
+[STR-3] 𝔸𝕝𝕚:- 'wtf'
+Converse high:- 'LMAOOOOOOOOO'
+[STR-3] 𝔸𝕝𝕚:- 'stop'
+Converse high:- 'Mars who am i.'
+[STR-3] 𝔸𝕝𝕚:- 'who are u'
+Mars Chicken:- 'Kim.'
+[STR-3] 𝔸𝕝𝕚:- 's t o P'
+Mars Chicken:- 'No <3'
+[STR-3] 𝔸𝕝𝕚:- 'What’s my home address then'
+Mars Chicken:- 'Easy.'
+Converse high:- 'w h a t.'
+Mars Chicken:- '# ########## ###'
+Converse high:- 'omfg i lost braincells.'
+[STR-3] 𝔸𝕝𝕚:- '. . .'
+[STR-3] 𝔸𝕝𝕚:- 'o'
+Converse high:- 'mars whats my full name.'
+Mars Chicken:- 'Emerald name or irl name?'
+Converse high:- 'i r l name.'
+Mars Chicken:- 'Well I don’t fuckin know'
+Converse high:- 'my eme name is actually my irl name.'
+[STR-3] 𝔸𝕝𝕚:- 'JDHFKSJDA'
+Converse high:- 'what is it.'
+Converse high:- 'what is it.  '
+Converse high:- 'what is it. '
+Mars Chicken:- 'Kim Yeon or sumn idfk'
+Converse high:- 'LMAOOOOOOOOOOOO'
+Converse high:- 'its a bot '
+Mars Chicken:- 'i’m not a level 293992 hacker'
+Converse high:- 'then wHo arE yOu'
+Converse high:- 'are you a minecraft hacker. '
+Mars Chicken:- 'yez'
+Mars Chicken:- 'yes5'
+Mars Chicken:- '*'
+Converse high:- 'WAIT'
+Converse high:- 'NAGITOE?'
+[STR-3] 𝔸𝕝𝕚:- 'W a it t'
+Mars Chicken:- 'uhh h'
+Converse high:- 'HOL UP-'
+Mars Chicken:- 'n o p e'
+Converse high:- 'THIS KINDA SUS'
+[STR-3] 𝔸𝕝𝕚:- 'sus'
+Converse high:- 'sussy'
+Mars Chicken:- 'amogus '
+Converse high:- 'baka'
+Converse high:- '.'
+Converse high:- 'LMAOOOOOOOOOOOO'
+[STR-3] 𝔸𝕝𝕚:- 'stusiajsisa'
+Converse high:- 'WHO ARE YOUUUUUUUUU'
+Converse high:- 'DJHFBHJFH'
+Mars Chicken:- 'Your dad'
+Converse high:- '</3'
+Converse high:- 'dad its been 10 years.'
+[STR-3] 𝔸𝕝𝕚:- 'heart been broke so many times i don’t know what to believe '
+Converse high:- 'you still havent bought the milk yet'
+Converse high:- '.'
+Converse high:- 'mood izuru.'
+Converse high:- 'i have a strong feeling '
+Converse high:- 'its'
+Converse high:- 'nagitoe'
+Converse high:- '.'
+Mars Chicken:- 'Son I’m allergic to milk 😔'
+Converse high:- 'bitch im not a son.'
+Mars Chicken:- 'You are now'
+Converse high:- you're the impostor. 
+Converse high:- 'im voting you out.'
+Converse high:- 'you have the right to remain silent.'
+Mars Chicken:- 'no '
+Converse high:- 'anything you do or say will be used as evidence in the court.'
+Converse high:- '*handcuffz yu*'
+Converse high:- 'wait ew.'
+Converse high:- 'that sounds '
+Converse high:- 'wrong-'
+Converse high:- '.'
+Mars Chicken:- '🌝🌝'
+[STR-3] 𝔸𝕝𝕚:- 'JEHFKSJFMAHFKS'
+Converse high:- 'LMAOOOOOOOO'
+Converse high:- 'okay anyways.'
+Converse high:- 'i think imma leave now '
+Mars Chicken:- 'Oke'
+Converse high:- 'adios ladies and germs ^^'
+Converse high:- 'wait'
+Converse high:- 'so you are nagitoe.'
+Converse high:- 'but if you WERE nagitoe you would know my name.'
+Converse high:- 'damn im confused.'
+Converse high:- 'can you just'
+Blue:- Hi, Avalansh, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Converse high:- 'reveal yourself '
+Converse high:- 'and then i can die in peace.'
+Mars Chicken:- 'my name isn’t nagitoe '
+Blue:- Hi, Avalansh, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Mars Chicken:- 'but'
+Mars Chicken:- 'it is'
+Blue:- Hi again, Avalansh, try asking 'what is wfaf' for more info :D 
+Mars Chicken:- 'jack in the box '
+Converse high:- 'it is...?'
+[STR-3] 𝔸𝕝𝕚:- 'O'
+[STR-3] 𝔸𝕝𝕚:- 'JACKIE'
+Converse high:- 'JACKIE'
+Converse high:- 'OMFG'
+Mars Chicken:- 'ejijfaj'
+Mars Chicken:- '💃'
+Converse high:- 'do you even know my name.'
+Converse high:- 'im disappointeD.'
+Mars Chicken:- 'no-'
+Converse high:- 'i-'
+Converse high:- 'ill die.'
+Mars Chicken:- 'I thought it was just Kim'
+Converse high:- 'sis-'
+Converse high:- 'bye-'
+Mars Chicken:- 'Bye 😻'
+Blue:- 'Shhhh... The one and only drama queen cat is here *meow* '
+Converse high:- 'ALSO'
+Converse high:- 'JACKIE'
+Mars Chicken:- 'owo'
+Mars Chicken:- 'yuh'
+Converse high:- 'DONT DELETE YOUR ACCOUNT '
+Converse high:- 'i love you :)'
+Mars Chicken:- 'I’ll be on temp accounts from now on doe'
+Mars Chicken:- 'ily 2 btw'
+Converse high:- 'but why.'
+Mars Chicken:- 'cuz'
+Converse high:- 'why cant you use your account.'
+Mars Chicken:- 'im dumb '
+Converse high:- 'whats so wrong in using your account.'
+Converse high:- 'ugh'
+Mars Chicken:- 'imdidnt know clearing my search history would log me out-'
+Converse high:- 'LMAO'
+Converse high:- 'LOG IN AGAINNN'
+Converse high:- 'DONT YOU LIKE'
+Converse high:- 'REMEMBER YOUR PASSWORD '
+Converse high:- '.'
+Mars Chicken:- 'no <3'
+Converse high:- 'okay good.'
+[STR-3] 𝔸𝕝𝕚:- 'Mood'
+Converse high:- 'bye im out this shit always happens-'
+Mars Chicken:- 'bai'
+Mars Chicken:- 'i need to go also bye sisters'
+Blue:- 'A buzzy Bee enters the hive! 🐝 ~~.*~'
+Blue:- Hi, Hapsoul, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+[STR-3] 𝔸𝕝𝕚:- 'Blue whos here '
+Blue:- I can see 'STR-3 𝔸𝕝𝕚' and 2 peeps lurking :p
+[STR-3] 𝔸𝕝𝕚:- 'Blue whos lurking '
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Aqua' lurking
+[STR-3] 𝔸𝕝𝕚:- 'Thanks blue'
+Blue:- You're welcome :D
+Blue:- Hi, 🎀Viola🎀, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+[STR-3] 𝔸𝕝𝕚:- 'Isn’t viola an instrument -'
+Blue:- Hi, Kakashi hatake, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Kakashi hatake:- 'emerald hasnt been this dead since the emerald equivalent of the Holocaust'
+Kakashi hatake:- '\nBlue whos here?'
+[STR-3] 𝔸𝕝𝕚:- 'Blue whos here '
+Blue:- I can see 'STR-3 𝔸𝕝𝕚', 'Kakashi hatake' and 2 peeps lurking :p
+Kakashi hatake:- 'Hello\n'
+Blue:- Hi, orchid  flower, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+[STR-3] 𝔸𝕝𝕚:- 'Hi'
+Kakashi hatake:- 'Wait i should turn  into my EPIK mode\n'
+Blue:- Hi, orchid  flower, retrying won't help, you can try asking 'what is wfaf' for more info :D
+orchid  flower:- 'yes'
+Blue:- Hi, Lucky k (21yo m), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, EL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+EL:- '\nEL\n'
+EL:- 'Hehe am bac\n'
+EL:- 'Ello m8s'
+[STR-3] 𝔸𝕝𝕚:- 'Hiya'
+EL:- 'Oooo a living person'
+[STR-3] 𝔸𝕝𝕚:- '^^'
+EL:- \nHaven't seen that since\n
+[STR-3] 𝔸𝕝𝕚:- '1983?'
+EL:- 'THE INCIDENT *inception thud sound effect*'
+[STR-3] 𝔸𝕝𝕚:- ':0'
+EL:- 'So anyway\n'
+EL:- 'whats ur opinion on ostriches??'
+[STR-3] 𝔸𝕝𝕚:- 'Scary'
+[STR-3] 𝔸𝕝𝕚:- 'but nice eggs'
+EL:- 'I see you are.....\n'
+EL:- 'Basic\n'
+[STR-3] 𝔸𝕝𝕚:- ';v;'
+EL:- 'WHICH IS BORINGGG\n'
+EL:- 'Anyway'
+EL:- '\nmay i ask you a question???'
+[STR-3] 𝔸𝕝𝕚:- 'Sure'
+EL:- 'what is emerald??'
+[STR-3] 𝔸𝕝𝕚:- 'Hell'
+[STR-3] 𝔸𝕝𝕚:- 'chaos'
+[STR-3] 𝔸𝕝𝕚:- 'A failure'
+[STR-3] 𝔸𝕝𝕚:- 'A minceraft ore'
+EL:- 'That moment in minecraft when ur trying to do ur tasks but then the imposter starts doing 90s and no scopes you\n'
+[STR-3] 𝔸𝕝𝕚:- 'Ikr'
+EL:- 'god i hate when that happens\n'
+Blue:- Hi, Gold Swan, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Gold Swan:- 'blue whos here'
+Blue:- I can see 'STR-3 𝔸𝕝𝕚', 'Gold Swan', 'EL' and 2 peeps lurking :p
+Gold Swan:- 'blue whos lurking'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Aqua' lurking
+EL:- '90% chance this guy is zodiac'
+EL:- 'Actually maybe a little lower\n'
+EL:- '80%'
+Gold Swan:- 'Well what if i am?'
+Gold Swan:- 'What would you be able to do, eh?'
+EL:- 'Oooo you could also be the guy that personally despises me with a passion \n'
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+EL:- 'Soul\n\n'
+Gold Swan:- 'Despises you with a passion?'
+Gold Swan:- 'How?'
+EL:- 'Idk'
+EL:- '\nanyway'
+S​o​u​L:- 'hi el'
+S​o​u​L:- 'elo el'
+EL:- 'Hehe GUN\n'
+S​o​u​L:- 'blue whos here'
+Blue:- I can see 'STR-3 𝔸𝕝𝕚', 'S\u200bo\u200bu\u200bL', 'EL' and 2 peeps lurking :p
+S​o​u​L:- 'blue whos idle'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Aqua' lurking
+EL:- 'Wow ig blue just hates me huh\n'
+S​o​u​L:- '!u'
+S​o​u​L:- '!i'
+🤖 Mecha Nurse 💉:- I can see 'S\u200bo\u200bu\u200bL\u202c\u202c', 'STR-3 𝔸𝕝𝕚\u202c\u202c', 'Blue\u202c\u202c', 'EL\u202c\u202c' (#u948810703b82d129), and maybe some lurkers.
+🤖 Mecha Nurse 💉:- I don't see anybody idle.
+EL:- Ostriches are discusting hell spawns they're horrible looking beaks and long necks speak loudly about how they're a mistale created by gae jesus\n
+Blue:- Hi,  ᦓρꪮꪮᛕꪗ, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+ ᦓρꪮꪮᛕꪗ:- 'Fuck all the opps i got shots for whoever\n'
+S​o​u​L:- 'hi spooky'
+ ᦓρꪮꪮᛕꪗ:- 'Hey soul'
+ ᦓρꪮꪮᛕꪗ:- 'Soul u became part of wfaf now?'
+S​o​u​L:- '?'
+ ᦓρꪮꪮᛕꪗ:- 'U were here yesturday'
+ ᦓρꪮꪮᛕꪗ:- 'Now u here today'
+ ᦓρꪮꪮᛕꪗ:- 'Back then u werent on here'
+EL:- 'the only cool thing about them is that theyre probably the closest thing to a modern day velociraptor\n'
+S​o​u​L:- 'gc is ded'
+ ᦓρꪮꪮᛕꪗ:- 'Im glad that u here now'
+ ᦓρꪮꪮᛕꪗ:- 'Ohh'
+ ᦓρꪮꪮᛕꪗ:- 'Blue whos here'
+Blue:- I can see 'S\u200bo\u200bu\u200bL', 'EL', ' ᦓρꪮꪮᛕꪗ' and 2 peeps lurking :p
+ ᦓρꪮꪮᛕꪗ:- 'I gtg'
+ ᦓρꪮꪮᛕꪗ:- 'Bye soull'
+S​o​u​L:- 'oke'
+S​o​u​L:- 'byee'
+EL:- blue who's here?
+Blue:- I can see 'S\u200bo\u200bu\u200bL', 'EL' and 2 peeps lurking :p
+EL:- \nblue who's lurking?
+EL:- 'Wow blue hates me ig\n\n'
+S​o​u​L:- 'try removing the qn mark?'
+EL:- 'nah you do it\n'
+Blue:- 'Shhhh... The one and only drama queen cat is here *meow* '
+Im Kim Yeon-Soo lol:- 'BLUE WHOS HERE'
+Blue:- I can see 'S\u200bo\u200bu\u200bL', 'Im Kim Yeon-Soo lol' and 2 peeps lurking :p
+S​o​u​L:- 'blue whos lurking?'
+Im Kim Yeon-Soo lol:- 'BLUE WHOS IDLE'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Aqua' lurking
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Aqua' lurking
+Im Kim Yeon-Soo lol:- 'oh.'
+S​o​u​L:- 'ayo ms kimuuuuuuuu'
+Im Kim Yeon-Soo lol:- 'SOULLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL'
+S​o​u​L:- 'thats new'
+Im Kim Yeon-Soo lol:- 'whats new.'
+S​o​u​L:- 'i dunno'
+Im Kim Yeon-Soo lol:- 'bitch what.'
+S​o​u​L:- 'something'
+Im Kim Yeon-Soo lol:- 'soMeTHinG?'
+Im Kim Yeon-Soo lol:- 'w h a-'
+S​o​u​L:- 'no swearing in wfaf'
+Im Kim Yeon-Soo lol:- 'bitch fuck you.'
+S​o​u​L:- 'imma tell sat abt this'
+Im Kim Yeon-Soo lol:- 'i dont give a fuck.'
+Im Kim Yeon-Soo lol:- 'what the fucking flying fuck on the flying fucking fuck did you say.'
+Im Kim Yeon-Soo lol:- 'okay im sorry.'
+Im Kim Yeon-Soo lol:- 'fr dont tell saturn-'
+Im Kim Yeon-Soo lol:- 'skjdhjfh'
+S​o​u​L:- 'yk this convo is getting logged right?'
+Im Kim Yeon-Soo lol:- 'i-'
+Im Kim Yeon-Soo lol:- 'IDC'
+S​o​u​L:- 'too late'
+Im Kim Yeon-Soo lol:- 'i hate you.'
+S​o​u​L:- 'so?'
+Blue:- Hi, diamond heart, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- 'idc'
+diamond heart:- blue who's here
+S​o​u​L:- 'diooooooooooo'
+Blue:- I can see 'S\u200bo\u200bu\u200bL', 'Im Kim Yeon-Soo lol', 'diamond heart' and 2 peeps lurking :p
+diamond heart:- 'hey soul'
+Im Kim Yeon-Soo lol:- 'DIOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO'
+diamond heart:- blue who's idle
+Blue:- I can see '🤖 Mecha Nurse 💉', 'Aqua' lurking
+Im Kim Yeon-Soo lol:- 'HELLOOOOOOOO :D'
+diamond heart:- 'hi yeonsoo'
+S​o​u​L:- 'kimu is cussing in wfaf'
+Im Kim Yeon-Soo lol:- 'oh.'
+Im Kim Yeon-Soo lol:- 'hello.'
+Im Kim Yeon-Soo lol:- 'soul please.'
+Im Kim Yeon-Soo lol:- 'dont ditch me.'
+Im Kim Yeon-Soo lol:- 'you legit threw me under the bus.'
+Im Kim Yeon-Soo lol:- '</3'
+S​o​u​L:- 'i thought u didnt care'
+Im Kim Yeon-Soo lol:- 'bitch i still dont care.'
+Im Kim Yeon-Soo lol:- 'whatever.'
+diamond heart:- 'gasp'
+Im Kim Yeon-Soo lol:- 'oop-'
+S​o​u​L:- 'aight'
+Im Kim Yeon-Soo lol:- 'IM SORRY PLEASE DONT KICK ME OUT-'
+diamond heart:- I'm not a guardian anymore
+Im Kim Yeon-Soo lol:- 'oh'
+diamond heart:- so I don't care
+Im Kim Yeon-Soo lol:- 'why?'
+diamond heart:- 'I decided to stop'
+Im Kim Yeon-Soo lol:- 'but why.'
+diamond heart:- 'too many rules'
+S​o​u​L:- 'also they cant kick you'
+diamond heart:- 'took too much of my time'
+Im Kim Yeon-Soo lol:- 'soul did i ask you.'
+diamond heart:- 'lol'
+Im Kim Yeon-Soo lol:- 'can you stop being a nerd.'
+Im Kim Yeon-Soo lol:- 'im against bullying.'
+S​o​u​L:- 'i was stating the ℻'
+Im Kim Yeon-Soo lol:- 'but you iz an exception. '
+S​o​u​L:- 'wasnt talking to u'
+Im Kim Yeon-Soo lol:- 'DID I ASK YOU SIR?'
+S​o​u​L:- 'aslos ℻'
+S​o​u​L:- 'also*'
+Im Kim Yeon-Soo lol:- 'aslos'
+Im Kim Yeon-Soo lol:- 'AHAHAHAHAISHDGHSJDHGDHJHGDHJHGDHJDHCGDHS'
+S​o​u​L:- 'is a cat walking on your keyboard mr kimu'
+Im Kim Yeon-Soo lol:- 'my cat is way too moody to even walk on my keyboard.'
+Im Kim Yeon-Soo lol:- 'but '
+Im Kim Yeon-Soo lol:- 'lets just pretend '
+Im Kim Yeon-Soo lol:- 'o k a y?'
+Im Kim Yeon-Soo lol:- '.'
+S​o​u​L:- 'are u asking me? '
+Im Kim Yeon-Soo lol:- 'no?'
+Im Kim Yeon-Soo lol:- 'did i ask you to ask me whether i asked you?'
+S​o​u​L:- 'is that a qn for me?'
+Im Kim Yeon-Soo lol:- 'no???'
+S​o​u​L:- 'is that one a qn for me?'
+Im Kim Yeon-Soo lol:- 'NO?'
+Im Kim Yeon-Soo lol:- 'BITCH'
+Im Kim Yeon-Soo lol:- 'STOP.'
+Im Kim Yeon-Soo lol:- 'fr soul stop'
+Im Kim Yeon-Soo lol:- 'im tryna be happy.'
+S​o​u​L:- 'is that a qn for me mr kimu?'
+Im Kim Yeon-Soo lol:- '😔✨'
+S​o​u​L:- '🤔'
+Im Kim Yeon-Soo lol:- 'why are you so annoying.'
+Im Kim Yeon-Soo lol:- 'ugh.'
+S​o​u​L:- 'is that a  qn this time?'
+Im Kim Yeon-Soo lol:- 'yes.'
+Im Kim Yeon-Soo lol:- 'answer for 10 points please.'
+S​o​u​L:- 'oke.'
+Im Kim Yeon-Soo lol:- 'you may begin. '
+Im Kim Yeon-Soo lol:- 'bitch you may begin. '
+Im Kim Yeon-Soo lol:- 'im still waiting.'
+S​o​u​L:- 'This is how to keep someone waiting and waste their time'
+Im Kim Yeon-Soo lol:- 'BRO'
+Im Kim Yeon-Soo lol:- 'YOU TOOK LIKE 10 MINUTES TO WRITE THAT'
+Im Kim Yeon-Soo lol:- 'WTFFFFFFFFFFFFFFFFFFFFFFFFFFF'
+Blue:- Hi, Lavender Oblong, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Lavender Oblong:- 'hey'
+S​o​u​L:- 'Or i was mashing my keboard for a long time?'
+Im Kim Yeon-Soo lol:- 'UGHHHHHHHHHHHHHHHHHHHHHHHHHHHH'
+Blue:- Hi, Lavender Oblong, retrying won't help, you can try asking 'what is wfaf' for more info :D
+S​o​u​L:- 'hi oblong'
+S​o​u​L:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'I'm Kim Yeon-Soo lol\u202c\u202c', 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Blue\u202c\u202c', 'Lavender Oblong\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+Blue:- Hi, Lavender Oblong, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Im Kim Yeon-Soo lol:- '!i'
+🤖 Mecha Nurse 💉:- I think 'diamond heart\u202c\u202c' is idle.
+Im Kim Yeon-Soo lol:- 'I think imma leave '
+Im Kim Yeon-Soo lol:- 'thank you for wasting my time soul :3'
+Im Kim Yeon-Soo lol:- 'i really owe you a buck ^^'
+S​o​u​L:- 'leave already'
+Im Kim Yeon-Soo lol:- '😔✨'
+Im Kim Yeon-Soo lol:- 'why do you want me to leave.'
+S​o​u​L:- 'awwwwww'
+Im Kim Yeon-Soo lol:- 'is my presence '
+Im Kim Yeon-Soo lol:- 'this '
+Im Kim Yeon-Soo lol:- 'annoying.'
+S​o​u​L:- 'u said u wanted to leave'
+S​o​u​L:- 'your choice'
+S​o​u​L:- 'why r u asking me that, or were u?'
+Im Kim Yeon-Soo lol:- 'was i??'
+S​o​u​L:- '?.'
+Im Kim Yeon-Soo lol:- '?'
+Im Kim Yeon-Soo lol:- '.'
+S​o​u​L:- ')'
+S​o​u​L:- '|'
+Im Kim Yeon-Soo lol:- 'shut up.'
+S​o​u​L:- '.'
+S​o​u​L:- 'no u'
+Im Kim Yeon-Soo lol:- 'stop.'
+Im Kim Yeon-Soo lol:- 'get some help.'
+S​o​u​L:- 'will u help me?'
+Im Kim Yeon-Soo lol:- 'yes.'
+Im Kim Yeon-Soo lol:- 'how may i'
+Im Kim Yeon-Soo lol:- 'help you'
+Im Kim Yeon-Soo lol:- '.'
+S​o​u​L:- 'gimme 1 billion dollas'
+Im Kim Yeon-Soo lol:- '*gives you 7 billion dollas*'
+Im Kim Yeon-Soo lol:- 'yea bitch thats right.'
+Im Kim Yeon-Soo lol:- 'im kim yeonsoo.'
+Im Kim Yeon-Soo lol:- '*flips hair*'
+S​o​u​L:- 'actually put it in my doge wallet'
+S​o​u​L:- 'D9LBiqnbaqgLVxTKHXvgMPBi2pTSSH9icU'
+S​o​u​L:- '^'
+Im Kim Yeon-Soo lol:- 'no thank you.'
+Im Kim Yeon-Soo lol:- 'put it yourself.'
+Im Kim Yeon-Soo lol:- 'you lazy uncultured swinE.'
+S​o​u​L:- 'will u help me by putting it in my doge adress?'
+Im Kim Yeon-Soo lol:- 'n0.'
+S​o​u​L:- 'but u said u were gonna help me, so it meant nothing?'
+S​o​u​L:- 'u-'
+Im Kim Yeon-Soo lol:- 'yes it meant nothing.'
+S​o​u​L:- 'how-'
+S​o​u​L:- 'could-'
+S​o​u​L:- 'u-'
+Im Kim Yeon-Soo lol:- 'i was just trying to rickroll you in some type of way it just didnt work.'
+Im Kim Yeon-Soo lol:- 'w-w-w-w-w-w-w-w-w-w-w-w-w-w-what'
+Im Kim Yeon-Soo lol:- 'h-'
+Im Kim Yeon-Soo lol:- 'h-  '
+Im Kim Yeon-Soo lol:- 'h-h-h-h-h-h-h-'
+Im Kim Yeon-Soo lol:- 'h-'
+Im Kim Yeon-Soo lol:- 'nvm.'
+S​o​u​L:- 'aight'
+S​o​u​L:- 'i still dont hate u'
+Im Kim Yeon-Soo lol:- 'good for you.'
+S​o​u​L:- 'did i ask'
+Blue:- Hi, Maniaan, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Im Kim Yeon-Soo lol:- 'did i ask whether you asked?'
+S​o​u​L:- 'did i ask whether i asked u?'
+Blue:- Hi, Maniaan, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Im Kim Yeon-Soo lol:- 'did i ask whether i ASKED yOu?'
+Blue:- Hi again, Maniaan, try asking 'what is wfaf' for more info :D 
+Im Kim Yeon-Soo lol:- 'THIS DOESNT EVEN MAKE ANY SENSE ANYMOREKJDHBDJ-'
+Im Kim Yeon-Soo lol:- 'anyways'
+S​o​u​L:- 'ditto'
+Im Kim Yeon-Soo lol:- 'bye.'
+Im Kim Yeon-Soo lol:- 'i think'
+Im Kim Yeon-Soo lol:- 'its time to do my assignments.'
+S​o​u​L:- 'aight'
+Blue:- Hi, Turquoise Sandslash, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- 'bye nerd'
+S​o​u​L:- '!u'
+Maniaan:- 'hallo can u hear me?'
+🤖 Mecha Nurse 💉:- I can see 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Blue\u202c\u202c', 'Maniaan\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- hallo can't you
+S​o​u​L:- 'hear?'
+S​o​u​L:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Guarding Dolphin\u202c\u202c', 'Blue\u202c\u202c', 'Maniaan\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+S​o​u​L:- '!i'
+🤖 Mecha Nurse 💉:- I think 'diamond heart\u202c\u202c' is idle.
+Blue:- Hi, Im slowly dying, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Im slowly dying:- 'hiii'
+Im slowly dying:- 'what is this??'
+Im slowly dying:- 'is this a group chat?'
+Im slowly dying:- 'hi blue'
+Blue:- 'hiiiiii :D'
+Im slowly dying:- 'what is this?'
+Aqua:- 'blue where are we'
+Blue:- You're here because you tried to message someone who didn't accept your friend request. We call this chat WFAF,  Waiting For A Friend. Let's keep it family-friendly!
+Blue:- 'Shhhh... The one and only drama queen cat is here *meow* '
+Im Kim Yeon-Soo lol:- 'blue whos here'
+Blue:- I can see 'Aqua', 'Im Kim Yeon-Soo lol' and 3 peeps lurking :p
+Im Kim Yeon-Soo lol:- 'blue whos lurking'
+Blue:- I can see '🤖 Mecha Nurse 💉', 'diamond heart', 'Guarding Dolphin' lurking
+Im Kim Yeon-Soo lol:- 'aquuuuaaaaaaa'
+Im Kim Yeon-Soo lol:- 'sigh ded.'
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Guarding Dolphin, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+Saturn:- '!u'
+Saturn:- '!i'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+🤖 Mecha Nurse 💉:- I think 'Aqua\u202c\u202c' is idle.
+Blue:- Hi, Fuchsia Wallaby, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- 'The river of life bubbles when Aqua comes near~ '
+Blue:- Hi, Sky Blue Beaver, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Mick, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Bry, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Bry, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Daddy, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Daddy:- 'Hiii'
+Saturn:- '!u'
+Saturn:- '!i'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c', and maybe some lurkers.
+🤖 Mecha Nurse 💉:- I don't see anybody idle.
+Saturn:- '!uptime'
+Blue:- I've been here for 14 hours and 37 minutes
+🤖 Mecha Nurse 💉:- I've been here for 13 hours, 54 minutes.
+Blue:- Hi, STR-3 𝔸𝕝𝕚, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+[STR-3] 𝔸𝕝𝕚:- 'Blue whos here '
+Blue:- I can see 'STR-3 𝔸𝕝𝕚', '🤖 Mecha Nurse 💉', 'Saturn' and 2 peeps lurking :p
+[STR-3] 𝔸𝕝𝕚:- 'Blue whos lurking '
+Blue:- I can see 'Aqua', 'diamond heart' lurking
+[STR-3] 𝔸𝕝𝕚:- 'Thanks blue'
+Blue:- You're welcome :D
+Blue:- Hi, Phillyguy, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn:- 'hi ali'
+Saturn:- 'welcome to WFAF'
+Saturn:- how's things?
+Blue:- Hi, Saturn Rectangle, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c', and maybe some lurkers.
+🤖 Mecha Nurse 💉:- ' Hi Saturn. Another quiet day in WFAF, it seems.\n'
+Saturn:- 'certainly is at the moment'
+Saturn:- 'i guess i missed stuff earlier'
+🤖 Mecha Nurse 💉:- 'ah yes.. a bit of El and Kim stuff.\n'
+🤖 Mecha Nurse 💉:- 'btw, I added stats, so you can do `nurse stats` now\n'
+Saturn:- oh thats 'nice
+Saturn:- 'few people seem online now - i wonder when they willl pop up'
+🤖 Mecha Nurse 💉:- 'there may be an optional parameter you can pass to it too, so `nurse stats pizza` or `nurse stats *` might do something interesting too.\n'
+Saturn:- 'loss of pfps is getting to look permanent'
+Saturn:- 'oh thats novel'
+Saturn:- 'nurse stats pizza'
+🤖 Mecha Nurse 💉:- 'In the last 24 hours 1,248 unique users have joined pizza squad 🍕 3,852 times and 475 unique users have sent 11,788 messages.'
+🤖 Mecha Nurse 💉:- 'yeah. broken pfp everywhere is likely impacting new user count significantly, because it looks like poop.\n'
+Blue:- Hi, Bunny, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn:- 'wow thats a new one then :)'
+Bunny:- 'hi'
+Saturn:- 'hi bunny'
+Saturn:- 'welcome to WFAF'
+Bunny:- ' hello'
+Saturn:- 'how are you today'
+Saturn:- 'Bunny?'
+Bunny:- 'where two people here?'
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Bunny\u202c\u202c', 'Blue\u202c\u202c', and maybe some lurkers.
+Saturn:- that's whos here bunny
+Saturn:- 'at the moment'
+Bunny:- '\n'
+Bunny:- '\n'
+Saturn:- 'others will drop in later'
+Saturn:- 'what you doing?'
+Bunny:- yah, and I'm gonna drop it
+Saturn:- 'ok then'
+Saturn:- 'you take care bunny'
+Saturn:- 'see you later'
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Bunny, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Bunny:- and I'm back lol
+Saturn:- 'there you are again bunny'
+Saturn:- 'yess'
+Saturn:- 'you must like it here :)'
+Blue:- Hi, Guarding Dolphin, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, sub m , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, KaylaRay ( lesbian ), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, KaylaRay ( lesbian ), retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, KaylaRay ( lesbian ), Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn:- '!u'
+Blue:- Hi, KaylaRay ( lesbian ), retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, KaylaRay ( lesbian ), try asking 'what is wfaf' for more info :D 
+Blue:- Hi, Earth Ponyta, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+🤖 Mecha Nurse 💉:- 'hmm. I ignored your !u command because Blue said something shortly after. That feels a bit broken, but I\'m not sure I can do better while this yielding to other greeters correctly.\n'
+Earth Ponyta:- Why can't you put pictures in your pictures section anymore  ?
+Saturn:- 'well'
+🤖 Mecha Nurse 💉:- 'because the functionality broke and nobody has fixed it so far.\n'
+Saturn:- 'are you listening?'
+Saturn:- 'there you go, nurse has the answer'
+Earth Ponyta:- 'Is it that hard to fix ? It has been days or maybe a week '
+Saturn:- 'it is hard if you have totally lost interest in the app'
+🤖 Mecha Nurse 💉:- it probably isn't very hard to fix, no.\n
+Saturn:- 'its not like that is the only thing that has broke and not been fixed'
+Blue:- 'Hamtaro, the karmic wonder, has arrived ·ᴗ·'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue whos here'
+Blue:- I can see 'Earth Ponyta', '✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧', '🤖 Mecha Nurse 💉', 'Saturn' and 1 person lurking :p
+Saturn:- 'its like the latest of a longgggg list'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'blue whos idle '
+Blue:- I can see 'Aqua' lurking
+Saturn:- 'hi ham'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'hi'
+Saturn:- 'welcome to WFAF'
+Saturn:- 'we are here'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'excuse me '
+Saturn:- 'not sure Aqua is very here'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'ms. nurse..'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'im sick ;-;'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'i need halp.'
+Saturn:- 'oh dear'
+Saturn:- 'what are your symptoms'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'ms. nurseeeee'
+Blue:- Hi, Tan Golem, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'T-T'
+Saturn:- 'is a bit busy'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'where is nurse ;-;'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'ugh'
+✧･ﾟ*✧* 𝒉𝒂𝒎 *✧*･ﾟ✧:- 'UnU'
+Saturn:- 'looking after new arrivals'
+🤖 Mecha Nurse 💉:- I'm.. not that kind of nurse?\n
+Saturn:- 'maybe you join the queue'
+Saturn:- 'aha'
+Saturn:- 'no point joining the queue'
+Saturn:- 'try some medicine, Ham :)'
+Saturn:- 'or rest, food, exercise :)'
+Blue:- Hi, Tan Golem, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Tan Golem:- '?'
+Saturn:- 'hi tan golem'
+Blue:- Hi again, Tan Golem, try asking 'what is wfaf' for more info :D 
+Saturn:- 'what is your question?'
+Saturn:- 'hi again an golem'
+Saturn:- 'what is your question?'
+Saturn:- '!u'
+Tan Golem:- 'nothing'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c', 'Tan Golem\u202c\u202c', and maybe some lurkers.
+Saturn:- 'ok then'
+Saturn:- 'all sorted Tan Golem'
+Saturn:- 'welcome to WFAF'
+Saturn:- 'how are you?'
+Tan Golem:- 'i want qween'
+Saturn:- 'qwwn no here sorry'
+Saturn:- 'maybe qweeen accept you later'
+Saturn:- 'or maybe not'
+Saturn:- 'is a wait and see in effect'
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Saturn\u202c\u202c', 'Blue\u202c\u202c', and maybe some lurkers.
+🤖 Mecha Nurse 💉:- today's the deadline to pay Q3 estimated taxes in the US. fun times.\n
+Blue:- Hi, Sawing Lolipop, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Guarding Dolphin, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Guarding Dolphin, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, Pink Roll, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, CLYDE, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+CLYDE:- 'Blue whos here'
+Blue:- I can see 'CLYDE' and 2 peeps lurking :p
+CLYDE:- 'Blue whos idle'
+Blue:- I can see 'Aqua', '🤖 Mecha Nurse 💉' lurking
+Blue:- Hi, Sam, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, 🤖 Mecha Nurse 💉, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, sub m , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, 🤖 Mecha Nurse 💉, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, 🤖 Mecha Nurse 💉, try asking 'what is wfaf' for more info :D 
+Aqua:- '!uptime'
+Blue:- I've been here for 15 hours and 45 minutes
+🤖 Mecha Nurse 💉:- I've just arrived.
+Blue:- Hi, Curing Poliwrath, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Curing Poliwrath:- 'Hey'
+Curing Poliwrath:- 'How old r u'
+Blue:- Hi, 🤖 Mecha Nurse 💉, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, 🤖 Mecha Nurse 💉, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, 🤖 Mecha Nurse 💉, try asking 'what is wfaf' for more info :D 
+🤖 Mecha Nurse 💉:- 'ok, `nurse reset` and `nurse restart` do something reasonable now.\n'
+Blue:- Hi, Uranus Gungan, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Uranus Gungan:- 'hi'
+Blue:- Hi, Plying Deer, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Plying Deer:- I'm naked
+Plying Deer:- 'What about u?'
+Aqua:- 'dc'
+Plying Deer:- 'Dc means? -, -'
+Aqua:- 'dont care'
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Aqua\u202c\u202c', 'Saturn\u202c\u202c', 'Blue\u202c\u202c', 'Plying Deer\u202c\u202c', and maybe some lurkers.
+Saturn:- 'hi plying deer'
+Saturn:- 'please to get dressed'
+Saturn:- 'no shirt no pants no service WFAF this here :)'
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Curing Poliwrath, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Curing Poliwrath:- 'Venus hi'
+S​o​u​L:- '!u'
+S​o​u​L:- '!i'
+🤖 Mecha Nurse 💉:- I can see 'Aqua\u202c\u202c', 'Saturn\u202c\u202c', 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Blue\u202c\u202c', 'Curing Poliwrath\u202c\u202c', and maybe some lurkers.
+🤖 Mecha Nurse 💉:- I don't see anybody idle.
+Blue:- Hi, Drinking Wartortle, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Drinking Wartortle:- 'hiii'
+Blue:- Hi, Callum, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Callum, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Callum, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, Drinking Wartortle, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Callum:- 'Hey'
+Blue:- Hi, sub m , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- 'Hi, its Blue ^-^'
+Blue:- Hi, sub m , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Aqua:- 'blue restart'
+Blue:- 'Hi, its Blue ^-^'
+Blue:- Hi, Jupiter Hutt, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Aqua:- 'oh mai gawd'
+Aqua:- 'that was like 2 lines'
+Aqua:- 'waw'
+Aqua:- 'blue reset'
+Blue:- 'Hi, its Blue ^-^'
+Blue:- Hi, Jupiter Hutt, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, sub m , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, STR-3 𝔸𝕝𝕚, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+[STR-3] 𝔸𝕝𝕚:- 'Blue whos here '
+Blue:- I can see 'STR-3 𝔸𝕝𝕚' and no lurkers :p
+Blue:- Hi, Callum, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+[STR-3] 𝔸𝕝𝕚:- 'o'
+[STR-3] 𝔸𝕝𝕚:- 'bye blue'
+[STR-3] 𝔸𝕝𝕚:- 'and'
+[STR-3] 𝔸𝕝𝕚:- 'Thanks blue'
+Blue:- You're welcome :D
+Aqua:- 'blue uptime'
+Blue:- I've been here for only 2 minutes
+Blue:- Hi, Earnie, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Earnie, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Opiate the Nerd , Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Opiate the Nerd :- 'Hello'
+Opiate the Nerd :- 'Blue who’s here'
+Blue:- I can see 'Opiate the Nerd ', 'Aqua' and no lurkers :p
+Opiate the Nerd :- 'Ohh'
+Aqua:- 'hello opiate'
+Opiate the Nerd :- 'Hi Aqua'
+Blue:- 'Your friendly neighbourhood Saturn is here! *~~.'
+Opiate the Nerd :- 'Hello Saturn'
+Saturn:- 'Hi Opiate :)'
+Blue:- Hi, A, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Saturn:- 'you matching with Bue today :)'
+Saturn:- '!u'
+🤖 Mecha Nurse 💉:- I can see 'Aqua\u202c\u202c', 'Saturn\u202c\u202c', 'A\u202c\u202c' (#aaaaaaaaaaaaa), 'Blue\u202c\u202c', 'Opiate the Nerd \u202c\u202c', and maybe some lurkers.
+Saturn:- 'hi too many as'
+A:- 'hi'
+Saturn:- 'welcome to WFAF'
+Opiate the Nerd :- 'Hello A'
+Saturn:- 'so many aaas'
+Saturn:- 'how are you, Aaa?'
+Blue:- Hi, Opiate the Nerd , retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi, Callum, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, Callum, try asking 'what is wfaf' for more info :D 
+Callum:- 'Hey'
+Blue:- Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+S​o​u​L:- '!u'
+S​o​u​L:- '!i'
+🤖 Mecha Nurse 💉:- I can see 'S\u200bo\u200bu\u200bL\u202c\u202c', 'Blue\u202c\u202c'. Also 1 person is idle, and there may be lurkers.
+🤖 Mecha Nurse 💉:- I think 'Aqua\u202c\u202c' is idle.
+Blue:- Hi, Im going platinum, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, Mercury Kaminoan, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- 'Hi, its Blue ^-^'
+Aqua:- 'blue uptime'
