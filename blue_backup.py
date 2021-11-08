@@ -98,7 +98,7 @@ jok = re.compile(r"""blue (tell me a )?joke\s*""", re.I)
 no = re.compile(r"""blue (no|enforce)\s*""", re.I)
 dni = re.compile(r"""blue (dni|do not interact)\s*""", re.I)
 bored = re.compile(r"""(blue )?im bored\s*""", re.I)
-
+dying = re.compile(r"""(blue )?im dying\s*""", re.I)
 enable_greets = re.compile(r"""blue enable greets\s*""", re.I)
 disable_greets = re.compile(r"""blue disable greets\s*""", re.I)
 self_destruct = re.compile(r"""(blue self destruct)|(blue die)|(blue kys)\s*""", re.I)
@@ -180,6 +180,7 @@ response_dict = {
     howdy : howdy_r,
     no : no_r,
     dni : dni_r,
+    dying : dying_r,
 
     coffee : coffee_r,
     milk : milk_r,
