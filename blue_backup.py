@@ -43,7 +43,8 @@ greet_timeout = {}
 chat_status = True
 stats_list = set()
 stats = []
-custom_greet_id = {"16986137":"The river of life bubbles when Aqua comes near~ ",
+custom_greet_id = {
+    #"16986137":"The river of life bubbles when Aqua comes near~ ",
     "21550262" : "Hi, its Blue ^-^",
     "21388579":"Sir This recruit tactically acquired the fig bars sir~",
     "20835136":"Testing, testing, Wan, two, three! ",
