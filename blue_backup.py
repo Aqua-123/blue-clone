@@ -128,7 +128,9 @@ im_bored_list=[
     "How about watching a movie? or binging a tv series? (dont ask for suggestions :> I just stare at binary numbers 24/7)",
     "Sleep",
     "You could go to 1v1 and find someone to talk to? (this is one of the worst advices ive given but yea its a viable option)",
-    "Same :)"
+    "Same :)",
+    "Ahhhh who isnt",
+    "Sameee ~high five~"
 ]
 
 coffee_r = "☕" 
