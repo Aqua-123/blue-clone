@@ -111,6 +111,7 @@ get_mute = re.compile(r"""(blue get mutelist)|(blue fetch mutelist)\s*""", re.I)
 get_timeout_control = re.compile(r"""(blue get timeout_control)|(blue fetch timeout_control)\s*""", re.I)
 restart_s = re.compile(r"""((blue|blew) restart)|((blue|blew) reset)\s*""", re.I)
 hide = re.compile(r"""blue help me hide\s*""", re.I)
+ily = re.compile(r"""blue (ily)|(i love you)\s*""", re.I)
 
 coffee = re.compile(r"""blue serve (coffee|1|caffee)\s*""", re.I)
 milk = re.compile(r"""blue serve (milk|2)\s*""", re.I)
@@ -160,6 +161,7 @@ uwu_r = "UwU"
 howdy_r = "hewwos"
 no_r = "Kindly be nice and keep this family-friendly while you are here, else the wfaf door is always open for you to leave, thanks"
 dni_r = "We are not interested, thanks no thanks"
+ily_r = "I love you even moreeee"
 response_dict = {
     tldr : tldr_r,
     high_five : high_five_r,
@@ -392,7 +394,8 @@ while running == True :
             get_mute,
             get_timeout_control,
             restart_s,
-            hide
+            hide,
+            ily
         ]
         if ("identifier" in a.keys()) and ("message" in a.keys()) :    
             b = a["message"]
@@ -472,6 +475,8 @@ while running == True :
                                         list_main.remove(name)
                                     response = "Ahem, aye aye"
                                     send_message(response)
+                                if i == 11 :
+                                    send_message(ily_r)
 
 
                     elif id in mod:
