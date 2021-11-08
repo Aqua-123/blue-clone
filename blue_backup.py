@@ -132,7 +132,9 @@ im_bored_list=[
     "You could go to 1v1 and find someone to talk to? (this is one of the worst advices ive given but yea its a viable option)",
     "Same :)",
     "Ahhhh who isnt",
-    "Sameee ~high five~"
+    "Sameee ~high five~",
+    "Ive heard star gazing is lovely, give that a try",
+    "Spread love :>"
 ]
 
 coffee_r = "☕" 
