@@ -62,7 +62,8 @@ custom_greet_id = {"16986137":"The river of life bubbles when Aqua comes near~ "
     "21848509":"Megumin⁩, the arch-wizard magically appears out of thin air 🧙",
     "19259507" : "Greetings cathy cath ~*",
     "20073491" : "Greetings, your highness *bows*",
-    "20909261" : "Mecha nurse is here, everyone get ready for your shots 💉 💊 "
+    "20909261" : "Mecha nurse is here, everyone get ready for your shots 💉 💊 ",
+    "22466125" : "Welcome lovely person :>"
 }
 whohere_t = 0
 starttime = time.time()
@@ -96,6 +97,7 @@ uwu = re.compile(r"""(uwu\s*)|(blue cultural reset\s*)""", re.I)
 jok = re.compile(r"""blue (tell me a )?joke\s*""", re.I)
 no = re.compile(r"""blue (no|enforce)\s*""", re.I)
 dni = re.compile(r"""blue (dni|do not interact)\s*""", re.I)
+bored = re.compile(r"""(blue )?im bored\s*""", re.I)
 
 enable_greets = re.compile(r"""blue enable greets\s*""", re.I)
 disable_greets = re.compile(r"""blue disable greets\s*""", re.I)
@@ -115,6 +117,19 @@ milk = re.compile(r"""blue serve (milk|2)\s*""", re.I)
 water = re.compile(r"""blue serve (water|3)\s*""", re.I)
 cookiess = re.compile(r"""blue serve (cookies and milk|a|cookies n milk)\s*""", re.I)
 ppizza = re.compile(r"""blue serve (pineapple pizza|b)\s*""", re.I)
+
+im_bored_list=[
+    "How about, dance :D",
+    "Hmmm maybe sing a song?",
+    "Study... maybe... instead of procrastinating heh",
+    "Well.... have you been outside lately? How about go for a walk? (if its not an unreasonable time)",
+    "I would love to play with you to make you feel less bored but.... Aqua hasnt programmed it yet ;-;",
+    "Youtube dot com hehe, best place to cure boredom",
+    "How about watching a movie? or binging a tv series? (dont ask for suggestions :> I just stare at binary numbers 24/7)",
+    "Sleep",
+    "You could go to 1v1 and find someone to talk to? (this is one of the worst advices ive given but yea its a viable option)",
+    "Same :)"
+]
 
 coffee_r = "☕" 
 milk_r = "🥛"
@@ -313,6 +328,7 @@ while running == True :
             list_main.remove("Blue")
         if "Blue" in list(timeout_control.keys()):
             del timeout_control["Blue"]
+        bored_int = random.randint(0,9)
         idle_function()
         t_start = time.perf_counter()
         r = requests.get("https://icanhazdadjoke.com/slack")
@@ -357,7 +373,8 @@ while running == True :
             whos_here : whos_here_r,
             whos_idle : whos_idle_r,
             jok : joke,
-            quote : response3
+            quote : response3,
+            bored : im_bored_list[bored_int]
         }
         log()
         message_reply()
