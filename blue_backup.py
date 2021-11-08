@@ -360,7 +360,13 @@ while running == True :
             greet("typing","add", False )
             greet("user_disconnected", "remove", False)
             greet("messages", "add" , False)
-
+        url = 'https://api.quotable.io/random'
+        r = requests.get(url)
+        q = r.json()
+        response1 = q['content']
+        response2 = (q['author'])
+        response3 = " -" + str(response2)
+response3 = response1 + response3
         if len(idle_main) == 0:
             whos_here_r = "I can see " +str(list_main)+" and no lurkers :p"
             whos_idle_r = "I can see no lurkers as of now"
