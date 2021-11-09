@@ -64,7 +64,7 @@ custom_greet_id = {
     "19259507" : "Greetings cathy cath ~*",
     "20073491" : "Greetings, your highness *bows*",
     "20909261" : "Mecha nurse is here, everyone get ready for your shots 💉 💊 ",
-    "22466125" : "Welcome lovely person :>"
+    "22466125" : "Welcome lovely person <3"
 }
 whohere_t = 0
 starttime = time.time()
