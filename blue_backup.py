@@ -64,7 +64,8 @@ custom_greet_id = {
     "19259507" : "Greetings cathy cath ~*",
     "20073491" : "Greetings, your highness *bows*",
     "20909261" : "Mecha nurse is here, everyone get ready for your shots 💉 💊 ",
-    "22466125" : "Welcome lovely person <3"
+    "22466125" : "Welcome lovely person <3",
+    "21842289" : "As dusk appears, darkness takes over the sky... before the last trace of light is gona"
 }
 whohere_t = 0
 starttime = time.time()
@@ -602,7 +603,7 @@ while running == True :
                                             j= j+1
                                         responses = "Sending pats to " + name+" *pat pat*"
                                         send_message(responses)
-
+    
                     j = b["user"]
                     if "id" in j.keys() :
                         id = j["id"]
