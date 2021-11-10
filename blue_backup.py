@@ -113,7 +113,7 @@ get_timeout_control = re.compile(r"""(blue get timeout_control)|(blue fetch time
 restart_s = re.compile(r"""((blue|blew) restart)|((blue|blew) reset)\s*""", re.I)
 hide = re.compile(r"""blue help me hide\s*""", re.I)
 ily = re.compile(r"""blue (ily)|(i love you)\s*""", re.I)
-hide = re.compile(r"""blue send love\s*""", re.I)
+love = re.compile(r"""blue send love\s*""", re.I)
 
 coffee = re.compile(r"""blue serve (coffee|1|caffee)\s*""", re.I)
 milk = re.compile(r"""blue serve (milk|2)\s*""", re.I)
