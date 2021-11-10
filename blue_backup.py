@@ -336,7 +336,6 @@ while running == True :
             list_main.remove("Blue")
         if "Blue" in list(timeout_control.keys()):
             del timeout_control["Blue"]
-        bored_int = random.randint(0,len(im_bored_list))
         idle_function()
         t_start = time.perf_counter()
         r = requests.get("https://icanhazdadjoke.com/slack")
@@ -388,7 +387,7 @@ while running == True :
             whos_idle : whos_idle_r,
             jok : joke,
             quote : response3,
-            bored : im_bored_list[bored_int]
+            bored : im_bored_list[random.randint(0,len(im_bored_list))]
         }
         log()
         message_reply()
