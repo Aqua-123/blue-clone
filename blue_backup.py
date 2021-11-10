@@ -113,6 +113,7 @@ get_timeout_control = re.compile(r"""(blue get timeout_control)|(blue fetch time
 restart_s = re.compile(r"""((blue|blew) restart)|((blue|blew) reset)\s*""", re.I)
 hide = re.compile(r"""blue help me hide\s*""", re.I)
 ily = re.compile(r"""blue (ily)|(i love you)\s*""", re.I)
+love = re.compile(r"""bue send love\s*"""), re.I
 
 coffee = re.compile(r"""blue serve (coffee|1|caffee)\s*""", re.I)
 milk = re.compile(r"""blue serve (milk|2)\s*""", re.I)
@@ -165,6 +166,7 @@ howdy_r = "hewwos"
 no_r = "Kindly be nice and keep this family-friendly while you are here, else the wfaf door is always open for you to leave, thanks"
 dni_r = "We are not interested, thanks no thanks"
 ily_r = "I love you even moreeee"
+love_r = "Hey wonderful person, you are amazing and deserve everything you desire and love. Hope the best for you. You have all my love and wishes. Much love ~ Blue :>"
 response_dict = {
     tldr : tldr_r,
     high_five : high_five_r,
@@ -186,6 +188,7 @@ response_dict = {
     no : no_r,
     dni : dni_r,
     dying : dying_r,
+    love : love_r,
 
     coffee : coffee_r,
     milk : milk_r,
