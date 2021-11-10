@@ -336,7 +336,7 @@ while running == True :
             list_main.remove("Blue")
         if "Blue" in list(timeout_control.keys()):
             del timeout_control["Blue"]
-        bored_int = random.randint(0,9)
+        bored_int = random.randint(0,len(im_bored_list))
         idle_function()
         t_start = time.perf_counter()
         r = requests.get("https://icanhazdadjoke.com/slack")
