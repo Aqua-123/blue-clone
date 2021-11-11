@@ -65,7 +65,7 @@ custom_greet_id = {
     "20073491" : "Greetings, your highness *bows*",
     "20909261" : "Mecha nurse is here, everyone get ready for your shots 💉 💊 ",
     "22466125" : "Welcome lovely person <3",
-    "21842289" : "As dusk appears, darkness takes over the sky... before the last trace of light is gona"
+    "21842289" : "As dusk appears, darkness takes over the sky... before the last trace of light is gone"
 }
 whohere_t = 0
 starttime = time.time()
