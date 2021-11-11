@@ -53,7 +53,7 @@ custom_greet_id = {
     "18695559" : "Your friendly neighbourhood Saturn is here! *~~.",
     "18274541":"A buzzy Bee enters the hive! 🐝 ~~.*~",
    # "18491422" : "Shhhh... The one and only drama queen cat is here *meow* ",
-    "18491422" : "And the hot cat arrives on the stage, ladies and germs",
+    "18491422" : "And the hot cat arrives in the cage, ladies and germs",
     "18560513" : "SCP-1689 would make for a lot of ... Chipz. ~*",
     "17248098":"The darker the night, the brighter the stars... ~*",
     "20909209" : "A dude? B dude? what dude? which dude? what is A? what is dude? who am i? what is wfaf..... x-x",
