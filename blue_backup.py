@@ -336,6 +336,7 @@ response3 = " -" + str(response2)
 response3 = response1 + response3
 while running == True :
     try:
+        print("lit")
         if "Blue" in list_main:
             list_main.remove("Blue")
         if "Blue" in idle_main:
