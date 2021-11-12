@@ -13,6 +13,14 @@ import sys
 from time import gmtime, strftime
 today = date.today()
 
+bot = ChatBot(
+    'Blue',
+    storage_adapter='chatterbot.storage.SQLStorageAdapter',
+    logic_adapters=[
+        "chatterbot.logic.BestMatch"],
+    database_uri='sqlite:///database.sqlite4'
+)
+
 
 connect_json= {"command":"subscribe","identifier":"{\"channel\":\"RoomChannel\",\"room_id\":null}"}
 websocket.enableTrace(True)
@@ -37,7 +45,7 @@ replace_txts = []
 connection = True
 list_main = set()
 idle_main = set()
-admin = ["18695559","16986137","16521287","21842289"]
+admin = ["18695559","16986137","16521287"]
 mod = ["14496406","21847694","20327398","20909209","21964175"]
 greet_timeout = {}
 chat_status = True
@@ -53,7 +61,6 @@ custom_greet_id = {
     "18695559" : "Your friendly neighbourhood Saturn is here! *~~.",
     "18274541":"A buzzy Bee enters the hive! 🐝 ~~.*~",
     "18491422" : "Shhhh... The one and only drama queen cat is here *meow* ",
-   # "18491422" : "And the hot cat arrives in the cage, ladies and germs",
     "18560513" : "SCP-1689 would make for a lot of ... Chipz. ~*",
     "17248098":"The darker the night, the brighter the stars... ~*",
     "20909209" : "A dude? B dude? what dude? which dude? what is A? what is dude? who am i? what is wfaf..... x-x",
@@ -66,7 +73,7 @@ custom_greet_id = {
     "20073491" : "Greetings, your highness *bows*",
     "20909261" : "Mecha nurse is here, everyone get ready for your shots 💉 💊 ",
     "22466125" : "Welcome lovely person <3",
-    "21842289" : "As dusk appears, darkness takes over the sky... before the last trace of light is gone"
+    "21842289" : "As dusk appears, darkness takes over the sky... before the last trace of light is gona"
 }
 whohere_t = 0
 starttime = time.time()
@@ -83,7 +90,7 @@ dab = re.compile(r"""blue dab\s*""", re.I)
 #hate_myself1 = re.compile(r"""(blue (i hate myself)|(no one likes me))|((i hate myself)|(no one likes me))\s*""", re.I)
 hate_myself1 = re.compile(r"""(blue )?(i hate myself)|(no one likes me)\s*""", re.I)
 
-thanks = re.compile(r"""((thanks|thx|thenks|thonks|thank you|thunks) blue\s*)|(blue (thanks|thx|thenks|thonks|thank you|thunks)\s*)""", re.I)
+thanks = re.compile(r"""((thanks|thx|thenks|thonks|thank you) blue\s*)|(blue (thanks|thx|thenks|thonks|thank you)\s*)""", re.I)
 smile = re.compile(r""":>\s*""", re.I)
 hey1 = re.compile(r"""hi blue\s*""", re.I)
 kill = re.compile(r"""blue (kill|shoot|murder) me\s*""", re.I)
@@ -367,6 +374,13 @@ while running == True :
             greet("typing","add", False )
             greet("user_disconnected", "remove", False)
             greet("messages", "add" , False)
+        url = 'https://api.quotable.io/random'
+        r = requests.get(url)
+        q = r.json()
+        response1 = q['content']
+        response2 = (q['author'])
+        response3 = " -" + str(response2)
+        response3 = response1 + response3
         if len(idle_main) == 0:
             whos_here_r = "I can see " +str(list_main)+" and no lurkers :p"
             whos_idle_r = "I can see no lurkers as of now"
@@ -597,6 +611,17 @@ while running == True :
                                             j= j+1
                                         responses = "Sending pats to " + name+" *pat pat*"
                                         send_message(responses)
+                                    elif (array [2]== "love") and (array[3] == "to"):
+                                        new_arr = []
+                                        for i in range(4,len(array)):
+                                            new_arr.append(array[i])
+                                        name = ""
+                                        for j in range (0,len(new_arr)):
+                                            name = name + new_arr[j] + " "
+                                            j= j+1
+                                        responses = "Sending lotsa love and hugs to " + name+" ❤️❤️"
+                                        send_message(responses)
+                                        
     
                     j = b["user"]
                     if "id" in j.keys() :
