@@ -13,13 +13,6 @@ import sys
 from time import gmtime, strftime
 today = date.today()
 
-bot = ChatBot(
-    'Blue',
-    storage_adapter='chatterbot.storage.SQLStorageAdapter',
-    logic_adapters=[
-        "chatterbot.logic.BestMatch"],
-    database_uri='sqlite:///database.sqlite4'
-)
 
 
 connect_json= {"command":"subscribe","identifier":"{\"channel\":\"RoomChannel\",\"room_id\":null}"}
