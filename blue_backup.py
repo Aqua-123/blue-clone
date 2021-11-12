@@ -190,7 +190,7 @@ response_dict = {
     no : no_r,
     dni : dni_r,
     dying : dying_r,
-    love : love_r,
+
 
     coffee : coffee_r,
     milk : milk_r,
@@ -558,7 +558,7 @@ while running == True :
                             message = message.replace(c,"")
                         message = message.replace("'", "")
                         array = message.split()
-                        if ((array[0] == "blue") or (array[0] == "Blue")) and (len(array) >2):
+                        if ((array[0] == "blue") or (array[0] == "Blue")) and (len(array) >=2):
                             if (array[1] == "add") and ((array [3] == "coins") or (array[3] == "coin") or (array[4] == "coins") or (array[4] == "coin")):
                                 num = array[2]
                                 if num.isdigit():
@@ -604,17 +604,19 @@ while running == True :
                                             j= j+1
                                         responses = "Sending pats to " + name+" *pat pat*"
                                         send_message(responses)
-                                    elif (array [2]== "love") and (array[3] == "to"):
-                                        new_arr = []
-                                        for i in range(4,len(array)):
-                                            new_arr.append(array[i])
-                                        name = ""
-                                        for j in range (0,len(new_arr)):
-                                            name = name + new_arr[j] + " "
-                                            j= j+1
-                                        responses = "Sending lotsa love and hugs to " + name+" ❤️❤️"
-                                        send_message(responses)
-                                        
+                                    elif (array [2]== "love"):
+                                        if  (array[3] == "to"):
+                                            new_arr = []
+                                            for i in range(4,len(array)):
+                                                new_arr.append(array[i])
+                                            name = ""
+                                            for j in range (0,len(new_arr)):
+                                                name = name + new_arr[j] + " "
+                                                j= j+1
+                                            responses = "Sending lotsa love and hugs to " + name+" ❤️❤️"
+                                            send_message(responses)
+                                        else :
+                                            send_message(love_r)
     
                     j = b["user"]
                     if "id" in j.keys() :
