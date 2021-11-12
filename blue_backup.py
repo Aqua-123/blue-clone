@@ -83,7 +83,7 @@ dab = re.compile(r"""blue dab\s*""", re.I)
 #hate_myself1 = re.compile(r"""(blue (i hate myself)|(no one likes me))|((i hate myself)|(no one likes me))\s*""", re.I)
 hate_myself1 = re.compile(r"""(blue )?(i hate myself)|(no one likes me)\s*""", re.I)
 
-thanks = re.compile(r"""((thanks|thx|thenks|thonks|thank you) blue\s*)|(blue (thanks|thx|thenks|thonks|thank you)\s*)""", re.I)
+thanks = re.compile(r"""((thanks|thx|thenks|thonks|thank you|thunks) blue\s*)|(blue (thanks|thx|thenks|thonks|thank you|thunks)\s*)""", re.I)
 smile = re.compile(r""":>\s*""", re.I)
 hey1 = re.compile(r"""hi blue\s*""", re.I)
 kill = re.compile(r"""blue (kill|shoot|murder) me\s*""", re.I)
