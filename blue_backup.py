@@ -336,7 +336,6 @@ response3 = " -" + str(response2)
 response3 = response1 + response3
 while running == True :
     try:
-        print("lit")
         if "Blue" in list_main:
             list_main.remove("Blue")
         if "Blue" in idle_main:
@@ -348,9 +347,7 @@ while running == True :
         r = requests.get("https://icanhazdadjoke.com/slack")
         joke = r.text
         joke = json.loads(joke)
-        joke = joke["attachments"]
-        joke = joke[0]
-        joke = joke["text"]
+        joke = joke["attachments"][0]["text"]
         reset_clock = reset_clock + 1 
         if reset_clock == 500:
             greet_timeout = {}
@@ -369,13 +366,6 @@ while running == True :
             greet("typing","add", False )
             greet("user_disconnected", "remove", False)
             greet("messages", "add" , False)
-        url = 'https://api.quotable.io/random'
-        r = requests.get(url)
-        q = r.json()
-        response1 = q['content']
-        response2 = (q['author'])
-        response3 = " -" + str(response2)
-        response3 = response1 + response3
         if len(idle_main) == 0:
             whos_here_r = "I can see " +str(list_main)+" and no lurkers :p"
             whos_idle_r = "I can see no lurkers as of now"
@@ -687,6 +677,4 @@ while running == True :
     except IndexError:
         pass
     except KeyError :
-        pass
-    except :
         pass
