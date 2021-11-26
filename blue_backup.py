@@ -619,6 +619,7 @@ while running == True :
 																														name = name + new_arr[j] + " "
 																														j= j+1
 																													response = "*bonks "+name  +" with a baseball bat~*"
+																													send_message(response)
 																				j = b["user"]
 																				if "id" in j.keys() :
 																								id = j["id"]
