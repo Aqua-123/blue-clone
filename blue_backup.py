@@ -602,14 +602,14 @@ while running == True :
                                     elif (array [2]== "love"):
                                         if  (array[3] == "to"):
 											new_arr = []
-                                            for i in range(4,len(array)):
-                                                new_arr.append(array[i])
-                                            name = ""
-                                            for j in range (0,len(new_arr)):
-                                                name = name + new_arr[j] + " "
-                                                j= j+1
-                                            responses = "Sending lotsa love and hugs to " + name+" ❤️❤️"
-                                            send_message(responses)
+											for i in range(4,len(array)):
+												new_arr.append(array[i])
+											name = ""
+											for j in range (0,len(new_arr)):
+												name = name + new_arr[j] + " "
+												j= j+1
+											responses = "Sending lotsa love and hugs to " + name+" ❤️❤️"
+											send_message(responses)
                             elif (array[1]== "bonk"):
 								new_arr = []
 									for i in range(2,len(array)):
