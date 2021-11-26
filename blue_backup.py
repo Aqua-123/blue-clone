@@ -610,7 +610,7 @@ while running == True :
                                                 j= j+1
                                             responses = "Sending lotsa love and hugs to " + name+" ❤️❤️"
                                             send_message(responses)
-                            elif: (array[1]== "bonk"):
+                            elif (array[1]== "bonk"):
 								 new_arr = []
 									for i in range(2,len(array)):
 										new_arr.append(array[i])
