@@ -1,0 +1,35 @@
+Blue:- 'Hi, its Blue ^-^'
+Blue:- 'Hi, its Blue ^-^'
+Fx:- 'blue uptime'
+Blue:- I've been here for 10 hours and 46 minutes
+Fx:- 'blue whos here'
+Blue:- I can see 'Fx' and 1 person lurking :p
+Blue:- 'I just joined -w-'
+Blue:- 'Hi, its Blue ^-^'
+Blue:- 'Hi, its Blue ^-^'
+Fx:- 'blue whos here'
+Blue:- I can see 'Fx' and 1 person lurking :p
+Blue:- 'I can see no lurkers as of now'
+Fx:- 'blue whos idle'
+Blue:- I can see '🤖 Mecha Nurse 💉' lurking
+Blue:- 'I can see no lurkers as of now'
+Blue:- 'Hi, its Blue ^-^'
+Blue:- 'Hi, its Blue ^-^'
+Fx:- 'blue whos here'
+Blue:- I can see 'Fx' and 1 person lurking :p
+Blue:- I can see 'Fx' and no lurkers :p
+Fx:- 'blue whos idle'
+Blue:- I can see '🤖 Mecha Nurse 💉' lurking
+Blue:- I can see 'Fx' and no lurkers :p
+Fx:- 'blue whos here'
+Blue:- I can see 'Fx' and 1 person lurking :p
+Blue:- I can see 'Fx' and no lurkers :p
+Fx:- 'blue whos idle'
+Blue:- I can see 'Fx' and no lurkers :p
+Blue:- Hi, KING BLUE, Welcome to WFAF, which stands for Waiting For A Friend, Let's keep it family-friendly, Enjoy your stay :D 
+Blue:- Hi, KING BLUE, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- Hi again, KING BLUE, try asking 'what is wfaf' for more info :D 
+Blue:- Hi, KING BLUE, retrying won't help, you can try asking 'what is wfaf' for more info :D
+Blue:- 'Hi, its Blue ^-^'
+Blue:- 'Hi, its Blue ^-^'
+Fx:- 'blue whos idle'
