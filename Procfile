@@ -1,1 +1,1 @@
-worker: python blue_backup.py
+worker: python Blue.py
