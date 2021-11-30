@@ -600,14 +600,14 @@ def send_feelings(action,array):
     for j in range(0, len(new_arr)):
         name = name + new_arr[j] + " "
         j = j+1
+    
     if action == "hugs":
-        respons = "Sending hugs to "+name + \
-        " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
+        respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
         return respons
     elif action == "pats":
         respons = "Sending pats to " + name+" *pat pat*"
         return respons
-    elif action == "hugs":
+    elif action == "love":
         respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
         return respons
     
