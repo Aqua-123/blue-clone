@@ -601,13 +601,13 @@ def send_feelings(action,array):
         name = name + new_arr[j] + " "
         j = j+1
     if action == "hugs":
-        responses = "Sending hugs to "+name + \
+        respons = "Sending hugs to "+name + \
         " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
     elif action == "pats":
-        responses = "Sending pats to " + name+" *pat pat*"
+        respons = "Sending pats to " + name+" *pat pat*"
     elif action == "hugs":
-        responses = "Sending lotsa love and hugs to " + name+" ❤️❤️"
-    return responses
+        respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
+    return respons
     
 """Connect blue to whatever"""
 websocket.enableTrace(False)
