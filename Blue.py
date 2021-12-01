@@ -773,9 +773,3 @@ while running == True:
             if ws.connected == False:
                 time.sleep(1)
                 continue
-    except ValueError:
-        pass
-    except IndexError:
-        pass
-    except KeyError:
-        pass
