@@ -152,6 +152,7 @@ restart_s = re.compile(r"""((blue|blew) restart|reset)\s*""", re.I)
 hide = re.compile(r"""blue help me hide\s*""", re.I)
 ily = re.compile(r"""blue (ily)|(i love you)\s*""", re.I)
 love = re.compile(r"""blue gift love\s*""", re.I)
+dice = re.compile(r"""blue roll a dice\s*""", re.I)
 
 # Menu Items
 coffee = re.compile(r"""blue serve (coffee|1|caffee)\s*""", re.I)
@@ -631,6 +632,7 @@ while running == True:
         if reset_clock == 500:
             greet_timeout = {}
             reset_clock = 0
+        dice_r = "Your number is...." + str(random.randint(1.6))
         server_reply = (ws.recv())
         a = json.loads(server_reply)
         if ("identifier" in a.keys()) and ("message" in a.keys()):
@@ -665,7 +667,8 @@ while running == True:
             whos_idle: whos_idle_r,
             jok: get_joke(),
             quote: quote_r,
-            bored: im_bored_list[random.randint(0, len(im_bored_list)-1)]
+            bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
+            dice: dice_r
         }
         message_reply()
         if ("identifier" in a.keys()) and ("message" in a.keys()):
