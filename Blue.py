@@ -342,7 +342,8 @@ def greet(action, result, greet):
                 stats_list.add(name)
                 stats.append(name)
             elif (result == "remove"):
-                del timeout_control[name]
+                if name in timeout_control.keys():
+                    del timeout_control[name]
                 if name in idle_main:
                     idle_main.remove(name)
                 elif name in list_main:
