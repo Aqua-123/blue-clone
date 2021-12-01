@@ -665,7 +665,7 @@ while running == True:
             whos_idle: whos_idle_r,
             jok: get_joke(),
             quote: quote_r,
-            bored: im_bored_list[random.randint(0, len(im_bored_list))]
+            bored: im_bored_list[random.randint(0, len(im_bored_list)-1)]
         }
         message_reply()
         if ("identifier" in a.keys()) and ("message" in a.keys()):
