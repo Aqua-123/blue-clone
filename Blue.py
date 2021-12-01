@@ -632,7 +632,7 @@ while running == True:
         if reset_clock == 500:
             greet_timeout = {}
             reset_clock = 0
-        dice_r = "Your number is...." + str(random.randint(1.6))
+        dice_r = "Your number is...." + str(random.randint(1,6))
         server_reply = (ws.recv())
         a = json.loads(server_reply)
         if ("identifier" in a.keys()) and ("message" in a.keys()):
