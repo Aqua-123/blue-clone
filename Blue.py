@@ -781,3 +781,7 @@ while running == True:
                 continue
     except JSONDecodeError:
         pass
+    except KeyError:
+        pass
+    except ValueError:
+        pass
