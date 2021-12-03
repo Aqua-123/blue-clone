@@ -785,3 +785,5 @@ while running == True:
         pass
     except ValueError:
         pass
+    except IndexError:
+        pass
