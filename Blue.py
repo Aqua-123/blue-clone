@@ -779,7 +779,7 @@ while running == True:
             if ws.connected == False:
                 time.sleep(1)
                 continue
-    except JSONDecodeError:
+    except json.JSONDecodeError:
         pass
     except KeyError:
         pass
