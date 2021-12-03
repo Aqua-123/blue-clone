@@ -113,7 +113,7 @@ im_bored_list = [
 hey1 = re.compile(r"""hi blue\s*""", re.I)
 howdy = re.compile(r"""howdy Blue\??\s*""", re.I)
 whos_here = re.compile(
-    r"""(blue who'?’?s here\??)|(blue das crazy\??|(yzarc sad eubl)|(blue who is all here)|(blue who all are there here\??)\s*)""", re.I)
+    r"""(blue who'?’?s here\??)|(blue das crazy\??|(yzarc sad eubl)|(blue who is all here)|(blue who all are there here\??)|(blue where the hoes at\??)\s*)""", re.I)
 whos_here = whos_here
 whos_idle = re.compile(
     r"""(blue who'?’?s idle\??\s*)|(blue who is all idle\s*)|(blue who is all lurking\s*)|(blue who'?’?s lurking\??\s*)""", re.I)
