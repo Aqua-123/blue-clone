@@ -780,10 +780,14 @@ while running == True:
                 time.sleep(1)
                 continue
     except json.JSONDecodeError:
-        pass
+		print("Json error")
+        continue
     except KeyError:
-        pass
+		print("key error")
+        continue
     except ValueError:
-        pass
+		print("value error")
+        continue
     except IndexError:
-        pass
+		print("index error")
+        continue
