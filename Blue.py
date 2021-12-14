@@ -489,6 +489,7 @@ def admin_func(message,id,admin):
         re_n = admin_commands[i]
         result = re_n.match(message)
         if bool(result) == True:
+            global greet_status
             if i == 0 :
                 greet_status = True
                 response = "Okai done ^-^"
