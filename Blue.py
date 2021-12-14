@@ -65,6 +65,7 @@ reset_clock = 0  # reset greet timeout
 starttime = time.time()  # Script start timestamp
 t = datetime.datetime.now()  # Current date time
 today = date.today()
+greet_status = True
 # Custom greets
 custom_greet_id = {
     "16986137": "The river of life bubbles when Aqua comes near~ ",
@@ -493,9 +494,14 @@ def admin_func(message,id,admin):
                 response = "Okai done ^-^"
                 send_message(response)
             elif i == 1:
-                greet_status = False
-                response = "Okai done ^-^"
-                send_message(response)
+                if greet_status == True:
+                    greet_status = False
+                    return greet_status
+                    response = "Okai done ^-^"
+                    send_message(response)
+                elif greet_status == False:
+                    response = "I'm already not greeting o.o"
+                    send_message(response)
             elif i == 2 and admin == True:
                 response = "Cya :>"
                 send_message(response)
