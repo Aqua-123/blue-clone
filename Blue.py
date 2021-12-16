@@ -295,7 +295,7 @@ def restart_program():
     os.execl(python, python, * sys.argv)
 def fix_name(name):
     for c in forbiden_chars:
-        message.replace(c,"")
+        name = name.replace(c,"")
     return name
 def send_message(content):
     """Function for sending messages
