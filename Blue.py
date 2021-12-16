@@ -45,7 +45,8 @@ forbiden_chars = [
     "\u202e",
     "'",         #Forbidden chars to be removed 
     '"',
-    "’"
+    "’",
+    "'"
 ]
 
 bracs = [
@@ -292,7 +293,10 @@ def restart_program():
     
     python = sys.executable
     os.execl(python, python, * sys.argv)
-
+def fix_name(name):
+    for c in forbiden_chars:
+        message.replace(c,"")
+    return name
 def send_message(content):
     """Function for sending messages
     with the argument of content of text"""
@@ -352,8 +356,7 @@ def greet(action, result, greet):
     if (action in b.keys()) and ("user" in b.keys()):
         user = b["user"]
         if "display_name" in user.keys():
-            for i in range(0, len(forbiden_chars)):
-                name = user["display_name"].replace(forbiden_chars[i], "")
+            name = fix_name(user["display_name"])
             if result == "add":
                 list_main.add(name)
                 timeout_control[name] = time.perf_counter()
@@ -446,9 +449,7 @@ def log():
         if ("messages" in b.keys()) and ("user" in b.keys()):
             user_arr = b["user"]
             if "display_name" in user_arr.keys():
-                name = user_arr["display_name"]
-                for i in range(0, len(forbiden_chars)):
-                    name = name.replace(forbiden_chars[i], "")
+                name = fix_name(user_arr["display_name"])
                 d4 = today.strftime("%b-%d-%Y")
                 message = str(b["messages"])
                 chars = '"[]'
@@ -485,7 +486,7 @@ def idle_function():
             if val in idle_main:
                 idle_main.remove(val)
         i = i+1
-        
+
 def remove_blue():
     """Removes blue from all lists 
     to avoid confusion with people"""
@@ -572,10 +573,7 @@ def admin_func(message,id,admin):
                 restart_program()
             elif i == 10 and admin == True:
                 if "display_name" in j.keys():
-                    name = j["display_name"]
-                    for i in range(0, len(forbiden_chars)):
-                        name = name.replace(
-                            forbiden_chars[i], "")
+                    name = fix_name(j["display_name"])
                 del timeout_control[name]
                 if name in idle_main:
                     idle_main.remove(name)
@@ -623,25 +621,25 @@ def send_feelings(array,index):
     if index == 1:
         del array [0:4]
         name = " "
-        name = name.join(array)
+        name = fix_name(name.join(array))
         respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
         send_message(respons)
     elif index == 2:
         del array [0:4]
         name = " "
-        name = name.join(array)
+        name = fix_name(name.join(array))
         espons = "Sending pats to " + name+" *pat pat*"
         send_message(respons)
     elif index == 3:
         del array [0:4]
         name = " "
-        name = name.join(array)
+        name = fix_name(name.join(array))
         respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
         send_message(respons)
     elif index == 4:
         del array [0:2]
         name = " "
-        name = name.join(array)
+        name = fix_name(name.join(array))
         respons = "*bonks "+name + " with a baseball bat~*"
         send_message(respons)
 
