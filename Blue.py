@@ -166,12 +166,20 @@ water = re.compile(r"""blue serve (water|3)\s*""", re.I)
 cookiess = re.compile(r"""blue serve (cookies and milk|a|cookies n milk)\s*""", re.I)
 ppizza = re.compile(r"""blue serve (pineapple pizza|b)\s*""", re.I)
 
+#feelings regex
+coins = re.compile(r"""blue add [0-9]*[1-9][0-9]*$ coins\s*""", re.I)
+hug = re.compile(r"""blue send hug(s)? to [^""]+\s*""", re.I)
+pat = re.compile(r"""blue send pats to [^""]+\s*""", re.I)
+loves = re.compile(r"""blue send love to [^""]+\s*""", re.I)
+bonk = re.compile(r"""blue bonk [^""]+\s*""", re.I)
+
 # Mene replies
 coffee_r = "☕"
 milk_r = "🥛"
 water_r = "🥤"
 cookies_r = "🍪 🥛 🍪"
 pineapple_pizza_r = "🍍 + 🍕"
+
 
 # Other replies
 tldr_r = (
@@ -269,7 +277,13 @@ dict_serve = {
     "pineapple pizza": "Image: [aW1hZ2UvOTc4NDI3Ni9pc3RvY2stNTM3NjQwNzEwLmpwZw==]"
 }
 
-
+coinsandfeelings = [
+    coins,
+    loves,
+    pat,
+    hug,
+    bonk
+]
 def restart_program():
     """Restarts the current program.
     Note: this function does not return. 
@@ -601,29 +615,48 @@ def coin_handling(array):
             coin_overflow = "Woops too many coins, maybe buy me some chocolates instead? :>"
             send_message(coin_overflow)
 
-def send_feelings(action,array):
+def send_feelings(array,index):
     """Handles sending and recieving feelings 
     like hugs and love and what not I will be adding
     because yay feelings"""
     
-    new_arr = []
-    for i in range(4, len(array)):
-        new_arr.append(array[i])
-    name = ""
-    for j in range(0, len(new_arr)):
-        name = name + new_arr[j] + " "
-        j = j+1
-    
-    if action == "hugs":
-        respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
-        return respons
-    elif action == "pats":
-        respons = "Sending pats to " + name+" *pat pat*"
-        return respons
-    elif action == "love":
+    if index == 1:
+        del array [0:4]
+        name = " "
+        name = name.join(array)
         respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
-        return respons
-    
+        send_message(respons)
+    elif index == 2:
+        del array [0:4]
+        name = " "
+        name = name.join(array)
+        respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
+        send_message(respons)
+    elif index == 3:
+        del array [0:4]
+        name = " "
+        name = name.join(array)
+        respons = "Sending pats to " + name+" *pat pat*"
+        send_message(respons)
+    elif index == 4:
+        del array [0:2]
+        name = " "
+        name = name.join(array)
+        respons = "*bonks "+name + " with a baseball bat~*"
+        send_message(respons)
+
+
+def coins_feelings(message):
+    for reg_m in coinsandfeelings:
+        result = reg_m.match(message)
+        if bool(result) == True:
+            index = coinsandfeelings.index(reg_m)
+            array = message.split(" ")
+            if index == 0:
+                coin_handling(array)
+            else:
+                send_feelings(array,index)
+
 """Connect blue to whatever"""
 websocket.enableTrace(False)
 ws = websocket.WebSocket()
@@ -697,33 +730,14 @@ while running == True:
                         
         """Functioning of all non regex responses such as 
         bonk and send love and etc"""
-        
         if ("identifier" in a.keys()) and ("message" in a.keys()):
             if ("messages" in b.keys()) and ("user" in b.keys()):
                 user = b["user"]
                 if "id" in user:
                     if str(user["id"]) not in mute_list:
-                        array = fix_message(str(b["messages"])).split()
-                        if ((array[0] == "blue") or (array[0] == "Blue")) and (len(array) >= 2):
-                            if (array[1] == "add") and ((array[3] == "coins") or (array[3] == "coin") or (array[4] == "coins") or (array[4] == "coin")):
-                                coin_handling(array)
-                            elif (array[1] == "send"):
-                                if (array[2] == "hugs") and (array[3] == "to"):
-                                    send_message(send_feelings("hugs", array))
-                                elif (array[2] == "pats") and (array[3] == "to"):
-                                    send_message(send_feelings("pats", array))
-                                elif (array[2] == "love") and (array[3] == "to"):
-                                    send_message(send_feelings("love", array))
-                            elif (array[1] == "bonk"):
-                                new_arr = []
-                                for i in range(2, len(array)):
-                                    new_arr.append(array[i])
-                                name = ""
-                                for j in range(0, len(new_arr)):
-                                    name = name + new_arr[j] + " "
-                                    j = j+1
-                                response = "*bonks "+name + " with a baseball bat~*"
-                                send_message(response)
+                        message = fix_message(str(b["messages"]))
+                        coins_feelings(message)
+
             """ignore user functioning"""
             j = b["user"]
             if "id" in j.keys():
