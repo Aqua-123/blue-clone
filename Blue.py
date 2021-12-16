@@ -630,13 +630,13 @@ def send_feelings(array,index):
         del array [0:4]
         name = " "
         name = name.join(array)
-        respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
+        espons = "Sending pats to " + name+" *pat pat*"
         send_message(respons)
     elif index == 3:
         del array [0:4]
         name = " "
         name = name.join(array)
-        respons = "Sending pats to " + name+" *pat pat*"
+        respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
         send_message(respons)
     elif index == 4:
         del array [0:2]
