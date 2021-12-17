@@ -168,7 +168,7 @@ cookiess = re.compile(r"""blue serve (cookies and milk|a|cookies n milk)\s*""", 
 ppizza = re.compile(r"""blue serve (pineapple pizza|b)\s*""", re.I)
 
 #feelings regex
-coins = re.compile(r"""blue add [0-9]+ [^""]+? coins\s*""", re.I)
+coins = re.compile(r"""blue add [0-9]+ [^""]+? coins\s**""", re.I)
 hug = re.compile(r"""blue send hug(s)? to [^""]+\s*""", re.I)
 pat = re.compile(r"""blue send pats to [^""]+\s*""", re.I)
 loves = re.compile(r"""blue send love to [^""]+\s*""", re.I)
@@ -628,7 +628,7 @@ def send_feelings(array,index):
         del array [0:4]
         name = " "
         name = fix_name(name.join(array))
-        espons = "Sending pats to " + name+" *pat pat*"
+        respons = "Sending pats to " + name+" *pat pat*"
         send_message(respons)
     elif index == 3:
         del array [0:4]
