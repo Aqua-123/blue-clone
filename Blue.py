@@ -594,10 +594,12 @@ def coin_handling(array):
     """Just as the name suggests,
     handles coins and responses to them"""
     num = array[2]
+    print(num)
     if num.isdigit():
         coin_add = int(num)
         if (coin_add < 101) and (coin_add > -1):
             count_now = coins_contents
+            print(count_now)
             coin_new = coin_add + int(first)
             repo.update_file(coins_contents.path, "coins update", str(coins_new), contents.sha, branch="main")
             if num == "1":
@@ -651,9 +653,13 @@ def coins_feelings(message):
         if bool(result) == True:
             index = coinsandfeelings.index(reg_m)
             array = message.split(" ")
+            print(index)
+            print(array)
             if index == 0:
                 coin_handling(array)
             else:
+                print(index)
+                print(array)
                 send_feelings(array,index)
 
 """Connect blue to whatever"""
@@ -737,7 +743,7 @@ while running == True:
                 if "id" in user:
                     if str(user["id"]) not in mute_list:
                         message = fix_message(str(b["messages"]))
-                        coins_feelings(message) 
+                        coins_feelings(message)
 
             """ignore user functioning"""
             j = b["user"]
