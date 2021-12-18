@@ -601,7 +601,7 @@ def coin_handling(array):
             count_now = coins_contents.decoded_content.decode() 
             print(count_now)
             coin_new = coin_add + int(count_now)
-            repo.update_file(coins_contents.path, "coins update", str(coins_new), contents.sha, branch="main")
+            repo.update_file(coins_contents.path, "coins update", str(coin_new), contents.sha, branch="main")
             if num == "1":
                 coin_confirm = str(int(num) + 0) + " coin added to the fortune well, there are now " + str(
                     coin_new) + " coins in the well, wishing good luck to all :D"
