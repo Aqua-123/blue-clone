@@ -11,6 +11,13 @@ from datetime import date
 import os
 import sys
 from time import gmtime, strftime
+from github import Github
+user = "Aqua-123"
+passw = "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"
+g = Github(passw)
+repo = g.get_user().get_repo("blue-clone")
+muted_contents = repo.get_contents("muted.txt")
+coins_contents = repo.get_contents("coins.txt")
 
 # main connecting request json
 connect_json = {
@@ -514,7 +521,6 @@ def admin_func(message,id,admin):
             elif i == 1:
                 if greet_status == True:
                     greet_status = False
-                    return greet_status
                     response = "Okai done ^-^"
                     send_message(response)
                 elif greet_status == False:
@@ -591,14 +597,9 @@ def coin_handling(array):
     if num.isdigit():
         coin_add = int(num)
         if (coin_add < 101) and (coin_add > -1):
-            file1 = open("coins.txt", "r")
-            count_now = file1.read()
-            first = count_now.split('\n', 1)[0]
+            count_now = coins_contents
             coin_new = coin_add + int(first)
-            file1.close()
-            file2 = open("coins.txt", "w")
-            file2.write(str(coin_new))
-            file2.close()
+            repo.update_file(coins_contents.path, "coins update", str(coins_new), contents.sha, branch="main")
             if num == "1":
                 coin_confirm = str(int(num) + 0) + " coin added to the fortune well, there are now " + str(
                     coin_new) + " coins in the well, wishing good luck to all :D"
@@ -671,6 +672,8 @@ while running == True:
         remove_blue()
         idle_function()
         t_start = time.perf_counter()
+        muted_contents = repo.get_contents("muted.txt")
+        coins_contents = repo.get_contents("coins.txt")
         reset_clock = reset_clock + 1
         if reset_clock == 500:
             greet_timeout = {}
