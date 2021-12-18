@@ -598,7 +598,7 @@ def coin_handling(array):
     if num.isdigit():
         coin_add = int(num)
         if (coin_add < 101) and (coin_add > -1):
-            count_now = coins_contents
+            count_now = coins_contents.decoded_content.decode() 
             print(count_now)
             coin_new = coin_add + int(count_now)
             repo.update_file(coins_contents.path, "coins update", str(coins_new), contents.sha, branch="main")
