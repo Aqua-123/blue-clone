@@ -597,6 +597,7 @@ def coin_handling(array):
     print(num)
     if num.isdigit():
         coin_add = int(num)
+        coins_contents = repo.get_contents("coins.txt")
         if (coin_add < 101) and (coin_add > -1):
             count_now = coins_contents.decoded_content.decode() 
             print(count_now)
@@ -679,7 +680,6 @@ while running == True:
         idle_function()
         t_start = time.perf_counter()
         muted_contents = repo.get_contents("muted.txt")
-        coins_contents = repo.get_contents("coins.txt")
         reset_clock = reset_clock + 1
         if reset_clock == 500:
             greet_timeout = {}
