@@ -679,7 +679,6 @@ while running == True:
         remove_blue()
         idle_function()
         t_start = time.perf_counter()
-        muted_contents = repo.get_contents("muted.txt")
         reset_clock = reset_clock + 1
         if reset_clock == 500:
             greet_timeout = {}
