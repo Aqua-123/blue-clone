@@ -18,7 +18,7 @@ g = Github(passw)
 repo = g.get_user().get_repo("blue-clone")
 muted_contents = repo.get_contents("muted.txt")
 coins_contents = repo.get_contents("coins.txt")
-mute_list = muted_contents.decoded_content.decode() 
+mute_list = muted_contents.decoded_content.decode().strip()
 mute_list = mute_list.split(",")
 # main connecting request json
 connect_json = {
@@ -200,19 +200,19 @@ tldr_r = (
     " Let's keep it family-friendly!"
 )
 high_five_r = "High five ~*"
-dab_r = "ヽ( •_)ᕗ"
-hate_myself_r = "I like you, have a cupcake 🧁 ^-^"
-thanks_r = "You're welcome :D"
-hi_r = "hiiiiii :D"
-smile_r = "<:"
-#kill_r = "Ahem 🔪 "
-kill_r = "Nu, smh"
-pats_r = "._.)/(._."
-hug_r = "(੭｡╹▿╹｡)੭"
-party_r = "partyyy wohooo 🥳"
-menu_r = "Rn we have 1) Coffee, 2) Milk, 3) Water"
-magic_menu_r = "We have A) Cookies n Milk, B) Pineapple Pizza"
-smile_rev_r = ":>"
+    dab_r = "ヽ( •_)ᕗ"
+    hate_myself_r = "I like you, have a cupcake 🧁 ^-^"
+    thanks_r = "You're welcome :D"
+    hi_r = "hiiiiii :D"
+    smile_r = "<:"
+    #kill_r = "Ahem 🔪 "
+    kill_r = "Nu, smh"
+    pats_r = "._.)/(._."
+    hug_r = "(੭｡╹▿╹｡)੭"
+    party_r = "partyyy wohooo 🥳"
+    menu_r = "Rn we have 1) Coffee, 2) Milk, 3) Water"
+    magic_menu_r = "We have A) Cookies n Milk, B) Pineapple Pizza"
+    smile_rev_r = ":>"
 heart_r = "<3"
 dying_r = "Nothing new, now go work smh"
 uwu_r = "UwU"
@@ -523,7 +523,7 @@ def mute_func(message,index):
         else:
             mute_list.append(id)
             new_mute = str(mute_list)
-            chars = "[]' "
+            chars = "[]'\n"
             for c in chars:
                 new_mute = new_mute.replace(c, "")
             repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
@@ -534,7 +534,7 @@ def mute_func(message,index):
         if id in mute_list:
             mute_list.remove(id)    
             new_mute = str(mute_list)
-            chars = "[]' "
+            chars = "[]'\n "
             for c in chars:
                 new_mute = new_mute.replace(c, "")
             repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
