@@ -780,44 +780,6 @@ while running == True:
                     if str(user["id"]) not in mute_list:
                         message = fix_message(str(b["messages"]))
                         coins_feelings(message)
-
-            """ignore user functioning"""
-            '''
-            j = b["user"]
-            if "id" in j.keys():
-                ids = str(j["id"])
-                if (ids in admin) or (ids in mod):
-                    if "messages" in b.keys():
-                        array = fix_message(str(b["messages"])).split()
-                        if (len(array) > 2) and ((array[0] == "blue") or (array[0] == "Blue")):
-                            if ((array[1] == "mute") or (array[1] == "ignore")):
-                                id_ignored = array[2]
-                                if id_ignored in mute_list:
-                                    responses = "I'm already ignoring user  '" + id_ignored + " 'o.o"
-                                    send_message(responses)
-                                else:
-                                    mute_list.append(id_ignored)
-                                    new_mute = str(mute_list)
-                                    chars = "[]' "
-                                    for c in chars:
-                                        new_mute = new_mute.replace(c, "")
-                                    new_list_entry = open("muted.txt", "w")
-                                    new_list_entry.write(new_mute)
-                                    new_list_entry.close()
-                                    responses = "Okai I'll ignore user '" + id_ignored + "' 0.0"
-                                    send_message(responses)
-                            elif ((array[1] == "unmute") or (array[1] == "unignore")):
-                                id_ignored = array[2]
-                                mute_list.remove(id_ignored)
-                                new_mute = str(mute_list)
-                                chars = "[]'/n "
-                                for c in chars:
-                                    new_mute = new_mute.replace(c, "")
-                                new_list_entry = open("muted.txt", "w")
-                                new_list_entry.write(new_mute)
-                                new_list_entry.close()
-                                responses = "Okai I'll stop ignoring user '" + id_ignored + "' :>"
-                                send_message(responses)    '''
                             
     except websocket.WebSocketConnectionClosedException as e:
         while connection == True:
