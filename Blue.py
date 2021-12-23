@@ -18,6 +18,7 @@ g = Github(passw)
 repo = g.get_user().get_repo("blue-clone")
 muted_contents = repo.get_contents("muted.txt")
 coins_contents = repo.get_contents("coins.txt")
+mute_list = muted_contents.decoded_content.decode() 
 
 # main connecting request json
 connect_json = {
@@ -160,7 +161,7 @@ uptime1 = re.compile(r"""(blue uptime)|(!uptime)\s*$""", re.I)
 clear_memory = re.compile(r"""blue clear memory\s*$""", re.I)
 stats1 = re.compile(r"""(blue stats)|(blue tell me the stats)\s*$""", re.I)
 get_mute = re.compile(r"""(blue get mutelist)|(blue fetch mutelist)\s*$""", re.I)
-get_timeout_control = re.compile(r"""blue get|fetch timeout_control\s*$""", re.I)
+get_timeout_control = re.compile(r"""blue (get|fetch) timeout_control\s*$""", re.I)
 restart_s = re.compile(r"""((blue|blew) restart|reset)\s*$""", re.I)
 hide = re.compile(r"""blue help me hide\s*$""", re.I)
 ily = re.compile(r"""blue (ily)|(i love you)\s*""", re.I)
@@ -512,8 +513,10 @@ def remove_blue():
 
 def mute_func(message,index):
     array = message.split()
+    global mute_list
     del array[0:2]
     id = array[0]
+    mute_list = list(mute_list)
     if index == 12:
         if id in mute_list:
             responses = "I'm already ignoring user  '" + id + " 'o.o"
@@ -524,25 +527,23 @@ def mute_func(message,index):
             chars = "[]' "
             for c in chars:
                 new_mute = new_mute.replace(c, "")
-            new_list_entry = open("muted.txt", "w")
-            new_list_entry.write(new_mute)
-            new_list_entry.close()
+            repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
+            
             responses = "Okai I'll ignore user '" + id + "' 0.0"
             send_message(responses)
     elif index == 13:
+        print(mute_list)
         if id in mute_list:
-            mute_list.remove(id)
+            mute_list.remove(id)    
             new_mute = str(mute_list)
             chars = "[]'/n "
             for c in chars:
                 new_mute = new_mute.replace(c, "")
-            new_list_entry = open("muted.txt", "w")
-            new_list_entry.write(new_mute)
-            new_list_entry.close()
+            repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
             responses = "Okai I'll stop ignoring user '" + id + "' :>"
             send_message(responses)    
         else:
-            responses = "I'm already not ignoring user  '" + id + " 'o.o"
+            responses = "I'm already not ignoring user  '" + id + "' o.o"
             send_message(responses)
 def admin_func(message,id,admin):
     """Function to handle all the admin 
@@ -554,6 +555,7 @@ def admin_func(message,id,admin):
         global greet_status
         global running  
         if bool(result) == True:
+            print(re_n)
             if i == 0 :
                 greet_status = True
                 response = "Okai done ^-^"
@@ -730,11 +732,6 @@ while running == True:
         a = json.loads(server_reply)
         if ("identifier" in a.keys()) and ("message" in a.keys()):
             b = a["message"]
-            mute1 = open("muted.txt", "r")
-            content = mute1.read()
-            mute_list = content.split('\n', 1)[0]
-            mute_list = mute_list.split(",")
-            mute1.close()
             greet("user_connected", "add", True)
             greet("typing", "add", False)
             greet("user_disconnected", "remove", False)
