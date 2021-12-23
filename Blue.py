@@ -122,57 +122,59 @@ im_bored_list = [
 
 
 # All matching strings
-hey1 = re.compile(r"""hi blue\s*""", re.I)
-howdy = re.compile(r"""howdy Blue\??\s*""", re.I)
+hey1 = re.compile(r"""hi blue\s*$""", re.I)
+howdy = re.compile(r"""howdy Blue\??\s*$""", re.I)
 whos_here = re.compile(
-    r"""(blue who'?’?s here\??)|(blue das crazy\??|(yzarc sad eubl)|(blue who is all here)|(blue who all are there here\??)|(blue where the hoes at\??)\s*)""", re.I)
+    r"""(blue who'?’?s here\??)|(blue das crazy\??|(yzarc sad eubl)|(blue who is all here)|(blue who all are there here\??)|(blue where the hoes at\??)\s*$)""", re.I)
 whos_here = whos_here
 whos_idle = re.compile(
-    r"""(blue who'?’?s idle\??\s*)|(blue who is all idle\s*)|(blue who is all lurking\s*)|(blue who'?’?s lurking\??\s*)""", re.I)
+    r"""(blue who'?’?s idle\??\s*)|(blue who is all idle\s*)|(blue who is all lurking\s*)|(blue who'?’?s lurking\??\s*$)""", re.I)
 whos_idle = whos_idle
-tldr = re.compile(r"""(blue (wfaf|tldr)|(where are we))|(what is wfaf)\s*""", re.I)
-high_five = re.compile(r"""(blue )?(high five)\s*""", re.I)
-low_five = re.compile(r"""(blue )?(low five)\s*""", re.I)
-dab = re.compile(r"""blue dab\s*""", re.I)
-hate_myself1 = re.compile(r"""(blue )?(i hate myself)|(no one likes me)\s*""", re.I)
+tldr = re.compile(r"""(blue (wfaf|tldr)|(where are we))|(what is wfaf)\s*$""", re.I)
+high_five = re.compile(r"""(blue )?(high five)\s*$""", re.I)
+low_five = re.compile(r"""(blue )?(low five)\s*$""", re.I)
+dab = re.compile(r"""blue dab\s*$""", re.I)
+hate_myself1 = re.compile(r"""(blue )?(i hate myself)|(no one likes me)\s*$""", re.I)
 thanks = re.compile(r"""((thanks|thx|thenks|thonks|thank you) blue\s*)|(blue (thanks|thx|thenks|thonks|thank you)\s*)""", re.I)
 smile = re.compile(r""":>\s*""", re.I)
-smile_rev = re.compile(r"""<:\s*""", re.I)
-kill = re.compile(r"""blue (kill|shoot|murder) me\s*""", re.I)
-pats = re.compile(r"""blue send pats\s*""", re.I)
-hugs2 = re.compile(r"""blue hug\s*""", re.I)
-party = re.compile(r"""blue (lets )?party\s*""", re.I)
-menu = re.compile(r"""blue menu\s*""", re.I)
-magic_menu = re.compile(r"""blue magic menu\s*""", re.I)
+smile_rev = re.compile(r"""<:\s*$""", re.I)
+kill = re.compile(r"""blue (kill|shoot|murder) me\s*$""", re.I)
+pats = re.compile(r"""blue send pats\s*$""", re.I)
+hugs2 = re.compile(r"""blue hug\s*$""", re.I)
+party = re.compile(r"""blue (lets )?party\s*$""", re.I)
+menu = re.compile(r"""blue menu\s*$""", re.I)
+magic_menu = re.compile(r"""blue magic menu\s*$""", re.I)
 heart = re.compile(r"""<3\s*""", re.I)
-quote = re.compile(r"""blue (tell me a )?quote\s*""", re.I)
-uwu = re.compile(r"""(uwu\s*)|(blue cultural reset\s*)""", re.I)
-jok = re.compile(r"""blue (tell me a )?joke\s*""", re.I)
-no = re.compile(r"""blue (no|enforce)\s*""", re.I)
-dni = re.compile(r"""blue (dni|do not interact)\s*""", re.I)
-bored = re.compile(r"""(blue )?im bored\s*""", re.I)
-dying = re.compile(r"""(blue )?im dying\s*""", re.I)
-enable_greets = re.compile(r"""blue enable greets\s*""", re.I)
-disable_greets = re.compile(r"""blue disable greets\s*""", re.I)
-self_destruct = re.compile(r"""(blue self destruct)|(blue die)|(blue kys)\s*""", re.I)
-clear_userlist = re.compile(r"""blue clear userlist\s*""", re.I)
-uptime1 = re.compile(r"""(blue uptime)|(!uptime)\s*""", re.I)
-clear_memory = re.compile(r"""blue clear memory\s*""", re.I)
-stats1 = re.compile(r"""(blue stats)|(blue tell me the stats)\s*""", re.I)
-get_mute = re.compile(r"""(blue get mutelist)|(blue fetch mutelist)\s*""", re.I)
-get_timeout_control = re.compile(r"""blue get|fetch timeout_control\s*""", re.I)
-restart_s = re.compile(r"""((blue|blew) restart|reset)\s*""", re.I)
-hide = re.compile(r"""blue help me hide\s*""", re.I)
+quote = re.compile(r"""blue (tell me a )?quote\s*$""", re.I)
+uwu = re.compile(r"""(uwu\s*)|(blue cultural reset\s*$)""", re.I)
+jok = re.compile(r"""blue (tell me a )?joke\s*$""", re.I)
+no = re.compile(r"""blue (no|enforce)\s*$""", re.I)
+dni = re.compile(r"""blue (dni|do not interact)\s*$""", re.I)
+bored = re.compile(r"""(blue )?im bored\s*$""", re.I)
+dying = re.compile(r"""(blue )?im dying\s*$""", re.I)
+enable_greets = re.compile(r"""blue enable greets\s*$""", re.I)
+disable_greets = re.compile(r"""blue disable greets\s*$""", re.I)
+self_destruct = re.compile(r"""(blue self destruct)|(blue die)|(blue kys)\s*$""", re.I)
+clear_userlist = re.compile(r"""blue clear userlist\s*$""", re.I)
+uptime1 = re.compile(r"""(blue uptime)|(!uptime)\s*$""", re.I)
+clear_memory = re.compile(r"""blue clear memory\s*$""", re.I)
+stats1 = re.compile(r"""(blue stats)|(blue tell me the stats)\s*$""", re.I)
+get_mute = re.compile(r"""(blue get mutelist)|(blue fetch mutelist)\s*$""", re.I)
+get_timeout_control = re.compile(r"""blue get|fetch timeout_control\s*$""", re.I)
+restart_s = re.compile(r"""((blue|blew) restart|reset)\s*$""", re.I)
+hide = re.compile(r"""blue help me hide\s*$""", re.I)
 ily = re.compile(r"""blue (ily)|(i love you)\s*""", re.I)
-love = re.compile(r"""blue gift love\s*""", re.I)
-dice = re.compile(r"""blue roll a dice\s*""", re.I)
+love = re.compile(r"""blue gift love\s*$""", re.I)
+dice = re.compile(r"""blue roll a dice\s*$""", re.I)
+mutereg = re.compile(r"""blue mute [^""]+\s*""", re.I)
+unmutereg = re.compile(r"""blue unmute [^""]+\s*""", re.I)
 
 # Menu Items
-coffee = re.compile(r"""blue serve (coffee|1|caffee)\s*""", re.I)
-milk = re.compile(r"""blue serve (milk|2)\s*""", re.I)
-water = re.compile(r"""blue serve (water|3)\s*""", re.I)
-cookiess = re.compile(r"""blue serve (cookies and milk|a|cookies n milk)\s*""", re.I)
-ppizza = re.compile(r"""blue serve (pineapple pizza|b)\s*""", re.I)
+coffee = re.compile(r"""blue serve (coffee|1|caffee)\s*$""", re.I)
+milk = re.compile(r"""blue serve (milk|2)\s*$""", re.I)
+water = re.compile(r"""blue serve (water|3)\s*$""", re.I)
+cookiess = re.compile(r"""blue serve (cookies and milk|a|cookies n milk)\s*$""", re.I)
+ppizza = re.compile(r"""blue serve (pineapple pizza|b)\s*$""", re.I)
 
 #feelings regex
 coins = re.compile(r"""blue add [0-9]+( [^""]+)? coins\s*""", re.I)
@@ -273,7 +275,9 @@ admin_commands = [
     get_timeout_control,
     restart_s,
     hide,
-    ily
+    ily,
+    mutereg,
+    unmutereg
 ]
 
 #Menu list with images
@@ -505,6 +509,40 @@ def remove_blue():
     if "Blue" in list(timeout_control.keys()):
         del timeout_control["Blue"]
 
+def mute_func(message,index):
+    array = message.split()
+    del array[0:2]
+    id = array[0]
+    if index == 12:
+        if id in mute_list:
+            responses = "I'm already ignoring user  '" + id + " 'o.o"
+            send_message(responses)
+        else:
+            mute_list.append(id)
+            new_mute = str(mute_list)
+            chars = "[]' "
+            for c in chars:
+                new_mute = new_mute.replace(c, "")
+            new_list_entry = open("muted.txt", "w")
+            new_list_entry.write(new_mute)
+            new_list_entry.close()
+            responses = "Okai I'll ignore user '" + id + "' 0.0"
+            send_message(responses)
+    elif index == 13:
+        if id in mute_list:
+            mute_list.remove(id)
+            new_mute = str(mute_list)
+            chars = "[]'/n "
+            for c in chars:
+                new_mute = new_mute.replace(c, "")
+            new_list_entry = open("muted.txt", "w")
+            new_list_entry.write(new_mute)
+            new_list_entry.close()
+            responses = "Okai I'll stop ignoring user '" + id + "' :>"
+            send_message(responses)    
+        else:
+            responses = "I'm already not ignoring user  '" + id + " 'o.o"
+            send_message(responses)
 def admin_func(message,id,admin):
     """Function to handle all the admin 
     and mod commands"""
@@ -512,8 +550,9 @@ def admin_func(message,id,admin):
     for i in range(0, len(admin_commands)):
         re_n = admin_commands[i]
         result = re_n.match(message)
+        global greet_status
+        global running
         if bool(result) == True:
-            global greet_status
             if i == 0 :
                 greet_status = True
                 response = "Okai done ^-^"
@@ -589,6 +628,8 @@ def admin_func(message,id,admin):
                 send_message(response)
             elif i == 11:
                 send_message(ily_r)
+            elif i == 12 or i == 13:
+                mute_func(message, i)
 
 def coin_handling(array):
     """Just as the name suggests,
@@ -716,8 +757,6 @@ while running == True:
         whos_here_res ={
             whos_here: whos_here_r,
             whos_idle: whos_idle_r,
-            jok: get_joke(),
-            quote: quote_r,
             bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
             dice: dice_r
         }
@@ -745,6 +784,7 @@ while running == True:
                         coins_feelings(message)
 
             """ignore user functioning"""
+            '''
             j = b["user"]
             if "id" in j.keys():
                 ids = str(j["id"])
@@ -779,7 +819,7 @@ while running == True:
                                 new_list_entry.write(new_mute)
                                 new_list_entry.close()
                                 responses = "Okai I'll stop ignoring user '" + id_ignored + "' :>"
-                                send_message(responses)    
+                                send_message(responses)    '''
                             
     except websocket.WebSocketConnectionClosedException as e:
         while connection == True:
