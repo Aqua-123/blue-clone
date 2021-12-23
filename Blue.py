@@ -523,23 +523,15 @@ def mute_func(message,index):
             send_message(responses)
         else:
             mute_list.append(id)
-            new_mute = str(mute_list)
-            chars = "[]' "
-            for c in chars:
-                new_mute = new_mute.replace(c, "")
-            repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
             
+            repo.update_file(muted_contents.path, "mute update", str(mute_list), muted_contents.sha, branch="main")
             responses = "Okai I'll ignore user '" + id + "' 0.0"
             send_message(responses)
     elif index == 13:
         print(mute_list)
         if id in mute_list:
             mute_list.remove(id)    
-            new_mute = str(mute_list)
-            chars = "[]'/n "
-            for c in chars:
-                new_mute = new_mute.replace(c, "")
-            repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
+            repo.update_file(muted_contents.path, "mute update", str(mute_list), muted_contents.sha, branch="main")
             responses = "Okai I'll stop ignoring user '" + id + "' :>"
             send_message(responses)    
         else:
