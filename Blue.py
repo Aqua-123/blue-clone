@@ -516,7 +516,6 @@ def mute_func(message,index):
     global mute_list
     del array[0:2]
     id = array[0]
-    mute_list = list(mute_list)
     if index == 12:
         if id in mute_list:
             responses = "I'm already ignoring user  '" + id + " 'o.o"
