@@ -19,7 +19,7 @@ repo = g.get_user().get_repo("blue-clone")
 muted_contents = repo.get_contents("muted.txt")
 coins_contents = repo.get_contents("coins.txt")
 mute_list = muted_contents.decoded_content.decode() 
-
+mute_list = mute_list.split(",")
 # main connecting request json
 connect_json = {
     "command": "subscribe",  # Main connecting request json
@@ -522,15 +522,22 @@ def mute_func(message,index):
             send_message(responses)
         else:
             mute_list.append(id)
-            print(str(mute_list))
-            repo.update_file(muted_contents.path, "mute update", str(mute_list), muted_contents.sha, branch="main")
+            new_mute = str(mute_list)
+            chars = "[]' "
+            for c in chars:
+                new_mute = new_mute.replace(c, "")
+            repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
             responses = "Okai I'll ignore user '" + id + "' 0.0"
             send_message(responses)
     elif index == 13:
         print(mute_list)
         if id in mute_list:
             mute_list.remove(id)    
-            repo.update_file(muted_contents.path, "mute update", str(mute_list), muted_contents.sha, branch="main")
+            new_mute = str(mute_list)
+            chars = "[]' "
+            for c in chars:
+                new_mute = new_mute.replace(c, "")
+            repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
             responses = "Okai I'll stop ignoring user '" + id + "' :>"
             send_message(responses)    
         else:
@@ -603,7 +610,7 @@ def admin_func(message,id,admin):
                     str(r) + " in wfaf"
                 send_message(stats_r)
             elif i == 7 and admin == True:
-                send_message(str(mute_list))
+                send_message(fix_message(str(mute_list)))
             elif i == 8 and admin == True:
                 send_message(str(timeout_control))
             elif i == 9:
