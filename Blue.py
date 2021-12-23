@@ -523,7 +523,7 @@ def mute_func(message,index):
             send_message(responses)
         else:
             mute_list.append(id)
-            
+            print(str(mute_list))
             repo.update_file(muted_contents.path, "mute update", str(mute_list), muted_contents.sha, branch="main")
             responses = "Okai I'll ignore user '" + id + "' 0.0"
             send_message(responses)
