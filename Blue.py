@@ -371,8 +371,7 @@ def greet(action, result, greet):
             if result == "add":
                 list_main.add(name)
                 timeout_control[name] = time.perf_counter()
-                stats_list.add(name)
-                stats.append(name)
+
             elif (result == "remove"):
                 if name in timeout_control.keys():
                     del timeout_control[name]
@@ -381,6 +380,8 @@ def greet(action, result, greet):
                 elif name in list_main:
                     list_main.remove(name)
             if (greet == True) and ("id" in user) and (action == "user_connected"):
+                stats_list.add(name)
+                stats.append(name)
                 timeout_control[name] = time.perf_counter()
                 if (greet_status == True):
                     ids = user["id"]
@@ -551,7 +552,7 @@ def admin_func(message,id,admin):
         re_n = admin_commands[i]
         result = re_n.match(message)
         global greet_status
-        global running
+        global running  
         if bool(result) == True:
             if i == 0 :
                 greet_status = True
