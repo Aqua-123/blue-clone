@@ -16,8 +16,8 @@ user = "Aqua-123"
 passw = "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"
 g = Github(passw)
 repo = g.get_user().get_repo("blue-clone")
-muted_contents = repo.get_contents("muted.txt")
 coins_contents = repo.get_contents("coins.txt")
+muted_contents = repo.get_contents("muted.txt")
 mute_list = muted_contents.decoded_content.decode().strip()
 mute_list = mute_list.split(",")
 # main connecting request json
@@ -200,19 +200,19 @@ tldr_r = (
     " Let's keep it family-friendly!"
 )
 high_five_r = "High five ~*"
-    dab_r = "ヽ( •_)ᕗ"
-    hate_myself_r = "I like you, have a cupcake 🧁 ^-^"
-    thanks_r = "You're welcome :D"
-    hi_r = "hiiiiii :D"
-    smile_r = "<:"
-    #kill_r = "Ahem 🔪 "
-    kill_r = "Nu, smh"
-    pats_r = "._.)/(._."
-    hug_r = "(੭｡╹▿╹｡)੭"
-    party_r = "partyyy wohooo 🥳"
-    menu_r = "Rn we have 1) Coffee, 2) Milk, 3) Water"
-    magic_menu_r = "We have A) Cookies n Milk, B) Pineapple Pizza"
-    smile_rev_r = ":>"
+dab_r = "ヽ( •_)ᕗ"
+hate_myself_r = "I like you, have a cupcake 🧁 ^-^"
+thanks_r = "You're welcome :D"
+hi_r = "hiiiiii :D"
+smile_r = "<:"
+#kill_r = "Ahem 🔪 "
+kill_r = "Nu, smh"
+pats_r = "._.)/(._."
+hug_r = "(੭｡╹▿╹｡)੭"
+party_r = "partyyy wohooo 🥳"
+menu_r = "Rn we have 1) Coffee, 2) Milk, 3) Water"
+magic_menu_r = "We have A) Cookies n Milk, B) Pineapple Pizza"
+smile_rev_r = ":>"
 heart_r = "<3"
 dying_r = "Nothing new, now go work smh"
 uwu_r = "UwU"
@@ -526,6 +526,7 @@ def mute_func(message,index):
             chars = "[]'\n"
             for c in chars:
                 new_mute = new_mute.replace(c, "")
+            muted_contents = repo.get_contents("muted.txt")
             repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
             responses = "Okai I'll ignore user '" + id + "' 0.0"
             send_message(responses)
@@ -537,6 +538,7 @@ def mute_func(message,index):
             chars = "[]'\n "
             for c in chars:
                 new_mute = new_mute.replace(c, "")
+            muted_contents = repo.get_contents("muted.txt")
             repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
             responses = "Okai I'll stop ignoring user '" + id + "' :>"
             send_message(responses)    
