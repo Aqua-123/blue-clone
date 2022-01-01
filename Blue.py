@@ -130,8 +130,6 @@ def threaded_adding(ids):
     name = r["user"]["display_name"]
     whos_here_r.append(name)
     print(whos_here_r)
-    
-threads = []
 def matching(dictname,message):
     global whos_here_r,whos_here_res
     keys = list(dictname.keys())
@@ -196,7 +194,7 @@ def idle_function():
             if val in list_main_dict :
                 name = list_main_dict[val]
                 del list_main_dict[val]
-            idle_main_dict[val] = name
+                idle_main_dict[val] = name
         elif (t_start - x) < 240:
             keys = list(timeout_control.keys())
             val = keys[i]
@@ -357,7 +355,7 @@ def send_feelings(array,index):
             name = fix_name(name.join(array))
             respons = "*bonks "+name + " with a baseball bat~*"
             send_message(respons)
-
+def handle
 
 def coins_feelings(message):
     for reg_m in coinsandfeelings:

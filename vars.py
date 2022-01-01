@@ -19,7 +19,8 @@ connect_json = {
     "command": "subscribe",  # Main connecting request json
     "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":null}"
 }
-
+    
+threads = [] # List of threads 
 running = True  # Main while loop control variable
 response_kill = False  # Handles response enabling and disabling
 greet_status = True  # Handles enabling and disabling greetings
