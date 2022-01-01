@@ -181,7 +181,8 @@ hug = re.compile(r"""blue send hug(s)? to [^""]+\s*""", re.I)
 pat = re.compile(r"""blue send pats to [^""]+\s*""", re.I)
 loves = re.compile(r"""blue send love to [^""]+\s*""", re.I)
 bonk = re.compile(r"""blue bonk [^""]+\s*""", re.I)
-
+get_id = re.compile(r"""blue (fetch|get) id of [^""]+\s*""", re.I)
+get_karma = re.compile(r"""blue (fetch|get) details of [^""]+\s*""", re.I)
 # Mene replies
 coffee_r = "☕"
 milk_r = "🥛"
@@ -293,5 +294,7 @@ coinsandfeelings = [
     loves,
     pat,
     hug,
-    bonk
+    bonk,
+    get_id,
+    get_karma
 ]

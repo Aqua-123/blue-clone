@@ -331,13 +331,15 @@ def coin_handling(array):
         elif coin_add > 100:
             coin_overflow = "Woops too many coins, maybe buy me some chocolates instead? :>"
             send_message(coin_overflow)
-
+name = " "
 def send_feelings(array,index):
     """Handles sending and recieving feelings 
     like hugs and love and what not I will be adding
     because yay feelings"""
+    print(index)
     if index != 4:
         del array [0:4]
+        global name
         name = " "
         name = fix_name(name.join(array))
         if index == 1:
@@ -349,6 +351,33 @@ def send_feelings(array,index):
         elif index == 3:
             respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
             send_message(respons)
+        elif index == 5:
+            if name in list_main_dict.values():
+                l = list(list_main_dict.keys())
+                id = l[list(list_main_dict.values()).index(name)]
+                print(id)
+                id = "ID of " + name + " is " + str(id)
+                print(id)
+            elif name in idle_main_dict.values():
+                l = list(idle_main_dict.keys())
+                id = l[list(idle_main_dict.values()).index(name)]
+                id = "ID of " + name + " is " + str(id)
+                print(id)
+            else : id = "Im sorry I cant see anyone with the name " + name + " here"
+            send_message(id)
+        elif index == 6:
+            id = int(name)
+            r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
+            r = json.loads(r.text)
+            print(r)
+            name = r["user"]["display_name"]
+            karma = r["user"]["karma"]
+            username = r["user"]["username"]
+            gender = r["user"]["gender"]
+            created = r["user"]["created_at"].split("T")
+            resp = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
+            send_message(resp)
+            
     else: 
         if index == 4:
             del array [0:2]
@@ -379,7 +408,6 @@ ws.send(json.dumps(connect_json))
 
 while running == True:
     try:
-        print(id_list)
         remove_blue()
         idle_function()
         t_start = perf_counter()
@@ -390,7 +418,7 @@ while running == True:
         server_reply = (ws.recv())
         a = json.loads(server_reply)
         
-        if len(idle_main) == 0:
+        """if len(idle_main) == 0:
             whos_here_r = "I can see " + str(list_main)+" and no lurkers :p"
             whos_idle_r = "I can see no lurkers as of now"
             
@@ -406,8 +434,9 @@ while running == True:
             whos_idle_r = "I can see " + str(idle_main)+" lurking"
         for i in range(0, len(bracs)):
             whos_here_r = whos_here_r.replace(bracs[i], "")
-            whos_idle_r = whos_idle_r.replace(bracs[i], "")
+            whos_idle_r = whos_idle_r.replace(bracs[i], "")"""
         whos_here_r = []
+        whos_idle_r = []
         whos_here_res ={
             whos_here: whos_here_r,
             whos_idle: whos_idle_r,
@@ -437,6 +466,6 @@ while running == True:
     except websocket.WebSocketConnectionClosedException:reconnect()
     except ConnectionTimeoutError :reconnect()
     except json.JSONDecodeError:continue
-    except KeyError:continue
+    #except KeyError:continue
     except ValueError:continue
     except IndexError:continue
