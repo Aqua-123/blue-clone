@@ -325,6 +325,8 @@ def admin_func(message,id,admin):
             elif i == 14:
                 array = message.split(" ")
                 del array [0:2]
+                global name
+                name = " "
                 name = fix_name(name.join(array))
                 thread(str(int(name)))
                 response = "Banning " + name + " by giving -40 karma" 
