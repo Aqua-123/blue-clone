@@ -25,7 +25,6 @@ running = True  # Main while loop control variable
 response_kill = False  # Handles response enabling and disabling
 greet_status = True  # Handles enabling and disabling greetings
 connection = True  # Control checking of connection timeout
-name = " "
 admin = [
     "18695559",
     "16986137",
@@ -66,6 +65,7 @@ id_list = set() #ID list
 stats = []  # Total people joined stats
 greet_timeout = {}  # Control number of greets and timeout
 timeout_control = {}  # Control dict for list switch timeout
+banned = set()
 
 whohere_t = 0  # timestamp for whos here
 reset_clock = 0  # reset greet timeout

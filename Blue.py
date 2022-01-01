@@ -15,6 +15,7 @@ import threading
 
 #Restarts the current program.
 restart_program = lambda : execl(executable,executable, * argv)
+name = " "
 
 def reconnect():
     while connection == True:
@@ -243,6 +244,7 @@ def mute_func(message,index):
             send_message(responses)
 def downvote(user_id,remem,id):
     req = requests.get("https://www.emeraldchat.com/karma_give?id="+id+"&polarity=-1=HTTP/2", cookies={'remember_token': remem, 'user_id': user_id})
+    print(req.status_code)
 
 def thread(id):
     banned.add(id)
@@ -259,7 +261,7 @@ def admin_func(message,id,admin):
     
     for i in range(0, len(admin_commands)):
         result = admin_commands[i].match(message)
-        global greet_status,running  
+        global greet_status,running,name
         if bool(result) == True:
             if i == 0 :
                 greet_status = True
@@ -325,11 +327,11 @@ def admin_func(message,id,admin):
             elif i == 14:
                 array = message.split(" ")
                 del array [0:2]
-                global name
                 name = " "
                 name = fix_name(name.join(array))
-                thread(str(int(name)))
                 response = "Banning " + name + " by giving -40 karma" 
+                thread(str(int(name)))
+                send_message(response)
 def coin_handling(array):
     """Just as the name suggests,
     handles coins and responses to them"""
@@ -349,7 +351,7 @@ def coin_handling(array):
         elif coin_add > 100:
             coin_overflow = "Woops too many coins, maybe buy me some chocolates instead? :>"
             send_message(coin_overflow)
-name = " "
+
 def send_feelings(array,index):
     """Handles sending and recieving feelings 
     like hugs and love and what not I will be adding
