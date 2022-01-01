@@ -149,7 +149,7 @@ def matching(dictname,message):
                 elif len(idle_main_dict.keys()) > 0:
                     if len(idle_main_dict.keys()) == 1:
                         whos_here_res = "I can see " + \
-                            str(whos_here_res)+" and " + \
+                            str(whos_here_r)+" and " + \
                             str(len(idle_main_dict.keys()))+" person lurking :p"
                     elif len(idle_main_dict.keys()) > 1:
                         whos_here_res = "I can see " + \
