@@ -163,7 +163,7 @@ def matching(dictname,message):
                 for t in threads:t.join()
                 threads.clear()
                 if len(idle_main_dict.keys()) == 0 : whos_idle_r = "I can see no lurkers as of now"
-                elif len(idle_main_dict.keys()) > 0:whos_idle_r = "I can see " + str(whos_here_res)+" lurking"
+                elif len(idle_main_dict.keys()) > 0:whos_idle_r = "I can see " + str(whos_here_r)+" lurking"
                 print((whos_idle_r))
                 send_message(fix_message(str(whos_idle_r)))
             else:
