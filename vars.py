@@ -57,8 +57,11 @@ bracs = [
 ]
 
 list_main = set()  # Main list
+list_main_dict = {} # Main list dictionary 
 idle_main = set()  # Idle list
+idle_main_dict = {} # Idle list dictionary
 stats_list = set()  # Unique number of people joined stats
+id_list = set() #ID list 
 stats = []  # Total people joined stats
 greet_timeout = {}  # Control number of greets and timeout
 timeout_control = {}  # Control dict for list switch timeout
@@ -70,6 +73,7 @@ t = datetime.now()  # Current date time
 today = date.today()
 greet_status = True
 
+cookies = {"_prototype_app_session":"OHVTZXhlYmpOUStPbU1KNTFaVUVlM1c0cktnYnN1MWN4eFN1akxwMElZWjRiZVNSSGVOUWZwajJ1V1NFMytrbm9tL3NFTE9rQk9HZnJLWUJsNTlXM0JOWG9hZE9yZjNmamkyM29Pd0JqU01YZVlpWkd2WlhBR3hVZGJHbGRtRG5HemtvL29xZm9kVExlODJSKzNiV1YxcHV2TUY1c0RPQXRUbkluelhJbmdPekZXcWUzZzNldnFPK1ZjRkhMN0xLa3A2WDkxemtvaTlDemZmTkJvT0RlUzJhczBkYnJBR3dVbEQyTWtIN3l4TT0tLUxQeW9UcHZtdUJWbEVjQXMwRmYxUnc9PQ%3D%3D--83ddb608f55747654feca4873dff6895e55b263e"}
 # Custom greets
 custom_greet_id = {
     "16986137": "The river of life bubbles when Aqua comes near~ ",

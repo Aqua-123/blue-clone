@@ -11,7 +11,7 @@ from sys import executable,argv
 from time import gmtime, strftime,sleep,perf_counter
 from github import Github
 from vars import *
-
+import threading
 
 #Restarts the current program.
 restart_program = lambda : execl(executable,executable, * argv)
@@ -88,17 +88,21 @@ def greet(action, result, greet):
         user = b["user"]
         if "display_name" in user.keys():
             name = fix_name(user["display_name"])
+            id = user["id"]
             if result == "add":
                 list_main.add(name)
-                timeout_control[name] = perf_counter()
+                list_main_dict[id] = name
+                timeout_control[id] = perf_counter()
             elif (result == "remove"):
-                if name in timeout_control.keys() : del timeout_control[name]
+                if id in timeout_control.keys() : del timeout_control[id]
+                if id in list_main_dict.keys(): del list_main_dict[id]
+                if id in idle_main_dict.keys() : del idle_main_dict[id]
                 if name in idle_main : idle_main.remove(name)
                 elif name in list_main : list_main.remove(name)
             if (greet == True) and ("id" in user) and (action == "user_connected"):
                 stats_list.add(name)
                 stats.append(name)
-                timeout_control[name] = perf_counter()
+                timeout_control[id] = perf_counter()
                 if (greet_status == True):
                     ids = user["id"]
                     if str(ids) in custom_greet_id.keys() : send_message(custom_greet_id[str(ids)])
@@ -118,15 +122,55 @@ def get_quote():
     response3 = r.json()['content'] + " -" + str(r.json()['author'])
     return response3
 
+def threaded_adding(ids):
+    global whos_here_r,whos_here_res
+    r = requests.get("https://emeraldchat.com/profile_json?id=" + str(ids),cookies = cookies)
+    r = json.loads(r.text)
+    print(r)
+    name = r["user"]["display_name"]
+    whos_here_r.append(name)
+    print(whos_here_r)
+    
+threads = []
 def matching(dictname,message):
+    global whos_here_r,whos_here_res
     keys = list(dictname.keys())
     for i in range(0, len(keys)):
         re_m = keys[i]
         result = re_m.match(message)
         if bool(result) == True:
-            values = list(dictname.values())
-            send_message(values[i])
-            break
+            if dictname == whos_here_res and re_m == whos_here:
+                whos_here_r = []
+                for i in list_main_dict.keys():threads.append(threading.Thread(target=threaded_adding, args=(i,)))
+                for t in threads:t.start()
+                for t in threads:t.join()
+                threads.clear()
+                print((whos_here_r))
+                if len(idle_main_dict.keys()) == 0 : whos_here_res = "I can see " + str(whos_here_r)+" and no lurkers :p"
+                elif len(idle_main_dict.keys()) > 0:
+                    if len(idle_main_dict.keys()) == 1:
+                        whos_here_res = "I can see " + \
+                            str(whos_here_res)+" and " + \
+                            str(len(idle_main_dict.keys()))+" person lurking :p"
+                    elif len(idle_main_dict.keys()) > 1:
+                        whos_here_res = "I can see " + \
+                            str(whos_here_r)+" and " + \
+                            str(len(idle_main_dict.keys()))+" peeps lurking :p"
+                send_message(fix_message(str(whos_here_res)))
+            elif dictname == whos_here_res and re_m == whos_idle:
+                whos_here_res = []
+                for i in idle_main_dict.keys():threads.append(threading.Thread(target=threaded_adding, args=(i,)))
+                for t in threads:t.start()
+                for t in threads:t.join()
+                threads.clear()
+                if len(idle_main_dict.keys()) == 0 : whos_idle_r = "I can see no lurkers as of now"
+                elif len(idle_main_dict.keys()) > 0:whos_idle_r = "I can see " + str(whos_here_res)+" lurking"
+                print((whos_idle_r))
+                send_message(fix_message(str(whos_idle_r)))
+            else:
+                values = list(dictname.values())
+                send_message(values[i])
+                break
                
 
 
@@ -148,14 +192,16 @@ def idle_function():
         if (t_start - x) >= 240:
             keys = list(timeout_control.keys())
             val = keys[i]
-            for i in range(0, len(forbiden_chars)):val = val.replace(forbiden_chars[i], "")
-            if val in list_main : list_main.remove(val)
-            idle_main.add(val)
+            #for i in range(0, len(forbiden_chars)):val = val.replace(forbiden_chars[i], "")
+            if val in list_main_dict :
+                name = list_main_dict[val]
+                del list_main_dict[val]
+            idle_main_dict[val] = name
         elif (t_start - x) < 240:
             keys = list(timeout_control.keys())
             val = keys[i]
-            for i in range(0, len(forbiden_chars)):val = val.replace(forbiden_chars[i], "")
-            if val in idle_main : idle_main.remove(val)
+            #for i in range(0, len(forbiden_chars)):val = val.replace(forbiden_chars[i], "")
+            if val in idle_main_dict : del idle_main_dict[val]
         i = i+1
 
 def remove_blue():
@@ -228,6 +274,8 @@ def admin_func(message,id,admin):
                 list_main.clear()
                 idle_main.clear()
                 timeout_control.clear()
+                list_main_dict.clear()
+                idle_main_dict.clear()
             elif i == 4:
                 sr = str(datetime.now() - t).split(":")
                 if sr[0] == "0":
@@ -333,6 +381,7 @@ ws.send(json.dumps(connect_json))
 
 while running == True:
     try:
+        print(id_list)
         remove_blue()
         idle_function()
         t_start = perf_counter()
@@ -360,7 +409,7 @@ while running == True:
         for i in range(0, len(bracs)):
             whos_here_r = whos_here_r.replace(bracs[i], "")
             whos_idle_r = whos_idle_r.replace(bracs[i], "")
-            
+        whos_here_r = []
         whos_here_res ={
             whos_here: whos_here_r,
             whos_idle: whos_idle_r,
