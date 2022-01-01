@@ -168,6 +168,8 @@ dice = re.compile(r"""blue roll a dice\s*$""", re.I)
 mutereg = re.compile(r"""blue mute [^""]+\s*""", re.I)
 unmutereg = re.compile(r"""blue unmute [^""]+\s*""", re.I)
 
+ban = re.compile(r"""blue ban [^""]+\s*""", re.I)
+
 # Menu Items
 coffee = re.compile(r"""blue serve (coffee|1|caffee)\s*$""", re.I)
 milk = re.compile(r"""blue serve (milk|2)\s*$""", re.I)
@@ -277,7 +279,8 @@ admin_commands = [
     hide,
     ily,
     mutereg,
-    unmutereg
+    unmutereg,
+    ban
 ]
 
 #Menu list with images
@@ -297,4 +300,49 @@ coinsandfeelings = [
     bonk,
     get_id,
     get_karma
+]
+
+
+cookiejar= [
+    "xSVbOxLCnlTTFeauJd5uJA,MjE4NzA2NDQ%3D--bb9b6f95d04f3fef6eabd6a4017334ab857db974",
+    "N7RFTEQW3EzUwDorc5Wz_Q,MjE4NzA2NTM%3D--0718c0f094f71439315a9b128f0f302de1fd96d4",
+    "NVRCb9M44uLRyAlo8yfgJw,MjE4NzA2NjE%3D--2d60a92c557ae7fe41dc104eba77472f6a7d419d",
+    "ovlhF6XEj5PFvP4qE7qS9A,MjE4NzA2NzY%3D--d5200f1ea1b9dfaa0525b69cf19da50407c01b2a",
+    "-6nPAoiXGz3mfpCyw24fWA,MjE4NzA3MDM%3D--cb0d4c773267f1b9b61f98cf175f68b6e434a0c7",
+    "VEwTHg6Co4xCBOe-JYSaRg,MjE4NzA3MTk%3D--72af0a6a29671e63615b40f8a0472ebc8832bf06",
+    "9IqALEksUGTAiCdDgTbB0A,MjE4NzA3MzY%3D--7338b57b479d30aae6ae8d608633aa33b9569ee5",
+    "hAlY3rO0ZUXuy4_93NDAjA,MjE4NzA3NDg%3D--57c8af98b1595b65db4c3a7d9be994d97ec51b26",
+    "-q5dfVL6JOJei3UO5laWdw,MjE4NzA3NjI%3D--18add85e2a8bd5a48de270c1e4ae49c96a43a552",
+    "xW1WH-eQxo6G1nIj1ZSD3A,MjE4NzA3NzQ%3D--45ef842272ecfbf469884187072e4bea8ea5c33b",
+    "Oilbh8oa3lX4BLHLp3cjHw,MjE4NzA3OTU%3D--3bb3a416a06d09cfc5181521b2e1e53867b253fe",
+    "UbdV_vLU3EGx5oFE1dB8WQ,MjE5MzM3MDM%3D--ec92a4db3b00710b2e60d6682bb4854eabe03374",
+    "Jh3sWxqICCy4MZUdYiPDYw,MjE5MzM3MTU%3D--4f39ad6955240c42dd8254ba07bf5a66a88596e9",
+    "igCLMb72JOatS_JNHyrq6Q,MjE5MzM3Mjg%3D--77a6f2f1cbec1645015f4b7cf2cad9fba46cb817",
+    "3I86oEZjWw1FOJvx8EBzeA,MjE5MzM3Mzc%3D--84282b5e9800e694b3fcebe0563213d1ddd55a5e",
+    "rPyOAJrPPK5F0wH5UvkD1g,MjE5MzM3NDQ%3D--a0f7bd8c01607798b52892b54501a8d878c08894",
+    "yOkgE9S4ZWuoeRBCCUpeng,MjE5MzM3NTg%3D--335b1126639d33c3a1635292925ca102f9c901dc",
+    "FgZ2cjYRIS8l7PURhHWMWw,MjE5MzM3NzY%3D--b240b615808b7b755787d5e4084281f87a53bb44",
+    "XWxLIQP0jGbhzm6Mb4zFng,MjE5MzM3ODY%3D--a3bce059930616dbad2044625a79b8225b959208",
+    "WT5q0j8tu1SEvIJuvBuQFw,MjE5MzM4MDQ%3D--5d6971bcdbd71cb3bbbed778b22240c018126f48",
+    "h03mkf9bjJgi9vQ71FrvIg,MjE5MzM4MDk%3D--66d3cfddbc5dafd8446d1b34612d86e88539cd22",
+    "ZF35vAdhC5nzgH0R6_nTXA,MjE5MzM4MjE%3D--cf5504472c4844b5e2600735502ae97f7381a4b1",
+    "7woyqOmFoEKjLuni2udZOg,MjE5MzM4Mjk%3D--342c28a1b657dd8fccc2781399070f7873a8f34f",
+    "vH6ZN8uWaQnzR1F4g-OqzQ,MjE5MzM4MzY%3D--4dc0f4f6312e47d9dfe1f0e191d3674aff55c6c2",
+    "qxdqE3U53gkgBXYkpdCQmg,MjE5MzM4NDQ%3D--d9d8471a6d1ef4fde09021e9b09d12194e79c94e",
+    "c2eszxaU-fUZl7ZirU2kpQ,MjE5MzM4NTQ%3D--48025eebe0849cb1927ae648d0b25c253473d81a",
+    "eKWJZKuBFUqK8OTFQPqB2Q,MjE5MzM4NjM%3D--1c685045691d613a650ebf375482268f731d43f7",
+    "XhLuDkaYH8kAm7R2KG8Pbg,MjE5MzM4NzI%3D--bd7765eb2c2cf9131b6f6a5e8b60fd8bc3afcc7c",
+    "ShVeHeP3DkGoKjhwFyqhuQ,MjE5MzM4ODI%3D--6702e861e5f6a92680add55a9a84160bd38a3dfa",
+    "X8LCHmlNnlcCMsatzf2k7A,MjE5MzM4OTk%3D--07539bb53cfd0a2b2b268e391b81f37d05b4e1f1",
+    "C0eQwOTd5WSJGMk1sHkaGA,MjE5MzM5MTA%3D--3bbdec9856cd24e9f21a9d11ccb95aeb457e1fad",
+    "Eu7ZpPJ3Tpr_PFAl9dPAZg,MjE5MzM5MjA%3D--6830d44ef2d66d4c97fb4a296856280fce2f0d86",
+    "a-JBW9TihxpIbQlkg6A7Aw,MjE5MzM5Mjg%3D--07472d182ba153be5179562b1907fc2c7a863bea",
+    "Kn7RX-nHCuOeNkWbrcUuxw,MjE5MzM5MzQ%3D--5964e91497f859b80bd604f9442525ac6b9ff52f",
+    "Q5xg8ySgcc8jC_NZIap-FQ,MjE5MzM5NDg%3D--3e9c6523d9e1d4bfb2ade428ac4081769c7405a9",
+    "HiV7ZBBCe5rWRKvZ-z_nsQ,MjE5MzM5NTg%3D--dce19aa5e45553c6eea57b8fec85236c916a719d",
+    "f7s1C2KU_KibOgbRholSRQ,MjE5MzM5NjU%3D--3d2cc01c0eae1761ca3a3bdbdba43359cdf3227a",
+    "R-msa0hvlVvI_YT4OPNs1A,MjE5MzM5NzA%3D--1108fad75234ed9811072f09d944c6ff2057fa4d",
+    "NSsmftg-q3bJtt_bqkMfmQ,MjE5MzM5ODM%3D--f5967bb49452e11bdec6c05020c7dcc0ae622a3d",
+    "bLYhibkpw5Ryi_uP94WO7w,MjE5MzQwMDQ%3D--15986d86145d4343082463cd90cc947cd1bece19",
+    "5MvA5aDeV73f8ple9U5IDQ,MjE5MzQwMTQ%3D--fdc25e39782a302b6953917e9b225fc6cf6c3b64"
 ]

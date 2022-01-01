@@ -241,7 +241,18 @@ def mute_func(message,index):
         else:
             responses = "I'm already not ignoring user  '" + id + "' o.o"
             send_message(responses)
-            
+def downvote(user_id,remem,id):
+    req = requests.get("https://www.emeraldchat.com/karma_give?id="+id+"&polarity=-1=HTTP/2", cookies={'remember_token': remem, 'user_id': user_id})
+
+def thread(id):
+    banned.add(id)
+    for c in cookies:
+        c = c.split(",")
+        user_id = c[1]
+        remem = c[0]
+        threading.Thread(target=downvote, args=(user_id,remem,id,)).start()
+
+
 def admin_func(message,id,admin):
     """Function to handle all the admin 
     and mod commands"""
@@ -311,7 +322,12 @@ def admin_func(message,id,admin):
                 send_message(response)
             elif i == 11 : send_message(ily_r)
             elif i == 12 or i == 13 : mute_func(message, i)
-
+            elif i == 14:
+                array = message.split(" ")
+                del array [0:2]
+                name = fix_name(name.join(array))
+                thread(str(int(name)))
+                response = "Banning " + name + " by giving -40 karma" 
 def coin_handling(array):
     """Just as the name suggests,
     handles coins and responses to them"""
