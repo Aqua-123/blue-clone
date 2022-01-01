@@ -25,7 +25,7 @@ running = True  # Main while loop control variable
 response_kill = False  # Handles response enabling and disabling
 greet_status = True  # Handles enabling and disabling greetings
 connection = True  # Control checking of connection timeout
-
+name = " "
 admin = [
     "18695559",
     "16986137",
