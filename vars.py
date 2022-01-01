@@ -7,7 +7,7 @@ from github import Github
 main_cookie = "user_id=MjE1NTAyNjI%3D--53715d8c0d5a37453895fbf751e8bc4f9056f2fe"
 #Getting info from github shiz 
 user = "Aqua-123"
-passw = "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"
+passw = "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"
 g = Github(passw)
 repo = g.get_user().get_repo("blue-clone")
 coins_contents = repo.get_contents("coins.txt")
