@@ -368,16 +368,22 @@ def send_feelings(array,index):
         elif index == 6:
             id = int(name)
             r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
-            r = json.loads(r.text)
-            print(r)
-            name = r["user"]["display_name"]
-            karma = r["user"]["karma"]
-            username = r["user"]["username"]
-            gender = r["user"]["gender"]
-            created = r["user"]["created_at"].split("T")
-            resp = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
-            send_message(resp)
-            
+            if r.status_code == 200:
+                r = json.loads(r.text)
+                print(r)
+                name = r["user"]["display_name"]
+                karma = r["user"]["karma"]
+                username = r["user"]["username"]
+                gender = r["user"]["gender"]
+                created = r["user"]["created_at"].split("T")
+                resp = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
+                send_message(resp)
+            elif r.status_code == 404:
+                resp = "The following account is either deleted or doesnt exist"
+                send_message(resp)
+            elif r.status_code == 403:
+                resp = "Timeout error, kindly wait for about 15-20 seconds and try again"
+                send_message(resp)
     else: 
         if index == 4:
             del array [0:2]
