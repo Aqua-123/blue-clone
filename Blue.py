@@ -246,7 +246,7 @@ def downvote(user_id,remem,id):
 
 def thread(id):
     banned.add(id)
-    for c in cookies:
+    for c in cookiejar:
         c = c.split(",")
         user_id = c[1]
         remem = c[0]
