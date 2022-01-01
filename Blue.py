@@ -355,7 +355,7 @@ def send_feelings(array,index):
             name = fix_name(name.join(array))
             respons = "*bonks "+name + " with a baseball bat~*"
             send_message(respons)
-def handle
+
 
 def coins_feelings(message):
     for reg_m in coinsandfeelings:
