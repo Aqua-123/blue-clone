@@ -36,7 +36,6 @@ def fix_name(name):
 def send_message(content):
     """Function for sending messages
     with the argument of content of text"""
-    
     if response_kill == False:
         message = {
             "command": "message", 
@@ -88,12 +87,10 @@ def greet(action, result, greet):
     if (action in b.keys()) and ("user" in b.keys()):
         user = b["user"]
         if "display_name" in user.keys():
-            name = fix_name(user["display_name"])
-            id = user["id"]
+            name,id = fix_name(user["display_name"]),user["id"]
             if result == "add":
                 list_main.add(name)
-                list_main_dict[id] = name
-                stats_list[id] = name
+                stats_list[id] = list_main_dict[id] =  name
                 timeout_control[id] = perf_counter()
             elif (result == "remove"):
                 if id in timeout_control.keys() : del timeout_control[id]
@@ -105,8 +102,7 @@ def greet(action, result, greet):
                 stats.append(name)
                 timeout_control[id] = perf_counter()
                 if (greet_status == True):
-                    ids = user["id"]
-                    if str(ids) in custom_greet_id.keys() : send_message(custom_greet_id[str(ids)])
+                    if str(user["id"]) in custom_greet_id.keys() : send_message(custom_greet_id[str(user["id"])])
                     else : send_greet(name)
                         
 def get_joke():
@@ -133,7 +129,8 @@ def matching(dictname,message):
     global whos_here_r,whos_here_res
     keys = list(dictname.keys())
     for i in range(0, len(keys)):
-        result = keys[i].match(message)
+        re_m = keys[i]
+        result = re_m.match(message)
         if bool(result) == True:
             if dictname == whos_here_res and re_m == whos_here:
                 whos_here_r = []
@@ -278,10 +275,7 @@ def admin_func(message,id,admin):
                 l = len(stats_list.keys())
                 sr = str(datetime.now() - t).split(":")
                 r = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
-                stats_r = str(len(stats)) + " have entered wfaf and " + str(l) + " unique people have joined in the past " + \
-                    sr[0] + " hours and " + sr[1] + \
-                    " minutes"", and it is " + \
-                    str(r) + " in wfaf"
+                stats_r = str(len(stats)) + " have entered wfaf and " + str(l) + " unique people have joined in the past " + sr[0] + " hours and " + sr[1] + " minutes"", and it is " + str(r) + " in wfaf"
                 send_message(stats_r)
             elif i == 7 and admin == True : send_message(fix_message(str(mute_list)))
             elif i == 8 and admin == True : send_message(str(timeout_control))
@@ -307,9 +301,8 @@ def admin_func(message,id,admin):
 def coin_handling(array):
     """Just as the name suggests,
     handles coins and responses to them"""
-    num = array[2]
-    if num.isdigit():
-        coin_add = int(num)
+    if array[2].isdigit():
+        coin_add = int(array[2])
         coins_contents = repo.get_contents("coins.txt")
         if (coin_add < 101) and (coin_add > -1):
             coin_new = coin_add + int(coins_contents.decoded_content.decode() )
@@ -333,9 +326,7 @@ def send_feelings(array,index):
             l = list(stats_list.values())
             l = [each_string.lower() for each_string in l]
             n = name.lower()
-            if n in l:
-                id = list(stats_list.keys())[l.index(n)]
-                respons = "ID of " + name + " is " + str(id)
+            if n in l: respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(n)])
             else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
         elif index == 6:
             id = int(name)
@@ -347,8 +338,7 @@ def send_feelings(array,index):
                 username = r["user"]["username"]
                 gender = r["user"]["gender"]
                 created = r["user"]["created_at"].split("T")
-                if name or karma or username or gender or created is None:
-                    respons = "It appears the following is has either been deleted or doesnt exist, sowwy"
+                if name or karma or username or gender or created is None: respons = "It appears the following is has either been deleted or doesnt exist, sowwy"
                 else : respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
             elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
             elif r.status_code == 403: respons = "Timeout error, kindly wait for about 15-20 seconds and try again"
@@ -378,7 +368,6 @@ ws.connect("wss://www.emeraldchat.com/cable",
            cookie=main_cookie,
            subprotocols=["actioncable-v1-json", "actioncable-unsupported"],
            origin="https://www.emeraldchat.com")
-
 ws.send(json.dumps(connect_json))
 
 while running == True:
@@ -387,12 +376,13 @@ while running == True:
         idle_function()
         t_start = perf_counter()
         reset_clock = reset_clock + 1
-        if reset_clock == 500:
-            greet_timeout = {}
-            reset_clock = 0
+        if reset_clock == 500: greet_timeout , reset_clock ={}, 0
         server_reply = (ws.recv())
         a = json.loads(server_reply)
+        whos_here_r = whos_idle_r = []
         whos_here_res ={
+            whos_here: whos_here_r,
+            whos_idle: whos_idle_r,
             bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
             dice: "Your number is...." + str(random.randint(1,6))
         }
