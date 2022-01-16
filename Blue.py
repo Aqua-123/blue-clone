@@ -157,7 +157,7 @@ def matching(dictname,message):
                 send_message(fix_message(str(whos_idle_r)))
             elif dictname== response_dict and re_m == jok:
                 threading.Thread(target=get_joke).start()
-            elif dictname == response_dict and re_m == joke:
+            elif dictname == response_dict and re_m == quote:
                 threading.Thread(target=get_quote).start()
             else: send_message(list(dictname.values())[i])
             break
