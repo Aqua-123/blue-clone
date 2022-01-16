@@ -46,14 +46,12 @@ def send_message(content):
 def greet_text(count,name):
     """Control which message is to be
     send with context to the greet control"""
- 
+
     Greet_1 = ("Hi, " + name + \
     ", retrying won't help, "
     "you can try asking "
     "'what is wfaf' for more info :D")
-    
     Greet_2 = "Hi again, " + name + ", try asking 'what is wfaf' for more info :D "
-    
     Greet_general = ("Hi, " + name + \
         ", Welcome to WFAF, "
         "which stands for Waiting For A Friend, "
@@ -296,7 +294,7 @@ def admin_func(message,id,admin):
                 array = message.split(" ")
                 del array [0:2]
                 response = "Banning " + fix_name(" ".join(array)) + " by giving -40 karma" 
-                thread(str(int(name)))
+                thread(str(int(fix_name(" ".join(array)) )))
                 send_message(response)
 def coin_handling(array):
     """Just as the name suggests,
@@ -333,11 +331,7 @@ def send_feelings(array,index):
             r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
             if r.status_code == 200:
                 r = json.loads(r.text)
-                name = r["user"]["display_name"]
-                karma = r["user"]["karma"]
-                username = r["user"]["username"]
-                gender = r["user"]["gender"]
-                created = r["user"]["created_at"].split("T")
+                name,karma,username,gender,created = r["user"]["display_name"],r["user"]["karma"],r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
                 if name or karma or username or gender or created is None: respons = "It appears the following is has either been deleted or doesnt exist, sowwy"
                 else : respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
             elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
@@ -406,7 +400,7 @@ while running == True:
                     elif id in mod : admin_func(message, id, False)
 
     except websocket.WebSocketConnectionClosedException:reconnect()
-    except ConnectionTimeoutError :reconnect()
+"""    except ConnectionTimeoutError :reconnect()
     except json.JSONDecodeError:continue
     except ValueError:continue
-    except IndexError:continue
+    except IndexError:continue"""
