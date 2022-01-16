@@ -331,7 +331,11 @@ def send_feelings(array,index):
             r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
             if r.status_code == 200:
                 r = json.loads(r.text)
-                name,karma,username,gender,created = r["user"]["display_name"],r["user"]["karma"],r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
+                name = r["user"]["display_name"]
+                karma = r["user"]["karma"]
+                username = r["user"]["username"]
+                gender = r["user"]["gender"]
+                created = r["user"]["created_at"].split("T")
                 if name or karma or username or gender or created is None: respons = "It appears the following is has either been deleted or doesnt exist, sowwy"
                 else : respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
             elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
