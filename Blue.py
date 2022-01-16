@@ -352,7 +352,7 @@ def send_feelings(array,index):
                 else : respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
             elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
             elif r.status_code == 403: respons = "Timeout error, kindly wait for about 15-20 seconds and try again"
-            elif r is None : respons = "It appears the following is has either been deleted or doesnt exist, sowwy"
+            elif r is None : respons = "It appears the following account has either been deleted or doesnt exist, sowwy ;-;"
     else: 
         if index == 4:
             del array [0:2]
