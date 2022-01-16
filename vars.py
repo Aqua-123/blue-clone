@@ -233,7 +233,7 @@ love_r = (
     " You have all my love and wishes."
     " Much love ~ Blue :>"
 )
-
+jok_r = "placeholder"
 #response and string match dictionary
 response_dict = {
     tldr: tldr_r,
@@ -263,6 +263,8 @@ response_dict = {
     water: water_r,
     cookiess: cookies_r,
     ppizza: pineapple_pizza_r,
+    jok : jok_r,
+    quote: jok_r
 }
 
 #List containing vars of admin command matches

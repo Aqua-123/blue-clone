@@ -108,14 +108,19 @@ def get_joke():
     and returns it as value of var joke"""
     r = requests.get("https://icanhazdadjoke.com/slack")
     joke = json.loads(r.text)["attachments"][0]["text"]
-    return(joke)
+    send_message(joke)
     
 def get_quote():
     """Fetches quotes from the API mentioned 
     and returns it as value of var response3"""
     r = requests.get('https://api.quotable.io/random')
-    response3 = r.json()['content'] + " -" + str(r.json()['author'])
-    return response3
+    content = str(r.json()['content'])
+    author = "~ by " + str(r.json()['author'])
+    send_message(content)
+    time.sleep(0.2)
+    send_message(author)
+    
+    
 
 def threaded_adding(ids):
     global whos_here_r,whos_here_res
@@ -150,6 +155,10 @@ def matching(dictname,message):
                 if len(idle_main_dict.keys()) == 0 : whos_idle_r = "I can see no lurkers as of now"
                 elif len(idle_main_dict.keys()) > 0:whos_idle_r = "I can see " + str(whos_here_r)+" lurking"
                 send_message(fix_message(str(whos_idle_r)))
+            elif dictname== response_dict and re_m == jok:
+                threading.Thread(target=get_joke).start()
+            elif dictname == response_dict and re_m == joke:
+                threading.Thread(target=get_quote).start()
             else: send_message(list(dictname.values())[i])
             break
                
