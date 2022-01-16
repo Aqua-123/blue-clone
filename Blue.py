@@ -43,11 +43,11 @@ def send_message(content):
             "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":null}",
             "data": "{\"message\":\"" + content + "\",\"id\":null,\"action\":\"speak\"}"}
         ws.send(json.dumps(message))
-        
+       
 def greet_text(count,name):
     """Control which message is to be
     send with context to the greet control"""
-    
+ 
     Greet_1 = ("Hi, " + name + \
     ", retrying won't help, "
     "you can try asking "
@@ -93,6 +93,7 @@ def greet(action, result, greet):
             if result == "add":
                 list_main.add(name)
                 list_main_dict[id] = name
+                stats_list[id] = name
                 timeout_control[id] = perf_counter()
             elif (result == "remove"):
                 if id in timeout_control.keys() : del timeout_control[id]
@@ -101,7 +102,6 @@ def greet(action, result, greet):
                 if name in idle_main : idle_main.remove(name)
                 elif name in list_main : list_main.remove(name)
             if (greet == True) and ("id" in user) and (action == "user_connected"):
-                stats_list.add(name)
                 stats.append(name)
                 timeout_control[id] = perf_counter()
                 if (greet_status == True):
@@ -127,16 +127,13 @@ def threaded_adding(ids):
     global whos_here_r,whos_here_res
     r = requests.get("https://emeraldchat.com/profile_json?id=" + str(ids),cookies = cookies)
     r = json.loads(r.text)
-    print(r)
-    name = r["user"]["display_name"]
-    whos_here_r.append(name)
-    print(whos_here_r)
+    whos_here_r.append(r["user"]["display_name"])
+    
 def matching(dictname,message):
     global whos_here_r,whos_here_res
     keys = list(dictname.keys())
     for i in range(0, len(keys)):
-        re_m = keys[i]
-        result = re_m.match(message)
+        result = keys[i].match(message)
         if bool(result) == True:
             if dictname == whos_here_res and re_m == whos_here:
                 whos_here_r = []
@@ -144,17 +141,10 @@ def matching(dictname,message):
                 for t in threads:t.start()
                 for t in threads:t.join()
                 threads.clear()
-                print((whos_here_r))
                 if len(idle_main_dict.keys()) == 0 : whos_here_res = "I can see " + str(whos_here_r)+" and no lurkers :p"
                 elif len(idle_main_dict.keys()) > 0:
-                    if len(idle_main_dict.keys()) == 1:
-                        whos_here_res = "I can see " + \
-                            str(whos_here_r)+" and " + \
-                            str(len(idle_main_dict.keys()))+" person lurking :p"
-                    elif len(idle_main_dict.keys()) > 1:
-                        whos_here_res = "I can see " + \
-                            str(whos_here_r)+" and " + \
-                            str(len(idle_main_dict.keys()))+" peeps lurking :p"
+                    if len(idle_main_dict.keys()) == 1: whos_here_res = "I can see " + str(whos_here_r)+" and " + str(len(idle_main_dict.keys()))+" person lurking :p"
+                    elif len(idle_main_dict.keys()) > 1: whos_here_res = "I can see " + str(whos_here_r)+" and " + str(len(idle_main_dict.keys()))+" peeps lurking :p"
                 send_message(fix_message(str(whos_here_res)))
             elif dictname == whos_here_res and re_m == whos_idle:
                 whos_here_res = []
@@ -164,12 +154,9 @@ def matching(dictname,message):
                 threads.clear()
                 if len(idle_main_dict.keys()) == 0 : whos_idle_r = "I can see no lurkers as of now"
                 elif len(idle_main_dict.keys()) > 0:whos_idle_r = "I can see " + str(whos_here_r)+" lurking"
-                print((whos_idle_r))
                 send_message(fix_message(str(whos_idle_r)))
-            else:
-                values = list(dictname.values())
-                send_message(values[i])
-                break
+            else: send_message(list(dictname.values())[i])
+            break
                
 
 
@@ -189,17 +176,12 @@ def idle_function():
     for i in range(0, len(idle_check_list)):
         x = idle_check_list[i]
         if (t_start - x) >= 240:
-            keys = list(timeout_control.keys())
-            val = keys[i]
-            #for i in range(0, len(forbiden_chars)):val = val.replace(forbiden_chars[i], "")
+            val = list(timeout_control.keys())[i]
             if val in list_main_dict :
-                name = list_main_dict[val]
+                idle_main_dict[val] = list_main_dict[val]
                 del list_main_dict[val]
-                idle_main_dict[val] = name
         elif (t_start - x) < 240:
-            keys = list(timeout_control.keys())
-            val = keys[i]
-            #for i in range(0, len(forbiden_chars)):val = val.replace(forbiden_chars[i], "")
+            val = list(timeout_control.keys())[i]
             if val in idle_main_dict : del idle_main_dict[val]
         i = i+1
 
@@ -207,9 +189,9 @@ def remove_blue():
     """Removes blue from all lists 
     to avoid confusion with people"""
     
-    if "Blue" in list_main : list_main.remove("Blue")
-    if "Blue" in idle_main : list_main.remove("Blue")
-    if "Blue" in list(timeout_control.keys()) : del timeout_control["Blue"]
+    if "Blue" in list_main_dict : del list_main_dict["Blue"]
+    if "Blue" in idle_main_dict : del idle_main_dict["Blue"]
+    if "Blue" in list(timeout_control.keys()) : del timeout_control["21550262"] 
 
 def mute_func(message,index):
     array = message.split()
@@ -217,9 +199,7 @@ def mute_func(message,index):
     del array[0:2]
     id = array[0]
     if index == 12:
-        if id in mute_list:
-            responses = "I'm already ignoring user  '" + id + " 'o.o"
-            send_message(responses)
+        if id in mute_list: responses = "I'm already ignoring user  '" + id + " 'o.o"
         else:
             mute_list.append(id)
             new_mute = str(mute_list)
@@ -228,7 +208,6 @@ def mute_func(message,index):
             muted_contents = repo.get_contents("muted.txt")
             repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
             responses = "Okai I'll ignore user '" + id + "' 0.0"
-            send_message(responses)
     elif index == 13:
         if id in mute_list:
             mute_list.remove(id)    
@@ -238,13 +217,10 @@ def mute_func(message,index):
             muted_contents = repo.get_contents("muted.txt")
             repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
             responses = "Okai I'll stop ignoring user '" + id + "' :>"
-            send_message(responses)    
-        else:
-            responses = "I'm already not ignoring user  '" + id + "' o.o"
-            send_message(responses)
-def downvote(user_id,remem,id):
-    req = requests.get("https://www.emeraldchat.com/karma_give?id="+id+"&polarity=-1=HTTP/2", cookies={'remember_token': remem, 'user_id': user_id})
-    print(req.status_code)
+        else: responses = "I'm already not ignoring user  '" + id + "' o.o"
+    send_message(responses)
+        
+def downvote(user_id,remem,id): req = requests.get("https://www.emeraldchat.com/karma_give?id="+id+"&polarity=-1=HTTP/2", cookies={'remember_token': remem, 'user_id': user_id})
 
 def thread(id):
     banned.add(id)
@@ -282,8 +258,6 @@ def admin_func(message,id,admin):
             elif i == 3 and admin == True:
                 response = "List went -poof-"
                 send_message(response)
-                list_main.clear()
-                idle_main.clear()
                 timeout_control.clear()
                 list_main_dict.clear()
                 idle_main_dict.clear()
@@ -301,7 +275,7 @@ def admin_func(message,id,admin):
                 response = "Just had some memory loss x-x"
                 send_message(response)
             elif i == 6:
-                l = len(list(stats_list))
+                l = len(stats_list.keys())
                 sr = str(datetime.now() - t).split(":")
                 r = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
                 stats_r = str(len(stats)) + " have entered wfaf and " + str(l) + " unique people have joined in the past " + \
@@ -327,9 +301,7 @@ def admin_func(message,id,admin):
             elif i == 14:
                 array = message.split(" ")
                 del array [0:2]
-                name = " "
-                name = fix_name(name.join(array))
-                response = "Banning " + name + " by giving -40 karma" 
+                response = "Banning " + fix_name(" ".join(array)) + " by giving -40 karma" 
                 thread(str(int(name)))
                 send_message(response)
 def coin_handling(array):
@@ -342,74 +314,51 @@ def coin_handling(array):
         if (coin_add < 101) and (coin_add > -1):
             coin_new = coin_add + int(coins_contents.decoded_content.decode() )
             repo.update_file(coins_contents.path, "coins update", str(coin_new), coins_contents.sha, branch="main")
-            if num == "1":
-                coin_confirm = str(int(num) + 0) + " coin added to the fortune well, there are now " + str(coin_new) + " coins in the well, wishing good luck to all :D"
-                send_message(coin_confirm)
-            else:
-                coin_confirm = str(int(num) + 0) + " coins added to the fortune well, there are now " + str(coin_new) + " coins in the well, wishing good luck to all :D"
-                send_message(coin_confirm)
-        elif coin_add > 100:
-            coin_overflow = "Woops too many coins, maybe buy me some chocolates instead? :>"
-            send_message(coin_overflow)
+            if num == "1": coin_confirm = str(int(num) + 0) + " coin added to the fortune well, there are now " + str(coin_new) + " coins in the well, wishing good luck to all :D"
+            else: coin_confirm = str(int(num) + 0) + " coins added to the fortune well, there are now " + str(coin_new) + " coins in the well, wishing good luck to all :D"
+        elif coin_add > 100: coin_confirm = "Woops too many coins, maybe buy me some chocolates instead? :>"
+        send_message(coin_confirm)
 
 def send_feelings(array,index):
     """Handles sending and recieving feelings 
     like hugs and love and what not I will be adding
     because yay feelings"""
-    print(index)
     if index != 4:
         del array [0:4]
-        global name
-        name = " "
-        name = fix_name(name.join(array))
-        if index == 1:
-            respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
-            send_message(respons)
-        elif index == 2:
-            respons = "Sending pats to " + name+" *pat pat*"
-            send_message(respons)
-        elif index == 3:
-            respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
-            send_message(respons)
+        name = fix_name(" ".join(array))
+        if index == 1: respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
+        elif index == 2: respons = "Sending pats to " + name+" *pat pat*"
+        elif index == 3: respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
         elif index == 5:
-            if name in list_main_dict.values():
-                l = list(list_main_dict.keys())
-                id = l[list(list_main_dict.values()).index(name)]
-                print(id)
-                id = "ID of " + name + " is " + str(id)
-                print(id)
-            elif name in idle_main_dict.values():
-                l = list(idle_main_dict.keys())
-                id = l[list(idle_main_dict.values()).index(name)]
-                id = "ID of " + name + " is " + str(id)
-                print(id)
-            else : id = "Im sorry I cant see anyone with the name " + name + " here"
-            send_message(id)
+            l = list(stats_list.values())
+            l = [each_string.lower() for each_string in l]
+            n = name.lower()
+            if n in l:
+                id = list(stats_list.keys())[l.index(n)]
+                respons = "ID of " + name + " is " + str(id)
+            else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
         elif index == 6:
             id = int(name)
             r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
             if r.status_code == 200:
                 r = json.loads(r.text)
-                print(r)
                 name = r["user"]["display_name"]
                 karma = r["user"]["karma"]
                 username = r["user"]["username"]
                 gender = r["user"]["gender"]
                 created = r["user"]["created_at"].split("T")
-                resp = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
-                send_message(resp)
-            elif r.status_code == 404:
-                resp = "The following account is either deleted or doesnt exist"
-                send_message(resp)
-            elif r.status_code == 403:
-                resp = "Timeout error, kindly wait for about 15-20 seconds and try again"
-                send_message(resp)
+                if name or karma or username or gender or created is None:
+                    respons = "It appears the following is has either been deleted or doesnt exist, sowwy"
+                else : respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
+            elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
+            elif r.status_code == 403: respons = "Timeout error, kindly wait for about 15-20 seconds and try again"
+            elif r is None : respons = "It appears the following is has either been deleted or doesnt exist, sowwy"
     else: 
         if index == 4:
             del array [0:2]
-            name = fix_name(name.join(array))
+            name = fix_name(" ".join(array))
             respons = "*bonks "+name + " with a baseball bat~*"
-            send_message(respons)
+    send_message(respons)
 
 
 def coins_feelings(message):
@@ -443,33 +392,10 @@ while running == True:
             reset_clock = 0
         server_reply = (ws.recv())
         a = json.loads(server_reply)
-        
-        """if len(idle_main) == 0:
-            whos_here_r = "I can see " + str(list_main)+" and no lurkers :p"
-            whos_idle_r = "I can see no lurkers as of now"
-            
-        elif len(idle_main) > 0:
-            if len(idle_main) == 1:
-                whos_here_r = "I can see " + \
-                    str(list_main)+" and " + \
-                    str(len(idle_main))+" person lurking :p"
-            elif len(idle_main) > 1:
-                whos_here_r = "I can see " + \
-                    str(list_main)+" and " + \
-                    str(len(idle_main))+" peeps lurking :p"
-            whos_idle_r = "I can see " + str(idle_main)+" lurking"
-        for i in range(0, len(bracs)):
-            whos_here_r = whos_here_r.replace(bracs[i], "")
-            whos_idle_r = whos_idle_r.replace(bracs[i], "")"""
-        whos_here_r = []
-        whos_idle_r = []
         whos_here_res ={
-            whos_here: whos_here_r,
-            whos_idle: whos_idle_r,
             bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
             dice: "Your number is...." + str(random.randint(1,6))
         }
-        
         if ("identifier" in a.keys()) and ("message" in a.keys()):
             b = a["message"]
             greet("user_connected", "add", True)
@@ -492,6 +418,5 @@ while running == True:
     except websocket.WebSocketConnectionClosedException:reconnect()
     except ConnectionTimeoutError :reconnect()
     except json.JSONDecodeError:continue
-    #except KeyError:continue
     except ValueError:continue
     except IndexError:continue
