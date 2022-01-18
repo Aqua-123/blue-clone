@@ -350,3 +350,12 @@ cookiejar= [
     "bLYhibkpw5Ryi_uP94WO7w,MjE5MzQwMDQ%3D--15986d86145d4343082463cd90cc947cd1bece19",
     "5MvA5aDeV73f8ple9U5IDQ,MjE5MzQwMTQ%3D--fdc25e39782a302b6953917e9b225fc6cf6c3b64"
 ]
+greet_check= [
+    re.compile(r"""Welcome, [^""]+, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who you've sent a friend request to and they haven't accepted your request.\s*"""),
+    re.compile(r"""Hi, [^""]+, retrying won't help, you can try asking 'what is wfaf' for more info :D\s*"""),
+    re.compile(r"""Hi again, [^""]+, try asking 'what is wfaf' for more info :D\s*"""),
+    re.compile(r"""Hello, [^""]+! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~\s*"""),
+    re.compile(r"""Hi, [^""]+! I'm afraid they aren't your friend yet, you can always try again!\s*"""),
+    re.compile(r"""Hi again, [^""]+, don't feel bad, they'll accept one day... hopefully!\s*"""),
+
+]

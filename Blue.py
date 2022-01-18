@@ -352,7 +352,19 @@ def send_feelings(array,index):
             respons = "*bonks "+name + " with a baseball bat~*"
     send_message(respons)
 
-
+def check_greeters(message,id):
+    global greet_status
+    if message not in custom_greet_id.values() and (id == "16008266" or id == ""):
+        for reg_m in greet_check:
+            result = result = reg_m.match(message)
+            if bool(result) == True and greet_status == True:
+                if id == "16008266":
+                    send_message("Disabling greets uwu")
+                    greet_status = False
+                elif id == "20909261" and greet_status == False:
+                    send_message("Re-enabling greets :D")
+                    greet_status = True
+    
 def coins_feelings(message):
     for reg_m in coinsandfeelings:
         result = reg_m.match(message)
@@ -401,6 +413,7 @@ while running == True:
                 if "id" in user.keys():
                     id = str(user["id"])
                     message = fix_message(str(b["messages"]))
+                    check_greeters(message, id)
                     if id not in mute_list:
                         coins_feelings(message)
                         matching(response_dict,message)
