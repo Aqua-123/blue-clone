@@ -405,16 +405,16 @@ while running == True:
         }
         if ("identifier" in a.keys()) and ("message" in a.keys()):
             b = a["message"]
-            greet("user_connected", "add", True)
-            greet("typing", "add", False)
-            greet("user_disconnected", "remove", False)
-            greet("messages", "add", False)
-            
+            threading.Thread(target=greet, args=("user_connected","add",True,)).start()
+            threading.Thread(target=greet, args=("typing","add",False,)).start()
+            threading.Thread(target=greet, args=("user_disconnected","remove",False,)).start()
+            threading.Thread(target=greet, args=("messages","add",False,)).start()
             if ("messages" in b.keys()) and ("user" in b.keys()):
                 user = b["user"]
                 if "id" in user.keys():
                     id = str(user["id"])
                     message = fix_message(str(b["messages"]))
+                    threading.Thread(target=check_greeters, args=(message,id,)).start()
                     check_greeters(message, id)
                     if id not in mute_list:
                         coins_feelings(message)
