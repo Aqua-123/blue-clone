@@ -415,7 +415,11 @@ while running == True:
                     elif id in mod : admin_func(message, id, False)
 
     except websocket.WebSocketConnectionClosedException:reconnect()
+    except:
+        send_message("Unknown error occurred, restarting... ~*")
+        restart_program()
 """    except ConnectionTimeoutError :reconnect()
     except json.JSONDecodeError:continue
     except ValueError:continue
     except IndexError:continue"""
+    
