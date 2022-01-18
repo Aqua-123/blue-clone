@@ -357,8 +357,8 @@ def check_greeters(message,id):
     if message not in custom_greet_id.values() and (id == "16008266" or id == ""):
         for reg_m in greet_check:
             result = result = reg_m.match(message)
-            if bool(result) == True and greet_status == True:
-                if id == "16008266":
+            if bool(result) == True :
+                if id == "16008266"and greet_status == True:
                     send_message("Disabling greets uwu")
                     greet_status = False
                 elif id == "20909261" and greet_status == False:
