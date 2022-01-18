@@ -47,16 +47,9 @@ def greet_text(count,name):
     """Control which message is to be
     send with context to the greet control"""
 
-    Greet_1 = ("Hi, " + name + \
-    ", retrying won't help, "
-    "you can try asking "
-    "'what is wfaf' for more info :D")
+    Greet_1 = "Hi, " + name + ", retrying won't help, you can try asking 'what is wfaf' for more info :D"
     Greet_2 = "Hi again, " + name + ", try asking 'what is wfaf' for more info :D "
-    Greet_general = ("Hi, " + name + \
-        ", Welcome to WFAF, "
-        "which stands for Waiting For A Friend, "
-        "Let's keep it family-friendly,"
-        " Enjoy your stay :D ")
+    Greet_general = ("Hi, " + name + ", Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasn't accepted/declined your friend request, Enjoy your stay :D ")
     if count == 1 : return Greet_1
     elif count == 2 : return Greet_2
     elif count == 3 : return Greet_general
@@ -170,7 +163,7 @@ def fix_message(messages):
     message = str(messages)
     chars = ('"[]‘')
     for c in chars : message = message.replace(c, "")
-    return (message.replace("'", ''))
+    return (message.replace("'", '').replace("\n", "").strip())
 
 def idle_function():
     """Function for moving people 
@@ -387,6 +380,7 @@ while running == True:
         reset_clock = reset_clock + 1
         if reset_clock == 500: greet_timeout , reset_clock ={}, 0
         server_reply = (ws.recv())
+        print(server_reply)
         a = json.loads(server_reply)
         whos_here_r = whos_idle_r = []
         whos_here_res ={
