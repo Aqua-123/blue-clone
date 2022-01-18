@@ -308,6 +308,7 @@ def admin_func(message,id,admin):
 def coin_handling(array):
     """Just as the name suggests,
     handles coins and responses to them"""
+    num = array[2]
     if array[2].isdigit():
         coin_add = int(array[2])
         coins_contents = repo.get_contents("coins.txt")
