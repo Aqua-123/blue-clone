@@ -354,7 +354,7 @@ def send_feelings(array,index):
 
 def check_greeters(message,id):
     global greet_status
-    if message not in custom_greet_id.values() and (id == "16008266" or id == ""):
+    if message not in custom_greet_id.values() and (id == "16008266" or id == "20909261"):
         for reg_m in greet_check:
             result = result = reg_m.match(message)
             if bool(result) == True :
