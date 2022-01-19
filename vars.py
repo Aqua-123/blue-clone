@@ -101,8 +101,9 @@ custom_greet_id = {
     "22466125": "Welcome lovely person <3",
     "21842289": "As dusk appears, darkness takes over the sky... before the last trace of light is gone",
     "11427049": "Personal pizzas all around! Harenoir has arisen from the void!",
-    "16008266": "The most radiant & shining greeter has arrived! <3"
-}
+    "16008266": "The most radiant & shining greeter has arrived! <3",
+    "22975867":"The earth shalt trem'r at which hour the sphere rolls to the did grind "
+    }
 
 # Response list for im bored phrase
 im_bored_list = [
