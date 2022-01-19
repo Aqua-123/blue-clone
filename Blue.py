@@ -418,7 +418,7 @@ while running == True:
                     threading.Thread(target=check_greeters, args=(message,id,)).start()
                     check_greeters(message, id)
                     if id not in mute_list:
-                        message = message.strip('\n').replace("\n","")
+                        message = message.strip('\n').replace("\n","").strip()
                         coins_feelings(message)
                         matching(response_dict,message)
                         matching(whos_here_res,message)
