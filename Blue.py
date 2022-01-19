@@ -419,6 +419,7 @@ while running == True:
                     check_greeters(message, id)
                     if id not in mute_list:
                         message = message.strip('\n').replace("\n","").strip()
+                        message = re.sub(r'\n', '', message)
                         coins_feelings(message)
                         matching(response_dict,message)
                         matching(whos_here_res,message)
