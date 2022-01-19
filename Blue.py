@@ -327,7 +327,8 @@ def send_feelings(array,index):
         elif index == 5:
             l = list(stats_list.values())
             l = [each_string.lower() for each_string in l]
-            n = name.lower()
+            n = name.lower().strip()
+            print(n)
             if n in l: respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(n)])
             else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
         elif index == 6:
