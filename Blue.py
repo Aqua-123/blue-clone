@@ -418,7 +418,7 @@ while running == True:
                     threading.Thread(target=check_greeters, args=(message,id,)).start()
                     check_greeters(message, id)
                     if id not in mute_list:
-                        coins_feelings(message.strip('\n').replace("\n",""),rstrip("\n"))
+                        coins_feelings(message.strip('\n').replace("\n","").rstrip("\n"))
                         matching(response_dict,message)
                         matching(whos_here_res,message)
                     if id in admin : admin_func(message, id, True)
