@@ -290,7 +290,7 @@ def admin_func(message,id,admin):
                 elif name in list_main : list_main.remove(name)
                 response = "Ahem, aye aye"
                 send_message(response)
-            elif i == 11 : send_message(ily_r)
+            elif i == 11 and id not in mute_list: send_message(ily_r)
             elif i == 12 or i == 13 : mute_func(message, i)
             elif i == 14:
                 array = message.split(" ")
