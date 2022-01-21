@@ -137,3 +137,109 @@ Strawberry 🍓(16521287) :-Stuff you try to upload and how it works
 Strawberry 🍓(16521287) :-Also any bug reports are good
 Harenoir(11427049) :-huh
 Strawberry 🍓(16521287) :-Its not a preview just to have it
+Harenoir(11427049) :-oof
+Strawberry 🍓(16521287) :-I mean by all means enjoy
+Harenoir(11427049) :-welp, this star i have for pfp is quite similar to the original
+Strawberry 🍓(16521287) :-Just do know thst we need to improve it
+Harenoir(11427049) :-alright then
+Strawberry 🍓(16521287) :-Any notes by the way?
+Harenoir(11427049) :-hmm...
+Strawberry 🍓(16521287) :-Anything we should tweak or fix
+Strawberry 🍓(16521287) :-J
+Strawberry 🍓(16521287) :-I know of some things already
+Harenoir(11427049) :-ive tested quite a few pics, but most of them are just random pixels
+Lumi(16008266) :-Hello, Natsuki The Neko! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-Well
+Strawberry 🍓(16521287) :-Send Aqua
+Harenoir(11427049) :-but im guessing its because of compressed format
+Strawberry 🍓(16521287) :-The original pics and tell him what haplened
+Harenoir(11427049) :-oh sure
+Strawberry 🍓(16521287) :-well yes
+Strawberry 🍓(16521287) :-Its trying hard to fit it the palette
+Strawberry 🍓(16521287) :-But it may be that its not well chosen
+Strawberry 🍓(16521287) :-Most common colours worked at the 6 bit range
+Strawberry 🍓(16521287) :-But at the 9 bit range
+Strawberry 🍓(16521287) :-If similar colours are frequent, it pushes out the others
+Strawberry 🍓(16521287) :-which are stuck being encoded as individual pixels, two chars each
+Strawberry 🍓(16521287) :-I wonder how well the png format does actually
+Harenoir(11427049) :-hmm
+Strawberry 🍓(16521287) :-If that would work better lol
+Harenoir(11427049) :-i usually work with png images the most
+Harenoir(11427049) :-this star is a png
+Strawberry 🍓(16521287) :-No I meat base64 png
+Strawberry 🍓(16521287) :-mean
+Harenoir(11427049) :-ahh
+Harenoir(11427049) :-well
+Strawberry 🍓(16521287) :-Thats how its represented
+Strawberry 🍓(16521287) :-A data URL
+Lumi(16008266) :-Hello, Venus Gamorreans! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Natsuki The Neko! Im afraid they arent your friend yet, you can always try again!
+Strawberry 🍓(16521287) :-try opening your pfp in a new tab and see
+Harenoir(11427049) :-hmm
+Harenoir(11427049) :-im dragging my pfp but nothing happens
+Strawberry 🍓(16521287) :-uh right click?
+Strawberry 🍓(16521287) :-press down right click somewhere else
+Strawberry 🍓(16521287) :-and release it over the pfo
+Strawberry 🍓(16521287) :-pfp
+Gaining Chinchilla(23329697) :-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAC9klEQVRoQ+1YwZGjMBAc/hvABYADIIALYP0X/wvgNowN4BLYP/zXAVwAF8A6gAtg/7ppGYEkBEJC3EIVqnJhbI3onu4ZyS6ISPLrsKM4CXyxdqcCXywA7UIB2UgqakCJH7sgEA97iNgFgcMrsGsCUjREbcvF1va6a8C4UnW3HFRcLiQ/PtRneB8am1pIkiAS/MJwSJjAdqvAoQn04BtWAO5hBeZUCFll6vvNLBRDQDYN7wN1EoftCRg1MKXA7mrAyn49dJ9QMadIsIkChyYwC16neKalxqqQXYERgQbdB12IuxHe1+hK9sYWC9qcH0VAoiA/HU/r1Z66DQubF1onvK8BgwFvyIRGo65YJ9B1fmEnDlObJSAlt7fi8SAF/nUC/Og5OAoseHoI3wuTuM1PilegJ/E4r/jHEvBT8UNsVgU0UHU4E6xEBTUyZdrMAmedFtoHYZYCUvLp8F4o70kjQfpeZ0TZCZZXJDKOBZZxn7a4BnwwJRcrmgu4gIq4D4TaUlj3Vjx/h6Fi9PXKdxGZ1+utJpBNhYTsjyyUYgbYqUVZuBk17vtsY0swFTOyH+o2U9gCCghuo2Gf82FS/XAR3ORb1ewjBm9qvoMo6rEoCnKvUTWwFIZqTIkEWibQOpwb+agfs3lI/syXzKh9wEdoDfh+vQkV8P0U8EVFvEQB1z4t20iwjewrVqrp7f6d3umFrtxufpS/+zk4G5k20u18ZBfP/r
+Harenoir(11427049) :-huh
+Strawberry 🍓(16521287) :-Gaining Chinchilla?
+Gaining Chinchilla(23329697) :-thats the link
+Strawberry 🍓(16521287) :-Is
+Strawberry 🍓(16521287) :-Is that your alt
+Gaining Chinchilla(23329697) :-ofc it is
+Harenoir(11427049) :-lmao
+Strawberry 🍓(16521287) :-Okay
+Strawberry 🍓(16521287) :-So thats over 1k chars
+Gaining Chinchilla(23329697) :-right
+Strawberry 🍓(16521287) :-can you upload your pfp real quick and check the console
+Strawberry 🍓(16521287) :-If it mentions the compressed size
+Gaining Chinchilla(23329697) :-thats for teri right?
+Strawberry 🍓(16521287) :-Cause if png has better conpression then this compression stuff was just fun
+Strawberry 🍓(16521287) :-Yes
+Harenoir(11427049) :-ahh
+Harenoir(11427049) :-one sec
+Harenoir(11427049) :-compressed: 762 chars
+Strawberry 🍓(16521287) :-okay
+Strawberry 🍓(16521287) :-thats better than png
+Strawberry 🍓(16521287) :-POG
+Strawberry 🍓(16521287) :-I feel good about myseld
+Strawberry 🍓(16521287) :-x)
+Harenoir(11427049) :-lmao-
+Strawberry 🍓(16521287) :-we gonna make all the gibberish invisible eventually
+Harenoir(11427049) :-ohh
+Harenoir(11427049) :-neat
+Strawberry 🍓(16521287) :-but rn taking a break
+Strawberry 🍓(16521287) :-collecting data
+Harenoir(11427049) :-fair
+Strawberry 🍓(16521287) :-yep
+Strawberry 🍓(16521287) :-stuff was invisible during the upload image bypass
+Strawberry 🍓(16521287) :-showing imaged
+Strawberry 🍓(16521287) :-was done using base 64
+Strawberry 🍓(16521287) :-the legacy method at lesst
+Strawberry 🍓(16521287) :-the new one was just invisible chars
+Harenoir(11427049) :-hm...
+Lumi(16008266) :-Hello, Natsuki The Sad Neko! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Harenoir(11427049) :-so then, why is the stuff displayed now
+Strawberry 🍓(16521287) :-what is
+Natsuki The Sad Neko(15832363) :-Hi everyone
+Strawberry 🍓(16521287) :-Ph
+Harenoir(11427049) :-the chars in the bio
+Strawberry 🍓(16521287) :-Well its easy debugging
+Strawberry 🍓(16521287) :-You have stats but
+Strawberry 🍓(16521287) :-If you see to many repeating things
+Strawberry 🍓(16521287) :-you know the compression messed up
+Harenoir(11427049) :-huh
+Strawberry 🍓(16521287) :-Its a lot easier to handle
+Harenoir(11427049) :-thats good to know
+Strawberry 🍓(16521287) :-used to have to copy paste at first
+Strawberry 🍓(16521287) :-etc etc
+Lumi(16008266) :-Hi, Natsuki The Sad Neko! Im afraid they arent your friend yet, you can always try again!
+Strawberry 🍓(16521287) :-feature sounds simple
+Harenoir(11427049) :-hm, at least this way, i can just copy paste the current bio in any profile
+Strawberry 🍓(16521287) :-but theres 6 files of code on it
+Strawberry 🍓(16521287) :-well
+Strawberry 🍓(16521287) :-youll be able to copy and delete it either way I hope
+Strawberry 🍓(16521287) :-well figure it out
+Harenoir(11427049) :-yes, that, currently i can delete the pfp by just deleting the bio
+Lumi(16008266) :-Hello, Sky Blue Jawa! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
