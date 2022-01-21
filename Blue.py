@@ -148,10 +148,8 @@ def matching(dictname,message):
                 if len(idle_main_dict.keys()) == 0 : whos_idle_r = "I can see no lurkers as of now"
                 elif len(idle_main_dict.keys()) > 0:whos_idle_r = "I can see " + str(whos_here_r)+" lurking"
                 send_message(fix_message(str(whos_idle_r)))
-            elif dictname== response_dict and re_m == jok:
-                threading.Thread(target=get_joke).start()
-            elif dictname == response_dict and re_m == quote:
-                threading.Thread(target=get_quote).start()
+            elif dictname== response_dict and re_m == jok: threading.Thread(target=get_joke).start()
+            elif dictname == response_dict and re_m == quote: threading.Thread(target=get_quote).start()
             else: send_message(list(dictname.values())[i])
             break
                
@@ -189,7 +187,12 @@ def remove_blue():
     if "Blue" in list_main_dict : del list_main_dict["Blue"]
     if "Blue" in idle_main_dict : del idle_main_dict["Blue"]
     if "Blue" in list(timeout_control.keys()) : del timeout_control["21550262"] 
-
+def update_git(mute_list):
+    new_mute = str(mute_list)
+    chars = "[]'\n"
+    for c in chars : new_mute = new_mute.replace(c, "")
+    muted_contents = repo.get_contents("muted.txt")
+    repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
 def mute_func(message,index):
     array = message.split()
     global mute_list
@@ -199,20 +202,12 @@ def mute_func(message,index):
         if id in mute_list: responses = "I'm already ignoring user  '" + id + " 'o.o"
         else:
             mute_list.append(id)
-            new_mute = str(mute_list)
-            chars = "[]'\n"
-            for c in chars : new_mute = new_mute.replace(c, "")
-            muted_contents = repo.get_contents("muted.txt")
-            repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
+            update_git(mute_list)
             responses = "Okai I'll ignore user '" + id + "' 0.0"
     elif index == 13:
         if id in mute_list:
             mute_list.remove(id)    
-            new_mute = str(mute_list)
-            chars = "[]'\n "
-            for c in chars : new_mute = new_mute.replace(c, "")
-            muted_contents = repo.get_contents("muted.txt")
-            repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
+            update_git(mute_list)
             responses = "Okai I'll stop ignoring user '" + id + "' :>"
         else: responses = "I'm already not ignoring user  '" + id + "' o.o"
     send_message(responses)
@@ -264,8 +259,7 @@ def admin_func(message,id,admin):
                     if str(int(sr[1])+0) == "0" : response = "I just joined -w-"
                     elif (int(sr[1])+0) == 1 : response = "I've been here for just a minute"
                     else : response = "I've been here for only " + str(int(sr[1])+0) + " minutes"
-                else:
-                    response = "I've been here for " + sr[0] + " hours and " + str(int(sr[1])+0) + " minutes"
+                else: response = "I've been here for " + sr[0] + " hours and " + str(int(sr[1])+0) + " minutes"
                 send_message(response)
             elif i == 5:
                 greet_timeout = {}
@@ -328,7 +322,6 @@ def send_feelings(array,index):
             l = list(stats_list.values())
             l = [each_string.lower() for each_string in l]
             n = name.lower().strip()
-            print(n)
             if n in l: respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(n)])
             else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
         elif index == 6:
@@ -395,7 +388,6 @@ while running == True:
         reset_clock = reset_clock + 1
         if reset_clock == 500: greet_timeout , reset_clock ={}, 0
         server_reply = (ws.recv())
-        print(server_reply)
         a = json.loads(server_reply)
         whos_here_r = whos_idle_r = []
         whos_here_res ={
@@ -430,8 +422,3 @@ while running == True:
     except:
         send_message("Unknown error occurred, restarting... ~*")
         restart_program()
-"""    except ConnectionTimeoutError :reconnect()
-    except json.JSONDecodeError:continue
-    except ValueError:continue
-    except IndexError:continue"""
-    
