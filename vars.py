@@ -162,6 +162,7 @@ clear_memory = re.compile(r"""blue clear memory(\\n)*\s*$""", re.I)
 stats1 = re.compile(r"""(blue stats)|(blue tell me the stats)(\\n)*\s*$""", re.I)
 get_mute = re.compile(r"""(blue get mutelist)|(blue fetch mutelist)(\\n)*\s*$""", re.I)
 get_timeout_control = re.compile(r"""blue (get|fetch) timeout_control(\\n)*\s*$""", re.I)
+get_admin_list = re.compile(r"""blue (get|fetch) admin_list(\\n)*\s*$""", re.I)
 restart_s = re.compile(r"""((blue|blew) restart|reset)(\\n)*\s*$""", re.I)
 hide = re.compile(r"""blue help me hide(\\n)*\s*$""", re.I)
 ily = re.compile(r"""blue (ily)|(i love you)(\\n)*\s*""", re.I)
@@ -285,7 +286,8 @@ admin_commands = [
     ily,
     mutereg,
     unmutereg,
-    ban
+    ban,
+    get_admin_list
 ]
 
 #Menu list with images

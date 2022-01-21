@@ -292,6 +292,9 @@ def admin_func(message,id,admin):
                 response = "Banning " + fix_name(" ".join(array)) + " by giving -40 karma" 
                 thread(str(int(fix_name(" ".join(array)) )))
                 send_message(response)
+            elif i == 15 :
+                response = str(admin).replace('"',"").replace("[", "").replace("]", "")
+                send_message(response)
 def coin_handling(array):
     """Just as the name suggests,
     handles coins and responses to them"""
@@ -369,7 +372,6 @@ def coins_feelings(message):
             if index == 0 : coin_handling(message.split(" "))
             else : send_feelings(message.split(" "),index)
             break
-
 
 """Connect blue to whatever"""
 websocket.enableTrace(False)
