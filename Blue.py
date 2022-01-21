@@ -351,18 +351,17 @@ def send_feelings(array,index):
 
 def check_greeters(message,id):
     global greet_status
-    if message not in custom_greet_id.values() and (id == "16008266" or id == "20909261"):
+    if (id == "16008266" or id == "20909261"):
         for reg_m in greet_check:
             result = reg_m.search(message)
-            print(bool(result))
-            print(id, message)
-            if bool(result) == True :
+            if message in custom_greet_id.values() or  bool(result) == True :
                 if id == "16008266"and greet_status == True:
                     send_message("Disabling greets uwu")
                     greet_status = False
                 elif id == "20909261" and greet_status == False:
                     send_message("Re-enabling greets :D")
                     greet_status = True
+            
     
 def coins_feelings(message):
     for reg_m in coinsandfeelings:
