@@ -214,7 +214,7 @@ def downvote(user_id,remem,id): requests.get("https://www.emeraldchat.com/karma_
 
 def ban_log(banned_id, admin_id):
     r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
-    admin_name = r["user"]["display_name"]
+    admin_name = json.loads(r)["user"]["display_name"]
     banned_logs = repo.get_contents("logs.txt")
     log = admin_name + "(" + str(admin_id) + ")"  " banned " +str(banned_id) + "\n"
     repo.update_file(banned_logs.path, "ban-log", banned_logs.decoded_content.decode() + log, banned_logs.sha, branch="main")
@@ -290,7 +290,7 @@ def admin_func(message,id,isadmin):
                 del array [0:2]
                 response = "Banning " + fix_name(" ".join(array)) + " by giving -40 karma" 
                 thread(fix_name(" ".join(array)) )
-                ban_log(fix_name(" ".join(array)),id)
+                threading.Thread(target=ban_log, args=(fix_name(" ".join(array)),id,)).start()
                 send_message(response)
             elif i == 15 :
                 response = str(admin).replace('"',"").replace("[", "").replace("]", "")
