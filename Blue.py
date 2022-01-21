@@ -369,7 +369,7 @@ def coins_feelings(message):
             break
 def log_chats(message,user_id):
     name = fix_name(user["display_name"])
-    log = fix_message(name = "(" + str(user_id) + ") :-" + message) + "\n" 
+    log = fix_message(name + "(" + str(user_id) + ") :-" + message) + "\n" 
     file = open("chatlogs.txt","a")
     file.write(log)
     file.close()
