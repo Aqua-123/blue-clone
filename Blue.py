@@ -367,7 +367,26 @@ def coins_feelings(message):
             if index == 0 : coin_handling(message.split(" "))
             else : send_feelings(message.split(" "),index)
             break
-
+def log_chats(message,user_id):
+    name = fix_name(user["display_name"])
+    log = fix_message(name = "(" + str(user_id) + ") :-" + message) + "\n" 
+    file = open("chatlogs.txt","a")
+    file.write(log)
+    file.close()
+    
+def push_logs():
+    file = open("chatlogs.txt","r")
+    contents = file.readlines()
+    file.close()
+    file.open("chatlogs.txt","w")
+    file.close()
+    logs = repo.get_contents("chatlogs.txt")
+    logs = logs.decoded_content.decode()
+    for i in contents:
+        logs = logs + i 
+    repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
+    
+    
 """Connect blue to whatever"""
 websocket.enableTrace(False)
 ws = websocket.WebSocket()
@@ -383,7 +402,9 @@ while running == True:
         idle_function()
         t_start = perf_counter()
         reset_clock = reset_clock + 1
-        if reset_clock == 500: greet_timeout , reset_clock ={}, 0
+        if reset_clock == 700:
+            greet_timeout , reset_clock ={}, 0
+            push_logs()
         server_reply = (ws.recv())
         a = json.loads(server_reply)
         whos_here_r = whos_idle_r = []
@@ -404,8 +425,8 @@ while running == True:
                 if "id" in user.keys():
                     id = str(user["id"])
                     message = fix_message(str(b["messages"]))
+                    threading.Thread(target=log_chats, args=(message,id,)).start()
                     threading.Thread(target=check_greeters, args=(message,id,)).start()
-                    check_greeters(message, id)
                     if id not in mute_list:
                         coins_feelings(message)
                         matching(response_dict,message)
