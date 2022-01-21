@@ -289,7 +289,7 @@ def admin_func(message,id,isadmin):
                 array = message.split(" ")
                 del array [0:2]
                 response = "Banning " + fix_name(" ".join(array)) + " by giving -40 karma" 
-                thread(int(fix_name(" ".join(array)) ))
+                thread(fix_name(" ".join(array)) )
                 ban_log(fix_name(" ".join(array)),id)
                 send_message(response)
             elif i == 15 :
