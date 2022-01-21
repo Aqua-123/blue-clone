@@ -413,6 +413,7 @@ while running == True:
                     if id in admin : admin_func(message, id, True)
                     elif id in mod : admin_func(message, id, False)
 
-    except:
-        send_message("Unknown error occurred, restarting... ~*")
-        restart_program()
+    except Exception as e:
+        print(e)
+        """send_message("Unknown error occurred, restarting... ~*")
+        restart_program()"""
