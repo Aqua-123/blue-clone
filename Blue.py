@@ -382,9 +382,9 @@ def push_logs():
     file = open("chatlogs.txt","w")
     file.close()
     logs = repo.get_contents("chatlogs.txt")
-    logs = logs.decoded_content.decode()
+    log = logs.decoded_content.decode()
     for i in contents:
-        logs = logs + i 
+        log = log + i 
     repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
     
 """Connect blue to whatever"""
@@ -402,10 +402,9 @@ while running == True:
         idle_function()
         t_start = perf_counter()
         reset_clock = reset_clock + 1
-        
-        if reset_clock == 700:
+        if reset_clock == 500:
+            push_logs()()
             greet_timeout , reset_clock ={}, 0
-            push_logs()
         server_reply = (ws.recv())
         a = json.loads(server_reply)
         whos_here_r = whos_idle_r = []
@@ -435,6 +434,6 @@ while running == True:
                     if id in admin : admin_func(message, id, True)
                     elif id in mod : admin_func(message, id, False)
 
-    except: 
+    except : 
         send_message("Unknown error occurred, restarting... ~*")
         restart_program()
