@@ -46,3 +46,94 @@ Strawberry 🍓(16521287) :-Whos idle
 Strawberry 🍓(16521287) :-. whos idle
 Strawberry 🍓(16521287) :-lumi whos idle
 Lumi(16008266) :-I see Gaining Chinchilla, \u200e, Blue, Harenoir lurking in the shadows...
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Grey Victreebel(23329590) :-hi
+Grey Victreebel(23329590) :-is  losing  elk  here?
+Gaining Chinchilla(23329697) :-blue tldr
+Blue(21550262) :-Youre here because you tried to message someone who didnt accept your friend request. We call this chat WFAF, Waiting For A Friend. Lets keep it family-friendly! Enjoy your stay uwu
+Lumi(16008266) :-Hello, Fuchsia Pyramid! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Hi, Fuchsia Pyramid, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Disabling greets uwu
+Lumi(16008266) :-Hello, Mars! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Mars! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Mars, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Hi, Strawberry 🍓, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Disabling greets uwu
+Strawberry 🍓(16521287) :-Hey Noir
+Strawberry 🍓(16521287) :-Your profile picture is cute :)
+Harenoir(11427049) :-oh hi
+Harenoir(11427049) :-and thank you
+Strawberry 🍓(16521287) :-:)
+Strawberry 🍓(16521287) :-No problem
+Strawberry 🍓(16521287) :-In fact
+Strawberry 🍓(16521287) :-Youre welcome
+Harenoir(11427049) :-huh
+Strawberry 🍓(16521287) :-I made it possible hehe
+Harenoir(11427049) :-oh right
+Harenoir(11427049) :-thank you for the hard work!
+Strawberry 🍓(16521287) :-😇
+Strawberry 🍓(16521287) :-Still more work to be done
+Harenoir(11427049) :-hmm
+Strawberry 🍓(16521287) :-I always give the small things to Aqua but then I do them thr next day
+Strawberry 🍓(16521287) :-Haha
+Harenoir(11427049) :-oh lol
+Strawberry 🍓(16521287) :-We need more feedback as well
+Strawberry 🍓(16521287) :-To tune the algorithm
+Harenoir(11427049) :-hm, i see
+Strawberry 🍓(16521287) :-Since its a preview, images may break and need to be reupladed
+Strawberry 🍓(16521287) :-But the format shouldnt be tweaked after release
+Strawberry 🍓(16521287) :-We can add new ones however while supporting old ones
+Strawberry 🍓(16521287) :-Flexible code 😇
+Harenoir(11427049) :-wow
+Strawberry 🍓(16521287) :-that zero at the start
+Strawberry 🍓(16521287) :-First thing I did is define 0 as the marker for the first format
+Harenoir(11427049) :-so all pics are defined starting in 0
+Strawberry 🍓(16521287) :-Mhm
+Strawberry 🍓(16521287) :-Next digit specified width and height
+Strawberry 🍓(16521287) :-Which is fixed to 48 by 48 for now
+Harenoir(11427049) :-ah
+Harenoir(11427049) :-so youre planning on working in bigger sizes
+Harenoir(11427049) :-right?
+Strawberry 🍓(16521287) :-Next is a palette of 9bit colours
+Strawberry 🍓(16521287) :-8 of them
+Strawberry 🍓(16521287) :-and then a stream of tokens
+Strawberry 🍓(16521287) :-some specify a selection of colours from the palette
+Strawberry 🍓(16521287) :-some are skip X pixels and draw 6 bit colour
+Strawberry 🍓(16521287) :-and skipped pixels are set to the first palette colour
+Strawberry 🍓(16521287) :-Bigger sizes are possible yes
+Strawberry 🍓(16521287) :-Just want to keep it reasonable
+Strawberry 🍓(16521287) :-Max for the format is 64 by 64
+Harenoir(11427049) :-interesting
+Strawberry 🍓(16521287) :-111111
+Strawberry 🍓(16521287) :-minimum is 8 by 8
+Strawberry 🍓(16521287) :-000000
+Harenoir(11427049) :-hm... so itd be width, height and a color palette
+Strawberry 🍓(16521287) :-when i first got it to display a flat colour i was proud
+Strawberry 🍓(16521287) :-hm?
+Lumi(16008266) :-Hello, Guarding Dolphin! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Guarding Dolphin! Im afraid they arent your friend yet, you can always try again!
+Strawberry 🍓(16521287) :-size specifier is one token
+Lumi(16008266) :-Hello, Natsuki The Neko! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-planning to make it more flexible with bit sizes and ranges so it can be optimized
+Natsuki The Neko(15832363) :-Hi lumi
+Lumi(16008266) :-Hiiiiii!~
+Harenoir(11427049) :-ahh
+Harenoir(11427049) :-makes sense
+Strawberry 🍓(16521287) :-using the images that we get feedback on
+Harenoir(11427049) :-huh
+Strawberry 🍓(16521287) :-Hello
+Harenoir(11427049) :-youre getting images as feedback?
+Natsuki The Neko(15832363) :-Hi strawberry
+Strawberry 🍓(16521287) :-Ideally
+Strawberry 🍓(16521287) :-Stuff you try to upload and how it works
+Strawberry 🍓(16521287) :-Also any bug reports are good
+Harenoir(11427049) :-huh
+Strawberry 🍓(16521287) :-Its not a preview just to have it
