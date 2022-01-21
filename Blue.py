@@ -359,7 +359,6 @@ def check_greeters(message,id):
                     send_message("Re-enabling greets :D")
                     greet_status = True
             
-    
 def coins_feelings(message):
     for reg_m in coinsandfeelings:
         result = reg_m.match(message)
@@ -403,7 +402,7 @@ while running == True:
         t_start = perf_counter()
         reset_clock = reset_clock + 1
         if reset_clock == 500:
-            push_logs()()
+            push_logs()
             greet_timeout , reset_clock ={}, 0
         server_reply = (ws.recv())
         a = json.loads(server_reply)
