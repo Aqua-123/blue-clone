@@ -379,7 +379,7 @@ def push_logs():
     file = open("chatlogs.txt","r")
     contents = file.readlines()
     file.close()
-    file.open("chatlogs.txt","w")
+    file = open("chatlogs.txt","w")
     file.close()
     logs = repo.get_contents("chatlogs.txt")
     logs = logs.decoded_content.decode()
