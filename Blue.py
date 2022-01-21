@@ -402,7 +402,7 @@ while running == True:
         idle_function()
         t_start = perf_counter()
         reset_clock = reset_clock + 1
-        push_logs()
+        
         if reset_clock == 700:
             greet_timeout , reset_clock ={}, 0
             push_logs()
@@ -435,5 +435,6 @@ while running == True:
                     if id in admin : admin_func(message, id, True)
                     elif id in mod : admin_func(message, id, False)
 
-    except ValueError:
-        pass
+    except: 
+        send_message("Unknown error occurred, restarting... ~*")
+        restart_program()
