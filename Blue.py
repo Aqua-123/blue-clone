@@ -210,7 +210,7 @@ def mute_func(message,index):
         else: responses = "I'm already not ignoring user  '" + id + "' o.o"
     send_message(responses)
         
-def downvote(user_id,remem,id): requests.get("https://www.emeraldchat.com/karma_give?id="+id+"&polarity=-1=HTTP/2", cookies={'remember_token': remem, 'user_id': user_id})
+def downvote(user_id,remem,id): requests.get("https://www.emeraldchat.com/karma_give?id="+str(id)+"&polarity=-1=HTTP/2", cookies={'remember_token': remem, 'user_id': user_id})
 
 def ban_log(banned_id, admin_id):
     r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
