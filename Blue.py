@@ -191,6 +191,7 @@ def update_git(mute_list):
     for c in chars : new_mute = new_mute.replace(c, "")
     muted_contents = repo.get_contents("muted.txt")
     repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
+    
 def mute_func(message,index):
     array = message.split()
     global mute_list
@@ -386,7 +387,6 @@ def push_logs():
         logs = logs + i 
     repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
     
-    
 """Connect blue to whatever"""
 websocket.enableTrace(False)
 ws = websocket.WebSocket()
@@ -402,6 +402,7 @@ while running == True:
         idle_function()
         t_start = perf_counter()
         reset_clock = reset_clock + 1
+        push_logs()
         if reset_clock == 700:
             greet_timeout , reset_clock ={}, 0
             push_logs()
