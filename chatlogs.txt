@@ -469,3 +469,117 @@ Harenoir(11427049) :-some things never change
 Strawberry 🍓(16521287) :-:)
 Strawberry 🍓(16521287) :-Good way of putting it
 Harenoir(11427049) :-lol
+Lumi(16008266) :-Hello, Demonwolf! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-\\o/
+Lumi(16008266) :-Hi, Demonwolf! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Demonwolf, dont feel bad, theyll accept one day... hopefully!
+Strawberry 🍓(16521287) :-feature to check updates would be nice but. CORS
+Strawberry 🍓(16521287) :-half considering including a public key
+Gaining Chinchilla(23329697) :-any string sent in chat is trimmed down to 800 chars
+Gaining Chinchilla(23329697) :-just checked
+Strawberry 🍓(16521287) :-so i can send notifications encrypted with a private key
+Strawberry 🍓(16521287) :-Or like messages
+Strawberry 🍓(16521287) :-Which would also make signing dev badges possible
+Strawberry 🍓(16521287) :-But
+Gaining Chinchilla(23329697) :-didnt callan remove cors when he removed pics?
+Strawberry 🍓(16521287) :-Thats neither here nkr there
+Strawberry 🍓(16521287) :-Uhh
+Strawberry 🍓(16521287) :-Dangerous oof
+Strawberry 🍓(16521287) :-Maybe?
+Gaining Chinchilla(23329697) :-which is why lupus ranted on him on reddit?
+Strawberry 🍓(16521287) :-I\ve had my canvas throw this operation is insecure before
+Strawberry 🍓(16521287) :-its still a browser feature
+Gaining Chinchilla(23329697) :-mhm
+Strawberry 🍓(16521287) :-you could try fetch the repo
+Strawberry 🍓(16521287) :-from js
+Lumi(16008266) :-Hello, Guarding Dolphin! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-im on phone in bed and havent turned on my pc this evening haha
+Strawberry 🍓(16521287) :-im just wary of
+Strawberry 🍓(16521287) :-of things tha
+Strawberry 🍓(16521287) :-idk
+Gaining Chinchilla(23329697) :-Response body is not available to scripts (Reason: CORS Missing Allow Origin)
+Gaining Chinchilla(23329697) :-yep
+Gaining Chinchilla(23329697) :-nvm
+Strawberry 🍓(16521287) :-update notification feels off
+Strawberry 🍓(16521287) :-like I wanna release it as a free thing
+Strawberry 🍓(16521287) :-no ties back to origin
+Strawberry 🍓(16521287) :-Nobody telling you what to do or who to block
+Lumi(16008266) :-Hello, Scaling Gamorreans! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Scaling Gamorreans(23330641) :-Hey
+Strawberry 🍓(16521287) :-But its handy so opt in could do
+Lumi(16008266) :-Hi, Scaling Gamorreans! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Scaling Gamorreans, dont feel bad, theyll accept one day... hopefully!
+Strawberry 🍓(16521287) :-Maybe theres a way to grant fetches using userscripts
+Strawberry 🍓(16521287) :-but. sounds sus if possible
+Strawberry 🍓(16521287) :-And we dont host it anywhere thst you get notified for updates .. anymore
+Strawberry 🍓(16521287) :-a userscript repo would have been a nice solution
+Strawberry 🍓(16521287) :--yawn- Im ranting
+Strawberry 🍓(16521287) :-But well I lead this now
+Gaining Chinchilla(23329697) :-certainly
+Lumi(16008266) :-Hello, fraise 🍓 ! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-fraise
+Strawberry 🍓(16521287) :-:o
+Gaining Chinchilla(23329697) :-haha
+Strawberry 🍓(16521287) :-salut
+fraise 🍓 (23330417) :-hey ? 💀
+Strawberry 🍓(16521287) :-je suis toi mais en anglais
+fraise 🍓 (23330417) :-ouais j’avais remarqué 💀
+Strawberry 🍓(16521287) :-haha
+Strawberry 🍓(16521287) :-bienvenue au wfaf
+Strawberry 🍓(16521287) :-tes ici parce que
+fraise 🍓 (23330417) :-par contre je fait quoi ici je suis perdue
+Strawberry 🍓(16521287) :-uhh
+Strawberry 🍓(16521287) :-my french bad
+fraise 🍓 (23330417) :-oh okay
+fraise 🍓 (23330417) :-Then why am i here ?
+Strawberry 🍓(16521287) :-Lumi where are we
+Lumi(16008266) :-This is a group chat you get sent when someone hasnt accepted/denied your friend request~
+fraise 🍓 (23330417) :-oh
+Strawberry 🍓(16521287) :-The DM shows
+Strawberry 🍓(16521287) :-even if its pending
+Strawberry 🍓(16521287) :-Its a nice family friendly hideaway
+Gaining Chinchilla(23329697) :-sure is
+Strawberry 🍓(16521287) :-Most of the time..
+fraise 🍓 (23330417) :-💀
+Strawberry 🍓(16521287) :-Haha
+Strawberry 🍓(16521287) :-Skull
+Strawberry 🍓(16521287) :-Berries dont have skulls
+Strawberry 🍓(16521287) :-But nice coincidence
+Harenoir(11427049) :-:skull:
+Strawberry 🍓(16521287) :-Imitation is the sincerest form of flattery
+Strawberry 🍓(16521287) :-hare dont make me implement that lol
+Harenoir(11427049) :-oh
+Harenoir(11427049) :-nono
+Harenoir(11427049) :-ofc not
+Harenoir(11427049) :-:sunglasses:
+Strawberry 🍓(16521287) :-:p
+fraise 🍓 (23330417) :-😐
+Lumi(16008266) :-The river of life bubbles when Aqua comes near~
+Strawberry 🍓(16521287) :-awkward
+Strawberry 🍓(16521287) :-Aqua!
+Aqua(16986137) :-Straw!
+Strawberry 🍓(16521287) :-God your pfp is so sick
+Strawberry 🍓(16521287) :-btw
+Strawberry 🍓(16521287) :-Lumi whos here
+Lumi(16008266) :-I can see Gaining Chinchilla, Lumi, fraise 🍓 , Strawberry 🍓, Aqua, Harenoir and 1 lurkers
+Aqua(16986137) :-haha-
+Strawberry 🍓(16521287) :-Look
+Strawberry 🍓(16521287) :-French berry
+Aqua(16986137) :-straw in french
+Aqua(16986137) :-mhmm
+fraise 🍓 (23330417) :-straw in french is called paille
+Aqua(16986137) :-oooo
+Strawberry 🍓(16521287) :-strawberry
+Strawberry 🍓(16521287) :-not straw
+Aqua(16986137) :-oh right
+Aqua(16986137) :-yea
+fraise 🍓 (23330417) :-oh 💀
+Aqua(16986137) :-i mean i shortened it up a bit
+Strawberry 🍓(16521287) :-just short name for me
+Aqua(16986137) :-:more skulls:
+Strawberry 🍓(16521287) :-this is how most people know me here
+Aqua(16986137) :-wheres blue
+Aqua(16986137) :-hi blue
+Blue(21550262) :-Hellosss :D
+Strawberry 🍓(16521287) :-aqua want a simple task
+Aqua(16986137) :-sureee
