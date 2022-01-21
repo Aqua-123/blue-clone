@@ -113,8 +113,6 @@ def get_quote():
     time.sleep(0.2)
     send_message(author)
     
-    
-
 def threaded_adding(ids):
     global whos_here_r,whos_here_res
     r = requests.get("https://emeraldchat.com/profile_json?id=" + str(ids),cookies = cookies)
@@ -172,7 +170,7 @@ def idle_function():
         x = idle_check_list[i]
         if (t_start - x) >= 240:
             val = list(timeout_control.keys())[i]
-            if val in list_main_dict :
+            if val in list_main_dict:
                 idle_main_dict[val] = list_main_dict[val]
                 del list_main_dict[val]
         elif (t_start - x) < 240:
@@ -222,8 +220,7 @@ def thread(id):
         remem = c[0]
         threading.Thread(target=downvote, args=(user_id,remem,id,)).start()
 
-
-def admin_func(message,id,admin):
+def admin_func(message,id,isadmin):
     """Function to handle all the admin 
     and mod commands"""
     
@@ -232,22 +229,20 @@ def admin_func(message,id,admin):
         global greet_status,running,name
         if bool(result) == True:
             if i == 0 :
-                greet_status = True
-                response = "Okai done ^-^"
+                greet_status,response = True,"Okai done ^-^"
                 send_message(response)
             elif i == 1:
                 if greet_status == True:
-                    greet_status = False
-                    response = "Okai done ^-^"
+                    greet_status,response = False,"Okai done ^-^"
                     send_message(response)
                 elif greet_status == False:
                     response = "I'm already not greeting o.o"
                     send_message(response)
-            elif i == 2 and admin == True:
+            elif i == 2 and isadmin == True:
                 response = "Cya :>"
                 send_message(response)
                 running = False
-            elif i == 3 and admin == True:
+            elif i == 3 and isadmin == True:
                 response = "List went -poof-"
                 send_message(response)
                 timeout_control.clear()
@@ -262,22 +257,19 @@ def admin_func(message,id,admin):
                 else: response = "I've been here for " + sr[0] + " hours and " + str(int(sr[1])+0) + " minutes"
                 send_message(response)
             elif i == 5:
-                greet_timeout = {}
-                response = "Just had some memory loss x-x"
+                greet_timeout,response = {},"Just had some memory loss x-x"
                 send_message(response)
             elif i == 6:
-                l = len(stats_list.keys())
-                sr = str(datetime.now() - t).split(":")
-                r = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
+                l, sr, r= len(stats_list.keys()),str(datetime.now() - t).split(":"),strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
                 stats_r = str(len(stats)) + " have entered wfaf and " + str(l) + " unique people have joined in the past " + sr[0] + " hours and " + sr[1] + " minutes"", and it is " + str(r) + " in wfaf"
                 send_message(stats_r)
-            elif i == 7 and admin == True : send_message(fix_message(str(mute_list)))
-            elif i == 8 and admin == True : send_message(str(timeout_control))
+            elif i == 7 and isadmin == True : send_message(fix_message(str(mute_list)))
+            elif i == 8 and isadmin == True : send_message(str(timeout_control))
             elif i == 9:
                 response = "Okai, restarting...."
                 send_message(response)
                 restart_program()
-            elif i == 10 and admin == True:
+            elif i == 10 and isadmin == True:
                 if "display_name" in j.keys() : name = fix_name(j["display_name"])
                 del timeout_control[name]
                 if name in idle_main : idle_main.remove(name)
@@ -295,6 +287,7 @@ def admin_func(message,id,admin):
             elif i == 15 :
                 response = str(admin).replace('"',"").replace("[", "").replace("]", "")
                 send_message(response)
+                
 def coin_handling(array):
     """Just as the name suggests,
     handles coins and responses to them"""
@@ -317,7 +310,6 @@ def send_feelings(array,index):
     if index != 4:
         del array [0:4]
         name = fix_name(" ".join(array))
-        print(name)
         if index == 1: respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
         elif index == 2: respons = "Sending pats to " + name+" *pat pat*"
         elif index == 3: respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
@@ -332,11 +324,7 @@ def send_feelings(array,index):
             r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
             if r.status_code == 200:
                 r = json.loads(r.text)
-                name = r["user"]["display_name"]
-                karma = r["user"]["karma"]
-                username = r["user"]["username"]
-                gender = r["user"]["gender"]
-                created = r["user"]["created_at"].split("T")
+                name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
                 if gender is None: respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma)  + " and was created on " + created[0] + " at " + created[1]
                 else:respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
             elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
