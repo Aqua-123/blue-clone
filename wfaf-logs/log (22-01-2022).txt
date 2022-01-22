@@ -864,3 +864,5 @@ Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma
 Harenoir(11427049) :-^ woo
 Cryo(22783061) :-:D
 Harenoir(11427049) :-but i mean
+Harenoir(11427049) :-if its really easy for him to just reset
+Harenoir(11427049) :-then im just... yknow
