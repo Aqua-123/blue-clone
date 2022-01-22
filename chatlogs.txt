@@ -16130,3 +16130,5 @@ Cryo(22783061) :-i need to be constantly distracted so i dont burn out
 Cryo(22783061) :-yea anything
 Harenoir(11427049) :-man
 Harenoir(11427049) :-i dunno
+Cryo(22783061) :-some ideaaa
+Harenoir(11427049) :-last original idea i had was the bless command
