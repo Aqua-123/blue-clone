@@ -363,3 +363,5 @@ Strawberry 🍓(16521287) :-i\m looking up event target vs currentTarget for the
 Strawberry 🍓(16521287) :-tfw currentTarget is the one it was attached to
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Blue(21550262) :-Personal pizzas all around! Harenoir has arisen from the void!
+Cryo(22783061) :-blue disable greets
+Blue(21550262) :-Okai done ^-^
