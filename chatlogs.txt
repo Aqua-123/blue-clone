@@ -17373,3 +17373,5 @@ Harenoir(11427049) :-man this is fun idk why
 Fuchsia Fearow(23337912) :-i have the RxE raw data in my tab rn
 Strawberry 🍓(16521287) :-Download the script .js file
 Fuchsia Fearow(23337912) :-and userscripts activated
+Strawberry 🍓(16521287) :-Open the app
+Fuchsia Fearow(23337912) :-it just gives me raw data wym
