@@ -18583,3 +18583,4 @@ Lumi(16008266) :-I can see Gashing Sphere, Lumi, Neptune Pringle and 3 lurkers
 Neptune Pringle(23340544) :-Heyllo
 Neptune Pringle(23340544) :-Lumi whos lurking
 Lumi(16008266) :-I see 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, 🤖 Mecha Nurse 💉, Blue lurking in the shadows...
+Gashing Sphere(22975867) :-Hi\n
