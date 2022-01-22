@@ -16764,3 +16764,5 @@ Cryo(22783061) :-23335000 exists
 Strawberry 🍓(16521287) :-2335 doesnt
 Strawberry 🍓(16521287) :-ooo
 Cryo(22783061) :-2334 doesnt
+Strawberry 🍓(16521287) :-well theres your search space
+Lumi(16008266) :-Hi again, Gashing Sphere, dont feel bad, theyll accept one day... hopefully!
