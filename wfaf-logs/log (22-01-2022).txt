@@ -86,3 +86,7 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Cryo(22783061) :-and switched
+Cryo(22783061) :-cool
+Cryo(22783061) :-blue uptime
+Blue(21550262) :-I just joined -w-
+Cryo(22783061) :-lovely
