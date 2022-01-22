@@ -152,3 +152,4 @@ Sharing Icecream(23348868) :-hii
 Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, Cryo, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Harenoir(11427049) :-so... im not the only one seeing blank pfps
