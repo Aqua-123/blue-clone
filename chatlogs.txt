@@ -7725,3 +7725,4 @@ Lumi(16008266) :-Hello, Uranus Kangaskhan! Welcome to WFAF! - Waiting for a Frie
 Cryo(22783061) :-righttt
 Cryo(22783061) :-weve to see
 Harenoir(11427049) :-we all have a limit when it comes to farming
+Lumi(16008266) :-Hi, Uranus Kangaskhan! Im afraid they arent your friend yet, you can always try again!
