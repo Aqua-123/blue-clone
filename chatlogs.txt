@@ -7643,3 +7643,6 @@ lilpb(23333735) :-how
 Gashing Sphere(22975867) :-It just happened:)
 lilpb(23333735) :-for what
 Gashing Sphere(22975867) :-Simply. Fun\n
+Lumi(16008266) :-Hi, lilpb! Im afraid they arent your friend yet, you can always try again!
+Gashing Sphere(22975867) :-Hiii\n
+Gashing Sphere(22975867) :-Welcome back
