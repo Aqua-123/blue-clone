@@ -183,3 +183,4 @@ Blue(21550262) :-Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting
 Blue(21550262) :-Disabling greets uwu
 Cryo(22783061) :-lumi disable greets
 Lumi(16008266) :-Ok, Ill stop greeting people now :D
+🤖 Mecha Nurse 💉(20909261) :-Welcome, Grey Fish Fingers, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.
