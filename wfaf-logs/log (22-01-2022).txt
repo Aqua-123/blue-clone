@@ -584,3 +584,7 @@ Cryo(22783061) :-SQL injection vulnerability in the find_by method in Ruby on Ra
 Cryo(22783061) :-SQL injection vulnerability in the where method in Ruby on Rails 5.1.4 and earlier allows remote attackers to execute arbitrary SQL commands via the id parameter. NOTE: The vendor disputes this issue because the documentation states that this method is not intended for use with untrusted input.
 Cryo(22783061) :-SQL injection vulnerability in the order method in Ruby on Rails 5.1.4 and earlier allows remote attackers to execute arbitrary SQL commands via the id desc parameter. NOTE: The vendor disputes this issue because the documentation states that this method is not intended for use with untrusted input.
 Cryo(22783061) :-SQL injection vulnerability in the reorder method in Ruby on Rails 5.1.4 and earlier allows remote attackers to execute arbitrary SQL commands via the name parameter. NOTE: The vendor disputes this issue because the documentation states that this method is not intended for use with untrusted input.
+Cryo(22783061) :-so thats
+Cryo(22783061) :-what
+Cryo(22783061) :-we have
+Cryo(22783061) :-for injections
