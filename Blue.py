@@ -329,6 +329,7 @@ def send_feelings(array,index,id):
             n = name.lower().strip()
             if n in l: respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(n)])
             else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
+        send_message(respons)
     elif index == 6 and id in admin:
         if name.isdigit() ==  True:
                 id = int(name)
@@ -342,12 +343,13 @@ def send_feelings(array,index,id):
                 elif r.status_code == 403: respons = "Timeout error, kindly wait for about 15-20 seconds and try again"
                 elif r is None : respons = "It appears the following account has either been deleted or doesnt exist, sowwy ;-;"
         else: respons = "Please provide with a valid ID :>"
+        send_message(respons)
     else: 
         if index == 4:
             del array [0:2]
             name = fix_name(" ".join(array))
             respons = "*bonks "+name + " with a baseball bat~*"
-    send_message(respons)
+        send_message(respons)
 
 def check_greeters(message,id):
     global greet_status
