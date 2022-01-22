@@ -467,3 +467,6 @@ Harenoir(11427049) :-my pc i mean
 Cryo(22783061) :-ah mhm
 Strawberry 🍓(16521287) :-yes?
 Cryo(22783061) :-my guess for null is sql injection
+Cryo(22783061) :-using it to reset karma
+Cryo(22783061) :-and also farm
+Strawberry 🍓(16521287) :-hm
