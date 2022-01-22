@@ -16275,3 +16275,5 @@ Strawberry 🍓(16521287) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, Strawberry 🍓 and 7 lurkers
 Lumi(16008266) :-Hi, Strawberry 🍓! Im afraid they arent your friend yet, you can always try again!
 Strawberry 🍓(16521287) :-Lumi whos idls
+Strawberry 🍓(16521287) :-Lumi whos idle
+Lumi(16008266) :-I see 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, 🤖 Mecha Nurse 💉, Natsuki The Sad Neko, Gashing Sphere, Harenoir, Cryo, Blue lurking in the shadows...
