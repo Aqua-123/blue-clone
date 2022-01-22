@@ -16115,3 +16115,7 @@ Harenoir(11427049) :-until restart ofc
 Cryo(22783061) :-this is she logs in a database
 Harenoir(11427049) :-anyone can do that
 Harenoir(11427049) :-this is different
+Cryo(22783061) :-yes
+Harenoir(11427049) :-exactly
+Cryo(22783061) :-fucking wizardry
+Arrow(23335023) :-i see
