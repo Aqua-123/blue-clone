@@ -16562,3 +16562,6 @@ Cryo(22783061) :-he didnt come here
 Strawberry 🍓(16521287) :-Blue get id of Null
 Blue(21550262) :-Im sorry I havent seen anyone with the name Null here
 Strawberry 🍓(16521287) :-Well obv
+Strawberry 🍓(16521287) :-Thanks Noir
+Cryo(22783061) :-mecha seen null in *
+Harenoir(11427049) :-np
