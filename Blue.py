@@ -449,8 +449,8 @@ while running == True:
                 user = b["user"]
                 if "id" in user.keys():
                     id = str(user["id"])
-                    threading.Thread(target=check_greeters, args=(str(b["messages"]),id,)).start()
                     message = fix_message(str(b["messages"]))
+                    threading.Thread(target=check_greeters, args=(str(b["messages"]),id,)).start()
                     threading.Thread(target=log_chats, args=(message,id,)).start()
                     if id not in mute_list:
                         coins_feelings(message,id)
