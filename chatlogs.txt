@@ -17377,3 +17377,4 @@ Strawberry 🍓(16521287) :-Open the app
 Fuchsia Fearow(23337912) :-it just gives me raw data wym
 Strawberry 🍓(16521287) :-and find an import feature
 Fuchsia Fearow(23337912) :-One sec
+Fuchsia Fearow(23337912) :-The app just tells me to Set Userscripts Directory
