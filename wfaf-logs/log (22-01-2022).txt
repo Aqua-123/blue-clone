@@ -332,3 +332,5 @@ Blue(21550262) :-Disabling greets uwu
 Cryo(22783061) :-nope nulls there
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, M 17! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-didnt see on userlist
+Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
