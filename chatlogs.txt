@@ -18625,3 +18625,5 @@ Neptune Pringle(23340544) :-yes it id
 Neptune Pringle(23340544) :-is
 Gashing Sphere(22975867) :-Ok\n
 Gashing Sphere(22975867) :-And\n
+Neptune Pringle(23340544) :-i checked like 1-2 mins ago
+Gashing Sphere(22975867) :-It was strawberrys plan and Aqua doing the work\n
