@@ -16193,3 +16193,5 @@ Cryo(22783061) :-for 12 hours a day
 Cryo(22783061) :-which is a blessing
 Harenoir(11427049) :-but you need it 24/7, right
 Cryo(22783061) :-idk how people would do hackathons otherwise
+Cryo(22783061) :-yea rn i need it 24/7
+Harenoir(11427049) :-fair
