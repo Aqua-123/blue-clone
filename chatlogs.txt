@@ -16108,3 +16108,7 @@ Cryo(22783061) :-smh
 Harenoir(11427049) :-oof
 Arrow(23335023) :-that he read all the messages which were send in his absences
 Cryo(22783061) :-again, distracted
+Harenoir(11427049) :-ahh yeah
+Cryo(22783061) :-oh yea
+Cryo(22783061) :-thats because he kept hi pc open
+Harenoir(11427049) :-until restart ofc
