@@ -3768,3 +3768,4 @@ Staying Clefairy(23332708) :-Blue get id of blue
 Blue(21550262) :-ID of blue is 21550262
 Staying Clefairy(23332708) :-pol
 Staying Clefairy(23332708) :-lol
+Staying Clefairy(23332708) :-Blue ban 21550262
