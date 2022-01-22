@@ -15846,3 +15846,10 @@ Gashing Sphere(22975867) :-Nyan nyan
 Harenoir(11427049) :-zero css here
 Gashing Sphere(22975867) :-Straw gave you what?
 Jupiter Bith(23335391) :-whats my karma
+Gashing Sphere(22975867) :-Null\n
+Jupiter Bith(23335391) :-blue get details of 23335391
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Harenoir(11427049) :-43
+Jupiter Bith(23335391) :-uh
+Gashing Sphere(22975867) :-Huh\n
