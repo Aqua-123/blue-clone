@@ -16994,3 +16994,5 @@ Cryo(22783061) :-thats what we do in kb essentially
 Cryo(22783061) :-pure requests
 Harenoir(11427049) :-right...
 Strawberry 🍓(16521287) :-is he reusing the same token
+Cryo(22783061) :-captcha token? he cant
+Cryo(22783061) :-it expires after one use
