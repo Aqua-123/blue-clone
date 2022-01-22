@@ -17817,3 +17817,6 @@ Harenoir(11427049) :-√n >= 0 -> true or false?
 Gashing Sphere(22975867) :-Strawberry. I saw you on the store today\n
 Gashing Sphere(22975867) :-Bye\n
 Cryo(22783061) :-true
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-omg
+Harenoir(11427049) :-nice
+Cryo(22783061) :-root can never we -ve unless virtual
