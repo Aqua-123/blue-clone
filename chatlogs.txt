@@ -15841,3 +15841,6 @@ Harenoir(11427049) :-but still possible
 Harenoir(11427049) :-(in theory)
 Lumi(16008266) :-Hello, Arrow! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Jupiter Bith(23335391) :-anyne knows css? straw gave me word to do and i dunno how to do it
+Gashing Sphere(22975867) :-Nyan nyan
+Harenoir(11427049) :-zero css here
