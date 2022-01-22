@@ -474,3 +474,5 @@ Strawberry 🍓(16521287) :-Wouldnt need to farm
 Strawberry 🍓(16521287) :-if he had SQL injection hed do different things
 Cryo(22783061) :-prolly
 Strawberry 🍓(16521287) :-Also the backend might actually be on a secure ish platform
+Cryo(22783061) :-but he knows the server better than any of us sooo
+Strawberry 🍓(16521287) :-Since its standardized
