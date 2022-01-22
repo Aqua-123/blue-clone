@@ -966,3 +966,6 @@ Cryo(22783061) :-grr
 Harenoir(11427049) :-oh-
 Harenoir(11427049) :-i bet its mostly greets at times
 Cryo(22783061) :-yes
+Cryo(22783061) :-2,724 contributions in the last year my bots blowing up my github
+Harenoir(11427049) :-ahh the days were this place used to be alive
+Harenoir(11427049) :-oof
