@@ -520,3 +520,10 @@ Harenoir(11427049) :-aaaaand
 Harenoir(11427049) :-running
 Cryo(22783061) :-i didnt get what you meant straw-
 Cryo(22783061) :-blue get details of 14008355
+Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma:- -1121 and gender set to f and was created on 2020-08-22 at 23:31:58.190Z
+Harenoir(11427049) :-is it doing anything
+Harenoir(11427049) :-oh wow
+Strawberry 🍓(16521287) :-blue ditto = command to repeat the last command
+Cryo(22783061) :-coolios
+Harenoir(11427049) :-its working
+Strawberry 🍓(16521287) :-could be dangerous but
