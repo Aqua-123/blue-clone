@@ -17252,3 +17252,8 @@ Fuchsia Fearow(23337912) :-Now how do I get the RxE raw code to function
 Gashing Sphere(22975867) :-Im having Chemistry class...
 Cryo(22783061) :-uhm
 Cryo(22783061) :-good question
+Gashing Sphere(22975867) :-Huh\n
+Cryo(22783061) :-is there something called add script?
+Cryo(22783061) :-or somehing?
+Cryo(22783061) :-like that
+Fuchsia Fearow(23337912) :-Add snippet
