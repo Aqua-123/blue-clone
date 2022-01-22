@@ -17292,3 +17292,6 @@ Harenoir(11427049) :-fish
 Fuchsia Fearow(23337912) :-22
 Cryo(22783061) :-=w=
 Cryo(22783061) :-you get cotton candy
+Cryo(22783061) :-bruh
+Harenoir(11427049) :-noice
+Harenoir(11427049) :-bruh.
