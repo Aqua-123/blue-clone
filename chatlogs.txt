@@ -18338,3 +18338,5 @@ Strawberry 🍓(16521287) :-to be precise
 Strawberry 🍓(16521287) :-Zitronenkuchen
 Neptune Mon Calamari(23330573) :-Is it taste\n
 Strawberry 🍓(16521287) :-But I understand a little German
+Strawberry 🍓(16521287) :-It tastes good
+Neptune Mon Calamari(23330573) :-Ok\n
