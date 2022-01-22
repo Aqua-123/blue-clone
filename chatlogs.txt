@@ -16203,3 +16203,5 @@ Cryo(22783061) :-with 6 datasets layered
 Cryo(22783061) :-one more problem is
 Cryo(22783061) :-the larger the model gets the more ram it takes
 Cryo(22783061) :-because its all loaded in ram
+Cryo(22783061) :-and colab provides just 12 gigs
+Cryo(22783061) :-ik thats a lot
