@@ -16127,3 +16127,6 @@ Cryo(22783061) :-either of those
 Harenoir(11427049) :-like
 Harenoir(11427049) :-something entirely new
 Cryo(22783061) :-i need to be constantly distracted so i dont burn out
+Cryo(22783061) :-yea anything
+Harenoir(11427049) :-man
+Harenoir(11427049) :-i dunno
