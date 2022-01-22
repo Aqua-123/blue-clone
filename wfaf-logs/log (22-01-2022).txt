@@ -917,3 +917,8 @@ Consisting Rectangle(23352510) :-374629
 Consisting Rectangle(23352510) :-ducking
 Consisting Rectangle(23352510) :-thingies
 Harenoir(11427049) :-not accurate
+Consisting Rectangle(23352510) :-did you buy them
+Consisting Rectangle(23352510) :-nerd
+Cryo(22783061) :-only if i knew
+Cryo(22783061) :-i didnt
+Cryo(22783061) :-seriously
