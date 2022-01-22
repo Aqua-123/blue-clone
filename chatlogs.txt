@@ -16167,3 +16167,5 @@ Natsuki The Sad Neko(15832363) :-hows life everyone
 Harenoir(11427049) :-from*
 Cryo(22783061) :-i swear if it was alive i would by hook or crook add that talking api
 Cryo(22783061) :-but rn its just too much work
+Harenoir(11427049) :-and not really worth the effort
+Cryo(22783061) :-training on non gpu hardware would take weeks
