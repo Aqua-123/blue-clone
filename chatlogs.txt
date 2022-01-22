@@ -17018,3 +17018,7 @@ Cryo(22783061) :-you never know
 Strawberry 🍓(16521287) :-hmm
 Strawberry 🍓(16521287) :-yeah
 Harenoir(11427049) :-money can buy many things
+Harenoir(11427049) :-including but not limited to
+Harenoir(11427049) :-freedom
+Strawberry 🍓(16521287) :-weapons
+Cryo(22783061) :-after paying it can be done with a simple python script
