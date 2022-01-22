@@ -17245,3 +17245,5 @@ Fuchsia Fearow(23337912) :-Ok so
 Harenoir(11427049) :-im confused again
 Gashing Sphere(22975867) :-Hi\n
 Fuchsia Fearow(23337912) :-i downloaded the safari snip app
+Gashing Sphere(22975867) :-Oh\n
+Cryo(22783061) :-right
