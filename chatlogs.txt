@@ -16119,3 +16119,5 @@ Cryo(22783061) :-yes
 Harenoir(11427049) :-exactly
 Cryo(22783061) :-fucking wizardry
 Arrow(23335023) :-i see
+Harenoir(11427049) :-magic wizardry stuff
+Cryo(22783061) :-that
