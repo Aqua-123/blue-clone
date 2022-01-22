@@ -595,3 +595,4 @@ Cryo(22783061) :-its teh pramaneter and command thats different
 Harenoir(11427049) :-yes that
 Cryo(22783061) :-Multiple SQL injection vulnerabilities in the quote_table_name method in the ActiveRecord adapters in activerecord/lib/active_record/connection_adapters/ in Ruby on Rails before 2.3.13, 3.0.x before 3.0.10, and 3.1.x before 3.1.0.rc5 allow remote attackers to execute arbitrary SQL commands via a crafted column name.
 Lumi(16008266) :-Hi, Strawberry 🍓! Im afraid they arent your friend yet, you can always try again!
+Cryo(22783061) :-injections wont work in wfaf if tried
