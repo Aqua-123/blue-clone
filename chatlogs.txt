@@ -17375,3 +17375,5 @@ Strawberry 🍓(16521287) :-Download the script .js file
 Fuchsia Fearow(23337912) :-and userscripts activated
 Strawberry 🍓(16521287) :-Open the app
 Fuchsia Fearow(23337912) :-it just gives me raw data wym
+Strawberry 🍓(16521287) :-and find an import feature
+Fuchsia Fearow(23337912) :-One sec
