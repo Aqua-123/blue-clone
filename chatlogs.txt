@@ -17940,3 +17940,8 @@ Lumi(16008266) :-I see 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, Blue lurking in the shadows
 Cryo(22783061) :-i dont even know what euclidean plane is
 pluviophile(14751444) :-interesting
 Harenoir(11427049) :-euclidean geometry
+Cryo(22783061) :-we consider lines to be straight in plane geometry right
+Cryo(22783061) :-righttt??
+pluviophile(14751444) :-shleep..?
+Strawberry 🍓(16521287) :-then i couldn\t find a way to draw straight lines to violate convexity
+Harenoir(11427049) :-isnt that what everyone studies in elementary school
