@@ -694,3 +694,7 @@ Venus Ewok(23351808) :-yo
 Venus Ewok(23351808) :-is this the donny i  was speaking to 30vseconds ao
 Lumi(16008266) :-Hello, Guarding Dolphin! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Harenoir(11427049) :-blue get details of 14008355
+Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma:- -6127 and gender set to f and was created on 2020-08-22 at 23:31:58.190Z
+Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Cryo(22783061) :-Link to RxE extension for Emerald: git(.)io/JuwK0
+Cryo(22783061) :-owo
