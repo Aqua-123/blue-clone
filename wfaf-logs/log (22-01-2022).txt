@@ -911,3 +911,6 @@ Consisting Rectangle(23352510) :-wrong number
 Cryo(22783061) :-blue tldr
 Blue(21550262) :-Youre here because you tried to message someone who didnt accept your friend request. We call this chat WFAF, Waiting For A Friend. Lets keep it family-friendly! Enjoy your stay uwu
 Cryo(22783061) :-there
+Cryo(22783061) :-makes sense?
+Consisting Rectangle(23352510) :-why do you have
+Consisting Rectangle(23352510) :-374629
