@@ -485,3 +485,5 @@ Strawberry 🍓(16521287) :-well then
 Strawberry 🍓(16521287) :-could be a backdoor
 Strawberry 🍓(16521287) :-who knows
 Cryo(22783061) :-oh right-
+Cryo(22783061) :-special all devs get a captcha key for testing that bypasses it
+Strawberry 🍓(16521287) :-not that i assume he had the plans to sabotage it then but
