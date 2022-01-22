@@ -471,3 +471,5 @@ Cryo(22783061) :-using it to reset karma
 Cryo(22783061) :-and also farm
 Strawberry 🍓(16521287) :-hm
 Strawberry 🍓(16521287) :-Wouldnt need to farm
+Strawberry 🍓(16521287) :-if he had SQL injection hed do different things
+Cryo(22783061) :-prolly
