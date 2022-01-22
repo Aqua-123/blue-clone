@@ -549,3 +549,5 @@ Strawberry 🍓(16521287) :-See I didnt even know that
 Cryo(22783061) :-first determine what version of ruby on rails
 Harenoir(11427049) :-the plot thickens
 Cryo(22783061) :-eme is running
+Cryo(22783061) :-yea eme runs on ruby on rails
+Strawberry 🍓(16521287) :-ruby on derailed
