@@ -3782,3 +3782,5 @@ Blue(21550262) :-Im sorry I havent seen anyone with the name Harenoir here
 Staying Clefairy(23332708) :-Blue whos here
 Blue(21550262) :-I can see Lumi, Staying Clefairy, Blue and no lurkers :p
 Staying Clefairy(23332708) :-Blue whos lurking
+Blue(21550262) :-I can see no lurkers as of now
+Staying Clefairy(23332708) :-Lumi get id of blue
