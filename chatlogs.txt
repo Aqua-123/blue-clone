@@ -18484,3 +18484,5 @@ Blue(21550262) :-Im sorry I havent seen anyone with the name harenoir here
 Stirring Circle(23339710) :-liar
 Stirring Circle(23339710) :-Blue get id of Harenoir
 Blue(21550262) :-Im sorry I havent seen anyone with the name Harenoir here
+Stirring Circle(23339710) :-Lumi whos here
+Lumi(16008266) :-I can see Blue, Lumi, Stirring Circle and 4 lurkers
