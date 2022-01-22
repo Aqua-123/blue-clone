@@ -17964,3 +17964,4 @@ Gashing Sphere(22975867) :-Good decision
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Harenoir(11427049) :-why does light mode exist again
 Gashing Sphere(22975867) :-Cryo\n
+Gashing Sphere(22975867) :-Light mode is good tho\n
