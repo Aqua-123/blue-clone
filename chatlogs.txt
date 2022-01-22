@@ -7654,3 +7654,4 @@ Harenoir(11427049) :-no idea
 Gashing Sphere(22975867) :-Blue whos here\n
 Blue(21550262) :-I can see Gashing Sphere, Lumi, Harenoir and 2 peeps lurking :p
 Gashing Sphere(22975867) :-Mecha and blue lurking
+Gashing Sphere(22975867) :-Why is blues cat pink?
