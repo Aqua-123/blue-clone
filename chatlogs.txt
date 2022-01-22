@@ -18651,3 +18651,5 @@ Gashing Sphere(22975867) :-Blue works for me\n
 Neptune Pringle(23340544) :-They kept saying get details of nulls id
 Gashing Sphere(22975867) :-Yes\n
 Neptune Pringle(23340544) :-Admins only tho :,(
+Gashing Sphere(22975867) :-Heh they removed chat history for me\n
+Neptune Pringle(23340544) :-blue get id of Neptune Pringle
