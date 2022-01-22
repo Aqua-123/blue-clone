@@ -9,3 +9,5 @@ Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place
 Blue(21550262) :-Disabling greets uwu
 Harenoir(11427049) :-oof
 Cryo(22783061) :-whens lumis heroku thingy ending?
+Harenoir(11427049) :-in a day
+Harenoir(11427049) :-or two
