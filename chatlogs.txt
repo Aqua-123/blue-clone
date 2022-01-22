@@ -18553,3 +18553,5 @@ Blue(21550262) :-Hi, mia, Welcome to WFAF, which stands for Waiting For A Friend
 Blue(21550262) :-Personal pizzas all around! Harenoir has arisen from the void!
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Blue(21550262) :-Disabling greets uwu
+mia(13304686) :-UwU
+Blue(21550262) :-UwU
