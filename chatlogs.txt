@@ -7609,3 +7609,5 @@ Lumi(16008266) :-Hi, Gashing Sphere! Im afraid they arent your friend yet, you c
 Lumi(16008266) :-Hi again, Gashing Sphere, dont feel bad, theyll accept one day... hopefully!
 Gashing Sphere(22975867) :-Finally I joined
 Gashing Sphere(22975867) :-Welp. More increase in Karma\n
+Gashing Sphere(22975867) :-Decrease*
+Gashing Sphere(22975867) :-Yikes\n
