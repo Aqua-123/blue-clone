@@ -15853,3 +15853,12 @@ Blue(21550262) :-Hi, its Blue ^-^
 Harenoir(11427049) :-43
 Jupiter Bith(23335391) :-uh
 Gashing Sphere(22975867) :-Huh\n
+Jupiter Bith(23335391) :-why did she crash
+Harenoir(11427049) :-(console)
+Gashing Sphere(22975867) :-Idk\n
+Jupiter Bith(23335391) :-blue fetch details of 2
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Gashing Sphere(22975867) :-Oh and, hi ribbit\n
+Jupiter Bith(23335391) :-uhhh
+Harenoir(11427049) :-hi sphere
