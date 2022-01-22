@@ -17965,3 +17965,6 @@ Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place
 Harenoir(11427049) :-why does light mode exist again
 Gashing Sphere(22975867) :-Cryo\n
 Gashing Sphere(22975867) :-Light mode is good tho\n
+Gashing Sphere(22975867) :-Not of this place... Tbh\n
+Strawberry 🍓(16521287) :-We need to support peoples preferences
+Harenoir(11427049) :-ahh right
