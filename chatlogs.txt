@@ -17830,3 +17830,5 @@ Cryo(22783061) :-;-;
 Harenoir(11427049) :-;-;
 Strawberry 🍓(16521287) :-its not iota
 Strawberry 🍓(16521287) :-its i
+Cryo(22783061) :-aka iota? i think?
+Harenoir(11427049) :-i = √-1
