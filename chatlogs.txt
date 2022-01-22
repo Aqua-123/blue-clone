@@ -18706,3 +18706,5 @@ Gashing Sphere(22975867) :-Blue get details of 23340544
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Gashing Sphere(22975867) :-*sigh*
+Neptune Pringle(23340544) :-Blue get id of Gashing Sphere
+Blue(21550262) :-ID of Gashing Sphere is 22975867
