@@ -16179,3 +16179,6 @@ Cryo(22783061) :-heroku isnt powerful enough either
 Harenoir(11427049) :-damn
 Cryo(22783061) :-to handle the models
 Harenoir(11427049) :-troublesome
+Lumi(16008266) :-Hello, Uranus Orange! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Uranus Orange(23336245) :-Hey
+Cryo(22783061) :-its a deep learning model dude that needs constantly processing why would heroku provide that kind of hardware for free
