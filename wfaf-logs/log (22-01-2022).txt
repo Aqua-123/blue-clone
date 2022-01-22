@@ -365,3 +365,4 @@ Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Blue(21550262) :-Personal pizzas all around! Harenoir has arisen from the void!
 Cryo(22783061) :-blue disable greets
 Blue(21550262) :-Okai done ^-^
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
