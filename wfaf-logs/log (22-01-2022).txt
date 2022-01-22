@@ -342,3 +342,6 @@ Lumi(16008266) :-Hi again, Mars Trout, dont feel bad, theyll accept one day... h
 Strawberry 🍓(16521287) :-I see
 Strawberry 🍓(16521287) :-Well I just got a -1 is all I know
 Strawberry 🍓(16521287) :-I dont wanna see this tbh
+
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
