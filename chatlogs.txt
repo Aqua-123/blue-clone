@@ -3773,3 +3773,5 @@ Staying Clefairy(23332708) :-Blue ban 21550262
 Staying Clefairy(23332708) :-Blue ban Blue
 Staying Clefairy(23332708) :-Blue get id of Staying Clefairy
 Blue(21550262) :-ID of Staying Clefairy is 23332708
+Staying Clefairy(23332708) :-Blue get id of Lumi
+Blue(21550262) :-ID of Lumi is 16008266
