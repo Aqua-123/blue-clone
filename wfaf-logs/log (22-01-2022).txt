@@ -339,3 +339,4 @@ Cryo(22783061) :-stayed
 Cryo(22783061) :-and left
 Lumi(16008266) :-Hi, Mars Trout! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Mars Trout, dont feel bad, theyll accept one day... hopefully!
+Strawberry 🍓(16521287) :-I see
