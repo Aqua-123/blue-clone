@@ -15898,3 +15898,8 @@ Lumi(16008266) :-Hello, Natsuki The Sad Neko! Welcome to WFAF! - Waiting for a F
 Blue(21550262) :-Hi, Natsuki The Sad Neko, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Blue(21550262) :-Disabling greets uwu
 Jupiter Bith(23335391) :-*pat pat*
+Natsuki The Sad Neko(15832363) :-hi blue
+Blue(21550262) :-Hellosss :D
+Gashing Sphere(22975867) :-Blue get id of Gashing Sphere
+Blue(21550262) :-ID of Gashing Sphere is 22975867
+Gashing Sphere(22975867) :-Finally
