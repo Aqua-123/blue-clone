@@ -16662,3 +16662,7 @@ Cryo(22783061) :-im sure he does
 Strawberry 🍓(16521287) :-Okay Noir
 Cryo(22783061) :-its too slow for it to be the new one
 Strawberry 🍓(16521287) :-Find the newly created accs
+Cryo(22783061) :-blue get details of 14008355
+Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma:- -1236 and gender set to f and was created on 2020-08-22 at 23:31:58.190Z
+Harenoir(11427049) :-wha-
+Strawberry 🍓(16521287) :-What the fresh ids are
