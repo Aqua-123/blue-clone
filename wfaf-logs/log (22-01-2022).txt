@@ -874,3 +874,5 @@ Harenoir(11427049) :-mhm...
 Harenoir(11427049) :-if he restarts again
 Harenoir(11427049) :-then we just wait until he reach that
 Cryo(22783061) :-yep
+Cryo(22783061) :-that would be a bigger pain for him
+Cryo(22783061) :-hours of work down
