@@ -15768,3 +15768,7 @@ Jupiter Bith(23335391) :-yay :)
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-:>
 Blue(21550262) :-<:
 Jupiter Bith(23335391) :-blue get id of blue
+Blue(21550262) :-ID of blue is 21550262
+Jupiter Bith(23335391) :-i-
+Jupiter Bith(23335391) :-I THOUGHT I FIXED THAT-
+Jupiter Bith(23335391) :-nvm
