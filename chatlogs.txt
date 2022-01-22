@@ -17370,3 +17370,6 @@ Fuchsia Fearow(23337912) :-Anyone know how to make RxE function with userscripts
 Strawberry 🍓(16521287) :-Fuschia did you paste it in
 Fuchsia Fearow(23337912) :-Idk how!
 Harenoir(11427049) :-man this is fun idk why
+Fuchsia Fearow(23337912) :-i have the RxE raw data in my tab rn
+Strawberry 🍓(16521287) :-Download the script .js file
+Fuchsia Fearow(23337912) :-and userscripts activated
