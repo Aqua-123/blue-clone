@@ -398,3 +398,4 @@ Cryo(22783061) :-okay somehow we can rerun the kb on null to ban him
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Lumi(16008266) :-Hello, Daaziule! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Cryo(22783061) :-blue get details of 14008355
