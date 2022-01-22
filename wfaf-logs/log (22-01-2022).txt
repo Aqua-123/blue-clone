@@ -315,3 +315,4 @@ Strawberry 🍓(16521287) :-ofc they yell at before you click em
 Harenoir(11427049) :-cool
 Strawberry 🍓(16521287) :-mhm
 Strawberry 🍓(16521287) :-wanna add link encoding that allows you to send links as well
+Strawberry 🍓(16521287) :-like parenthesise dots and whatnot
