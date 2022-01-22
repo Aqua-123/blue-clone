@@ -18563,3 +18563,7 @@ Stirring Circle(23339710) :-\n*rapes your skull after I remove your eyeball and 
 Harenoir(11427049) :-blue ban 23339710
 Blue(21550262) :-Banning 23339710 by giving -40 karma
 Harenoir(11427049) :-alright lets see
+Harenoir(11427049) :-blue get details of 14008355
+Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma:- -10049 and gender set to f and was created on 2020-08-22 at 23:31:58.190Z
+Harenoir(11427049) :-ah
+Harenoir(11427049) :-noice
