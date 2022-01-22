@@ -17783,3 +17783,6 @@ Strawberry 🍓(16521287) :-Anyways 2 + 2 holds in ℕ so it holds in ℤ and �
 Harenoir(11427049) :-hm
 Harenoir(11427049) :-let me try
 Gashing Sphere(22975867) :-My teacher has network issues. So Ill be back whenever he vanishes\n
+Strawberry 🍓(16521287) :-But Im sure you could come up with an operation where it doesnt hold
+Harenoir(11427049) :-i cant see anything at 80%
+Cryo(22783061) :-im terrified that i understood that statement
