@@ -895,3 +895,5 @@ Lumi(16008266) :-Hello, Avalansh! Welcome to WFAF! - Waiting for a Friend! The p
 Lumi(16008266) :-Hi, Avalansh! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Avalansh, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Consisting Rectangle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Consisting Rectangle(23352510) :-did you leave
+Cryo(22783061) :-yes
