@@ -15834,3 +15834,6 @@ Jupiter Bith(23335391) :-ritsu tried once
 Jupiter Bith(23335391) :-that dude...
 Harenoir(11427049) :-i think it just gets stuck in the blue bars
 Harenoir(11427049) :-when its too big
+Jupiter Bith(23335391) :-well you waitt and waittt and waiittt
+Jupiter Bith(23335391) :-and so on
+Harenoir(11427049) :-yes that
