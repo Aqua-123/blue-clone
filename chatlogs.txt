@@ -7742,3 +7742,6 @@ Harenoir(11427049) :-blue whos here
 Blue(21550262) :-I can see Harenoir, Lumi and 4 peeps lurking :p
 Harenoir(11427049) :-blue whos idle
 Blue(21550262) :-I can see 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, Cryo, 🤖 Mecha Nurse 💉 lurking
+Cryo(22783061) :-blue get timeout_control
+Blue(21550262) :-{21550262: 1833009.583780743, 20909261: 1832055.01783216, 11427049: 1833014.284261611, 22466125: 1831877.11789701, 22783061: 1833025.41301021, 16008266: 1832993.997893665}
+Harenoir(11427049) :-btw try uptime
