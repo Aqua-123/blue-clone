@@ -18468,3 +18468,4 @@ Lumi(16008266) :-high five~* :D
 Stirring Circle(23339710) :-oh cool
 Stirring Circle(23339710) :-Lumi hug
 Stirring Circle(23339710) :-Wtf why no hug
+Stirring Circle(23339710) :-lumi speak
