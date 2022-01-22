@@ -767,3 +767,4 @@ Strawberry 🍓(16521287) :-that one doesnt seem to be clickable fortunately
 Cryo(22783061) :-someone could make like shortened link for eme link and then send it
 Strawberry 🍓(16521287) :-we can only go so far
 Cryo(22783061) :-fair
+Cryo(22783061) :-unless it autofetches, we are fine
