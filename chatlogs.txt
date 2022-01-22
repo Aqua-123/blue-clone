@@ -16262,3 +16262,4 @@ Lumi(16008266) :-Hello, Natsuki The Sad Neko! Welcome to WFAF! - Waiting for a F
 Harenoir(11427049) :-anyways
 Cryo(22783061) :-im surprised-
 Harenoir(11427049) :-yes ik
+Harenoir(11427049) :-i dont want people to know its me at first glance
