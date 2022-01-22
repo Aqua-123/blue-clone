@@ -312,10 +312,12 @@ def coin_handling(array):
             else: coin_confirm = str(int(num) + 0) + " coins added to the fortune well, there are now " + str(coin_new) + " coins in the well, wishing good luck to all :D"
         elif coin_add > 100: coin_confirm = "Woops too many coins, maybe buy me some chocolates instead? :>"
         send_message(coin_confirm)
+respons = ""
 def send_feelings(array,index,id):
     """Handles sending and recieving feelings 
     like hugs and love and what not I will be adding
     because yay feelings"""
+    global respons
     if index != 4:
         del array [0:4]
         name = fix_name(" ".join(array))
@@ -330,7 +332,7 @@ def send_feelings(array,index,id):
             else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
         send_message(respons)
     elif index == 6 and id in admin:
-        if name.isdigit() ==  True:
+        if name.isdigit():
             id = int(name)
             r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
             if r.status_code == 200:
