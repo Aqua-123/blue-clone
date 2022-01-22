@@ -17136,3 +17136,6 @@ Harenoir(11427049) :-mhm...
 Strawberry 🍓(16521287) :-Hmm
 Strawberry 🍓(16521287) :-Funny thing is
 Strawberry 🍓(16521287) :-I dont think Null is present through any of this
+Strawberry 🍓(16521287) :-Do we.. distribute antiban?
+Cryo(22783061) :-You can use userscripts on iOS Safari using the new Shortcuts utility (though it seems to be complicated) and a lot easier using the free Safari Snippets app. However, this approach does not load userscripts automatically, they have to be manually loaded on each page load.
+Cryo(22783061) :-tjere
