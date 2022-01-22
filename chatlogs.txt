@@ -17767,3 +17767,5 @@ Gashing Sphere(22975867) :-Going back again
 Strawberry 🍓(16521287) :-So
 Gashing Sphere(22975867) :-Bye\n
 Cryo(22783061) :-that im not the only one who uses his browser at 80/90% zoom
+Strawberry 🍓(16521287) :-Bye I guess-
+Cryo(22783061) :-2+2 ==! 4 syntax error
