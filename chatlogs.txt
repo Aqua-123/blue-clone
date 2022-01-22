@@ -16719,3 +16719,6 @@ Lumi(16008266) :-Hi, Gashing Sphere! Im afraid they arent your friend yet, you c
 Cryo(22783061) :-nono
 Strawberry 🍓(16521287) :-so thats the search space
 Cryo(22783061) :-starting of 23 mil
+Strawberry 🍓(16521287) :-I know
+Strawberry 🍓(16521287) :-so start
+Strawberry 🍓(16521287) :-searchin
