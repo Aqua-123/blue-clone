@@ -321,3 +321,6 @@ Strawberry 🍓(16521287) :-as well as a command to bring up the rxe link
 Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Cryo(22783061) :-i should make blue switch to alt universes too
+
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
