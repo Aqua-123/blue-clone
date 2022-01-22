@@ -581,3 +581,4 @@ Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend
 Strawberry 🍓(16521287) :-Oops I refroshnked
 Cryo(22783061) :-the words reorder,order,where,find_by were vuilnerable in those versions for sql injections
 Cryo(22783061) :-SQL injection vulnerability in the find_by method in Ruby on Rails 5.1.4 and earlier allows remote attackers to execute arbitrary SQL commands via the name parameter. NOTE: The vendor disputes this issue because the documentation states that this method is not intended for use with untrusted input.
+Cryo(22783061) :-SQL injection vulnerability in the where method in Ruby on Rails 5.1.4 and earlier allows remote attackers to execute arbitrary SQL commands via the id parameter. NOTE: The vendor disputes this issue because the documentation states that this method is not intended for use with untrusted input.
