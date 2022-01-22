@@ -192,3 +192,4 @@ Harenoir(11427049) :-mhm...
 Cryo(22783061) :-lumi enable greets
 Lumi(16008266) :-Ok, Im on it! :D
 Thericky(23346284) :-ayo
+Lumi(16008266) :-Hello, Sharing Icecream! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
