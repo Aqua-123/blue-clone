@@ -16959,3 +16959,4 @@ Blue(21550262) :-Hi, Loverbosy, Welcome to WFAF, which stands for Waiting For A 
 Blue(21550262) :-Disabling greets uwu
 Gashing Sphere(22975867) :-...
 Cryo(22783061) :-once logged out it wont ban the ip
+Harenoir(11427049) :-tough
