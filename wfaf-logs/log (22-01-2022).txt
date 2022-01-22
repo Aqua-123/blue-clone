@@ -570,3 +570,5 @@ Cryo(22783061) :-can check from callans account
 Cryo(22783061) :-blue get details of 2
 Blue(21550262) :-The account with ID 2 has the name Callan 👑 (callan) with karma:- -678 and gender set to m and was created on 2016-07-17 at 11:06:00.437Z
 Cryo(22783061) :-2016
+Harenoir(11427049) :-2016
+Cryo(22783061) :-so 2016 and above
