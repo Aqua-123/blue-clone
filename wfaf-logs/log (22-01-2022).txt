@@ -476,3 +476,8 @@ Cryo(22783061) :-prolly
 Strawberry 🍓(16521287) :-Also the backend might actually be on a secure ish platform
 Cryo(22783061) :-but he knows the server better than any of us sooo
 Strawberry 🍓(16521287) :-Since its standardized
+Strawberry 🍓(16521287) :-the server?
+Cryo(22783061) :-he has worked with callan
+Strawberry 🍓(16521287) :-or just a server
+Strawberry 🍓(16521287) :-oh.
+Cryo(22783061) :-yes wrote thingies for eme backend
