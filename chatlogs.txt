@@ -18503,3 +18503,7 @@ Stirring Circle(23339710) :-lumi whos lurking
 Lumi(16008266) :-I see 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, 🤖 Mecha Nurse 💉, Harenoir lurking in the shadows...
 Stirring Circle(23339710) :-blue get id of lumi
 Blue(21550262) :-ID of lumi is 16008266
+Stirring Circle(23339710) :-blue get details of 16008266
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Stirring Circle(23339710) :-wtf
