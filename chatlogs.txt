@@ -3731,3 +3731,6 @@ Camilo(23256212) :-hey
 Lumi(16008266) :-Hi again, Camilo, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Mars Arcanine! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Mars Arcanine(23332647) :-Lumi whos here
+Lumi(16008266) :-I can see Lumi, Mars Arcanine and 3 lurkers
+Mars Arcanine(23332647) :-Lumi whos lurking
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harenoir lurking in the shadows...
