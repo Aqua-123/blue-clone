@@ -18676,3 +18676,5 @@ Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Gashing Sphere(22975867) :-*sigh*
 Neptune Pringle(23340544) :-Now why cant bots be in group chat?
+Neptune Pringle(23340544) :-or can they?
+Gashing Sphere(22975867) :-They can. Obv\n
