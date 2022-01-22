@@ -262,3 +262,5 @@ Magenta Circle(23350120) :-Ur hot looks like a grape
 Magenta Circle(23350120) :-Bot*
 Magenta Circle(23350120) :-Lumi whos here
 Lumi(16008266) :-I can see Cryo, Harenoir, Lumi, Magenta Circle and 2 lurkers
+Magenta Circle(23350120) :-lumi whos lurking
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows...
