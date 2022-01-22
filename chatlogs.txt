@@ -17907,3 +17907,9 @@ Gashing Sphere(22975867) :-Determined is not found. Defined is not existent yet\
 Cryo(22783061) :-undefined is cant be defined while undetermined might be able to be defined but cant be determined by given data
 Strawberry 🍓(16521287) :-i loved being able to predict the relationships of kernel homomorphisms in the factor ring theorem :p
 Strawberry 🍓(16521287) :-but i struggle talking about it
+Gashing Sphere(22975867) :-What?
+Harenoir(11427049) :-okay cool
+Strawberry 🍓(16521287) :-especially when under pressure
+Gashing Sphere(22975867) :-...
+Cryo(22783061) :-owo
+Strawberry 🍓(16521287) :-and with no symbols to look at
