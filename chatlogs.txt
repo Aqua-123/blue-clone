@@ -18120,3 +18120,6 @@ Gashing Sphere(22975867) :-Whyy\n
 Cryo(22783061) :-also if spheres karma plummets
 Cryo(22783061) :-someone lemme know
 Strawberry 🍓(16521287) :-OH t
+Strawberry 🍓(16521287) :-those sentinels
+Gashing Sphere(22975867) :-Ok\n
+Strawberry 🍓(16521287) :-but im not in shape to code something big
