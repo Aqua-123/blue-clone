@@ -705,3 +705,5 @@ Lumi(16008266) :-Hello, Borednupforfun! Welcome to WFAF! - Waiting for a Friend!
 Strawberry 🍓(16521287) :-you see it flicker right
 Cryo(22783061) :-yesh
 Strawberry 🍓(16521287) :-also the badge thing is fixed
+Cryo(22783061) :-Note that shady sites can guess your location and earmark your browser. The site youre about to visit is hosted by git(.)io.
+Cryo(22783061) :-nicee
