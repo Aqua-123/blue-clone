@@ -18619,3 +18619,5 @@ Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-Yes\n
 Gashing Sphere(22975867) :-Revenge\n
 Neptune Pringle(23340544) :-StrWberry crashed GC I think yeah
+Gashing Sphere(22975867) :-Yes. So asking if it is still crashed\n
+Neptune Pringle(23340544) :-And or harenoir
