@@ -102,3 +102,5 @@ Harenoir(11427049) :-ok cool
 
 Blue(21550262) :-Hi, its Blue ^-^
 Blue(21550262) :-The most radiant & shining greeter has arrived! <3
+Lumi(16008266) :-The most radiant & shining greeter has arrived! <3
+Blue(21550262) :-Disabling greets uwu
