@@ -16892,3 +16892,9 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Strawberry 🍓(16521287) :-aqua
 Cryo(22783061) :-blue ban 23337625
 Blue(21550262) :-Banning 23337625 by giving -40 karma
+Strawberry 🍓(16521287) :-ssend blue to alt universe
+Cryo(22783061) :-hmm?
+Strawberry 🍓(16521287) :-rn
+Gashing Sphere(22975867) :-Aqua is busy\n
+Strawberry 🍓(16521287) :-lets do it there
+Cryo(22783061) :-cant ill use my own script
