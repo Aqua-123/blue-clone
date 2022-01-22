@@ -110,3 +110,4 @@ Cryo(22783061) :-thats a bad idea-
 Cryo(22783061) :-nvm
 Harenoir(11427049) :-why a bad idea
 Cryo(22783061) :-it will trigger her to enable greets when mecha says her haikus or whatever depressing poems she likes to tell
+Harenoir(11427049) :-oh right
