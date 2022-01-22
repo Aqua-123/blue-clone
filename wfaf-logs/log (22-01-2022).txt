@@ -675,3 +675,4 @@ Harenoir(11427049) :-blue get details of 14008355
 Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma:- -5080 and gender set to f and was created on 2020-08-22 at 23:31:58.190Z
 Strawberry 🍓(16521287) :-okay pushing links
 Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-also theres an .rxelink command now
