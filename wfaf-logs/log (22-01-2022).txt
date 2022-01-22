@@ -282,3 +282,6 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Harenoir(11427049) :-hm
 Cryo(22783061) :-sent you a message on opal strawberry you read that?
+Harenoir(11427049) :-the mobile ui is smaller in general i think
+Strawberry 🍓(16521287) :-Anyways RxE has another selling point
+Strawberry 🍓(16521287) :-I didnt read that
