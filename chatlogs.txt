@@ -17240,3 +17240,8 @@ Gashing Sphere(22975867) :-Oh oki\n
 Cryo(22783061) :-not at all
 Gashing Sphere(22975867) :-Shower well\n
 Cryo(22783061) :-idk who did that
+Lumi(16008266) :-Hello, Fuchsia Fearow! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Fuchsia Fearow(23337912) :-Ok so
+Harenoir(11427049) :-im confused again
+Gashing Sphere(22975867) :-Hi\n
+Fuchsia Fearow(23337912) :-i downloaded the safari snip app
