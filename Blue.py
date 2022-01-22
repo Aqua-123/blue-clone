@@ -330,21 +330,22 @@ def send_feelings(array,index,id):
             n = name.lower().strip()
             if n in l: respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(n)])
             else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
-        send_message(respons)
-    elif index == 6 and id in admin:
-        if name.isdigit():
-            id = int(name)
-            r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
-            if r.status_code == 200:
-                r = json.loads(r.text)
-                name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
-                if gender is None: respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma)  + " and was created on " + created[0] + " at " + created[1]
-                else:respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
-            elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
-            elif r.status_code == 403: respons = "Timeout error, kindly wait for about 15-20 seconds and try again"
-            elif r is None : respons = "It appears the following account has either been deleted or doesnt exist, sowwy ;-;"
-        else: respons = "Please provide with a valid ID :>"
-        send_message(respons)
+            send_message(respons)
+        elif index == 6 and id in admin:
+            name = fix_name(" ".join(array))
+            if name.isdigit():
+                id = int(name)
+                r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
+                if r.status_code == 200:
+                    r = json.loads(r.text)
+                    name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
+                    if gender is None: respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma)  + " and was created on " + created[0] + " at " + created[1]
+                    else:respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
+                elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
+                elif r.status_code == 403: respons = "Timeout error, kindly wait for about 15-20 seconds and try again"
+                elif r is None : respons = "It appears the following account has either been deleted or doesnt exist, sowwy ;-;"
+            else: respons = "Please provide with a valid ID :>"
+            send_message(respons)
     else: 
         if index == 4:
             del array [0:2]
