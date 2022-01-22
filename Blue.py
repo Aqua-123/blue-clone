@@ -352,7 +352,7 @@ def check_greeters(message,id):
     global greet_status
     if (id == "16008266" or id == "20909261"):
         for reg_m in greet_check:
-            result = reg_m.match(message)
+            result = reg_m.search(message)
             if message in custom_greet_id.values() or  bool(result) == True or message == "Our favorite Blue greeter is here!" :
                 if id == "16008266"and greet_status == True:
                     send_message("Disabling greets uwu")
