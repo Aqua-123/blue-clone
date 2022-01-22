@@ -17923,3 +17923,6 @@ Gashing Sphere(22975867) :-...
 Harenoir(11427049) :-is a triangle a convex polygon?
 Gashing Sphere(22975867) :-Now what is a convex polygon\n
 Strawberry 🍓(16521287) :-HMM
+Strawberry 🍓(16521287) :-maybe not in hyperbolic geom.. well
+Gashing Sphere(22975867) :-I barely study..
+Strawberry 🍓(16521287) :-in euclidean yes
