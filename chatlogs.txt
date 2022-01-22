@@ -3730,3 +3730,4 @@ Lumi(16008266) :-Hi, Camilo! Im afraid they arent your friend yet, you can alway
 Camilo(23256212) :-hey
 Lumi(16008266) :-Hi again, Camilo, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Mars Arcanine! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Mars Arcanine(23332647) :-Lumi whos here
