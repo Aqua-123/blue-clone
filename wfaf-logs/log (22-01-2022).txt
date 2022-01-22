@@ -374,3 +374,4 @@ Strawberry 🍓(16521287) :-might be alone there to lol
 Cryo(22783061) :-uhhh
 Cryo(22783061) :-not much
 Cryo(22783061) :-she already keeps ids
+Cryo(22783061) :-so one function that checks karma regularly and reports for drops
