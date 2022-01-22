@@ -15801,3 +15801,6 @@ Harenoir(11427049) :-rename temps as old regular and simulate the old times
 Jupiter Bith(23335391) :-damn
 Forecasting Ithorian(23335023) :-where is saturn and diamond?
 Solving Salad(23334325) :-Its not that horrible
+Harenoir(11427049) :-gone
+Jupiter Bith(23335391) :-longgg gone
+Harenoir(11427049) :-^ that
