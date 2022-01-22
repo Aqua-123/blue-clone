@@ -18496,3 +18496,4 @@ Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Stirring Circle(23339710) :-wtf
 Stirring Circle(23339710) :-Strange
+Stirring Circle(23339710) :-Lumi whos lurking
