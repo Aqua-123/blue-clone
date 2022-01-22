@@ -17291,3 +17291,4 @@ Gashing Sphere(22975867) :-Ignored again
 Harenoir(11427049) :-fish
 Fuchsia Fearow(23337912) :-22
 Cryo(22783061) :-=w=
+Cryo(22783061) :-you get cotton candy
