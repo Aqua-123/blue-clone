@@ -117,3 +117,4 @@ Cryo(22783061) :-god fuck regex
 Harenoir(11427049) :-btw did robohash crash or smth
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Cryo(22783061) :-lumi disable greets
+Lumi(16008266) :-Ok, Ill stop greeting people now :D
