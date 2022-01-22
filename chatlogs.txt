@@ -16887,3 +16887,8 @@ Gashing Sphere(22975867) :-...
 Lumi(16008266) :-Hello, Dominated Alpha ! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-Alpha\n
 Cryo(22783061) :-blue ban 23337615
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Strawberry 🍓(16521287) :-aqua
+Cryo(22783061) :-blue ban 23337625
+Blue(21550262) :-Banning 23337625 by giving -40 karma
