@@ -3755,3 +3755,6 @@ Staying Clefairy(23332708) :-Lumi whos here
 Lumi(16008266) :-I can see Staying Clefairy, Lumi and 3 lurkers
 Staying Clefairy(23332708) :-Lumi whos lurking
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harenoir lurking in the shadows...
+Staying Clefairy(23332708) :-lumi why tf does my phone keep correcting your name to Limo
+Staying Clefairy(23332708) :-wtf lumiyour
+Staying Clefairy(23332708) :-lumi***
