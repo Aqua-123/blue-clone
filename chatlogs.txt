@@ -17904,3 +17904,4 @@ Gashing Sphere(22975867) :-I hate being a tubelight
 Cryo(22783061) :-dang
 Harenoir(11427049) :-whats the difference between undefined and undetermined?
 Gashing Sphere(22975867) :-Determined is not found. Defined is not existent yet\n
+Cryo(22783061) :-undefined is cant be defined while undetermined might be able to be defined but cant be determined by given data
