@@ -255,3 +255,5 @@ Harenoir(11427049) :-#beggar
 Magenta Circle(23350120) :-Always
 Magenta Circle(23350120) :-yep
 Magenta Circle(23350120) :-Post that shit on github
+Magenta Circle(23350120) :-;)
+Cryo(22783061) :-damn orders
