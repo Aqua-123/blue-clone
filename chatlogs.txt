@@ -18471,3 +18471,4 @@ Stirring Circle(23339710) :-Wtf why no hug
 Stirring Circle(23339710) :-lumi speak
 Stirring Circle(23339710) :-lumi sing
 Stirring Circle(23339710) :-lumi get id of stirring circle
+Stirring Circle(23339710) :-lumi get id of Stirring Circle
