@@ -18037,3 +18037,8 @@ Gashing Sphere(22975867) :-And\n
 Strawberry 🍓(16521287) :-Noir
 Harenoir(11427049) :-😔😔😔
 Strawberry 🍓(16521287) :-Tell me
+Harenoir(11427049) :-yes?
+Gashing Sphere(22975867) :-I dont like this emoji stuff in RXE\n
+Cryo(22783061) :-alright i just restarted the crash script ill go sleep now
+Strawberry 🍓(16521287) :-Is there something like WinCompose for Linux
+Cryo(22783061) :-gnighty
