@@ -646,3 +646,4 @@ Harenoir(11427049) :-bree?
 Cryo(22783061) :-ah yea
 Harenoir(11427049) :-yes
 Harenoir(11427049) :-all of that lore
+Harenoir(11427049) :-i wonder what bresh would say about this
