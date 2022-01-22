@@ -16638,3 +16638,6 @@ Strawberry 🍓(16521287) :-but everyone loses
 Cryo(22783061) :-certainly
 Strawberry 🍓(16521287) :-Guessing we have to ban Nulls IPd
 Strawberry 🍓(16521287) :-IPs
+Harenoir(11427049) :-no one wins in the end...
+Cryo(22783061) :-right
+Cryo(22783061) :-cant get the ips
