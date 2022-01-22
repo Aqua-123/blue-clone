@@ -709,3 +709,5 @@ Cryo(22783061) :-Note that shady sites can guess your location and earmark your 
 Cryo(22783061) :-nicee
 Strawberry 🍓(16521287) :-it says git(.)io?
 Strawberry 🍓(16521287) :-or with the dot
+Cryo(22783061) :-nope
+Cryo(22783061) :-only while copy pasting
