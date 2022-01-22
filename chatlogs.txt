@@ -16507,3 +16507,7 @@ Gashing Sphere(22975867) :-Yes I did ask\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-3 inches?
 Strawberry 🍓(16521287) :-aqua because requests to imgur may not be allowed
 Gashing Sphere(22975867) :-Cyro is Aquarium?!
+Cryo(22783061) :-they are
+Strawberry 🍓(16521287) :-and using it as a CDN for your project is generaly discouraged
+Cryo(22783061) :-imgur has its own api
+Strawberry 🍓(16521287) :-oh good to know
