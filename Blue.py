@@ -14,9 +14,6 @@ from github import Github
 from vars import *
 import threading
 from timeit import default_timer as timer
-from transformers import pipeline, Conversation
-
-conversational_pipeline = pipeline("conversational")
 #Restarts the current program.
 restart_program = lambda : execl(executable,executable, * argv)
 name = " "
@@ -430,13 +427,6 @@ while running == True:
                 if "id" in user.keys():
                     id = str(user["id"])
                     message = fix_message(str(b["messages"]))
-                    res = ai.match(message)
-                    if bool(res) == True:
-                        message = message.replace(">","")
-                        conv1 = Conversation(message)
-                        l = [conv1]
-                        r = conversational_pipeline([conv1])
-                        send_message(r)
                     threading.Thread(target=log_chats, args=(message,id,)).start()
                     threading.Thread(target=check_greeters, args=(message,id,)).start()
                     if id not in mute_list:
