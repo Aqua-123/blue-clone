@@ -439,3 +439,7 @@ Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Harenoir(11427049) :-whats going on
 Lumi(16008266) :-Hello, Uranus Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Uranus Cube(23351119) :-?
+Cryo(22783061) :-i kdd null again and it worked
+Cryo(22783061) :-blue get details of 14008355
+Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma:- -1177 and gender set to f and was created on 2020-08-22 at 23:31:58.190Z
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
