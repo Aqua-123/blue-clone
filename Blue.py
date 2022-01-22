@@ -402,10 +402,10 @@ def push_logs():
             log = log + i 
         repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
     else:
-        logs = ""
+        log = ""
         for i in contents:
             log = log + i 
-        repo.create_file(git_file, "committing files", content, branch="master")
+        repo.create_file(git_file, "committing files", log, branch="master")
 
 """Connect blue to whatever"""
 websocket.enableTrace(False)
