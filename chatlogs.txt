@@ -15736,3 +15736,4 @@ Forecasting Ithorian(23335023) :-is null still in gc?
 Harenoir(11427049) :-where were we
 Jupiter Bith(23335391) :-like knowing you are here mr lurker?
 Harenoir(11427049) :-oh yeah ofc
+Harenoir(11427049) :-24/7, or at least the illusion of it
