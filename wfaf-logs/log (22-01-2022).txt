@@ -54,3 +54,5 @@ Blue(21550262) :-Hellosss :D
 Harenoir(11427049) :-makes no difference tbh
 Olive Goose(23349313) :-it would cuz if u have high karma u wont be banned lol
 Olive Goose(23349313) :-Like you
+Olive Goose(23349313) :-Blue get id of olive goose
+Blue(21550262) :-ID of olive goose is 23349313
