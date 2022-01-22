@@ -18670,3 +18670,8 @@ Neptune Pringle(23340544) :-Oh wtf
 Gashing Sphere(22975867) :-Blue quote\n
 Blue(21550262) :-Start with what is right rather than what is acceptable.
 Blue(21550262) :-~ by Franz Kafka
+Gashing Sphere(22975867) :-Ok\n
+Gashing Sphere(22975867) :-Blue get details of 23340544
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Gashing Sphere(22975867) :-*sigh*
