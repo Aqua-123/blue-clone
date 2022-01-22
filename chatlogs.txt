@@ -18729,3 +18729,9 @@ Blue(21550262) :-Hi, Natsuki The Sad Neko, Welcome to WFAF, which stands for Wai
 Blue(21550262) :-Disabling greets uwu
 Natsuki The Sad Neko(15832363) :-Hi lumi\n
 Lumi(16008266) :-Hiiiiii!~
+Natsuki The Sad Neko(15832363) :-Hi blue\n
+Blue(21550262) :-Hellosss :D
+Gashing Sphere(22975867) :-Hi\n
+Neptune Pringle(23340544) :-Any idea of who earth diamond is
+Neptune Pringle(23340544) :-?
+Natsuki The Sad Neko(15832363) :-Hi gashing\n
