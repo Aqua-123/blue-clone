@@ -18499,3 +18499,5 @@ Stirring Circle(23339710) :-Strange
 Stirring Circle(23339710) :-Lumi whos lurking
 Stirring Circle(23339710) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, Blue, Stirring Circle and 3 lurkers
+Stirring Circle(23339710) :-lumi whos lurking
+Lumi(16008266) :-I see 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, 🤖 Mecha Nurse 💉, Harenoir lurking in the shadows...
