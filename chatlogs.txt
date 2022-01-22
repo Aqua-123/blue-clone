@@ -3720,3 +3720,4 @@ Lumi(16008266) :-Hello, Grey Baboon! Welcome to WFAF! - Waiting for a Friend! Th
 Grey Baboon(23332349) :-Hello??
 Lumi(16008266) :-Hello, Jupiter Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Gaining Chinchilla! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
