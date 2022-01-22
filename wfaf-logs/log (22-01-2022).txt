@@ -969,3 +969,4 @@ Cryo(22783061) :-yes
 Cryo(22783061) :-2,724 contributions in the last year my bots blowing up my github
 Harenoir(11427049) :-ahh the days were this place used to be alive
 Harenoir(11427049) :-oof
+Cryo(22783061) :-imma study ig
