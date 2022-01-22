@@ -205,3 +205,6 @@ Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Cryo, Harenoir, Blue lurking in th
 Magenta Circle(23350120) :-cryo hi
 Magenta Circle(23350120) :-hi blue
 Blue(21550262) :-Hellosss :D
+Magenta Circle(23350120) :-blue no
+Blue(21550262) :-Kindly be nice and keep this family-friendly while you are here, else the wfaf door is always open for you to leave, thanks
+Magenta Circle(23350120) :-ily blue
