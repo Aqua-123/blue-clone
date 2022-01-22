@@ -18482,3 +18482,5 @@ Stirring Circle(23339710) :-Wtf
 Stirring Circle(23339710) :-Blue get id of harenoir
 Blue(21550262) :-Im sorry I havent seen anyone with the name harenoir here
 Stirring Circle(23339710) :-liar
+Stirring Circle(23339710) :-Blue get id of Harenoir
+Blue(21550262) :-Im sorry I havent seen anyone with the name Harenoir here
