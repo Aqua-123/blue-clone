@@ -18479,3 +18479,5 @@ Stirring Circle(23339710) :-Blue get details of 23339710
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Stirring Circle(23339710) :-Wtf
+Stirring Circle(23339710) :-Blue get id of harenoir
+Blue(21550262) :-Im sorry I havent seen anyone with the name harenoir here
