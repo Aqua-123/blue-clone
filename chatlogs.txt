@@ -17365,3 +17365,4 @@ Gashing Sphere(22975867) :-So... Its crashed?
 Cryo(22783061) :-nope one sec
 Gashing Sphere(22975867) :-Oki\n
 Harenoir(11427049) :-crash it already
+Gashing Sphere(22975867) :-Lemme leave from my other instance.
