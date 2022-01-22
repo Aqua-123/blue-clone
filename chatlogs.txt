@@ -16732,3 +16732,8 @@ Cryo(22783061) :-how are we gonna checkkkk
 Cryo(22783061) :-bin-
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-rubbish bin
 Strawberry 🍓(16521287) :-check half
+Strawberry 🍓(16521287) :-g left or right
+Strawberry 🍓(16521287) :-repeat
+Cryo(22783061) :-oh right
+Cryo(22783061) :-i forgot
+Strawberry 🍓(16521287) :-logarithmic complexity
