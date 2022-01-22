@@ -17857,3 +17857,7 @@ Cryo(22783061) :-dang
 Cryo(22783061) :-if i sleep the gc would remain crashed...
 Strawberry 🍓(16521287) :-Actually hold on that was kinda not well defined
 Strawberry 🍓(16521287) :-Doesnt matter :p
+Cryo(22783061) :-lel
+Fuchsia Fearow(23337912) :-When I click on userscripts in safari it doesnt load anything
+Harenoir(11427049) :-absolute value has the same restrictions of the square root, true or false?
+Strawberry 🍓(16521287) :-Sleep well~
