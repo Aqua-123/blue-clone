@@ -516,3 +516,4 @@ Cryo(22783061) :-uhm seeing gc without joining
 Harenoir(11427049) :-ill go with null now
 Cryo(22783061) :-yea without subscribing you can fetch the info
 Strawberry 🍓(16521287) :-go with null?
+Harenoir(11427049) :-aaaaand
