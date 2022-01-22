@@ -18660,3 +18660,5 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Neptune Pringle(23340544) :-wow
 Gashing Sphere(22975867) :-Happens\n
+Gashing Sphere(22975867) :-Try again
+Neptune Pringle(23340544) :-Cuz Im not admin haha
