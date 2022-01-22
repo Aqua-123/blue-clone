@@ -7732,3 +7732,4 @@ Harenoir(11427049) :-¿
 Cryo(22783061) :-thats right
 Harenoir(11427049) :-even i have a limit
 Harenoir(11427049) :-so yeah
+Cryo(22783061) :-only if people werent selfish enough and released pretrained models ;-;
