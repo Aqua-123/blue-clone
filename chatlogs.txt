@@ -15890,3 +15890,11 @@ Blue(21550262) :-Im sorry I havent seen anyone with the name gashing Sphere\n he
 Jupiter Bith(23335391) :-:knife:
 Jupiter Bith(23335391) :-lmfao
 Gashing Sphere(22975867) :-Ugh\n
+Harenoir(11427049) :-:skull:
+Harenoir(11427049) :-damn
+Jupiter Bith(23335391) :-blue get id of gashing Sphere
+Blue(21550262) :-ID of gashing Sphere is 22975867
+Lumi(16008266) :-Hello, Natsuki The Sad Neko! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Hi, Natsuki The Sad Neko, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Disabling greets uwu
+Jupiter Bith(23335391) :-*pat pat*
