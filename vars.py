@@ -354,7 +354,7 @@ cookiejar= [
     "bLYhibkpw5Ryi_uP94WO7w,MjE5MzQwMDQ%3D--15986d86145d4343082463cd90cc947cd1bece19",
     "5MvA5aDeV73f8ple9U5IDQ,MjE5MzQwMTQ%3D--fdc25e39782a302b6953917e9b225fc6cf6c3b64"
 ]
-check1 = re.compile(r"""Welcome, [^""]+, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who you've sent a friend request to and they haven't accepted your request.\s*""")
+check1 = re.compile(r"""Welcome, [^""]+, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who you've sent a friend request to and they haven't accepted your request.""")
 check2 = re.compile(r"""Hi, [^""]+, retrying won't help, you can try asking 'what is wfaf' for more info :D\s*""")
 check3 = re.compile(r"""Hi again, [^""]+, try asking 'what is wfaf' for more info :D\s*""")
 check4 = re.compile(r"""Hello, [^""]+! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~\s*""")
