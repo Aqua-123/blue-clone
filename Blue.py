@@ -329,17 +329,18 @@ def send_feelings(array,index,id):
             n = name.lower().strip()
             if n in l: respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(n)])
             else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
-        elif index == 6 and id in admin:
-            id = int(name)
-            r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
-            if r.status_code == 200:
-                r = json.loads(r.text)
-                name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
-                if gender is None: respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma)  + " and was created on " + created[0] + " at " + created[1]
-                else:respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
-            elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
-            elif r.status_code == 403: respons = "Timeout error, kindly wait for about 15-20 seconds and try again"
-            elif r is None : respons = "It appears the following account has either been deleted or doesnt exist, sowwy ;-;"
+    elif index == 6 and id in admin:
+        if name.isdigit():
+                id = int(name)
+                r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
+                if r.status_code == 200:
+                    r = json.loads(r.text)
+                    name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
+                    if gender is None: respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma)  + " and was created on " + created[0] + " at " + created[1]
+                    else:respons = "The account with ID " + str(id) + " has the name " + name + "(" + username + ") with karma:- " + str(karma) + " and gender set to " + gender + " and was created on " + created[0] + " at " + created[1]
+                elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
+                elif r.status_code == 403: respons = "Timeout error, kindly wait for about 15-20 seconds and try again"
+                elif r is None : respons = "It appears the following account has either been deleted or doesnt exist, sowwy ;-;"
     else: 
         if index == 4:
             del array [0:2]
@@ -381,11 +382,30 @@ def push_logs():
     file.close()
     file = open("chatlogs.txt","w")
     file.close()
-    logs = repo.get_contents("chatlogs.txt")
-    log = logs.decoded_content.decode()
-    for i in contents:
-        log = log + i 
-    repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
+    date = datetime.today().strftime('%d-%m-%Y')
+    filename = "log (" + date + ").txt"
+    all_files = []
+    contents = repo.get_contents("")
+    while contents:
+        file_content = contents.pop(0)
+        if file_content.type == "dir":
+            contents.extend(repo.get_contents(file_content.path))
+        else:
+            file = file_content
+            all_files.append(str(file).replace('ContentFile(path="','').replace('")',''))
+    git_prefix = 'wfaf-logs/'
+    git_file = git_prefix + filename
+    if git_file in all_files:
+        logs = repo.get_contents(git_file)
+        log = logs.decoded_content.decode()
+        for i in contents:
+            log = log + i 
+        repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
+    else:
+        logs = ""
+        for i in contents:
+            log = log + i 
+        repo.create_file(git_file, "committing files", content, branch="master")
 
 """Connect blue to whatever"""
 websocket.enableTrace(False)
@@ -436,6 +456,6 @@ while running == True:
                     if id in admin : admin_func(message, id, True)
                     elif id in mod : admin_func(message, id, False)
 
-    except : 
+    except ValueError: 
         send_message("Unknown error occurred, restarting... ~*")
         restart_program()
