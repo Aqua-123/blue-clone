@@ -871,3 +871,4 @@ Harenoir(11427049) :-delaying the unavoidable
 Cryo(22783061) :-better would be let him farm to 8k or 10k and then bomb that
 Cryo(22783061) :-becuase its easier for him to reset negetives than get positives
 Harenoir(11427049) :-mhm...
+Harenoir(11427049) :-if he restarts again
