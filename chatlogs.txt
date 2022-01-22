@@ -18031,3 +18031,6 @@ Gashing Sphere(22975867) :-...
 Strawberry 🍓(16521287) :-Too many ellipses
 Gashing Sphere(22975867) :-Uhh\n
 Harenoir(11427049) :-:pensive:
+Strawberry 🍓(16521287) :-😔
+Gashing Sphere(22975867) :-Can we just make it in a better sentence?
+Gashing Sphere(22975867) :-And\n
