@@ -15844,3 +15844,5 @@ Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend!
 Jupiter Bith(23335391) :-anyne knows css? straw gave me word to do and i dunno how to do it
 Gashing Sphere(22975867) :-Nyan nyan
 Harenoir(11427049) :-zero css here
+Gashing Sphere(22975867) :-Straw gave you what?
+Jupiter Bith(23335391) :-whats my karma
