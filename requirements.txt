@@ -33,6 +33,3 @@ youtube-dl==2021.6.6
 youtube-search==2.1.0	
 Unidecode==1.2.0
 PyGithub==1.55
-transformers==4.15.0
-tensorflow==2.2.0
-pytorch
