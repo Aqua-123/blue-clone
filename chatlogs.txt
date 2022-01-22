@@ -16013,3 +16013,4 @@ Harenoir(11427049) :-you would need to just
 Cryo(22783061) :-but that woud do automatically>
 Harenoir(11427049) :-write your way into that
 Harenoir(11427049) :-because i have no idea
+Cryo(22783061) :-i already do it in python with the gc ban bot
