@@ -7690,3 +7690,4 @@ Cryo(22783061) :-forgot
 Cryo(22783061) :-nvm
 Cryo(22783061) :->hi blue
 Cryo(22783061) :-sigh
+Cryo(22783061) :-someone get me a gpu on which i can train my model TwT
