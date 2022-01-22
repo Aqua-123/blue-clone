@@ -18514,3 +18514,5 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Stirring Circle(23339710) :-blue add 23339710
 Stirring Circle(23339710) :-blue accept 23339710
+Stirring Circle(23339710) :-blue request 23339710
+Stirring Circle(23339710) :-blue kys
