@@ -379,7 +379,7 @@ def log_chats(message,user_id):
     
 def push_logs():
     file = open("chatlogs.txt","r")
-    contents = file.readlines()
+    contents1 = file.readlines()
     file.close()
     file = open("chatlogs.txt","w")
     file.close()
@@ -399,15 +399,14 @@ def push_logs():
     if git_file in all_files:
         logs = repo.get_contents(git_file)
         log = logs.decoded_content.decode()
-        for i in contents:
+        for i in contents1:
             log = log + i 
-            
         print(log)
         print(logs)
         repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
     else:
         log = ""
-        for i in contents:
+        for i in contents1:
             log = log + i
         repo.create_file(git_file, "committing files", log, branch="main")
 
