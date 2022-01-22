@@ -33,5 +33,3 @@ youtube-dl==2021.6.6
 youtube-search==2.1.0	
 Unidecode==1.2.0
 PyGithub==1.55
-chatterbot>=1.0.4
-spaCy==2.1.3
