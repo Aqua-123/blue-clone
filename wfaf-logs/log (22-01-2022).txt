@@ -971,3 +971,4 @@ Harenoir(11427049) :-ahh the days were this place used to be alive
 Harenoir(11427049) :-oof
 Cryo(22783061) :-imma study ig
 Harenoir(11427049) :-sure
+Harenoir(11427049) :-imma go afk as well
