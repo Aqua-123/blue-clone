@@ -745,3 +745,6 @@ Cryo(22783061) :-yes
 Harenoir(11427049) :-i cant either
 Strawberry 🍓(16521287) :-well hare you dont got the bleeding edge
 Harenoir(11427049) :-what edge
+Strawberry 🍓(16521287) :-newest dev version
+Cryo(22783061) :-hare you dont have the update with it
+Harenoir(11427049) :-oh that
