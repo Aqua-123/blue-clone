@@ -18580,3 +18580,6 @@ Gashing Sphere(22975867) :-That was long\n
 Lumi(16008266) :-Hello, Neptune Pringle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Neptune Pringle(23340544) :-Lumi whos here
 Lumi(16008266) :-I can see Gashing Sphere, Lumi, Neptune Pringle and 3 lurkers
+Neptune Pringle(23340544) :-Heyllo
+Neptune Pringle(23340544) :-Lumi whos lurking
+Lumi(16008266) :-I see 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, 🤖 Mecha Nurse 💉, Blue lurking in the shadows...
