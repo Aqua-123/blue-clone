@@ -3753,3 +3753,5 @@ Mars Arcanine(23332647) :-From the Qur’an:\n\nHouris are women.\nHouris are vi
 Lumi(16008266) :-Hello, Staying Clefairy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Staying Clefairy(23332708) :-Lumi whos here
 Lumi(16008266) :-I can see Staying Clefairy, Lumi and 3 lurkers
+Staying Clefairy(23332708) :-Lumi whos lurking
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harenoir lurking in the shadows...
