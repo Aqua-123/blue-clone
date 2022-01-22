@@ -7612,3 +7612,4 @@ Gashing Sphere(22975867) :-Welp. More increase in Karma\n
 Gashing Sphere(22975867) :-Decrease*
 Gashing Sphere(22975867) :-Yikes\n
 Gashing Sphere(22975867) :-Yes. Reduced from -30 to -5 per minute
+Gashing Sphere(22975867) :-Blue whos here\n
