@@ -15772,3 +15772,7 @@ Blue(21550262) :-ID of blue is 21550262
 Jupiter Bith(23335391) :-i-
 Jupiter Bith(23335391) :-I THOUGHT I FIXED THAT-
 Jupiter Bith(23335391) :-nvm
+Harenoir(11427049) :-did you
+Forecasting Ithorian(23335023) :-jupiter is aqua
+Forecasting Ithorian(23335023) :-gg
+Jupiter Bith(23335391) :-i could also be dreaming
