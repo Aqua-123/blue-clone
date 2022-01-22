@@ -16352,3 +16352,4 @@ Strawberry 🍓(16521287) :-4 seconds per cycle is a lot
 Strawberry 🍓(16521287) :-Maybe he uses his hosting servers to distribute the load
 Cryo(22783061) :-i would guess he is paying for captchas with multiple instances?
 Cryo(22783061) :-yea that
+Strawberry 🍓(16521287) :-Uhh I feel like curling up today or coding RxE so I feel useful
