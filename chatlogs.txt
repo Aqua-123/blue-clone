@@ -18071,3 +18071,5 @@ Cryo(22783061) :-shwoopdilooop
 Strawberry 🍓(16521287) :-bleh
 Gashing Sphere(22975867) :-...
 Strawberry 🍓(16521287) :-im not ok
+Gashing Sphere(22975867) :-Take rest then\n
+Gashing Sphere(22975867) :-Sleep\n
