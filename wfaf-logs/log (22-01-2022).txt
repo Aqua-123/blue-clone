@@ -506,3 +506,6 @@ Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma
 Cryo(22783061) :-see the gcs now-
 Cryo(22783061) :-;-;
 Strawberry 🍓(16521287) :-I dont
+Harenoir(11427049) :-just went there
+Strawberry 🍓(16521287) :-Can you see the gc without joining it
+Harenoir(11427049) :-love is in the air
