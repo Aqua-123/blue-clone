@@ -7664,3 +7664,4 @@ Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend!
 Gashing Sphere(22975867) :-Oof this internet
 Gashing Sphere(22975867) :-Bubyeeee, Ribbit!
 Harenoir(11427049) :-byebye sphere
+Gashing Sphere(22975867) :-(gone)
