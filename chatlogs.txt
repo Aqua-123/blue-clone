@@ -18309,3 +18309,5 @@ Stirring Circle(23339710) :-Blue hi
 Stirring Circle(23339710) :-<3
 Blue(21550262) :-<3
 Strawberry 🍓(16521287) :-Its crashed as a preventative measure
+Neptune Mon Calamari(23330573) :-Hi\n
+Strawberry 🍓(16521287) :-Oh youre Sphere
