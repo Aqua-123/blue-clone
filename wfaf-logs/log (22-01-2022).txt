@@ -76,3 +76,4 @@ Lumi(16008266) :-Hello, Natsuki The Sad Neko! Welcome to WFAF! - Waiting for a F
 Natsuki The Sad Neko(15832363) :-hi lumi
 Lumi(16008266) :-Hiiiiii!~
 Natsuki The Sad Neko(15832363) :-lumi whos here
+Lumi(16008266) :-I can see Natsuki The Sad Neko, Lumi and 4 lurkers
