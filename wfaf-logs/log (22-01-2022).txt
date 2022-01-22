@@ -326,3 +326,6 @@ Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Strawberry 🍓(16521287) :-I pasted it in GC but
 Strawberry 🍓(16521287) :-I think Null left
+Lumi(16008266) :-Hello, Mars Trout! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Hi, Mars Trout, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Disabling greets uwu
