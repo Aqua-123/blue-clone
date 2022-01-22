@@ -15550,3 +15550,4 @@ Forecasting Ithorian(23335023) :-hammy
 Forecasting Ithorian(23335023) :-u gone?
 pluviophile(14751444) :-nope
 Forecasting Ithorian(23335023) :-what is chu doing?
+pluviophile(14751444) :-nothing.
