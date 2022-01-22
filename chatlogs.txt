@@ -18355,3 +18355,7 @@ Strawberry 🍓(16521287) :-my gender is berry
 Strawberry 🍓(16521287) :-obv
 Neptune Mon Calamari(23330573) :-What\n
 Strawberry 🍓(16521287) :-does lumi have a no command
+Strawberry 🍓(16521287) :-lumi no
+Strawberry 🍓(16521287) :-lumi leave
+Strawberry 🍓(16521287) :-hmm
+Harenoir(11427049) :-havent added one yet
