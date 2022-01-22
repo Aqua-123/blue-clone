@@ -16100,3 +16100,6 @@ Cryo(22783061) :-blue updates her chats in github every 10 seconds
 Gashing Sphere(22975867) :-Ill just leave yall alone. Too much smort talk here\n
 Harenoir(11427049) :-i see
 Cryo(22783061) :-so that it doesnt max out the api limit
+Cryo(22783061) :-which was the problem earlier
+Arrow(23335023) :-diamond told me once
+Harenoir(11427049) :-right
