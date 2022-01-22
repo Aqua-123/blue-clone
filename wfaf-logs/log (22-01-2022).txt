@@ -395,3 +395,4 @@ Blue(21550262) :-Hi, its Blue ^-^
 Cryo(22783061) :-blue disable greets
 Blue(21550262) :-Okai done ^-^
 Cryo(22783061) :-okay somehow we can rerun the kb on null to ban him
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
