@@ -173,6 +173,7 @@ unmutereg = re.compile(r"""blue unmute [^""]+(\\n)*\s*""", re.I)
 
 ban = re.compile(r"""blue ban [^""]+(\\n)*\s*""", re.I)
 
+ai = re.compile(r""">[^""]+(\\n)*\s*""", re.I)
 # Menu Items
 coffee = re.compile(r"""blue serve (coffee|1|caffee)(\\n)*\s*$""", re.I)
 milk = re.compile(r"""blue serve (milk|2)(\\n)*\s*$""", re.I)

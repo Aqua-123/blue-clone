@@ -14,6 +14,24 @@ from github import Github
 from vars import *
 import threading
 from timeit import default_timer as timer
+from chatterbot import ChatBot
+
+chatbot = ChatBot(
+    'Blue',
+    preprocessors=[
+        'chatterbot.preprocessors.clean_whitespace',
+        'chatterbot.preprocessors.convert_to_ascii'
+    ],
+    logic_adapters=[
+        "chatterbot.logic.BestMatch",
+        "chatterbot.logic.MathematicalEvaluation",
+        "chatterbot.logic.TimeLogicAdapter",
+        "chatterbot.logic.UnitConversion"
+    ],
+    storage_adapter="chatterbot.storage.SQLStorageAdapter",
+    database_uri='sqlite:///db.sqlite3'
+)
+
 
 #Restarts the current program.
 restart_program = lambda : execl(executable,executable, * argv)
@@ -388,6 +406,9 @@ def push_logs():
         log = log + i 
     repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
     
+def ai_get_response(message):
+    bot_response = chatbot.get_response(user_input)
+    send_message(bot_response)
 """Connect blue to whatever"""
 websocket.enableTrace(False)
 ws = websocket.WebSocket()
@@ -428,6 +449,9 @@ while running == True:
                 if "id" in user.keys():
                     id = str(user["id"])
                     message = fix_message(str(b["messages"]))
+                    res = ai.match(message)
+                    if bool(res) == True:
+                        ai_get_response(message)
                     threading.Thread(target=log_chats, args=(message,id,)).start()
                     threading.Thread(target=check_greeters, args=(message,id,)).start()
                     if id not in mute_list:
