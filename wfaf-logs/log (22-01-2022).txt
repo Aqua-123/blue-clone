@@ -676,3 +676,4 @@ Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma
 Strawberry 🍓(16521287) :-okay pushing links
 Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Strawberry 🍓(16521287) :-also theres an .rxelink command now
+Strawberry 🍓(16521287) :-Link to RxE extension for Emerald: git(.)io/JuwK0
