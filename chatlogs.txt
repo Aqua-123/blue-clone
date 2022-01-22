@@ -17957,3 +17957,6 @@ Gashing Sphere(22975867) :-I put default
 Cryo(22783061) :-light theme be illegal tho
 Gashing Sphere(22975867) :-Its comfy
 Cryo(22783061) :-i use the dark one
+Strawberry 🍓(16521287) :-default now
+Gashing Sphere(22975867) :-Yes\n
+Strawberry 🍓(16521287) :-my eyes dont hurt as much
