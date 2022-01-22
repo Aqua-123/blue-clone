@@ -247,3 +247,4 @@ Harenoir(11427049) :-they wont be missed
 Magenta Circle(23350120) :-True
 Magenta Circle(23350120) :-Would go to opal but it doesnt even load on my device
 Magenta Circle(23350120) :-lol
+Lumi(16008266) :-Hello, Mars Trout! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
