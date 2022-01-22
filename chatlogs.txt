@@ -17903,3 +17903,4 @@ Strawberry 🍓(16521287) :-yes!!
 Gashing Sphere(22975867) :-I hate being a tubelight
 Cryo(22783061) :-dang
 Harenoir(11427049) :-whats the difference between undefined and undetermined?
+Gashing Sphere(22975867) :-Determined is not found. Defined is not existent yet\n
