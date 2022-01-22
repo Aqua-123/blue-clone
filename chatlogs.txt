@@ -16389,3 +16389,4 @@ Cryo(22783061) :-yikes
 Strawberry 🍓(16521287) :-When it enters chat
 Cryo(22783061) :-mhm
 Strawberry 🍓(16521287) :-Makes sure to keep it up to date
+Cryo(22783061) :-its within seconds tho for any temp
