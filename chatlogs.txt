@@ -882,3 +882,17 @@ Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harenoir lurking in the shad
 Lumi(16008266) :-Hello, Jupiter Panda! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Jupiter Panda(23331668) :-hey
 Jupiter Panda(23331668) :-sorry I pressed the wrong button by mistake
+Lumi(16008266) :-Hello, Guarding Dolphin! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Arrow! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Arrow(23331808) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, Arrow and 3 lurkers
+Arrow(23331808) :-lumi whos idle
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harenoir lurking in the shadows...
+Arrow(23331808) :-ohh gg
+Arrow(23331808) :-aqua nd harenoir
+Arrow(23331808) :-lumi stat
+Arrow(23331808) :-lumi add 2 coins
+Lumi(16008266) :-2 coins added to the fountain, there are now 18823 coins in the fountain, strive for greatness~
+Arrow(23331808) :-lumi ty
+Arrow(23331808) :-ty lumi
+Arrow(23331808) :-ahh ouch
