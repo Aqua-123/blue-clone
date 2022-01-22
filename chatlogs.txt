@@ -16302,3 +16302,5 @@ Lumi(16008266) :-Ive been here for 2 hours and 0 minutes
 Blue(21550262) :-Ive been here for only 45 minutes
 🤖 Mecha Nurse 💉(20909261) :-Ive been here for 11 days, 16 hours, 10 minutes.
 Strawberry 🍓(16521287) :-Nurse seen Aqua
+Strawberry 🍓(16521287) :-Mecha seen Aqua
+Cryo(22783061) :-O.O/
