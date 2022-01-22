@@ -957,3 +957,5 @@ Cryo(22783061) :-glad that chat logging is working fine
 Cryo(22783061) :-now i can see the chat while not being here
 Cryo(22783061) :-fun
 Harenoir(11427049) :-oh cool
+Harenoir(11427049) :-i bet therere tons of spam
+Cryo(22783061) :-its logging on wfaf
