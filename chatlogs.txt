@@ -17827,3 +17827,6 @@ Cryo(22783061) :-virtual means imaginary
 Strawberry 🍓(16521287) :-Cute
 Cryo(22783061) :-i.. dunno
 Cryo(22783061) :-;-;
+Harenoir(11427049) :-;-;
+Strawberry 🍓(16521287) :-its not iota
+Strawberry 🍓(16521287) :-its i
