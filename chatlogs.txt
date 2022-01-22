@@ -3762,3 +3762,5 @@ Staying Clefairy(23332708) :-Blue hi
 Staying Clefairy(23332708) :-<3
 Blue(21550262) :-<3
 Staying Clefairy(23332708) :-Blue get me Harenoir id
+Staying Clefairy(23332708) :-Blue get id of Harenoir
+Blue(21550262) :-Im sorry I havent seen anyone with the name Harenoir here
