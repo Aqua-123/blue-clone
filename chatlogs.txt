@@ -17141,3 +17141,7 @@ Cryo(22783061) :-You can use userscripts on iOS Safari using the new Shortcuts u
 Cryo(22783061) :-tjere
 Lumi(16008266) :-Hi, Saturn Chicken! Im afraid they arent your friend yet, you can always try again!
 Strawberry 🍓(16521287) :-Shucks
+Gashing Sphere(22975867) :-What happened
+Saturn Chicken(23337750) :-Straw I tried the apps listed
+Cryo(22783061) :-apps%2Eapple%2Ecom/us/app/safari-snippets/id1126048257
+Cryo(22783061) :-THEREE
