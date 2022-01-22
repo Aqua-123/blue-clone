@@ -18524,3 +18524,5 @@ Stirring Circle(23339710) :-<3
 Blue(21550262) :-<3
 mia(13304686) :-uwu
 Blue(21550262) :-UwU
+Stirring Circle(23339710) :-Blue get id of Harenoir
+Blue(21550262) :-ID of Harenoir is 11427049
