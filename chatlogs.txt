@@ -16962,3 +16962,5 @@ Cryo(22783061) :-once logged out it wont ban the ip
 Harenoir(11427049) :-tough
 Cryo(22783061) :-sigh
 Cryo(22783061) :-if it was perms it would
+Gashing Sphere(22975867) :-Brb... Need to lookup something
+Harenoir(11427049) :-but all of them are temps
