@@ -138,3 +138,7 @@ Lumi(16008266) :-Hello, Leaving Gamorreans! Welcome to WFAF! - Waiting for a Fri
 Blue(21550262) :-Hi, Leaving Gamorreans, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Lumi(16008266) :-Hi, Leaving Gamorreans! Im afraid they arent your friend yet, you can always try again!
 Blue(21550262) :-Hi, Leaving Gamorreans, retrying wont help, you can try asking what is wfaf for more info :D
+Lumi(16008266) :-Hi, Cryo! Im afraid they arent your friend yet, you can always try again!
+Blue(21550262) :-Hi, Cryo, retrying wont help, you can try asking what is wfaf for more info :D
+Lumi(16008266) :-Hi again, Cryo, dont feel bad, theyll accept one day... hopefully!
+Blue(21550262) :-Hi again, Cryo, try asking what is wfaf for more info :D
