@@ -17,7 +17,7 @@ from timeit import default_timer as timer
 #Restarts the current program.
 restart_program = lambda : execl(executable,executable, * argv)
 name = " "
-
+channel_id = "null"
 def reconnect():
     while connection == True:
         websocket.enableTrace(False)
@@ -290,7 +290,7 @@ def admin_func(message,id,isadmin):
             elif i == 14:
                 array = message.split(" ")
                 del array [0:2]
-                response = "Banning " + fix_name(" ".join(array)) + " by giving -40 karma" 
+                response = "Banning " + fix_name(" ".join(array))  
                 thread(fix_name(" ".join(array)) )
                 threading.Thread(target=ban_log, args=(fix_name(" ".join(array)),id,)).start()
                 send_message(response)
