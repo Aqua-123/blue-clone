@@ -15765,3 +15765,6 @@ Blue(21550262) :-18695559, 16986137, 16521287, 22466125, 22716229, 22783061, 114
 Solving Salad(23334325) :-kilograms
 Forecasting Ithorian(23335023) :-admin_list
 Jupiter Bith(23335391) :-yay :)
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-:>
+Blue(21550262) :-<:
+Jupiter Bith(23335391) :-blue get id of blue
