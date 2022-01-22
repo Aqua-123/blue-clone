@@ -3744,3 +3744,5 @@ Blue(21550262) :-Hellosss :D
 Mars Arcanine(23332647) :-Kys Blue
 Mars Arcanine(23332647) :-Blue ily
 Mars Arcanine(23332647) :-HARENOIR
+Mars Arcanine(23332647) :-lumi whos here
+Lumi(16008266) :-I can see Blue, Lumi, Mars Arcanine and 2 lurkers
