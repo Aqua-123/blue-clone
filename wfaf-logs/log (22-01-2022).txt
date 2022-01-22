@@ -623,3 +623,4 @@ Blue(21550262) :-Hi, Guarding Dolphin, Welcome to WFAF, which stands for Waiting
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Ryu! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-The most radiant & shining greeter has arrived! <3
