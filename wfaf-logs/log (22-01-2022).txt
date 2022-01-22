@@ -554,3 +554,5 @@ Strawberry 🍓(16521287) :-ruby on derailed
 Cryo(22783061) :-lol
 Harenoir(11427049) :-lmao
 Cryo(22783061) :-earlier versions of ruby had some juicy exploits
+Harenoir(11427049) :-so, back to discussing ruby stuff again
+Cryo(22783061) :-lmao
