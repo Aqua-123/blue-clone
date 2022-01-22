@@ -572,3 +572,5 @@ Blue(21550262) :-The account with ID 2 has the name Callan 👑 (callan) with ka
 Cryo(22783061) :-2016
 Harenoir(11427049) :-2016
 Cryo(22783061) :-so 2016 and above
+Strawberry 🍓(16521287) :-${jndi:ldap} moment
+Cryo(22783061) :-thats the timeframe we need to concentrate on
