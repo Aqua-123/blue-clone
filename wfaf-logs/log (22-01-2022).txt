@@ -744,3 +744,4 @@ Strawberry 🍓(16521287) :-i cant
 Cryo(22783061) :-yes
 Harenoir(11427049) :-i cant either
 Strawberry 🍓(16521287) :-well hare you dont got the bleeding edge
+Harenoir(11427049) :-what edge
