@@ -146,3 +146,5 @@ Lumi(16008266) :-Hello, Sharing Icecream! Welcome to WFAF! - Waiting for a Frien
 Blue(21550262) :-Hi, Sharing Icecream, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Cryo(22783061) :-blue disable greets
 Blue(21550262) :-Okai done ^-^
+Lumi(16008266) :-Hi, Sharing Icecream! Im afraid they arent your friend yet, you can always try again!
+Sharing Icecream(23348868) :-hii
