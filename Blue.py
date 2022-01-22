@@ -7,6 +7,7 @@ import requests
 import re
 from datetime import date,datetime
 from os import execl
+import os
 from sys import executable,argv
 from time import gmtime, strftime,sleep,perf_counter
 from github import Github
@@ -404,7 +405,7 @@ while running == True:
         reset_clock = reset_clock + 1
         if reset_clock == 500:
             greet_timeout , reset_clock ={}, 0
-        if timer() - start>= 10:
+        if timer() - start>= 10 and os.stat("chatlogs.txt").st_size != 0:
             push_logs()
             start = timer()
         server_reply = (ws.recv())
