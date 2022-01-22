@@ -17995,3 +17995,5 @@ Gashing Sphere(22975867) :-But its fun\n
 Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-No shots\n
 Harenoir(11427049) :-shots where
+Strawberry 🍓(16521287) :-Read the Mecha message
+Harenoir(11427049) :-ahh
