@@ -12,6 +12,7 @@ from time import gmtime, strftime,sleep,perf_counter
 from github import Github
 from vars import *
 import threading
+from timeit import default_timer as timer
 
 #Restarts the current program.
 restart_program = lambda : execl(executable,executable, * argv)
@@ -394,7 +395,7 @@ ws.connect("wss://www.emeraldchat.com/cable",
            subprotocols=["actioncable-v1-json", "actioncable-unsupported"],
            origin="https://www.emeraldchat.com")
 ws.send(json.dumps(connect_json))
-
+start = timer()
 while running == True:
     try:
         remove_blue()
@@ -402,8 +403,10 @@ while running == True:
         t_start = perf_counter()
         reset_clock = reset_clock + 1
         if reset_clock == 500:
-            push_logs()
             greet_timeout , reset_clock ={}, 0
+        if timer() - start>= 10:
+            push_logs()
+            start = timer()
         server_reply = (ws.recv())
         a = json.loads(server_reply)
         whos_here_r = whos_idle_r = []
