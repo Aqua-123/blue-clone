@@ -17631,3 +17631,5 @@ Gashing Sphere(22975867) :-Ah alright
 Cryo(22783061) :-smort
 Harenoir(11427049) :-classic method
 Gashing Sphere(22975867) :-Same thing i did first time\n
+Harenoir(11427049) :-same here tbh
+Gashing Sphere(22975867) :-And... Panicked
