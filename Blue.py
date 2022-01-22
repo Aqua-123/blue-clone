@@ -330,7 +330,7 @@ def send_feelings(array,index,id):
             if n in l: respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(n)])
             else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
     elif index == 6 and id in admin:
-        if name.isdigit():
+        if name.isdigit() ==  True:
                 id = int(name)
                 r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
                 if r.status_code == 200:
@@ -341,6 +341,7 @@ def send_feelings(array,index,id):
                 elif r.status_code == 404: respons = "The following account is either deleted or doesnt exist"
                 elif r.status_code == 403: respons = "Timeout error, kindly wait for about 15-20 seconds and try again"
                 elif r is None : respons = "It appears the following account has either been deleted or doesnt exist, sowwy ;-;"
+        else: respons = "Please provide with a valid ID :>"
     else: 
         if index == 4:
             del array [0:2]
