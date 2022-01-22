@@ -222,3 +222,7 @@ Harenoir(11427049) :-aha
 Harenoir(11427049) :-cool
 Magenta Circle(23350120) :-karma not dropping
 Cryo(22783061) :-ohhh really
+Cryo(22783061) :-lemme just
+Cryo(22783061) :-blue mute 23350120
+Blue(21550262) :-Okai Ill ignore user 23350120 0.0
+Magenta Circle(23350120) :-Just now yeah
