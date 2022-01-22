@@ -200,3 +200,8 @@ Lumi(16008266) :-Hi, Demonwolf! Im afraid they arent your friend yet, you can al
 Lumi(16008266) :-Hello, Magenta Circle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Magenta Circle(23350120) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, Magenta Circle and 4 lurkers
+Magenta Circle(23350120) :-Lumi whos lurking
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Cryo, Harenoir, Blue lurking in the shadows...
+Magenta Circle(23350120) :-cryo hi
+Magenta Circle(23350120) :-hi blue
+Blue(21550262) :-Hellosss :D
