@@ -829,3 +829,5 @@ Cryo(22783061) :-bresh
 Cryo(22783061) :-he does know
 Cryo(22783061) :-he dmed on my main
 Cryo(22783061) :-i just checked
+Lumi(16008266) :-The river of life bubbles when Aqua comes near~
+Aqua(16986137) :-#yolo
