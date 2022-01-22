@@ -17161,3 +17161,4 @@ Harenoir(11427049) :-lol
 Cryo(22783061) :-yea lmao
 Gashing Sphere(22975867) :-There... Is something called Duolingo Script... Like Tampermonkey lmao\n
 Cryo(22783061) :-anyways
+Cryo(22783061) :-use that
