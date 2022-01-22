@@ -678,3 +678,6 @@ Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend
 Strawberry 🍓(16521287) :-also theres an .rxelink command now
 Strawberry 🍓(16521287) :-Link to RxE extension for Emerald: git(.)io/JuwK0
 Strawberry 🍓(16521287) :-hoping you all see that but ill have to double check
+Strawberry 🍓(16521287) :-oh oof it dies once you type more messages
+Strawberry 🍓(16521287) :-and then it undies
+Strawberry 🍓(16521287) :-..
