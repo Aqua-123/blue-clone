@@ -18516,3 +18516,6 @@ Stirring Circle(23339710) :-blue add 23339710
 Stirring Circle(23339710) :-blue accept 23339710
 Stirring Circle(23339710) :-blue request 23339710
 Stirring Circle(23339710) :-blue kys
+Lumi(16008266) :-Hello, mia! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Hi, mia, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Disabling greets uwu
