@@ -16350,3 +16350,4 @@ Cryo(22783061) :-nope its much higher now
 Strawberry 🍓(16521287) :-4 seconds per cycle is a lot
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-straw can you do something about it
 Strawberry 🍓(16521287) :-Maybe he uses his hosting servers to distribute the load
+Cryo(22783061) :-i would guess he is paying for captchas with multiple instances?
