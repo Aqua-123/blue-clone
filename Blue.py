@@ -360,7 +360,7 @@ def check_greeters(message,id):
                 elif id == "20909261" and greet_status == False:
                     send_message("Re-enabling greets :D")
                     greet_status = True
-            
+
 def coins_feelings(message,id):
     for reg_m in coinsandfeelings:
         result = reg_m.match(message)
@@ -369,6 +369,7 @@ def coins_feelings(message,id):
             if index == 0 : coin_handling(message.split(" "))
             else : send_feelings(message.split(" "),index,id)
             break
+        
 def log_chats(message,user_id):
     name = fix_name(user["display_name"])
     log = fix_message(name + "(" + str(user_id) + ") :-" + message) + "\n" 
@@ -400,11 +401,14 @@ def push_logs():
         log = logs.decoded_content.decode()
         for i in contents:
             log = log + i 
+            
+        print(log)
+        print(logs)
         repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
     else:
         log = ""
         for i in contents:
-            log = log + i 
+            log = log + i
         repo.create_file(git_file, "committing files", log, branch="main")
 
 """Connect blue to whatever"""
