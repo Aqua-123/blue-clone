@@ -383,3 +383,4 @@ Lumi(16008266) :-Hello, Cyan Poppadom! Welcome to WFAF! - Waiting for a Friend! 
 Cyan Poppadom(23350596) :-Hi there
 Cryo(22783061) :-hi
 Cyan Poppadom(23350596) :-Rp?
+Cryo(22783061) :-sorry i dont rp
