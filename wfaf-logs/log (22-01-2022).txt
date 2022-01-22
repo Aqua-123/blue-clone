@@ -762,3 +762,4 @@ Strawberry 🍓(16521287) :-also
 Cryo(22783061) :-right
 Cryo(22783061) :-yea
 Cryo(22783061) :-i understood that part
+Strawberry 🍓(16521287) :-google(.)com/redirect?=emeraldchat%2Ecom/karma_give
