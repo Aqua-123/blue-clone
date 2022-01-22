@@ -980,3 +980,4 @@ Harenoir(11427049) :-checkpoint to make sure how much it takes him to restart
 Harenoir(11427049) :-aight imma go afk
 Harenoir(11427049) :-cya
 Cryo(22783061) :-cya
+Lumi(16008266) :-Hello, m 28! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
