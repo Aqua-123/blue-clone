@@ -16999,3 +16999,5 @@ Cryo(22783061) :-it expires after one use
 Cryo(22783061) :-and also after 2 mins
 Harenoir(11427049) :-then how
 Strawberry 🍓(16521287) :-or how does he solve captchas
+Cryo(22783061) :-paying can be an option
+Cryo(22783061) :-then you can run multiple threads
