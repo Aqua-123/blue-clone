@@ -16005,3 +16005,6 @@ Cryo(22783061) :-sighhhh
 Lumi(16008266) :-Hello, Mars Twilek! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Cryo(22783061) :-rxe feature to make invis in gc?
 Cryo(22783061) :-sigh
+Harenoir(11427049) :-it can be done manually
+Cryo(22783061) :-right
+Harenoir(11427049) :-by opening a new tab and closing it
