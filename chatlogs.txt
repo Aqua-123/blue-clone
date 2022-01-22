@@ -3735,3 +3735,6 @@ Lumi(16008266) :-I can see Lumi, Mars Arcanine and 3 lurkers
 Mars Arcanine(23332647) :-Lumi whos lurking
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harenoir lurking in the shadows...
 Mars Arcanine(23332647) :-Hello guys!
+Mars Arcanine(23332647) :-<3
+Blue(21550262) :-<3
+Mars Arcanine(23332647) :-hey blue
