@@ -7617,3 +7617,5 @@ Blue(21550262) :-I can see Gashing Sphere, Lumi, Harenoir and 3 peeps lurking :p
 Lumi(16008266) :-Hello, Michael! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-Hi ribbit\n
 Gashing Sphere(22975867) :-Ribbit?
+Harenoir(11427049) :-oh hi
+Harenoir(11427049) :-i just came back
