@@ -18488,3 +18488,6 @@ Stirring Circle(23339710) :-Lumi whos here
 Lumi(16008266) :-I can see Blue, Lumi, Stirring Circle and 4 lurkers
 Stirring Circle(23339710) :-Lumi whos lurking
 Lumi(16008266) :-I see 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, 🤖 Mecha Nurse 💉, Harenoir, Strawberry 🍓 lurking in the shadows...
+Strawberry 🍓(16521287) :-I never quit this hm
+Stirring Circle(23339710) :-Blue get id of Strawberry 🍓
+Blue(21550262) :-ID of Strawberry 🍓 is 16521287
