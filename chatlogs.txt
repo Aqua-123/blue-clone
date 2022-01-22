@@ -17922,3 +17922,4 @@ Strawberry 🍓(16521287) :-and its part of the topic i had in uni
 Gashing Sphere(22975867) :-...
 Harenoir(11427049) :-is a triangle a convex polygon?
 Gashing Sphere(22975867) :-Now what is a convex polygon\n
+Strawberry 🍓(16521287) :-HMM
