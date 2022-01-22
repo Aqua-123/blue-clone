@@ -332,7 +332,7 @@ def coin_handling(array):
         elif coin_add > 100: coin_confirm = "Woops too many coins, maybe buy me some chocolates instead? :>"
         send_message(coin_confirm)
 
-def send_feelings(array,index):
+def send_feelings(array,index,id):
     """Handles sending and recieving feelings 
     like hugs and love and what not I will be adding
     because yay feelings"""
@@ -348,7 +348,7 @@ def send_feelings(array,index):
             n = name.lower().strip()
             if n in l: respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(n)])
             else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
-        elif index == 6:
+        elif index == 6 and id in admin:
             id = int(name)
             r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
             if r.status_code == 200:
@@ -379,13 +379,13 @@ def check_greeters(message,id):
                     send_message("Re-enabling greets :D")
                     greet_status = True
             
-def coins_feelings(message):
+def coins_feelings(message,id):
     for reg_m in coinsandfeelings:
         result = reg_m.match(message)
         if bool(result) == True:
             index = coinsandfeelings.index(reg_m)
             if index == 0 : coin_handling(message.split(" "))
-            else : send_feelings(message.split(" "),index)
+            else : send_feelings(message.split(" "),index,id)
             break
 def log_chats(message,user_id):
     name = fix_name(user["display_name"])
@@ -455,7 +455,7 @@ while running == True:
                     threading.Thread(target=log_chats, args=(message,id,)).start()
                     threading.Thread(target=check_greeters, args=(message,id,)).start()
                     if id not in mute_list:
-                        coins_feelings(message)
+                        coins_feelings(message,id)
                         matching(response_dict,message)
                         matching(whos_here_res,message)
                     if id in admin : admin_func(message, id, True)
