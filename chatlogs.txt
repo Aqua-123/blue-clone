@@ -3791,3 +3791,8 @@ Blue(21550262) :-ID of Gaining Chinchilla is 23329697
 Staying Clefairy(23332708) :-Blue get details of Blue
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Staying Clefairy(23332708) :-Blue get details of Lumi
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
