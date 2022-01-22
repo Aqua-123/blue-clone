@@ -189,3 +189,5 @@ Cryo(22783061) :-ill work on it later
 Sharing Icecream(23348868) :-hi
 Harenoir(11427049) :-mhm...
 🤖 Mecha Nurse 💉(20909261) :-Welcome, Thericky, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.
+Cryo(22783061) :-lumi enable greets
+Lumi(16008266) :-Ok, Im on it! :D
