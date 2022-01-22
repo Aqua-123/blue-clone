@@ -232,3 +232,5 @@ Magenta Circle(23350120) :-lol
 Harenoir(11427049) :-hm
 Cryo(22783061) :-:>
 Blue(21550262) :-<:
+Magenta Circle(23350120) :-Blue get id of cryo
+Magenta Circle(23350120) :-ohhhh u fixed it
