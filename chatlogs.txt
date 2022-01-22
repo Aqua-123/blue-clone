@@ -16051,3 +16051,6 @@ Cryo(22783061) :-i told him i wanna make a greeter in python
 Cryo(22783061) :-he said do it
 Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-Back\n
+Cryo(22783061) :-i was like how
+Harenoir(11427049) :-damn
+Cryo(22783061) :-he was like websockets
