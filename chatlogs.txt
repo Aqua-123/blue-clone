@@ -7736,3 +7736,4 @@ Cryo(22783061) :-only if people werent selfish enough and released pretrained mo
 Harenoir(11427049) :-hm...
 Harenoir(11427049) :-what was the term for it again
 Harenoir(11427049) :-secretive pretentious programmers
+Cryo(22783061) :-lmao
