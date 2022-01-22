@@ -18050,3 +18050,11 @@ Cryo(22783061) :-wait before that
 Strawberry 🍓(16521287) :-Tysm
 Cryo(22783061) :-nulls id please
 Harenoir(11427049) :-what-
+Cryo(22783061) :-blue get details of 14008355\n
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Cryo(22783061) :-blue get details of 14008355
+Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma:- -7992 and gender set to f and was created on 2020-08-22 at 23:31:58.190Z
+Gashing Sphere(22975867) :-Back\n
+Harenoir(11427049) :-did i just got called an idiot-
+Cryo(22783061) :-aight
