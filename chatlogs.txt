@@ -18653,3 +18653,10 @@ Gashing Sphere(22975867) :-Yes\n
 Neptune Pringle(23340544) :-Admins only tho :,(
 Gashing Sphere(22975867) :-Heh they removed chat history for me\n
 Neptune Pringle(23340544) :-blue get id of Neptune Pringle
+Blue(21550262) :-ID of Neptune Pringle is 23340544
+Gashing Sphere(22975867) :-Just now\n
+Gashing Sphere(22975867) :-Oh...
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Neptune Pringle(23340544) :-wow
+Gashing Sphere(22975867) :-Happens\n
