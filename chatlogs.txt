@@ -18491,3 +18491,7 @@ Lumi(16008266) :-I see 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, 🤖 Mecha Nurse 💉, Hare
 Strawberry 🍓(16521287) :-I never quit this hm
 Stirring Circle(23339710) :-Blue get id of Strawberry 🍓
 Blue(21550262) :-ID of Strawberry 🍓 is 16521287
+Stirring Circle(23339710) :-Blue get details of 16521287
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Stirring Circle(23339710) :-wtf
