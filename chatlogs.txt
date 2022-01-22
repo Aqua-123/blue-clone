@@ -16104,3 +16104,7 @@ Cryo(22783061) :-which was the problem earlier
 Arrow(23335023) :-diamond told me once
 Harenoir(11427049) :-right
 Cryo(22783061) :-but i got the genius idea to set a timeout while studying gravitation
+Cryo(22783061) :-smh
+Harenoir(11427049) :-oof
+Arrow(23335023) :-that he read all the messages which were send in his absences
+Cryo(22783061) :-again, distracted
