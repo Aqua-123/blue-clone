@@ -18724,3 +18724,4 @@ Gashing Sphere(22975867) :-Lets try once more\n
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Gashing Sphere(22975867) :-Nope\n
+Lumi(16008266) :-Hello, Natsuki The Sad Neko! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
