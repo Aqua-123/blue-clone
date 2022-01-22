@@ -3779,3 +3779,6 @@ Staying Clefairy(23332708) :-Lumi whos lurking
 Lumi(16008266) :-I see Lumi, 🤖 Mecha Nurse 💉, Harenoir lurking in the shadows...
 Staying Clefairy(23332708) :-Blue get id of Harenoir
 Blue(21550262) :-Im sorry I havent seen anyone with the name Harenoir here
+Staying Clefairy(23332708) :-Blue whos here
+Blue(21550262) :-I can see Lumi, Staying Clefairy, Blue and no lurkers :p
+Staying Clefairy(23332708) :-Blue whos lurking
