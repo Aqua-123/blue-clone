@@ -17603,3 +17603,9 @@ Gashing Sphere(22975867) :-Lol\n
 Cryo(22783061) :-meansss
 Harenoir(11427049) :-means what
 Harenoir(11427049) :-spill it out
+Cryo(22783061) :-we are giving him undefined ids
+Cryo(22783061) :-means
+Cryo(22783061) :-its giving tons of errors
+Harenoir(11427049) :-which means
+Gashing Sphere(22975867) :-.
+Harenoir(11427049) :-ahh
