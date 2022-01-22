@@ -17349,3 +17349,5 @@ Gashing Sphere(22975867) :-...
 Harenoir(11427049) :-sounds neat
 Cryo(22783061) :-it can crash indefinetly
 Cryo(22783061) :-not made by me ofc
+Fuchsia Fearow(23337912) :-Like userscipts safari is activated but idk how to get the raw RxE code to work with it
+Gashing Sphere(22975867) :-Cant we make all new accounts created to go to... One weird ass private room and make them spam there?
