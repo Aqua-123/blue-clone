@@ -819,3 +819,4 @@ Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend
 Strawberry 🍓(16521287) :-hey qua
 Strawberry 🍓(16521287) :-i tweaked the palette selection a lil
 Cryo(22783061) :-ooo o
+Strawberry 🍓(16521287) :-reminds me to upscale the product
