@@ -18311,3 +18311,8 @@ Blue(21550262) :-<3
 Strawberry 🍓(16521287) :-Its crashed as a preventative measure
 Neptune Mon Calamari(23330573) :-Hi\n
 Strawberry 🍓(16521287) :-Oh youre Sphere
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-wha
+Lumi(16008266) :-Hi, mich all_123! Im afraid they arent your friend yet, you can always try again!
+Stirring Circle(23339710) :-Blue get id of Neptune Mon Calamari
+Blue(21550262) :-ID of Neptune Mon Calamari is 23330573
+mich all_123(20277573) :-hi
