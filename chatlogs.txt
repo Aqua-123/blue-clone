@@ -18340,3 +18340,7 @@ Neptune Mon Calamari(23330573) :-Is it taste\n
 Strawberry 🍓(16521287) :-But I understand a little German
 Strawberry 🍓(16521287) :-It tastes good
 Neptune Mon Calamari(23330573) :-Ok\n
+Strawberry 🍓(16521287) :-<3
+Blue(21550262) :-<3
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-it looks tastyy
+Strawberry 🍓(16521287) :-Blue youre cute
