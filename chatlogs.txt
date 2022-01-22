@@ -18714,3 +18714,4 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Gashing Sphere(22975867) :-Nah\n
 Gashing Sphere(22975867) :-Need to inform aquarium
 Neptune Pringle(23340544) :-It worked when others did it
+Neptune Pringle(23340544) :-like i think strawberry or harenoir did it earlier
