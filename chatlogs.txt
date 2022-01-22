@@ -18609,3 +18609,5 @@ Gashing Sphere(22975867) :-He is tired of getting banned\n
 Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-Owned\n
 Neptune Pringle(23340544) :-hes been making threats for a few days I think
+Gashing Sphere(22975867) :-Seemingly
+Gashing Sphere(22975867) :-Is the GC crashed?
