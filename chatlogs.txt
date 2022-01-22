@@ -7755,3 +7755,4 @@ Lumi(16008266) :-Hello, Kaybae! Welcome to WFAF! - Waiting for a Friend! The pla
 Lumi(16008266) :-Hi, Kaybae! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Kaybae, dont feel bad, theyll accept one day... hopefully!
 Kaybae(23333825) :-hey
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
