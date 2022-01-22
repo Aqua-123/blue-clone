@@ -18647,3 +18647,6 @@ Gashing Sphere(22975867) :-Mhmm\n
 Neptune Pringle(23340544) :-Blue can tell you
 Gashing Sphere(22975867) :-Who are you tho..
 Neptune Pringle(23340544) :-or lumi
+Gashing Sphere(22975867) :-Blue works for me\n
+Neptune Pringle(23340544) :-They kept saying get details of nulls id
+Gashing Sphere(22975867) :-Yes\n
