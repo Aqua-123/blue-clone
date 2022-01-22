@@ -686,3 +686,4 @@ Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place
 Strawberry 🍓(16521287) :-hi aqua
 Cryo(22783061) :-hiii
 Strawberry 🍓(16521287) :-i pushed links but
+Strawberry 🍓(16521287) :-they just break and fix themselves when you post messages
