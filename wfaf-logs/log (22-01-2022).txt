@@ -144,3 +144,4 @@ Lumi(16008266) :-Hi again, Cryo, dont feel bad, theyll accept one day... hopeful
 Blue(21550262) :-Hi again, Cryo, try asking what is wfaf for more info :D
 Lumi(16008266) :-Hello, Sharing Icecream! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Blue(21550262) :-Hi, Sharing Icecream, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Cryo(22783061) :-blue disable greets
