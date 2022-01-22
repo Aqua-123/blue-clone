@@ -7640,3 +7640,5 @@ Lumi(16008266) :-Hello, lilpb! Welcome to WFAF! - Waiting for a Friend! The plac
 lilpb(23333735) :-yo
 Gashing Sphere(22975867) :-We hacked your dms\n
 lilpb(23333735) :-how
+Gashing Sphere(22975867) :-It just happened:)
+lilpb(23333735) :-for what
