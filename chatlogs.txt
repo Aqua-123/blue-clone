@@ -3738,3 +3738,7 @@ Mars Arcanine(23332647) :-Hello guys!
 Mars Arcanine(23332647) :-<3
 Blue(21550262) :-<3
 Mars Arcanine(23332647) :-hey blue
+Mars Arcanine(23332647) :-Hey Blue
+Mars Arcanine(23332647) :-Hi Blue
+Blue(21550262) :-Hellosss :D
+Mars Arcanine(23332647) :-Kys Blue
