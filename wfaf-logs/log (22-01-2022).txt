@@ -943,3 +943,7 @@ Harenoir(11427049) :-3
 Cryo(22783061) :-you bast-
 Cryo(22783061) :-;-;
 Harenoir(11427049) :-what-
+Cryo(22783061) :-excpet 3
+Cryo(22783061) :-except*
+Harenoir(11427049) :-4
+Cryo(22783061) :-i-
