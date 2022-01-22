@@ -16008,3 +16008,6 @@ Cryo(22783061) :-sigh
 Harenoir(11427049) :-it can be done manually
 Cryo(22783061) :-right
 Harenoir(11427049) :-by opening a new tab and closing it
+Cryo(22783061) :-mhmm yea
+Harenoir(11427049) :-you would need to just
+Cryo(22783061) :-but that woud do automatically>
