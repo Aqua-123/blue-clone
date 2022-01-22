@@ -15954,3 +15954,4 @@ Gashing Sphere(22975867) :-Man.
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Harenoir(11427049) :-would he care enough to come here tho
 Jupiter Bith(23335391) :-he cant autofetch ids of people here
+Harenoir(11427049) :-oh cool
