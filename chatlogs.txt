@@ -16205,3 +16205,4 @@ Cryo(22783061) :-the larger the model gets the more ram it takes
 Cryo(22783061) :-because its all loaded in ram
 Cryo(22783061) :-and colab provides just 12 gigs
 Cryo(22783061) :-ik thats a lot
+Cryo(22783061) :-but models go like mmm yummy ram
