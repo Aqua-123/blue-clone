@@ -18606,3 +18606,6 @@ Gashing Sphere(22975867) :-But anyway
 Neptune Pringle(23340544) :-Oh wow
 Gashing Sphere(22975867) :-I dont know who he is\n
 Gashing Sphere(22975867) :-He is tired of getting banned\n
+Gashing Sphere(22975867) :-And\n
+Gashing Sphere(22975867) :-Owned\n
+Neptune Pringle(23340544) :-hes been making threats for a few days I think
