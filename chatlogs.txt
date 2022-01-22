@@ -15797,3 +15797,5 @@ Jupiter Bith(23335391) :-yk
 Jupiter Bith(23335391) :-little bit
 Harenoir(11427049) :-lmaoo
 Harenoir(11427049) :-i could do that tho
+Harenoir(11427049) :-rename temps as old regular and simulate the old times
+Jupiter Bith(23335391) :-damn
