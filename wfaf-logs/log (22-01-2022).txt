@@ -579,3 +579,4 @@ Harenoir(11427049) :-mhm...
 Harenoir(11427049) :-ill just wait for the juicy details
 Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Strawberry 🍓(16521287) :-Oops I refroshnked
+Cryo(22783061) :-the words reorder,order,where,find_by were vuilnerable in those versions for sql injections
