@@ -16386,3 +16386,4 @@ Cryo(22783061) :-i was going to make something to like farm everyone to enters g
 Strawberry 🍓(16521287) :-Yeah
 Strawberry 🍓(16521287) :-A script that posts everyones karma
 Cryo(22783061) :-yikes
+Strawberry 🍓(16521287) :-When it enters chat
