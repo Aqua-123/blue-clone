@@ -7701,3 +7701,4 @@ Cryo(22783061) :-usually i use google colab for this fuckery
 Cryo(22783061) :-but this is gonna take days
 Cryo(22783061) :-google colab cuts off my session in 12h
 Harenoir(11427049) :-hm....
+Harenoir(11427049) :-tough
