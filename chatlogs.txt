@@ -16676,3 +16676,4 @@ Harenoir(11427049) :-fresh ids hm
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-its nice
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-that i cna use rxe on phone
 Cryo(22783061) :-mhmm
+Cryo(22783061) :-*flips hair*
