@@ -15547,3 +15547,5 @@ Harenoir(11427049) :-sec
 Harenoir(11427049) :-22466125
 Aqua(16986137) :-thanks
 Forecasting Ithorian(23335023) :-hammy
+Forecasting Ithorian(23335023) :-u gone?
+pluviophile(14751444) :-nope
