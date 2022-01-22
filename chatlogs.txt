@@ -18475,3 +18475,7 @@ Stirring Circle(23339710) :-lumi get id of Stirring Circle
 Stirring Circle(23339710) :-blue get id of stirring circle
 Blue(21550262) :-ID of stirring circle is 23339710
 Stirring Circle(23339710) :-Blue get details on 23339710
+Stirring Circle(23339710) :-Blue get details of 23339710
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Stirring Circle(23339710) :-Wtf
