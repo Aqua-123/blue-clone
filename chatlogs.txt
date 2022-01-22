@@ -896,3 +896,29 @@ Lumi(16008266) :-2 coins added to the fountain, there are now 18823 coins in the
 Arrow(23331808) :-lumi ty
 Arrow(23331808) :-ty lumi
 Arrow(23331808) :-ahh ouch
+Lumi(16008266) :-Hello, Boiling Strawberry! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Kocur! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Boiling Strawberry! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Boiling Strawberry, dont feel bad, theyll accept one day... hopefully!
+Boiling Strawberry(23331958) :-hey
+Lumi(16008266) :-Hello, Saturn Dathomirian! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Saturn Dathomirian! Im afraid they arent your friend yet, you can always try again!
+Saturn Dathomirian(23332142) :-i loved those shorts youre wearing, super cute
+Lumi(16008266) :-Hello, Almondy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Almondy(20199174) :-Lumi whos here
+Lumi(16008266) :-I can see Lumi, Almondy and 3 lurkers
+Almondy(20199174) :-Lumi whos whos
+Almondy(20199174) :-Lumi whos idle
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harenoir lurking in the shadows...
+Lumi(16008266) :-Hello, Earth Circle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Almondy(20199174) :-Hey Terri!!
+Earth Circle(23332075) :-hi
+Lumi(16008266) :-Hello, Gaining Chinchilla! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Earth Circle(23332075) :-u from ?
+Earth Circle(23332075) :-are u m or f
+Gaining Chinchilla(23329697) :-lumi whos here
+Lumi(16008266) :-I can see Gaining Chinchilla, Lumi and 3 lurkers
+Gaining Chinchilla(23329697) :-lumi whos idle
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harenoir lurking in the shadows...
+Lumi(16008266) :-Hello, Tommy is my bitch! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi again, Saturn Dathomirian, dont feel bad, theyll accept one day... hopefully!
