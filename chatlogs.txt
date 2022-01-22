@@ -18330,3 +18330,6 @@ Neptune Mon Calamari(23330573) :-Hi strawberry
 Neptune Mon Calamari(23330573) :-Hi circle
 Neptune Mon Calamari(23330573) :-How are you all\n
 Strawberry 🍓(16521287) :-Lemon cake
+Strawberry 🍓(16521287) :-Its like
+Strawberry 🍓(16521287) :-a puffy bread
+Strawberry 🍓(16521287) :-I wonder if its bad for me
