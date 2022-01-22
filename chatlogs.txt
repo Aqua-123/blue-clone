@@ -16984,3 +16984,6 @@ Cryo(22783061) :-collectig cookies sending request clear repeat
 Strawberry 🍓(16521287) :-how does that work
 Strawberry 🍓(16521287) :-uhh
 Strawberry 🍓(16521287) :-cookies?
+Harenoir(11427049) :-mhm...
+Strawberry 🍓(16521287) :-like pure requests?
+Cryo(22783061) :-send post request with the captcha token it returns the cookies you need
