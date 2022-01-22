@@ -18501,3 +18501,5 @@ Stirring Circle(23339710) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, Blue, Stirring Circle and 3 lurkers
 Stirring Circle(23339710) :-lumi whos lurking
 Lumi(16008266) :-I see 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, 🤖 Mecha Nurse 💉, Harenoir lurking in the shadows...
+Stirring Circle(23339710) :-blue get id of lumi
+Blue(21550262) :-ID of lumi is 16008266
