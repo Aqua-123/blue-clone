@@ -18271,3 +18271,4 @@ mia(13304686) :-might as well put the cricket sound effect
 mia(13304686) :-yea fs = for sure
 Strawberry 🍓(16521287) :-nice
 Harenoir(11427049) :-*crickets*
+Strawberry 🍓(16521287) :-speaking of history
