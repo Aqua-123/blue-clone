@@ -18414,3 +18414,4 @@ Harenoir(11427049) :-berry
 Strawberry 🍓(16521287) :-scratch
 Strawberry 🍓(16521287) :-scratch mit edu
 Stirring Circle(23339710) :-Good lord
+Strawberry 🍓(16521287) :-do you not know the software for kids
