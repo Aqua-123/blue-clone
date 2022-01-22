@@ -7691,3 +7691,4 @@ Cryo(22783061) :-nvm
 Cryo(22783061) :->hi blue
 Cryo(22783061) :-sigh
 Cryo(22783061) :-someone get me a gpu on which i can train my model TwT
+Cryo(22783061) :-yes its always models
