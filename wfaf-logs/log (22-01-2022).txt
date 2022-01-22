@@ -588,3 +588,4 @@ Cryo(22783061) :-so thats
 Cryo(22783061) :-what
 Cryo(22783061) :-we have
 Cryo(22783061) :-for injections
+Cryo(22783061) :-nvm theres a lot ore
