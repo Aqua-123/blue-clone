@@ -18702,3 +18702,7 @@ Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend!
 Blue(21550262) :-The earth shalt tremr at which hour the sphere rolls to the did grind
 Blue(21550262) :-Disabling greets uwu
 Gashing Sphere(22975867) :-Welp\n
+Gashing Sphere(22975867) :-Blue get details of 23340544
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Gashing Sphere(22975867) :-*sigh*
