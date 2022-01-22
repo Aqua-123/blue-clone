@@ -18761,3 +18761,7 @@ Neptune Pringle(23340544) :-HOW TELE
 Neptune Pringle(23340544) :-IOS?
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-tube
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-androis
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-android
+Neptune Pringle(23340544) :-Oh ok
+Neptune Pringle(23340544) :-i couldnt get it to work on ios
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-but theres a way to do it on ios too
