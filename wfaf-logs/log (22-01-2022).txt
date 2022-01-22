@@ -106,3 +106,5 @@ Lumi(16008266) :-The most radiant & shining greeter has arrived! <3
 Blue(21550262) :-Disabling greets uwu
 Harenoir(11427049) :-switched uwu
 Cryo(22783061) :-im setting the auto disable and enable greets in a way that it assumes that mecha and lumi are purely greeters and wont talk otherwise
+Cryo(22783061) :-thats a bad idea-
+Cryo(22783061) :-nvm
