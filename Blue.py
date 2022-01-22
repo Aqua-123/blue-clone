@@ -405,7 +405,7 @@ def push_logs():
         log = ""
         for i in contents:
             log = log + i 
-        repo.create_file(git_file, "committing files", log, branch="master")
+        repo.create_file(git_file, "committing files", log, branch="main")
 
 """Connect blue to whatever"""
 websocket.enableTrace(False)
