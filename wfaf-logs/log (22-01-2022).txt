@@ -352,3 +352,6 @@ Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Cryo(22783061) :-blue whos here
 Blue(21550262) :-I can see Cryo, Lumi, Blue and no lurkers :p
+Cryo(22783061) :-blue get details of 1
+Blue(21550262) :-The account with ID 1 has the name EVE-E (evee) with karma:- 2106 and gender set to Not Specified and was created on 2016-07-17 at 11:06:00.125Z
+Cryo(22783061) :-FINALLY
