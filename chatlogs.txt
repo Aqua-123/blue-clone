@@ -18353,3 +18353,5 @@ Blue(21550262) :-I love you even moreeee
 Neptune Mon Calamari(23330573) :-Please tell us\n
 Strawberry 🍓(16521287) :-my gender is berry
 Strawberry 🍓(16521287) :-obv
+Neptune Mon Calamari(23330573) :-What\n
+Strawberry 🍓(16521287) :-does lumi have a no command
