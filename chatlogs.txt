@@ -17867,3 +17867,4 @@ Fuchsia Fearow(23337912) :-lmao
 Cryo(22783061) :-absolute... nope
 Strawberry 🍓(16521287) :-Absolute value is defined on the whole euclidean ring
 Gashing Sphere(22975867) :-Back again
+Gashing Sphere(22975867) :-And\n
