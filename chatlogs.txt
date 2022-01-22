@@ -16171,3 +16171,6 @@ Harenoir(11427049) :-and not really worth the effort
 Cryo(22783061) :-training on non gpu hardware would take weeks
 Harenoir(11427049) :-hmm...
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
+Cryo(22783061) :-and even if i do it
+Cryo(22783061) :-i cant host it on heroku
+Harenoir(11427049) :-why not
