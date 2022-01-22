@@ -389,3 +389,8 @@ Cryo(22783061) :-ahem
 Cryo(22783061) :-anyways
 Cryo(22783061) :-teriii
 Lumi(16008266) :-Hello, Guarding Dolphin! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Cryo(22783061) :-blue disable greets
+Blue(21550262) :-Okai done ^-^
