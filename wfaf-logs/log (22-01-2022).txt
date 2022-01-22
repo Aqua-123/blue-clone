@@ -772,3 +772,5 @@ Cryo(22783061) :-emeraldchat(.)com/app?karma_give
 Cryo(22783061) :-mhm
 Strawberry 🍓(16521287) :-oh
 Strawberry 🍓(16521287) :-hm
+Cryo(22783061) :-you couldve added just blank chars in place on the brackets
+Cryo(22783061) :-but thats fine ig
