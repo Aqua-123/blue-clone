@@ -17917,3 +17917,7 @@ Gashing Sphere(22975867) :-Strawberry... U having some existential crises or is 
 Strawberry 🍓(16521287) :-its cool how homomorphism kernels are precisely normal subgroups / ideals
 Strawberry 🍓(16521287) :-and that you can factorize over them
 Strawberry 🍓(16521287) :-so much structure out of nothing
+Harenoir(11427049) :-ok last one
+Strawberry 🍓(16521287) :-and its part of the topic i had in uni
+Gashing Sphere(22975867) :-...
+Harenoir(11427049) :-is a triangle a convex polygon?
