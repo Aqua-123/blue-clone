@@ -636,3 +636,4 @@ Harenoir(11427049) :-lumi serve coffee
 Lumi(16008266) :-☕️
 Harenoir(11427049) :-thx lumi
 Lumi(16008266) :-Youre welcome :D
+Cryo(22783061) :-remote code execution is also one of the exploits listed for ruby :D
