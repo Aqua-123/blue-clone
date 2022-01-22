@@ -17510,3 +17510,4 @@ Fuchsia Fearow(23337912) :-this is where it gets confusing
 Strawberry 🍓(16521287) :-I know
 Fuchsia Fearow(23337912) :-Good lord
 Strawberry 🍓(16521287) :-But this way
+Strawberry 🍓(16521287) :-you can leave GC and use text
