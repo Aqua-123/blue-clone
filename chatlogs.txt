@@ -16054,3 +16054,4 @@ Gashing Sphere(22975867) :-Back\n
 Cryo(22783061) :-i was like how
 Harenoir(11427049) :-damn
 Cryo(22783061) :-he was like websockets
+Cryo(22783061) :-and then he spent 3 hours with me figuring out th websocket library
