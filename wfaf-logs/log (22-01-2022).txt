@@ -463,3 +463,5 @@ Cryo(22783061) :-straw
 Cryo(22783061) :-you there?
 Harenoir(11427049) :-ah, better now
 Cryo(22783061) :-strawww insight needed here
+Harenoir(11427049) :-my pc i mean
+Cryo(22783061) :-ah mhm
