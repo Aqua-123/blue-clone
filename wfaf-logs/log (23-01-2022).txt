@@ -1,2 +1,3 @@
 Lumi(16008266) :-Hello, Jackel! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Earth Rectangle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Earth Rectangle(23353105) :-Lumi who’s here
