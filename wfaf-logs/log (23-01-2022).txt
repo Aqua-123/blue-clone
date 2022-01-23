@@ -1383,3 +1383,4 @@ Blue(21550262) :-Hi, Cryo, retrying wont help, you can try asking what is wfaf f
 Blue(21550262) :-Hi, Imitating Twilek, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Cryo(22783061) :-lumi enable greets
 Lumi(16008266) :-Ok, Im on it! :D
+Cryo(22783061) :-so she just doesnt disable for custom greets..?
