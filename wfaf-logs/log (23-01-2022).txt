@@ -1377,3 +1377,5 @@ Blue(21550262) :-Hi, Cryo, Welcome to WFAF, which stands for Waiting For A Frien
 Blue(21550262) :-Disabling greets uwu
 Cryo(22783061) :-lumi disable greets
 Lumi(16008266) :-Ok, Ill stop greeting people now :D
+🤖 Mecha Nurse 💉(20909261) :-Hi again, Cryo, try asking what is wfaf for more info :D
+Blue(21550262) :-Re-enabling greets :D
