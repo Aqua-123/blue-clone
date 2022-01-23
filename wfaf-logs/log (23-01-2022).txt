@@ -1204,3 +1204,4 @@ Lumi(16008266) :-Hello, Succeeding Lolipop! Welcome to WFAF! - Waiting for a Fri
 Succeeding Lolipop(23363526) :-Hi
 Lumi(16008266) :-Hi, Succeeding Lolipop! Im afraid they arent your friend yet, you can always try again!
 Succeeding Lolipop(23363526) :-Hi
+Harenoir(11427049) :-hi
