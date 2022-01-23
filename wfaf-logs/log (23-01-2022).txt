@@ -1410,3 +1410,4 @@ Cryo(22783061) :-tracking also ive to fix
 Lumi(16008266) :-Hello, Earth Fish Fingers! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Cryo(22783061) :-and make it stop at will
 Harenoir(11427049) :-i see
+Cryo(22783061) :-i already made it autodetect so that it stops if the account gets deleted mid process and report it here
