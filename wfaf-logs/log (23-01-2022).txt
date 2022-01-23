@@ -1309,3 +1309,4 @@ Lumi(16008266) :-Hello, RoleplayGuy! Welcome to WFAF! - Waiting for a Friend! Th
 RoleplayGuy(314881) :-lumi
 RoleplayGuy(314881) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, RoleplayGuy and 4 lurkers
+Lumi(16008266) :-Hello, Uranus Cattle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
