@@ -1223,3 +1223,4 @@ Lumi(16008266) :-Hi, Justyn! Im afraid they arent your friend yet, you can alway
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Lumi(16008266) :-Hello, Converting Circle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Converting Circle(23363638) :-hi
+Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
