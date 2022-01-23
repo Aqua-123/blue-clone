@@ -126,3 +126,4 @@ Aqua(16986137) :-damn
 Aqua(16986137) :-well lets wait
 Harenoir(11427049) :-sure, sure
 Aqua(16986137) :-new feature for blue
+Lumi(16008266) :-Hello, Rademaker! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
