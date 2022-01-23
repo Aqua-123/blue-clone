@@ -1272,3 +1272,7 @@ Lumi(16008266) :-Hi, Neptune Mon Calamari! Im afraid they arent your friend yet,
 Lumi(16008266) :-Hello, Venus Caterpie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Venus Caterpie(23364585) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, Venus Caterpie and 4 lurkers
+Venus Caterpie(23364585) :-Lumi whos lurking
+Lumi(16008266) :-I see Harenoir, Blue, 🤖 Mecha Nurse 💉, Omnissiah lurking in the shadows...
+Venus Caterpie(23364585) :-Hi blue
+Blue(21550262) :-Hellosss :D
