@@ -1152,3 +1152,8 @@ Harenoir(11427049) :-hm...
 Lumi(16008266) :-Hello, Zaccbear! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Zaccbear! Im afraid they arent your friend yet, you can always try again!
 Harenoir(11427049) :-lumi whos here
+Lumi(16008266) :-I can see Harenoir, Blue, Lumi and 3 lurkers
+Harenoir(11427049) :-lumi whos idle
+Lumi(16008266) :-I see pluviophile, 🤖 Mecha Nurse 💉, Mister hypnotist lurking in the shadows...
+Harenoir(11427049) :-lumi clear userlist
+Lumi(16008266) :-Dropping sticky notes~ o.o
