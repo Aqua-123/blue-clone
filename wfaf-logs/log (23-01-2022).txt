@@ -903,3 +903,4 @@ Lumi(16008266) :-Hello, Gold Orange! Welcome to WFAF! - Waiting for a Friend! Th
 Lumi(16008266) :-Hi, Gold Orange! Im afraid they arent your friend yet, you can always try again!
 Gold Orange(23362148) :-is this thing called chat u privately?
 Lumi(16008266) :-Hi again, Gold Orange, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
