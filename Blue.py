@@ -423,7 +423,16 @@ def check_greeters(message,id):
                 elif id == "20909261" and greet_status == False:
                     send_message("Re-enabling greets :D")
                     greet_status = True
-
+        for reg_m in custom_greet_id.values():
+            reg = re.compile(r"" + reg_m+ "", re.A)
+            result = reg.search(name)
+            if result is not None:
+                if id == "16008266"and greet_status == True:
+                    send_message("Disabling greets uwu")
+                    greet_status = False
+                elif id == "20909261" and greet_status == False:
+                    send_message("Re-enabling greets :D")
+                    
 def coins_feelings(message,id):
     for reg_m in coinsandfeelings:
         result = reg_m.match(message)
