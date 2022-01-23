@@ -109,3 +109,4 @@ Lumi(16008266) :-Hello, Approaching Cube! Welcome to WFAF! - Waiting for a Frien
 Lumi(16008266) :-Hi, Approaching Cube! Im afraid they arent your friend yet, you can always try again!
 Approaching Cube(23355224) :-Hello
 Lumi(16008266) :-Hello, Sasori! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Sasori! Im afraid they arent your friend yet, you can always try again!
