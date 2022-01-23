@@ -952,3 +952,7 @@ Orange Gamorreans(23361881) :-Hello
 Gashing Sphere(22975867) :-Hello\n
 Orange Gamorreans(23361881) :-Nico?
 Harenoir(11427049) :-hm, i see
+Gashing Sphere(22975867) :-Lol\n
+Gashing Sphere(22975867) :-Nico\n
+Gashing Sphere(22975867) :-Nice name\n
+Harenoir(11427049) :-lol
