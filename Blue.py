@@ -251,7 +251,7 @@ def stalker(id,time_now):
         repo.create_file(git_file, "committing files", log, branch="main")
     while True:
         r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
-        if req.status_code == 200:
+        if r.status_code == 200:
             r = json.loads(r.text)
             name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
             logs = repo.get_contents(git_file)
