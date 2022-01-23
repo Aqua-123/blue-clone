@@ -1177,3 +1177,4 @@ Lumi(16008266) :-Hi, Ryu! Im afraid they arent your friend yet, you can always t
 Harenoir(11427049) :-blue get id of Ryu
 Blue(21550262) :-ID of Ryu is 1966574
 Harenoir(11427049) :-lets see
+Harenoir(11427049) :-clearly
