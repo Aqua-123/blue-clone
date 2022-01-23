@@ -15,3 +15,5 @@ Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place
 Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Strawberry 🍓(16521287) :-Lumi whos here
 Lumi(16008266) :-I can see Cryo, Lumi, Strawberry 🍓 and 5 lurkers
+Strawberry 🍓(16521287) :-I need to sleep but
+Strawberry 🍓(16521287) :-tried convering the image to invis characters
