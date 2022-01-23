@@ -352,3 +352,7 @@ Aqua(16986137) :-uh
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-some peoples pfp
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-its a broken image logo
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-and it keeps flashing
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Aqua(16986137) :-mhmm
+Aqua(16986137) :-blue get id of aqua
