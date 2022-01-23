@@ -175,3 +175,6 @@ Blue(21550262) :-Please give a valid ID
 Aqua(16986137) :-its a valid id
 Aqua(16986137) :-dammit blue
 Harenoir(11427049) :-lmao
+
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
