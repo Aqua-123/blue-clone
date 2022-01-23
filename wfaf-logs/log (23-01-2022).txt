@@ -596,3 +596,4 @@ Mercury Porygon(23357630) :-Hii
 Harenoir(11427049) :-hi
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Lumi(16008266) :-Hello, Alice! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Harenoir(11427049) :-blue ban 23357708
