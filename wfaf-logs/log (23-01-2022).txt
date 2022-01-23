@@ -656,3 +656,5 @@ Consisting Gamorreans(23358345) :-Keeping records for what?
 Lumi(16008266) :-Hi, Mark Zukerberg☑️! Im afraid they arent your friend yet, you can always try again!
 Mark Zukerberg☑️(23358394) :-Hi
 Gashing Sphere(22975867) :-Mhm that issue still persists i guess\n
+Gashing Sphere(22975867) :-Back to the GC\n
+Consisting Gamorreans(23358345) :-Blue no
