@@ -639,3 +639,6 @@ Consisting Gamorreans(23358345) :-Just collecting info? Record keeping????
 Gashing Sphere(22975867) :-Kinda\n
 Consisting Gamorreans(23358345) :-For what
 Consisting Gamorreans(23358345) :-0_0
+Lumi(16008266) :-Hello, Mark Zukerberg☑️! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Gashing Sphere(22975867) :-Blue get id of Consisting Gamorreans
+Blue(21550262) :-ID of Consisting Gamorreans is 23358345
