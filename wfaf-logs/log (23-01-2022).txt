@@ -553,3 +553,4 @@ Harenoir(11427049) :-stuff that comes by default yknow
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-it turned into a cat
 Lumi(16008266) :-Hello, MarkyMoo (M 24)! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-betty ravioli
