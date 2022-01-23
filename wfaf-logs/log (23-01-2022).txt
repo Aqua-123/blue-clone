@@ -375,3 +375,5 @@ Blue(21550262) :-Okai waking stalk function
 Aqua(16986137) :-id
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-yes but whos id?
 Aqua(16986137) :-ill brb from breakfast
+Aqua(16986137) :-nulls
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-okay
