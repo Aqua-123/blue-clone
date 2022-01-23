@@ -675,3 +675,5 @@ pluviophile(14751444) :-fainting square-
 Lumi(16008266) :-Hello, Relylkia (F14)! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-.....
 Gashing Sphere(22975867) :-Hi?
+Gashing Sphere(22975867) :-Blue whos here\n
+Blue(21550262) :-I can see Gashing Sphere and 4 peeps lurking :p
