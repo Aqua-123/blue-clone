@@ -748,3 +748,4 @@ Lumi(16008266) :-Hello, Offsetting Magikarp! Welcome to WFAF! - Waiting for a Fr
 Offsetting Magikarp(23360045) :-Hi
 Lumi(16008266) :-Hi, Offsetting Magikarp! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Offsetting Magikarp, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
