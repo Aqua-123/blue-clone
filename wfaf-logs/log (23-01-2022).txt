@@ -928,3 +928,5 @@ Gashing Sphere(22975867) :-Seemingly it is...
 Gashing Sphere(22975867) :-She called me a girl T T\n
 Harenoir(11427049) :-;-;
 Lumi(16008266) :-Hello, Mister hypnotist! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Mister hypnotist! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Mister hypnotist, dont feel bad, theyll accept one day... hopefully!
