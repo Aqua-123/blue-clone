@@ -624,3 +624,5 @@ Consisting Gamorreans(23358345) :-Lumi whos lurking
 Lumi(16008266) :-I see Omnissiah, Blue, Gashing Sphere, 🤖 Mecha Nurse 💉 lurking in the shadows...
 Consisting Gamorreans(23358345) :-Hi blue
 Blue(21550262) :-Hellosss :D
+Consisting Gamorreans(23358345) :-Blue get id of Omnissiah
+Blue(21550262) :-ID of Omnissiah is 20909232
