@@ -349,3 +349,6 @@ Blue(21550262) :-Im sorry I havent seen anyone with the name blue here
 Blue(21550262) :-Im sorry I havent seen anyone with the name blue here
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-theres a glitch
 Aqua(16986137) :-uh
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-some peoples pfp
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-its a broken image logo
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-and it keeps flashing
