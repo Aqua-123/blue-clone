@@ -628,3 +628,6 @@ Consisting Gamorreans(23358345) :-Blue get id of Omnissiah
 Blue(21550262) :-ID of Omnissiah is 20909232
 Consisting Gamorreans(23358345) :-Blue get details of 20909232
 Gashing Sphere(22975867) :-:)
+Consisting Gamorreans(23358345) :-So omnissiah send info to nurse
+Consisting Gamorreans(23358345) :-then what does nurse do
+Gashing Sphere(22975867) :-Yes\n
