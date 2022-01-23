@@ -255,3 +255,6 @@ pluviophile(14751444) :-blue start stalking 696969
 pluviophile(14751444) :-oof
 pluviophile(14751444) :-:<
 Aqua(16986137) :-:>
+Blue(21550262) :-<:
+pluviophile(14751444) :-sadness
+pluviophile(14751444) :-\n
