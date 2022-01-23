@@ -437,3 +437,5 @@ Gashing Sphere(22975867) :-Hmph\n
 Gashing Sphere(22975867) :-Single\n
 Gashing Sphere(22975867) :-Text\n
 Gashing Sphere(22975867) :-Works\n
+Harenoir(11427049) :-hm
+Harenoir(11427049) :-cool
