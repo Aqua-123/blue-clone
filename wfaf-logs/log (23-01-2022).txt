@@ -340,3 +340,12 @@ Blue(21550262) :-Hi, its Blue ^-^
 Aqua(16986137) :-blue get id of blue
 Blue(21550262) :-Im sorry I havent seen anyone with the name blue here
 Aqua(16986137) :-fucking
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Aqua(16986137) :-good
+Aqua(16986137) :-blue get id of blue
+Blue(21550262) :-ID of blue is 21550262
+Blue(21550262) :-Im sorry I havent seen anyone with the name blue here
+Blue(21550262) :-Im sorry I havent seen anyone with the name blue here
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-theres a glitch
+Aqua(16986137) :-uh
