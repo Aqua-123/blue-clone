@@ -592,3 +592,5 @@ Lumi(16008266) :-Hello, 1323299554! Welcome to WFAF! - Waiting for a Friend! The
 1323299554(23357258) :-No
 Harenoir(11427049) :-no
 Lumi(16008266) :-Hello, Mercury Porygon! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Mercury Porygon(23357630) :-Hii
+Harenoir(11427049) :-hi
