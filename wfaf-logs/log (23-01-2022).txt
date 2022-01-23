@@ -941,3 +941,4 @@ Lumi(16008266) :-Hello, Hurling Arcanine! Welcome to WFAF! - Waiting for a Frien
 Hurling Arcanine(23361222) :-Hi
 Gashing Sphere(22975867) :-I know, Ribbit ;-;
 Harenoir(11427049) :-if anything, i hope it ends well
+Gashing Sphere(22975867) :-Yes\n
