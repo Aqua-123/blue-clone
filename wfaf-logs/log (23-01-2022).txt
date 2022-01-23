@@ -608,3 +608,4 @@ Lumi(16008266) :-Hello, Tearing Kaminoan! Welcome to WFAF! - Waiting for a Frien
 Lumi(16008266) :-Hello, Maroon Sandslash! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Nick30! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Gashing Sphere(22975867) :-\nGuess whos back!
