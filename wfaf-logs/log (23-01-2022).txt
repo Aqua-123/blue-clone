@@ -724,3 +724,4 @@ Lumi(16008266) :-Hi again, Earth Square, dont feel bad, theyll accept one day...
 Lumi(16008266) :-Hello, wenny! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 wenny(1993120) :-:(
 Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, wenny! Im afraid they arent your friend yet, you can always try again!
