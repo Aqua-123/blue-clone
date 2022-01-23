@@ -701,3 +701,5 @@ Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend!
 🤖 Mecha Nurse 💉(20909261) :-and often times we call a man cold when he is only sad.
 Gashing Sphere(22975867) :-5^3
 Gashing Sphere(22975867) :-Nah\n
+Gashing Sphere(22975867) :-3_2
+Gashing Sphere(22975867) :-That too nah\n
