@@ -651,3 +651,5 @@ Consisting Gamorreans(23358345) :-Lol
 Mark Zukerberg☑️(23358394) :-hi
 Gashing Sphere(22975867) :-Heh\n
 Mark Zukerberg☑️(23358394) :-iam mark
+Gashing Sphere(22975867) :-Blue get details of 23358345
+Consisting Gamorreans(23358345) :-Keeping records for what?
