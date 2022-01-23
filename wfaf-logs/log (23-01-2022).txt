@@ -1140,3 +1140,4 @@ Harenoir(11427049) :-also cool
 Almondy(20199174) :-Yeah I guess..
 Harenoir(11427049) :-better than nothing
 Almondy(20199174) :-True
+Almondy(20199174) :-<3
