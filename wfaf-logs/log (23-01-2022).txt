@@ -1217,3 +1217,4 @@ Lumi(16008266) :-Hello, Fuchsia Hamster! Welcome to WFAF! - Waiting for a Friend
 Fuchsia Hamster(23363616) :-hi
 Saturn Butterfree(23362910) :-Hello asl
 Lumi(16008266) :-Hello, Tommy is my bitch! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Converting Circle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
