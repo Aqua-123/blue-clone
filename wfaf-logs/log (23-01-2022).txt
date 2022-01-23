@@ -64,3 +64,5 @@ Lumi(16008266) :-Hello, Venus Rhombus! Welcome to WFAF! - Waiting for a Friend! 
 Lumi(16008266) :-Hi, Venus Rhombus! Im afraid they arent your friend yet, you can always try again!
 Venus Rhombus(23353794) :-Hey man
 🤖 Mecha Nurse 💉(20909261) :-Every human walks around with a certain kind of sadness.
+🤖 Mecha Nurse 💉(20909261) :-They may not wear it on their sleeves,
+🤖 Mecha Nurse 💉(20909261) :-but its there if you look deep.
