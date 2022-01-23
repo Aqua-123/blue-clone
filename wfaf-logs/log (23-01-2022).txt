@@ -622,3 +622,5 @@ Consisting Gamorreans(23358345) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, Consisting Gamorreans and 4 lurkers
 Consisting Gamorreans(23358345) :-Lumi whos lurking
 Lumi(16008266) :-I see Omnissiah, Blue, Gashing Sphere, 🤖 Mecha Nurse 💉 lurking in the shadows...
+Consisting Gamorreans(23358345) :-Hi blue
+Blue(21550262) :-Hellosss :D
