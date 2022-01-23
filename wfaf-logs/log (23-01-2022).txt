@@ -888,3 +888,5 @@ Lumi(16008266) :-Hello, Mars Hutt! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hello, Presenting Strawberry! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Lavender Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lavender Sphere(23362204) :-hi
+Presenting Strawberry(23362083) :-Hi
+Lavender Sphere(23362204) :-r u f r m
