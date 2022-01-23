@@ -141,3 +141,4 @@ Aqua(16986137) :-how long she should stalk for?
 Harenoir(11427049) :-didnt you say an hour
 Aqua(16986137) :-yea but incase you wanted to increase or decrease it
 Harenoir(11427049) :-hmm
+Harenoir(11427049) :-id say the maximum should be 24 hours
