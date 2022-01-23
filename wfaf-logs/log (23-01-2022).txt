@@ -618,3 +618,7 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Rewinding Shellder! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Consisting Gamorreans! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Consisting Gamorreans(23358345) :-Lumi whos here
+Lumi(16008266) :-I can see Lumi, Consisting Gamorreans and 4 lurkers
+Consisting Gamorreans(23358345) :-Lumi whos lurking
+Lumi(16008266) :-I see Omnissiah, Blue, Gashing Sphere, 🤖 Mecha Nurse 💉 lurking in the shadows...
