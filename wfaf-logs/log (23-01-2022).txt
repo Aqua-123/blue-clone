@@ -147,3 +147,5 @@ Aqua(16986137) :-well heroku restart would reset it
 Harenoir(11427049) :-ah
 Aqua(16986137) :-soooo i would say 1 hour
 Harenoir(11427049) :-true
+Aqua(16986137) :-can always change later
+Harenoir(11427049) :-fair
