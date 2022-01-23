@@ -269,3 +269,15 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Aqua(16986137) :-blue start stalking 14008355
 Blue(21550262) :-Okai waking stalk function
+Aqua(16986137) :-blue get details of 1
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Aqua(16986137) :-blue get id if blue
+Aqua(16986137) :-blue get id of blue
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Aqua(16986137) :-blue get id of blue
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Aqua(16986137) :-blue get id of blue
+Blue(21550262) :-Im sorry I havent seen anyone with the name blue here
