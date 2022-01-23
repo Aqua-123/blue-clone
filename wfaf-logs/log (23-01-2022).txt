@@ -1118,3 +1118,4 @@ Almondy(20199174) :-Lumi whos here
 Lumi(16008266) :-I can see Almondy, Lumi and 4 lurkers
 Almondy(20199174) :-Lumi whos idle
 Lumi(16008266) :-I see Harenoir, 🤖 Mecha Nurse 💉, Blue, Mister hypnotist lurking in the shadows...
+Almondy(20199174) :-Hey ribbitt
