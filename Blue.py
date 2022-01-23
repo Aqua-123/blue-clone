@@ -343,7 +343,7 @@ def admin_func(message,id,isadmin):
                     threading.Thread(target=stalker, args=(id,timer(),) )
                     stalker(id,timer())
                     send_message("Okai waking stalk function")
-                else: send_message("Please give a valid ID")
+                else: send_message(id)
                 
 def coin_handling(array):
     """Just as the name suggests,
