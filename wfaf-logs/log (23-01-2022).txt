@@ -486,3 +486,6 @@ Gashing Sphere(22975867) :-alone\nnot Im
 Harenoir(11427049) :-im not sure tho
 Gashing Sphere(22975867) :-T\nT
 Harenoir(11427049) :-try sending a message putting ¿ at the beginning
+Harenoir(11427049) :-or ?
+Gashing Sphere(22975867) :-Oki\n
+Harenoir(11427049) :-dont remember which one
