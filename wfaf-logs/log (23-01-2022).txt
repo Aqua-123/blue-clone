@@ -1120,3 +1120,6 @@ Almondy(20199174) :-Lumi whos idle
 Lumi(16008266) :-I see Harenoir, 🤖 Mecha Nurse 💉, Blue, Mister hypnotist lurking in the shadows...
 Almondy(20199174) :-Hey ribbitt
 Harenoir(11427049) :-hi...
+Almondy(20199174) :-Why u sound depressed?
+Almondy(20199174) :-Cheer up
+Almondy(20199174) :-Its Sunday
