@@ -260,3 +260,4 @@ pluviophile(14751444) :-sadness
 pluviophile(14751444) :-\n
 pluviophile(14751444) :-why doesnt blue listen to me??
 pluviophile(14751444) :->:
+pluviophile(14751444) :-blue tell me why dont u listen to me? T^T
