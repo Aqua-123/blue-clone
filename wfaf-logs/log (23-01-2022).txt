@@ -559,3 +559,4 @@ Lumi(16008266) :-Hello, MatmatM26! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, MatmatM26! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Violet Golem! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Violet Golem! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hello, Black Jawa! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
