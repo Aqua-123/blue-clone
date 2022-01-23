@@ -1341,3 +1341,4 @@ Lumi(16008266) :-Hello, The Deathstar! Welcome to WFAF! - Waiting for a Friend! 
 The Deathstar(10579120) :-lumi whos here
 Lumi(16008266) :-I can see The Deathstar, Lumi and 4 lurkers
 Lumi(16008266) :-Hi, LimpD!ck69! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
