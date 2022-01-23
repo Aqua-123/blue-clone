@@ -24,3 +24,5 @@ Cryo(22783061) :-this is rendered better than normal one
 Cryo(22783061) :-unless you changed things
 Strawberry 🍓(16521287) :-Well
 Strawberry 🍓(16521287) :-The last upload failed
+Strawberry 🍓(16521287) :-If it succeeded, you wouldnt be seeing much
+Cryo(22783061) :-ohh
