@@ -26,3 +26,4 @@ Strawberry 🍓(16521287) :-Well
 Strawberry 🍓(16521287) :-The last upload failed
 Strawberry 🍓(16521287) :-If it succeeded, you wouldnt be seeing much
 Cryo(22783061) :-ohh
+Strawberry 🍓(16521287) :-I did change the palette distance computation tho yes
