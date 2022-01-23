@@ -39,3 +39,4 @@ Lumi(16008266) :-Hi, Determining Cube! Im afraid they arent your friend yet, you
 Lumi(16008266) :-Hello, Maroon Square! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Maroon Square(23353364) :-hey u wanna talk again
 Lumi(16008266) :-Hello, Purple Charizard! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Purple Charizard! Im afraid they arent your friend yet, you can always try again!
