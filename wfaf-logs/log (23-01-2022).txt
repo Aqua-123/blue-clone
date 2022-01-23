@@ -1116,3 +1116,5 @@ Lumi(16008266) :-Hello, Almondy! Welcome to WFAF! - Waiting for a Friend! The pl
 Shooting Mon Calamari(23363228) :-Hiiii
 Almondy(20199174) :-Lumi whos here
 Lumi(16008266) :-I can see Almondy, Lumi and 4 lurkers
+Almondy(20199174) :-Lumi whos idle
+Lumi(16008266) :-I see Harenoir, 🤖 Mecha Nurse 💉, Blue, Mister hypnotist lurking in the shadows...
