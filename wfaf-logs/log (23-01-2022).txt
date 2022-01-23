@@ -1292,3 +1292,5 @@ Venus Caterpie(23364585) :-blue get id of Venus caterpie
 Blue(21550262) :-ID of Venus caterpie is 23364585
 Venus Caterpie(23364585) :-blue get details of 23364585
 Venus Caterpie(23364585) :-blue ban 23364585
+Venus Caterpie(23364585) :-Blue get id of Harenoir
+Blue(21550262) :-ID of Harenoir is 11427049
