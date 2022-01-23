@@ -766,3 +766,4 @@ Finding Biscuit(23360459) :-Lumi whos here
 Lumi(16008266) :-I can see Finding Biscuit, Lumi and 2 lurkers
 Finding Biscuit(23360459) :-Lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows...
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
