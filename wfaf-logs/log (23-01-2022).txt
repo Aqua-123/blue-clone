@@ -1288,3 +1288,5 @@ Venus Caterpie(23364585) :-blue get id of me
 Blue(21550262) :-Im sorry I havent seen anyone with the name me here
 Venus Caterpie(23364585) :-blue get id of venus
 Blue(21550262) :-Im sorry I havent seen anyone with the name venus here
+Venus Caterpie(23364585) :-blue get id of Venus caterpie
+Blue(21550262) :-ID of Venus caterpie is 23364585
