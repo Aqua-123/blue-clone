@@ -834,3 +834,4 @@ Lumi(16008266) :-Hello, Spittinflamestm! Welcome to WFAF! - Waiting for a Friend
 Spittinflamestm(11607719) :-add me back
 Lumi(16008266) :-Hi, Spittinflamestm! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Spittinflamestm, dont feel bad, theyll accept one day... hopefully!
+Spittinflamestm(11607719) :-add me back
