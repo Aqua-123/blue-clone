@@ -631,3 +631,6 @@ Gashing Sphere(22975867) :-:)
 Consisting Gamorreans(23358345) :-So omnissiah send info to nurse
 Consisting Gamorreans(23358345) :-then what does nurse do
 Gashing Sphere(22975867) :-Yes\n
+Gashing Sphere(22975867) :-Nothing
+Consisting Gamorreans(23358345) :-So what is the point????
+Consisting Gamorreans(23358345) :-im so confused
