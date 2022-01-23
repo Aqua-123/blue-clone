@@ -18,3 +18,4 @@ Lumi(16008266) :-I can see Cryo, Lumi, Strawberry 🍓 and 5 lurkers
 Strawberry 🍓(16521287) :-I need to sleep but
 Strawberry 🍓(16521287) :-tried convering the image to invis characters
 Strawberry 🍓(16521287) :-getting malformed URL errors as I try to set that to the bio
+Strawberry 🍓(16521287) :-if its too long or badly encoded idk
