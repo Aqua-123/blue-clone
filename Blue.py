@@ -250,7 +250,7 @@ def stalker(id,time_now):
         log = ""
         repo.create_file(git_file, "committing files", log, branch="main")
     while True:
-        req = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
+        r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
         if req.status_code == 200:
             r = json.loads(r.text)
             name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
@@ -260,7 +260,7 @@ def stalker(id,time_now):
             text = "Logging at (" + str(time) + ") " + name + " " + karma + " " + username + " " + gender + "\n"
             log = log + text
             repo.create_file(git_file, "committing files", log, branch="main")
-        elif req.status_code == 404 or req is None:
+        elif r.status_code == 404 or r is None:
             send_message("Stopping logging for account id " + str(id) + " because the account has been deleted and doesnt exist anymore")
             break
         elif timer() - time_now >= 3600:
@@ -338,10 +338,10 @@ def admin_func(message,id,isadmin):
                 response = str(admin).replace('"',"").replace("[", "").replace("]", "")
                 send_message(response)
             elif i == 16:
-                id = str(result.group(1))
+                id = str(result.group(2))
+                print(id)
                 if id.isdigit():
                     threading.Thread(target=stalker, args=(id,timer(),) )
-                    stalker(id,timer())
                     send_message("Okai waking stalk function")
                 else: send_message("Please give a valid ID UnU")
                 
