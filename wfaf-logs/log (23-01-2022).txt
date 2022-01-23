@@ -1269,3 +1269,4 @@ Lumi(16008266) :-Hello, Saturn Pug! Welcome to WFAF! - Waiting for a Friend! The
 Saturn Pug(23364708) :-Hey
 Lumi(16008266) :-Hello, Neptune Mon Calamari! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Neptune Mon Calamari! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hello, Venus Caterpie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
