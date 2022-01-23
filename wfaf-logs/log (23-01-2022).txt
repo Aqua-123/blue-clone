@@ -753,3 +753,5 @@ Gashing Sphere(22975867) :-Hello\n
 Gashing Sphere(22975867) :-Blue whos here\n
 Blue(21550262) :-I can see Gashing Sphere, Lumi and 2 peeps lurking :p
 Lumi(16008266) :-Hello, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼 and 2 lurkers
