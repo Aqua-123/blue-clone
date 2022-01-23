@@ -1358,3 +1358,8 @@ Blue(21550262) :-Ive been here for 1 hours and 59 minutes
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Cryo(22783061) :-blue get details of 14008355
+Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma:- -11617 and gender set to f and was created on 2020-08-22 at 23:31:58.190Z
+Lumi(16008266) :-Hello, smile thru the pain! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Harenoir(11427049) :-^ no changes
+Cryo(22783061) :-mhm
