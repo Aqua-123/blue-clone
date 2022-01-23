@@ -381,3 +381,4 @@ Aqua(16986137) :-nulls
 Aqua(16986137) :-cya
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
 Lumi(16008266) :-Hello, Thriving Rapidash! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Thriving Rapidash(23356074) :-seriously?
