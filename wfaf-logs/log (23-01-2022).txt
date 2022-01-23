@@ -1455,3 +1455,8 @@ Blue(21550262) :-The river of life bubbles when Aqua comes near~
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
 Blue(21550262) :-Hi, Uranus Jigglypuff, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Lumi(16008266) :-Hello, Uranus Jigglypuff! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Disabling greets uwu
+Uranus Jigglypuff(23365976) :-Lumi whos here
+Lumi(16008266) :-I can see Blue, Uranus Jigglypuff, Lumi and 4 lurkers
+Uranus Jigglypuff(23365976) :-lumi whos lurking
+Lumi(16008266) :-I see Harenoir, 🤖 Mecha Nurse 💉, Aqua, Cryo lurking in the shadows...
