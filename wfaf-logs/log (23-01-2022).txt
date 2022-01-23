@@ -1251,3 +1251,4 @@ Almondy(20199174) :-BRB
 Harenoir(11427049) :-sure
 Lumi(16008266) :-Hi again, Salmon Mon Calamari, dont feel bad, theyll accept one day... hopefully!
 Salmon Mon Calamari(23362804) :-hey
+Lumi(16008266) :-Hello, Plum Salad! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
