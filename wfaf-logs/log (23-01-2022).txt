@@ -1286,3 +1286,5 @@ Venus Caterpie(23364585) :-blue no
 Blue(21550262) :-Kindly be nice and keep this family-friendly while you are here, else the wfaf door is always open for you to leave, thanks
 Venus Caterpie(23364585) :-blue get id of me
 Blue(21550262) :-Im sorry I havent seen anyone with the name me here
+Venus Caterpie(23364585) :-blue get id of venus
+Blue(21550262) :-Im sorry I havent seen anyone with the name venus here
