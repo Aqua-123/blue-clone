@@ -228,7 +228,47 @@ def thread(id):
         user_id = c[1]
         remem = c[0]
         threading.Thread(target=downvote, args=(user_id,remem,id,)).start()
-
+        
+def stalker(id,time_now):
+    filename = str(id) + ".txt"
+    all_files = []
+    contents = repo.get_contents("")
+    while contents:
+        file_content = contents.pop(0)
+        if file_content.type == "dir":
+            contents.extend(repo.get_contents(file_content.path))
+        else:
+            file = file_content
+            all_files.append(str(file).replace('ContentFile(path="','').replace('")',''))
+    git_prefix = 'stalker-logs/'
+    git_file = git_prefix + filename
+    if git_file in all_files:
+        logs = repo.get_contents(git_file)
+        log = logs.decoded_content.decode()
+        repo.update_file(logs.path, "stalker-log", log, logs.sha, branch="main")
+    else:
+        log = ""
+        repo.create_file(git_file, "committing files", log, branch="main")
+    while True:
+        req = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
+        if req.status_code == 200:
+            r = json.loads(r.text)
+            name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
+            logs = repo.get_contents(git_file)
+            log = logs.decoded_content.decode()
+            time = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
+            text = "Logging at (" + str(time) + ") " + name + " " + karma + " " + username + " " + gender + "\n"
+            log = log + text
+            repo.create_file(git_file, "committing files", log, branch="main")
+        elif req.status_code == 404 or req is None:
+            send_message("Stopping logging for account id " + str(id) + " because the account has been deleted and doesnt exist anymore")
+            break
+        elif timer() - time_now >= 3600:
+            send_message("Stalking session of ID " + str(id)) 
+            break
+        else: pass
+        time.sleep(15)
+        
 def admin_func(message,id,isadmin):
     """Function to handle all the admin 
     and mod commands"""
@@ -297,6 +337,12 @@ def admin_func(message,id,isadmin):
             elif i == 15 :
                 response = str(admin).replace('"',"").replace("[", "").replace("]", "")
                 send_message(response)
+            elif i == 16:
+                id = str(result.group(1))
+                if id.isdigit():
+                    stalker(id,timer())
+                    send_message("Okai waking stalk function")
+                else: send_message("Please give a valid ID")
                 
 def coin_handling(array):
     """Just as the name suggests,
@@ -414,6 +460,7 @@ def push_logs():
         for i in contents1:
             log = log + i
         repo.create_file(git_file, "committing files", log, branch="main")
+
 
 """Connect blue to whatever"""
 websocket.enableTrace(False)

@@ -171,7 +171,9 @@ dice = re.compile(r"""blue roll a dice(\\n)*\s*$""", re.I)
 mutereg = re.compile(r"""blue mute [^""]+(\\n)*\s*""", re.I)
 unmutereg = re.compile(r"""blue unmute [^""]+(\\n)*\s*""", re.I)
 
-ban = re.compile(r"""blue ban [0-9]+(\\n)*\s*""", re.I)
+stalk = re.compile(r"""blue ban start stalking [0-9]+(\\n)*\s*""", re.I)
+
+ban = re.compile(r"""?(blue ban )([0-9]+)(\\n)*\s*""", re.I)
 
 ai = re.compile(r""">[^""]+(\\n)*\s*""", re.I)
 # Menu Items
@@ -288,7 +290,8 @@ admin_commands = [
     mutereg,
     unmutereg,
     ban,
-    get_admin_list
+    get_admin_list,
+    stalk
 ]
 
 #Menu list with images
