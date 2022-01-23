@@ -1296,3 +1296,4 @@ Venus Caterpie(23364585) :-Blue get id of Harenoir
 Blue(21550262) :-ID of Harenoir is 11427049
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
+Harenoir(11427049) :-blue disable greets
