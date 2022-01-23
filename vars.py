@@ -173,7 +173,7 @@ unmutereg = re.compile(r"""blue unmute [^""]+(\\n)*\s*""", re.I)
 
 stalk = re.compile(r"""blue ban start stalking [0-9]+(\\n)*\s*""", re.I)
 
-ban = re.compile(r"""?(blue ban )([0-9]+)(\\n)*\s*""", re.I)
+ban = re.compile(r"""(blue ban )([0-9]+)(\\n)*\s*""", re.I)
 
 ai = re.compile(r""">[^""]+(\\n)*\s*""", re.I)
 # Menu Items
