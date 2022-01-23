@@ -1196,3 +1196,4 @@ Harenoir(11427049) :-blue get id of Forgetting Alakazam\nSuck
 Blue(21550262) :-ID of Forgetting Alakazam\nSuck is 23363461
 Harenoir(11427049) :-blue ban 23363461
 Blue(21550262) :-Banning 23363461
+Lumi(16008266) :-Hello, Zaccbear! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
