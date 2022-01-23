@@ -197,3 +197,8 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 pluviophile(14751444) :-o
 pluviophile(14751444) :-Blue where the hoes at?\n
+Aqua(16986137) :-i just took her down for maintenance
+Blue(21550262) :-I can see  and no lurkers :p
+pluviophile(14751444) :-blue where the hoes at?
+Blue(21550262) :-I can see Blue, Aqua, pluviophile, Lumi and no lurkers :p
+pluviophile(14751444) :-:sob:
