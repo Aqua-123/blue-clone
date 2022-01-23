@@ -737,3 +737,5 @@ Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can al
 Lumi(16008266) :-Hello, Coloring Darthorimanina! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Daddy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-Lumi whos here
+Lumi(16008266) :-I can see Strawberry 🍓, Lumi and 2 lurkers
