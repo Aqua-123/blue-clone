@@ -690,3 +690,5 @@ Gashing Sphere(22975867) :-Hi blue\n
 Blue(21550262) :-Hellosss :D
 Gashing Sphere(22975867) :-Bulu\n
 Gashing Sphere(22975867) :-Bulbul\n
+Gashing Sphere(22975867) :-Heh nice name for blue\n
+Gashing Sphere(22975867) :-Bl----ue
