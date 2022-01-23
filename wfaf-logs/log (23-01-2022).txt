@@ -509,3 +509,5 @@ Harenoir(11427049) :-oof...
 Harenoir(11427049) :-;-;
 Lumi(16008266) :-Hello, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-hi
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼, Gashing Sphere, Harenoir and 1 lurkers
