@@ -682,3 +682,5 @@ Blue(21550262) :-I can see 🤖 Mecha Nurse 💉, Omnissiah, Lumi lurking
 Gashing Sphere(22975867) :-Thanks blue\n
 Blue(21550262) :-Youre welcome :D
 Gashing Sphere(22975867) :-Blue get details of 23358345
+Gashing Sphere(22975867) :-Nope\n
+Gashing Sphere(22975867) :-blue get detail of 23358345
