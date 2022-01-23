@@ -431,3 +431,4 @@ Gashing Sphere(22975867) :-herewhosBlue
 Gashing Sphere(22975867) :-NOOOO\n
 Gashing Sphere(22975867) :-back\n  isglitchThe
 Harenoir(11427049) :-reverse text i see
+Gashing Sphere(22975867) :-glitch!a its Yo
