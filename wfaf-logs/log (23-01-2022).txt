@@ -235,3 +235,6 @@ Aqua(16986137) :-shell take 4 readings per min
 Aqua(16986137) :-soo we can start max of 30
 pluviophile(14751444) :-oooo
 pluviophile(14751444) :-noted
+Aqua(16986137) :-ideally we souldnt
+Aqua(16986137) :-shouldnt*
+pluviophile(14751444) :-ohhh
