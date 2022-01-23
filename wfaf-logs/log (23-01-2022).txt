@@ -475,3 +475,4 @@ Harenoir(11427049) :-like, the person used to have a way to trigger that reverse
 Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-back\nOof
 Gashing Sphere(22975867) :-Ribbit\n ,anythingsay u Did
+Gashing Sphere(22975867) :-T\nT
