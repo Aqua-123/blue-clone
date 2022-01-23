@@ -360,7 +360,7 @@ def coin_handling(array):
         elif coin_add > 100: coin_confirm = "Woops too many coins, maybe buy me some chocolates instead? :>"
         send_message(coin_confirm)
 respons = ""
-def send_feelings(array,index,id):
+def send_feelings(array,index,id,result):
     """Handles sending and recieving feelings 
     like hugs and love and what not I will be adding
     because yay feelings"""
@@ -379,7 +379,7 @@ def send_feelings(array,index,id):
             else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
             send_message(respons)
         elif index == 6 and id in admin:
-            name = fix_name(" ".join(array))
+            name = result.group(3)
             if name.isdigit():
                 id = int(name)
                 r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
@@ -419,7 +419,7 @@ def coins_feelings(message,id):
         if bool(result) == True:
             index = coinsandfeelings.index(reg_m)
             if index == 0 : coin_handling(message.split(" "))
-            else : send_feelings(message.split(" "),index,id)
+            else : send_feelings(message.split(" "),index,id,result)
             break
         
 def log_chats(message,user_id):

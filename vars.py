@@ -171,7 +171,7 @@ dice = re.compile(r"""blue roll a dice(\\n)*\s*$""", re.I)
 mutereg = re.compile(r"""blue mute [^""]+(\\n)*\s*""", re.I)
 unmutereg = re.compile(r"""blue unmute [^""]+(\\n)*\s*""", re.I)
 
-stalk = re.compile(r"""blue ban start stalking [0-9]+(\\n)*\s*""", re.I)
+stalk = re.compile(r"""blue start stalking [0-9]+(\\n)*\s*""", re.I)
 
 ban = re.compile(r"""(blue ban )([0-9]+)(\\n)*\s*""", re.I)
 
@@ -189,7 +189,7 @@ hug = re.compile(r"""blue send hug(s)? to [^""]+(\\n)*\s*""", re.I)
 pat = re.compile(r"""blue send pats to [^""]+(\\n)*\s*""", re.I)
 loves = re.compile(r"""blue send love to [^""]+(\\n)*\s*""", re.I)
 bonk = re.compile(r"""blue bonk [^""]+(\\n)*\s*""", re.I)
-get_id = re.compile(r"""blue (fetch|get) id of [^""]+(\\n)*\s*""", re.I)
+get_id = re.compile(r"""(blue )(fetch|get)( id of )([^""]+)(\\n)*\s*""", re.I)
 get_karma = re.compile(r"""blue (fetch|get) details of [^""]+(\\n)*\s*""", re.I)
 # Mene replies
 coffee_r = "☕"
