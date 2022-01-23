@@ -1451,3 +1451,5 @@ Cryo(22783061) :-blue enable greets
 Blue(21550262) :-Okai done ^-^
 Blue(21550262) :-The river of life bubbles when Aqua comes near~
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
+Blue(21550262) :-The river of life bubbles when Aqua comes near~
+Lumi(16008266) :-The river of life bubbles when Aqua comes near~
