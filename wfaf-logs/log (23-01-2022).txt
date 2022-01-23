@@ -898,3 +898,4 @@ Lumi(16008266) :-Hello, Male! Welcome to WFAF! - Waiting for a Friend! The place
 Lumi(16008266) :-Hello, White Vileplume! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 White Vileplume(23362124) :-im back
 Lumi(16008266) :-Hello, Jupiter Rat! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Jupiter Rat! Im afraid they arent your friend yet, you can always try again!
