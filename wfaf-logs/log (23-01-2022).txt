@@ -493,3 +493,5 @@ Gashing Sphere(22975867) :-you meettoNice there.Hello ¿
 Gashing Sphere(22975867) :-Welp\n
 Harenoir(11427049) :-hm
 Harenoir(11427049) :-try the other one
+Gashing Sphere(22975867) :-Normal
+Gashing Sphere(22975867) :-there\nhello \n?
