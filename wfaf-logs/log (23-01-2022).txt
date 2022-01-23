@@ -1172,3 +1172,4 @@ Harenoir(11427049) :-ty
 Harenoir(11427049) :-now
 Harenoir(11427049) :-should i?
 Harenoir(11427049) :-:)
+Lumi(16008266) :-Hello, Ryu! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
