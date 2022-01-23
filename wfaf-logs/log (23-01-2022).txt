@@ -1208,3 +1208,5 @@ Harenoir(11427049) :-hi
 Succeeding Lolipop(23363526) :-Are u the one who flash ur tts to me?
 Harenoir(11427049) :-blue get id of Succeeding Lolipop
 Blue(21550262) :-ID of Succeeding Lolipop is 23363526
+Harenoir(11427049) :-blue ban 23363526
+Blue(21550262) :-Banning 23363526
