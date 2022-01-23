@@ -192,3 +192,8 @@ Blue(21550262) :-Please give a valid ID UnU
 Aqua(16986137) :-dammit you muffin head
 Blue(21550262) :-Hamtaro, the karmic wonder, has arrived ·ᴗ·
 Lumi(16008266) :-Hamtaro, the karmic wonder, has arrived ·ᴗ·
+
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+pluviophile(14751444) :-o
+pluviophile(14751444) :-Blue where the hoes at?\n
