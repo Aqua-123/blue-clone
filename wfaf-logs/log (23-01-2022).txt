@@ -190,3 +190,5 @@ Blue(21550262) :-Hi, its Blue ^-^
 Aqua(16986137) :-blue start stalking 14008355
 Blue(21550262) :-Please give a valid ID UnU
 Aqua(16986137) :-dammit you muffin head
+Blue(21550262) :-Hamtaro, the karmic wonder, has arrived ·ᴗ·
+Lumi(16008266) :-Hamtaro, the karmic wonder, has arrived ·ᴗ·
