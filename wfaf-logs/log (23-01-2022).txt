@@ -884,3 +884,4 @@ Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Harenoir(11427049) :-blue disable greets
 Blue(21550262) :-Okai done ^-^
+Lumi(16008266) :-Hello, Mars Hutt! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
