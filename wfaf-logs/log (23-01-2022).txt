@@ -1131,3 +1131,4 @@ Almondy(20199174) :-Idk
 Harenoir(11427049) :-in fact, ill just
 Harenoir(11427049) :-proceed.
 Almondy(20199174) :-\U0001f972
+Almondy(20199174) :-TERI
