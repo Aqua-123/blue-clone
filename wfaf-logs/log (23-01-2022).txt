@@ -866,3 +866,5 @@ Lumi(16008266) :-Hello, Tommy is my bitch! Welcome to WFAF! - Waiting for a Frie
 Lumi(16008266) :-Hello, Maroon Circle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Maroon Circle! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Jorgesida! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Jorgesida! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Jorgesida, dont feel bad, theyll accept one day... hopefully!
