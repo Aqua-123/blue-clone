@@ -379,3 +379,4 @@ Aqua(16986137) :-nulls
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-okay
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-cya
 Aqua(16986137) :-cya
+Lumi(16008266) :-The river of life bubbles when Aqua comes near~
