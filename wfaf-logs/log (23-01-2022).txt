@@ -54,3 +54,5 @@ Lumi(16008266) :-I can see Turquoise Dathomirian, Lumi and 8 lurkers
 Turquoise Dathomirian(23353726) :-Lumi whos lurking
 Lumi(16008266) :-I see Omnissiah, maturemale4fem, 🤖 Mecha Nurse 💉, Cryo, Harenoir, Thericky, Blue, Saturn Diamond lurking in the shadows...
 Turquoise Dathomirian(23353726) :-Hey cryo
+Turquoise Dathomirian(23353726) :-So theres 0 people on now
+Turquoise Dathomirian(23353726) :-so its dead
