@@ -1355,3 +1355,4 @@ Cryo(22783061) :-!uptime
 Lumi(16008266) :-Ive been here for 7 hours and 48 minutes
 Blue(21550262) :-Ive been here for 1 hours and 59 minutes
 🤖 Mecha Nurse 💉(20909261) :-Ive been here for 13 days, 8 hours, 24 minutes.
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
