@@ -890,3 +890,4 @@ Lumi(16008266) :-Hello, Lavender Sphere! Welcome to WFAF! - Waiting for a Friend
 Lavender Sphere(23362204) :-hi
 Presenting Strawberry(23362083) :-Hi
 Lavender Sphere(23362204) :-r u f r m
+Lumi(16008266) :-Hamtaro, the karmic wonder, has arrived ·ᴗ·
