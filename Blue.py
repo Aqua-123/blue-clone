@@ -424,7 +424,7 @@ def check_greeters(message,id):
                     send_message("Re-enabling greets :D")
                     greet_status = True
         for reg_m in custom_greet_id.values():
-            reg = re.compile(r"" + reg_m+ "\s*", re.I)
+            reg = re.compile(r"" + reg_m+ r"\s*", re.I)
             print(reg)
             result = reg.search(name)
             print(result)
