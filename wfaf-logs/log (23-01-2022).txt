@@ -762,3 +762,5 @@ Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend!
 Lumi(16008266) :-Hello, Coloring Darthorimanina! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Lavender Salmon! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Finding Biscuit! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Finding Biscuit(23360459) :-Lumi whos here
+Lumi(16008266) :-I can see Finding Biscuit, Lumi and 2 lurkers
