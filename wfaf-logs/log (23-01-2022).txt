@@ -285,3 +285,4 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Aqua(16986137) :-blue get id of blue
 Blue(21550262) :-Im sorry I havent seen anyone with the name blue here
+Lumi(16008266) :-Hello, Cassidy (Taken)! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
