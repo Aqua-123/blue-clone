@@ -801,3 +801,6 @@ Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend!
 Gashing Sphere(22975867) :-Blue whos lurking
 Blue(21550262) :-I can see 🤖 Mecha Nurse 💉, Blue lurking
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Alpharius! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
