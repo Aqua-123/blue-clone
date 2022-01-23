@@ -129,3 +129,6 @@ Aqua(16986137) :-new feature for blue
 Lumi(16008266) :-Hello, Rademaker! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Aqua(16986137) :-a command to start a watching function that will watch a account and log any changes for one hour
 Harenoir(11427049) :-so like
+Lumi(16008266) :-Hello, Tommy is my bitch! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Harenoir(11427049) :-some kind of stalker command
+Aqua(16986137) :-yeaaaaaa
