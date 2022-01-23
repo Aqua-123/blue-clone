@@ -626,3 +626,4 @@ Consisting Gamorreans(23358345) :-Hi blue
 Blue(21550262) :-Hellosss :D
 Consisting Gamorreans(23358345) :-Blue get id of Omnissiah
 Blue(21550262) :-ID of Omnissiah is 20909232
+Consisting Gamorreans(23358345) :-Blue get details of 20909232
