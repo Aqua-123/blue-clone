@@ -1132,3 +1132,8 @@ Harenoir(11427049) :-in fact, ill just
 Harenoir(11427049) :-proceed.
 Almondy(20199174) :-\U0001f972
 Almondy(20199174) :-TERI
+Almondy(20199174) :-I got into
+Almondy(20199174) :-RxE
+Harenoir(11427049) :-aight refresh
+Almondy(20199174) :-Through my phone
+Harenoir(11427049) :-also cool
