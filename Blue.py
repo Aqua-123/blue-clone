@@ -340,6 +340,7 @@ def admin_func(message,id,isadmin):
             elif i == 16:
                 id = str(result.group(1))
                 if id.isdigit():
+                    threading.Thread(target=stalker, args=(id,timer(),) )
                     stalker(id,timer())
                     send_message("Okai waking stalk function")
                 else: send_message("Please give a valid ID")
