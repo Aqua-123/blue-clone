@@ -635,3 +635,4 @@ Gashing Sphere(22975867) :-Nothing
 Consisting Gamorreans(23358345) :-So what is the point????
 Consisting Gamorreans(23358345) :-im so confused
 Gashing Sphere(22975867) :-Dont u worry much\n
+Consisting Gamorreans(23358345) :-Just collecting info? Record keeping????
