@@ -1392,3 +1392,5 @@ Blue(21550262) :-Personal pizzas all around! Harenoir has arisen from the void!
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Blue(21550262) :-Personal pizzas all around! Harenoir has arisen from the void!
 Cryo(22783061) :-hmm
+Harenoir(11427049) :-^ there
+Cryo(22783061) :-right
