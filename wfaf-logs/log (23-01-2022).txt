@@ -238,3 +238,6 @@ pluviophile(14751444) :-noted
 Aqua(16986137) :-ideally we souldnt
 Aqua(16986137) :-shouldnt*
 pluviophile(14751444) :-ohhh
+Aqua(16986137) :-because that leaves no buffer for ban command
+Aqua(16986137) :-sooooo
+Aqua(16986137) :-we would wanna....
