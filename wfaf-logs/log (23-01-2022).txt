@@ -1460,3 +1460,5 @@ Uranus Jigglypuff(23365976) :-Lumi whos here
 Lumi(16008266) :-I can see Blue, Uranus Jigglypuff, Lumi and 4 lurkers
 Uranus Jigglypuff(23365976) :-lumi whos lurking
 Lumi(16008266) :-I see Harenoir, 🤖 Mecha Nurse 💉, Aqua, Cryo lurking in the shadows...
+Uranus Jigglypuff(23365976) :-did the chat just reset
+Uranus Jigglypuff(23365976) :-what happened lol
