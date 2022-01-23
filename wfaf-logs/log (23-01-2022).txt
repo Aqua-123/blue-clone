@@ -1095,3 +1095,6 @@ Lumi(16008266) :-Hello, Uranus Bat! Welcome to WFAF! - Waiting for a Friend! The
 Uranus Bat(23363047) :-hey
 🖤M Sweetie 🖤(22975867) :-Yes\n
 🖤M Sweetie 🖤(22975867) :-Lol\n
+Uranus Bat(23363047) :-some thing was wrong in this website
+🖤M Sweetie 🖤(22975867) :-No\n
+🖤M Sweetie 🖤(22975867) :-We hacked it\n
