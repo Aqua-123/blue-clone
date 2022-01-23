@@ -1334,3 +1334,4 @@ Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Hello, SavageGirll! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Katie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Black Kaminoan! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Mars Pidgeot! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
