@@ -321,3 +321,4 @@ Blue(21550262) :-Hi, its Blue ^-^
 Aqua(16986137) :-i heard
 Aqua(16986137) :-blue get id of blue
 Blue(21550262) :-Im sorry I havent seen anyone with the name blue here
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-blue is still crashing?
