@@ -49,3 +49,7 @@ Lumi(16008266) :-Hello, Avalansh! Welcome to WFAF! - Waiting for a Friend! The p
 Lumi(16008266) :-Hi, Avalansh! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Avalansh, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Turquoise Dathomirian! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Turquoise Dathomirian(23353726) :-Lumi whos here
+Lumi(16008266) :-I can see Turquoise Dathomirian, Lumi and 8 lurkers
+Turquoise Dathomirian(23353726) :-Lumi whos lurking
+Lumi(16008266) :-I see Omnissiah, maturemale4fem, 🤖 Mecha Nurse 💉, Cryo, Harenoir, Thericky, Blue, Saturn Diamond lurking in the shadows...
