@@ -1229,3 +1229,4 @@ Lumi(16008266) :-Hello, Fuchsia Dodrio! Welcome to WFAF! - Waiting for a Friend!
 Lumi(16008266) :-Hello, Gold Jackal! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gold Jackal(23363977) :-Hii
 Lumi(16008266) :-Hello, Converting Circle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Mercury Rhombus! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
