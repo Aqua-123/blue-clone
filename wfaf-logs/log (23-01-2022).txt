@@ -601,3 +601,5 @@ Blue(21550262) :-Banning 23357708
 Harenoir(11427049) :-oh wow
 Harenoir(11427049) :-neat
 Lumi(16008266) :-Hello, Courious ! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Courious ! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Courious , dont feel bad, theyll accept one day... hopefully!
