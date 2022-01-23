@@ -190,7 +190,7 @@ pat = re.compile(r"""blue send pats to [^""]+(\\n)*\s*""", re.I)
 loves = re.compile(r"""blue send love to [^""]+(\\n)*\s*""", re.I)
 bonk = re.compile(r"""blue bonk [^""]+(\\n)*\s*""", re.I)
 get_id = re.compile(r"""(blue )(fetch|get)( id of )([^""]+)(\\n)*\s*""", re.I)
-get_karma = re.compile(r"""blue (fetch|get) details of [^""]+(\\n)*\s*""", re.I)
+get_karma = re.compile(r"""blue (fetch|get) details of ([^""]+)(\\n)*\s*""", re.I)
 # Mene replies
 coffee_r = "☕"
 milk_r = "🥛"

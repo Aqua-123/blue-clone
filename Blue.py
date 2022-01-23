@@ -251,6 +251,7 @@ def stalker(id,time_now):
         repo.create_file(git_file, "committing files", log, branch="main")
     while True:
         r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
+        print(r.status_code)
         if r.status_code == 200:
             r = json.loads(r.text)
             name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
@@ -341,7 +342,7 @@ def admin_func(message,id,isadmin):
                 id = str(result.group(2))
                 print(id)
                 if id.isdigit():
-                    threading.Thread(target=stalker, args=(id,timer(),) )
+                    threading.Thread(target=stalker, args=(id,timer(),) ).start()
                     send_message("Okai waking stalk function")
                 else: send_message("Please give a valid ID UnU")
                 
@@ -372,14 +373,24 @@ def send_feelings(array,index,id,result):
         elif index == 2: respons = "Sending pats to " + name+" *pat pat*"
         elif index == 3: respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
         elif index == 5:
+            name = result.group(4)
             l = list(stats_list.values())
-            l = [each_string.lower() for each_string in l]
-            n = name.lower().strip()
-            if n in l: respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(n)])
-            else : respons = "Im sorry I havent seen anyone with the name " + name + " here"
-            send_message(respons)
+            n = 0
+            for re_m in l:
+                reg = re.compile(r"" + re_m+ "\\n*", re.I)
+                print(reg)
+                result = reg.search(name)
+                print(result)
+                if result is not None:
+                    respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(re_m)])
+                    send_message(respons)
+                    break
+                else: n+=1
+            if n == len(stats_list.values()):
+                response = "Im sorry I havent seen anyone with the name "+name+" here"
+                send_message(response)
         elif index == 6 and id in admin:
-            name = result.group(3)
+            name = result.group(2)
             if name.isdigit():
                 id = int(name)
                 r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
@@ -453,8 +464,6 @@ def push_logs():
         log = logs.decoded_content.decode()
         for i in contents1:
             log = log + i 
-        print(log)
-        print(logs)
         repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
     else:
         log = ""
