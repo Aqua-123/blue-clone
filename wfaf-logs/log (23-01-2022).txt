@@ -489,3 +489,4 @@ Harenoir(11427049) :-try sending a message putting ¿ at the beginning
 Harenoir(11427049) :-or ?
 Gashing Sphere(22975867) :-Oki\n
 Harenoir(11427049) :-dont remember which one
+Gashing Sphere(22975867) :-you meettoNice there.Hello ¿
