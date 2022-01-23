@@ -950,3 +950,4 @@ Orange Gamorreans(23361881) :-Nico
 Lumi(16008266) :-Hi again, Orange Gamorreans, dont feel bad, theyll accept one day... hopefully!
 Orange Gamorreans(23361881) :-Hello
 Gashing Sphere(22975867) :-Hello\n
+Orange Gamorreans(23361881) :-Nico?
