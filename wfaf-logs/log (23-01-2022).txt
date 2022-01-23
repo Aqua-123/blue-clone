@@ -469,3 +469,5 @@ Lumi(16008266) :-Hi, Purple Primeape! Im afraid they arent your friend yet, you 
 Lumi(16008266) :-Hi again, Purple Primeape, dont feel bad, theyll accept one day... hopefully!
 Gashing Sphere(22975867) :-hare\n Yes,
 Harenoir(11427049) :-ok hm..
+Harenoir(11427049) :-to be fair
+Harenoir(11427049) :-its not the first time ive seen someone on mobile with that issue
