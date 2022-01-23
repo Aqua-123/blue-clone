@@ -589,3 +589,4 @@ Lumi(16008266) :-Hello, Braying Rhombus! Welcome to WFAF! - Waiting for a Friend
 Lumi(16008266) :-Hi, Braying Rhombus! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hamtaro, the karmic wonder, has arrived ·ᴗ·
 Lumi(16008266) :-Hello, 1323299554! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+1323299554(23357258) :-No
