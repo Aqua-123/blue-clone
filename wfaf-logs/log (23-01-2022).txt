@@ -782,3 +782,4 @@ Lumi(16008266) :-Hi, Lavender Salmon! Im afraid they arent your friend yet, you 
 Lumi(16008266) :-Hello, Infusing Tomato! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Infusing Tomato(23360894) :-Hello
 Lumi(16008266) :-Hello, Pasting Bith! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Pasting Bith(23360636) :-hi
