@@ -1291,3 +1291,4 @@ Blue(21550262) :-Im sorry I havent seen anyone with the name venus here
 Venus Caterpie(23364585) :-blue get id of Venus caterpie
 Blue(21550262) :-ID of Venus caterpie is 23364585
 Venus Caterpie(23364585) :-blue get details of 23364585
+Venus Caterpie(23364585) :-blue ban 23364585
