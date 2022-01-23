@@ -418,3 +418,4 @@ Lumi(16008266) :-Hello, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼! Welcome to WFAF! -
 Lumi(16008266) :-I can see Lumi, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼 and 6 lurkers
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Harenoir, Aqua, Blue, Thericky, Saturn Diamond lurking in the shadows...
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-hi
