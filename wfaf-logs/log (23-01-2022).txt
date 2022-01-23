@@ -1426,3 +1426,5 @@ Blue(21550262) :-Hi, Cryo, Welcome to WFAF, which stands for Waiting For A Frien
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hello, Tatertot! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Cryo(22783061) :-hmm
+Lumi(16008266) :-Hi, Tatertot! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Tatertot, dont feel bad, theyll accept one day... hopefully!
