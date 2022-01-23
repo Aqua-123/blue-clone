@@ -495,3 +495,6 @@ Harenoir(11427049) :-hm
 Harenoir(11427049) :-try the other one
 Gashing Sphere(22975867) :-Normal
 Gashing Sphere(22975867) :-there\nhello \n?
+Gashing Sphere(22975867) :-...
+Harenoir(11427049) :-mhm...
+Harenoir(11427049) :-welp
