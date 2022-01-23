@@ -981,3 +981,5 @@ Lumi(16008266) :-Hello, Orange Diamond! Welcome to WFAF! - Waiting for a Friend!
 Lumi(16008266) :-Hi, 🖤M Sweetie 🖤! Im afraid they arent your friend yet, you can always try again!
 🖤M Sweetie 🖤(22975867) :-Ribbit...
 🖤M Sweetie 🖤(22975867) :-Blue whos here\n
+Blue(21550262) :-I can see 🖤M Sweetie 🖤, Lumi and 3 peeps lurking :p
+🖤M Sweetie 🖤(22975867) :-Ribbittt\n
