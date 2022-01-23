@@ -386,3 +386,4 @@ Lumi(16008266) :-Hello, Earth Poppadom! Welcome to WFAF! - Waiting for a Friend!
 Earth Poppadom(23356183) :-hi
 Earth Poppadom(23356183) :-\n
 Earth Poppadom(23356183) :-\n
+Lumi(16008266) :-Hello, Venus Wookiee! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
