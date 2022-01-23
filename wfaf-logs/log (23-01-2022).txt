@@ -1306,3 +1306,6 @@ Venus Tomato(23362129) :-can we chat
 Harenoir(11427049) :-no
 Lumi(16008266) :-Hello, Zaccbear! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, RoleplayGuy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+RoleplayGuy(314881) :-lumi
+RoleplayGuy(314881) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, RoleplayGuy and 4 lurkers
