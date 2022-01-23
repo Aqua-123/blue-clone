@@ -356,3 +356,5 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Aqua(16986137) :-mhmm
 Aqua(16986137) :-blue get id of aqua
+Blue(21550262) :-ID of aqua is 16986137
+Aqua(16986137) :-okay this should me much better since its using regex
