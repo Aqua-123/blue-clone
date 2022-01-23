@@ -230,3 +230,8 @@ Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 pluviophile(14751444) :-tomato
 pluviophile(14751444) :-tomahoe
+pluviophile(14751444) :-ohwow
+Aqua(16986137) :-shell take 4 readings per min
+Aqua(16986137) :-soo we can start max of 30
+pluviophile(14751444) :-oooo
+pluviophile(14751444) :-noted
