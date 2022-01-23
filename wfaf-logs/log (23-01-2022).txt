@@ -1385,3 +1385,4 @@ Cryo(22783061) :-lumi enable greets
 Lumi(16008266) :-Ok, Im on it! :D
 Cryo(22783061) :-so she just doesnt disable for custom greets..?
 Harenoir(11427049) :-i think so
+Harenoir(11427049) :-blue enable greets
