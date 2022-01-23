@@ -262,3 +262,10 @@ pluviophile(14751444) :-why doesnt blue listen to me??
 pluviophile(14751444) :->:
 pluviophile(14751444) :-blue tell me why dont u listen to me? T^T
 Aqua(16986137) :-aw
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Aqua(16986137) :-blue start stalking 14008355
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Aqua(16986137) :-blue start stalking 14008355
+Blue(21550262) :-Okai waking stalk function
