@@ -428,3 +428,4 @@ Lumi(16008266) :-Hello, Blacksmith! Welcome to WFAF! - Waiting for a Friend! The
 Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-Bzzz\n
 Gashing Sphere(22975867) :-herewhosBlue
+Gashing Sphere(22975867) :-NOOOO\n
