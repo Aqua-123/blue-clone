@@ -144,3 +144,6 @@ Harenoir(11427049) :-hmm
 Harenoir(11427049) :-id say the maximum should be 24 hours
 Harenoir(11427049) :-so.. a range between 1 and 24 hours
 Aqua(16986137) :-well heroku restart would reset it
+Harenoir(11427049) :-ah
+Aqua(16986137) :-soooo i would say 1 hour
+Harenoir(11427049) :-true
