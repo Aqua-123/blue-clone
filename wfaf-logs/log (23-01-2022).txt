@@ -512,3 +512,5 @@ Lumi(16008266) :-Hello, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼! Welcome to WFAF! -
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼, Gashing Sphere, Harenoir and 1 lurkers
 Lumi(16008266) :-Hello, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼! Im afraid they arent your friend yet, you can always try again!
+Gashing Sphere(22975867) :-...
