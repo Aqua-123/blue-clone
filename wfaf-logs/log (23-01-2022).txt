@@ -750,3 +750,5 @@ Lumi(16008266) :-Hi, Offsetting Magikarp! Im afraid they arent your friend yet, 
 Lumi(16008266) :-Hi again, Offsetting Magikarp, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Gashing Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-Hello\n
+Gashing Sphere(22975867) :-Blue whos here\n
+Blue(21550262) :-I can see Gashing Sphere, Lumi and 2 peeps lurking :p
