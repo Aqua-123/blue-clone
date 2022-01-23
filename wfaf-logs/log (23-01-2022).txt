@@ -685,3 +685,4 @@ Gashing Sphere(22975867) :-Blue get details of 23358345
 Gashing Sphere(22975867) :-Nope\n
 Gashing Sphere(22975867) :-blue get detail of 23358345
 Gashing Sphere(22975867) :-Still nope\n
+Gashing Sphere(22975867) :-Blue\n
