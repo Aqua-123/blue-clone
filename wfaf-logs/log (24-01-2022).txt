@@ -812,3 +812,4 @@ Cryo(22783061) :-right
 🖤M Sweetie 🖤(22975867) :-Its taking so much while to connect ;-;
 Cryo(22783061) :-prolly used the wrong function to terminate thread
 Cryo(22783061) :-welp
+🖤M Sweetie 🖤(22975867) :-Bruhhhh speed of tor is 12 KB/S!!
