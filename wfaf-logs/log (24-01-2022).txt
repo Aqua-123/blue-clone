@@ -4810,3 +4810,5 @@ nullity(14751444) :-aye that’s nice
 Maddie(23374658) :-21 and my gf is 23
 nullity(14751444) :-Ohhh I see
 Maddie(23374658) :-yea
+nullity(14751444) :-Mhmm
+Maddie(23374658) :-we are childhood sweethearts
