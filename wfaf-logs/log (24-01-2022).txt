@@ -179,3 +179,6 @@ Cryo(22783061) :-(tbh i did make it but it didnt work heh)
 Harenoir(11427049) :-not really
 Harenoir(11427049) :-anyone can fetch ids these days
 Harenoir(11427049) :-blue makes it easier
+Cryo(22783061) :-mhm fair
+Cryo(22783061) :-blue get mutelist
+Blue(21550262) :-21550262,   21590589,   21638598,   10772680,   21871435,   21921704,   21893224,   21945717,   21954625,   21988937,   21996782,   19255802,  23350120
