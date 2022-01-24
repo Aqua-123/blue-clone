@@ -4677,3 +4677,6 @@ nullity(14751444) :-lumi whos idle
 Lumi(16008266) :-I see Limping Cube, Cryo, Blue lurking in the shadows...
 Lumi(16008266) :-Hello, Tommy is my bitch! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Spooky! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Spooky(20199174) :-lumi whos idle
+Lumi(16008266) :-I see Limping Cube, Cryo, Blue lurking in the shadows...
+Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
