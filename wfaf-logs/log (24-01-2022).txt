@@ -4768,3 +4768,4 @@ Lumi(16008266) :-Hello, Venus Burger! Welcome to WFAF! - Waiting for a Friend! T
 Venus Burger(23374428) :-hi
 Lumi(16008266) :-Hi, Ryan m! Im afraid they arent your friend yet, you can always try again!
 Ryan m(22832552) :-Hii\n
+Ryan m(22832552) :-Add me
