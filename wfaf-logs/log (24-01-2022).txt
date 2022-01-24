@@ -2737,3 +2737,5 @@ Blue(21550262) :-Okai waking stalk function
 🖤M Sweetie 🖤(22975867) :-Well... If it works in RxE. U can.
 Cryo(22783061) :-nope
 🖤M Sweetie 🖤(22975867) :-Why no?
+Cryo(22783061) :-well make sure such details arent extractable
+🖤M Sweetie 🖤(22975867) :-Heh. Oki\n
