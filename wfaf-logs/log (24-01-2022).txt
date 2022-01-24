@@ -4756,3 +4756,5 @@ mia(13304686) :-lumi whos lurking
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Subby Boy, Blue lurking in the shadows...
 mia(13304686) :-lumi whos subby boy
 Lumi(16008266) :-Hello, Subby Boy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Subby Boy! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Subby Boy, dont feel bad, theyll accept one day... hopefully!
