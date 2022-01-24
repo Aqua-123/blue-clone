@@ -4991,3 +4991,6 @@ Harenoir(11427049) :-blue ban 23376180
 Blue(21550262) :-Banning 23376180
 Lumi(16008266) :-Hello, Lime Armadillo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Green Pyramid! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Green Pyramid! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Green Pyramid, dont feel bad, theyll accept one day... hopefully!
+Green Pyramid(23376413) :-hi daddy
