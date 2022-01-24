@@ -258,7 +258,7 @@ def stalker(id,time_now):
             name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
             logs = repo.get_contents(git_file)
             log = logs.decoded_content.decode()
-            time = gmtime()
+            time = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
             text = "Logging at (" + str(time) + ") " + name + " " + str(karma) + " " + username + " " + gender + "\n"
             log = log + text
             repo.update_file(git_file, "committing files", log,logs.sha, branch="main")
