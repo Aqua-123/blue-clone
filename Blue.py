@@ -358,8 +358,10 @@ def admin_func(message,id,isadmin):
                     del stalking_log[id]
                 else: send_message("I'm already not stalking the person with ID " + id)
             elif i == 18:
-                list = fix_message(str(stalking_log.keys()))
-                response = "Currently stalking the following IDs:- " + str(list)
+                list = stalking_log.keys()
+                if not list: response = "I'm currently stalking no one :>"
+                else: response = "Currently stalking the following IDs:- " +fix_message(str(list))
+                send_message(response)
 def coin_handling(array):
     """Just as the name suggests,
     handles coins and responses to them"""
