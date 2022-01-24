@@ -2140,3 +2140,5 @@ TinyCath ~(19259507) :-No (???)
 🖤M Sweetie 🖤(22975867) :-...
 🖤M Sweetie 🖤(22975867) :-Then what is .exp?
 TinyCath ~(19259507) :-Uhhhhh
+TinyCath ~(19259507) :-Abbreviation ?
+TinyCath ~(19259507) :-For  expired  ?
