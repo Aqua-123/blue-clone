@@ -4952,3 +4952,10 @@ Harenoir(11427049) :-blue ban 23376127
 Blue(21550262) :-Banning 23376127
 Lumi(16008266) :-Hello, Neptune Diamond! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Chipping Toad! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Chipping Toad(23376239) :-Lumi whos here
+Lumi(16008266) :-I can see Lumi, Chipping Toad, Neptune Diamond and 2 lurkers
+Chipping Toad(23376239) :-Lumi whos lurking
+Neptune Diamond(23374670) :-hello
+Lumi(16008266) :-I see Harenoir, Blue lurking in the shadows...
+Chipping Toad(23376239) :-hey guys
+Neptune Diamond(23374670) :-wagwan
