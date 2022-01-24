@@ -3636,3 +3636,9 @@ Cryo(22783061) :-nvm script was erroring out
 🖤M Sweetie 🖤(22975867) :-What are your opinion on Lenovo Tab K10\n
 🖤M Sweetie 🖤(22975867) :-Would it be good enough for the sole use of Classes?
 🖤M Sweetie 🖤(22975867) :-Online classes\n
+Cryo(22783061) :-i...
+Cryo(22783061) :-hmmm
+Cryo(22783061) :-not sure
+Cryo(22783061) :-oh solely for classes
+🖤M Sweetie 🖤(22975867) :-Yes\n
+Cryo(22783061) :-yea it should be fine
