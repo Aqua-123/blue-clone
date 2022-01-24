@@ -3095,3 +3095,5 @@ Aqua(16986137) :-Blue get stalklist
 Blue(21550262) :-Currently stalking the following IDs:- 23370112, 22783061
 🖤M Sweetie 🖤(22975867) :-Aquarium
 Aqua(16986137) :-Hmm?
+🖤M Sweetie 🖤(22975867) :-Nothing. Just wanted to say hi\n
+Aqua(16986137) :-Hi :))
