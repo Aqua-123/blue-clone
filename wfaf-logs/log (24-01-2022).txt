@@ -1983,3 +1983,8 @@ Cryo(22783061) :-mhmm
 Cryo(22783061) :-i fixed teh load more
 🤖 Mecha Nurse 💉(20909261) :-lol@commit messages\n
 Cryo(22783061) :-lol
+Lumi(16008266) :-Hello, Magenta Rectangle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Cryo(22783061) :-i think my load more fix wasnt pushed
+Cryo(22783061) :-i should do it
+Cryo(22783061) :-just had to reverse teh incomming array
+Cryo(22783061) :-of texts
