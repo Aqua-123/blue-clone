@@ -1824,3 +1824,5 @@ TinyCath ~(19259507) :-It feels nice
 TinyCath ~(19259507) :-No.
 TinyCath ~(19259507) :-I dont wanna laze around
 🖤M Sweetie 🖤(22975867) :-*sigh* alright. At least take some meds\n
+TinyCath ~(19259507) :-Ran out
+TinyCath ~(19259507) :-Yesterday
