@@ -555,3 +555,4 @@ Harenoir(11427049) :-didnt null say it was slow tho
 Cryo(22783061) :-slow is better than not automated at all?
 Harenoir(11427049) :-yes i know
 Harenoir(11427049) :-better than having nothing at all
+Harenoir(11427049) :-also did null gave up on his account
