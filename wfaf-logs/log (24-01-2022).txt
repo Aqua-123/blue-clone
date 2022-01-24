@@ -2739,3 +2739,4 @@ Cryo(22783061) :-nope
 🖤M Sweetie 🖤(22975867) :-Why no?
 Cryo(22783061) :-well make sure such details arent extractable
 🖤M Sweetie 🖤(22975867) :-Heh. Oki\n
+Cryo(22783061) :-weve to make sure our own product doesnt violate privacy
