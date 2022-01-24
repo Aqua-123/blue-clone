@@ -2787,3 +2787,6 @@ TinyCath ~(19259507) :-Kind of, yes
 🖤M Sweetie 🖤(22975867) :-Heh\n
 🖤M Sweetie 🖤(22975867) :-I need to stop overthinking
 TinyCath ~(19259507) :-Underthink is a must
+🖤M Sweetie 🖤(22975867) :-Normalize underthinking
+TinyCath ~(19259507) :-uWu
+Blue(21550262) :-UwU
