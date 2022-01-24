@@ -374,3 +374,5 @@ Blue(21550262) :-Disabling greets uwu
 Nailing Spider(23367003) :-hi
 Cryo(22783061) :-also stalking should be done
 Cryo(22783061) :-termination command also done
+Cryo(22783061) :-and fetching stalk list also done
+Cryo(22783061) :-smh
