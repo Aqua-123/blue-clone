@@ -4540,3 +4540,4 @@ Somethinglalala(23370112) :-Ill go help mom\n
 Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Vikram(23372142) :-hello ?
 Vikram(23372142) :-is anyone here
+Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
