@@ -2504,3 +2504,5 @@ TinyCath ~(19259507) :-Hm-hmm
 hi(9988509) :-... whut\n
 🖤M Sweetie 🖤(22975867) :-Blue get id of hi\n
 Blue(21550262) :-ID of hi\n is 9988509
+TinyCath ~(19259507) :-Greetings
+🖤M Sweetie 🖤(22975867) :-Lol\n
