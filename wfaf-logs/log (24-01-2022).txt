@@ -744,3 +744,6 @@ Blue(21550262) :-I just joined -w-
 Cryo(22783061) :-good
 Harenoir(11427049) :-nono
 Harenoir(11427049) :-i use firefox
+Cryo(22783061) :-i increased the chat update to github to 20 seconds
+Cryo(22783061) :-10 seconds was ig too harsh for github
+Harenoir(11427049) :-hmm...
