@@ -5038,3 +5038,4 @@ Lumi(16008266) :-Hello, Dalai Lama! Welcome to WFAF! - Waiting for a Friend! The
 Dalai Lama(18447052) :-Hi bruv\n
 Dalai Lama(18447052) :-Hello
 Dalai Lama(18447052) :-Helooooooooiiii\n
+Lumi(16008266) :-Hello, Lachlan! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
