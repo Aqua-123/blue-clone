@@ -312,3 +312,6 @@ Cyan Tomato(23366877) :-the <3 and <:
 Cryo(22783061) :-not the ily
 Cyan Tomato(23366877) :-True
 Cryo(22783061) :-<3 and :> work everytime
+Blue(21550262) :-<3
+Cyan Tomato(23366877) :-It didnt up there tho
+Cyan Tomato(23366877) :-<3
