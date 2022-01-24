@@ -185,3 +185,5 @@ Blue(21550262) :-21550262,   21590589,   21638598,   10772680,   21871435,   219
 Harenoir(11427049) :-always assume anyone can see your profile
 Harenoir(11427049) :-saves you the trouble
 Cryo(22783061) :-right
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
