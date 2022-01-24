@@ -1286,3 +1286,7 @@ Harenoir(11427049) :-id need to make more but... tiresome
 🖤M Sweetie 🖤(22975867) :-But\n
 🖤M Sweetie 🖤(22975867) :-U gotta get one guy banned\n
 🖤M Sweetie 🖤(22975867) :-Lemme get name\n
+Harenoir(11427049) :-name
+🖤M Sweetie 🖤(22975867) :-Jupiter Hutt\n
+🖤M Sweetie 🖤(22975867) :-He said the N word\n
+🖤M Sweetie 🖤(22975867) :-And didnt get banned\n
