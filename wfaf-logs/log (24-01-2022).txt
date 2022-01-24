@@ -200,3 +200,5 @@ Blue(21550262) :-Hi, Supra, Welcome to WFAF, which stands for Waiting For A Frie
 Lumi(16008266) :-Hello, Supra! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hi, Supra! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hello, Indigo Marten! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Indigo Marten(23366208) :-hi
