@@ -2440,3 +2440,6 @@ Fuchsia Circle(23369297) :-wtf
 Cryo(22783061) :-blue ban 23369297
 Blue(21550262) :-Banning 23369297
 TinyCath ~(19259507) :-Ahem
+🖤M Sweetie 🖤(22975867) :-CCP is... Chinese Communist Party :)
+Cryo(22783061) :-blue get details of 23368583
+Blue(21550262) :-The account with ID 23368583 has the name yay(uc55567a0e154297f) with karma:- 10 and gender set to m and was created on 2022-01-24 at 05:45:04.371Z
