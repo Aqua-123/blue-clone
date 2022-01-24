@@ -364,3 +364,4 @@ Harenoir(11427049) :-ah finally
 Cryo(22783061) :-that needs some work-
 Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
+Cryo(22783061) :-blue ban 23366978
