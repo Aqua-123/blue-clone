@@ -3877,3 +3877,9 @@ Cryo(22783061) :-mecha seen null in *
 🤖 Mecha Nurse 💉(20909261) :-I last saw Null (#null) 14008355 in royal squad 👑 1 day, 15 hours, 6 minutes ago.
 Cryo(22783061) :-blue get details of 21550262
 Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13141 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+🖤M Sweetie 🖤(22975867) :-Woah oki\n
+Cryo(22783061) :-blue get details of 14008355
+Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma:- -11617 and gender set to f and was created on 2020-08-22 at 23:31:58.190Z
+Cryo(22783061) :-mhm
+🖤M Sweetie 🖤(22975867) :-Eh!
+🖤M Sweetie 🖤(22975867) :-?
