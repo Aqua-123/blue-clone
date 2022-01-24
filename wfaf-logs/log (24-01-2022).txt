@@ -1894,3 +1894,8 @@ TinyCath ~(19259507) :-Hm-hmm
 🖤M Sweetie 🖤(22975867) :-Oki?
 🖤M Sweetie 🖤(22975867) :-Wait\n
 🖤M Sweetie 🖤(22975867) :-Who are u then?
+🤖 Mecha Nurse 💉(20909261) :-Greeter is a valid gender.\n
+🖤M Sweetie 🖤(22975867) :-...
+TinyCath ~(19259507) :-Right ~
+TinyCath ~(19259507) :-Sarreh ~
+TinyCath ~(19259507) :-Ahehe
