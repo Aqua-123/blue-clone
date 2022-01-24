@@ -4689,3 +4689,5 @@ Gashing Sphere(22975867) :-Hi blue\n
 Blue(21550262) :-Hellosss :D
 Gashing Sphere(22975867) :-Hi mecha\n
 🤖 Mecha Nurse 💉(20909261) :-Hello Gashing Sphere
+Gashing Sphere(22975867) :-Hi me\n
+Somethinglalala(23370112) :-Hiiiiii~
