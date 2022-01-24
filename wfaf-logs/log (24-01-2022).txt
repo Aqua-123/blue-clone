@@ -1270,3 +1270,4 @@ Harenoir(11427049) :-troublesome
 🖤M Sweetie 🖤(22975867) :-Yes\n
 🖤M Sweetie 🖤(22975867) :-By the way\n
 🖤M Sweetie 🖤(22975867) :-Can I enter one of the secret rooms? :3
+Harenoir(11427049) :-you mean private rooms?
