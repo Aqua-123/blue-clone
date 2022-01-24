@@ -4995,3 +4995,4 @@ Lumi(16008266) :-Hi, Green Pyramid! Im afraid they arent your friend yet, you ca
 Lumi(16008266) :-Hi again, Green Pyramid, dont feel bad, theyll accept one day... hopefully!
 Green Pyramid(23376413) :-hi daddy
 Lumi(16008266) :-Hello, M 30! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
