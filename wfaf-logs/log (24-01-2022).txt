@@ -1769,3 +1769,6 @@ Cryo(22783061) :-gnighttt
 Harenoir(11427049) :-nighty night
 TinyCath ~(19259507) :-Gn ~
 Cryo(22783061) :-Hello caffee
+TinyCath ~(19259507) :-Low ~
+Cryo(22783061) :-low five
+Blue(21550262) :-Even lower five ~*
