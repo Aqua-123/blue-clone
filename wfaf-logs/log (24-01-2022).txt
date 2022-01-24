@@ -3344,3 +3344,6 @@ Cryo(22783061) :-hm?
 🖤M Sweetie 🖤(22975867) :-Bubyeeee
 Cryo(22783061) :-alright
 Cryo(22783061) :-cya
+🖤M Sweetie 🖤(22975867) :-(gone)
+Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 4490 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
