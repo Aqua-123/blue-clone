@@ -4273,3 +4273,6 @@ Somethinglalala(23370112) :-And\n
 Somethinglalala(23370112) :-Is crayons here?
 🖤M Sweetie 🖤(22975867) :-Nyan no\n
 🖤M Sweetie 🖤(22975867) :-Blue whos here\n
+Blue(21550262) :-I can see 🖤M Sweetie 🖤, pluviophile, Somethinglalala, Lumi and 3 peeps lurking :p
+🖤M Sweetie 🖤(22975867) :-Blue whos lurking
+Blue(21550262) :-I can see Cryo, 🤖 Mecha Nurse 💉 lurking
