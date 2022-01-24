@@ -1100,3 +1100,7 @@ Harenoir(11427049) :-lets see what we can improve there
 Cryo(22783061) :-coins
 Cryo(22783061) :-100%
 Cryo(22783061) :-and
+Cryo(22783061) :-hmmm
+Cryo(22783061) :-a couple more functions
+🖤M Sweetie 🖤(22975867) :-What does coins do?
+Harenoir(11427049) :-fun
