@@ -4703,3 +4703,5 @@ Spooky(20199174) :-hi
 Gashing Sphere(22975867) :-Yes hello spooky\n
 Spooky(20199174) :-hi
 Gashing Sphere(22975867) :-Is crayons active?
+Gashing Sphere(22975867) :-Cryo\n
+Gashing Sphere(22975867) :-Is who I mean\n
