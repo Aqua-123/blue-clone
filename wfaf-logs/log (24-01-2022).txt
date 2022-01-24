@@ -3956,3 +3956,6 @@ Cryo(22783061) :-certainly
 Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13157 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
 Cryo(22783061) :-much or rxe is written by him
 🖤M Sweetie 🖤(22975867) :-He is some sort of major in web development or something?
+Cryo(22783061) :-yea professionally works as a dev
+Cryo(22783061) :-is some company in silicon valley
+🖤M Sweetie 🖤(22975867) :-Ah thats why.
