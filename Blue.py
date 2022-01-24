@@ -261,7 +261,7 @@ def stalker(id,time_now):
             time = gmtime()
             text = "Logging at (" + str(time) + ") " + name + " " + str(karma) + " " + username + " " + gender + "\n"
             log = log + text
-            repo.create_file(git_file, "committing files", log, branch="main")
+            repo.update_file(git_file, "committing files", log,logs.sha, branch="main")
         elif r.status_code == 404 or r is None:
             send_message("Stopping logging for account id " + str(id) + " because the account has been deleted and doesnt exist anymore")
             break
