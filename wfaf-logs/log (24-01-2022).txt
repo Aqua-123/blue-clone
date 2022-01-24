@@ -3917,3 +3917,8 @@ Cryo(22783061) :-if you need help in tid bits then sure im here
 Cryo(22783061) :-i tell them to
 Cryo(22783061) :-specific commands
 🖤M Sweetie 🖤(22975867) :-Hmm oki\n
+Lumi(16008266) :-Hello, yo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Cryo(22783061) :-blue get details of 21550262
+🖤M Sweetie 🖤(22975867) :-Also... I should use python for this right?
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13138 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+🖤M Sweetie 🖤(22975867) :-Bot making
