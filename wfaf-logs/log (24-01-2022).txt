@@ -4563,3 +4563,4 @@ Lumi(16008266) :-Hello, Conquering Buffalo! Welcome to WFAF! - Waiting for a Fri
 Lumi(16008266) :-Hi, Conquering Buffalo! Im afraid they arent your friend yet, you can always try again!
 Conquering Buffalo(23372350) :-ayo wtf
 Lumi(16008266) :-Hi again, Conquering Buffalo, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Hello, Yellow Beetle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
