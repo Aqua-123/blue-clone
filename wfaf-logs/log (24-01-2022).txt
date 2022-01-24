@@ -4828,3 +4828,6 @@ Spraying Gengar(23373302) :-hi
 Maddie(23374658) :-then we are have our son in april
 Lumi(16008266) :-Hi, Spraying Gengar! Im afraid they arent your friend yet, you can always try again!
 Maddie(23374658) :-hi Spraying Gengar
+nullity(14751444) :-Mhm nice
+nullity(14751444) :-hmmm
+nullity(14751444) :-its like mid night here..
