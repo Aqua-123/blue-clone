@@ -4807,3 +4807,6 @@ Maddie(23374658) :-me and my gf are fiancées
 nullity(14751444) :-i just turn 18 like a month ago
 Maddie(23374658) :-wow
 nullity(14751444) :-aye that’s nice
+Maddie(23374658) :-21 and my gf is 23
+nullity(14751444) :-Ohhh I see
+Maddie(23374658) :-yea
