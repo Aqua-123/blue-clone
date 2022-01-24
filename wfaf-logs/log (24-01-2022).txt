@@ -547,3 +547,6 @@ Lumi(16008266) :-Hello, M15! Welcome to WFAF! - Waiting for a Friend! The place 
 Lumi(16008266) :-Hello, Uranus Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Cryo(22783061) :-farm, ip ban, restart tor to get a new ip
 Harenoir(11427049) :-ohh
+Harenoir(11427049) :-the restart thingy
+Cryo(22783061) :-idk i told mari once
+Cryo(22783061) :-she denied
