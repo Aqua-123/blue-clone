@@ -4265,3 +4265,4 @@ pluviophile(14751444) :-e
 pluviophile(14751444) :-.e
 pluviophile(14751444) :-e
 pluviophile(14751444) :-.e
+Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
