@@ -1703,3 +1703,4 @@ Blue(21550262) :-Hi, Cryo, Welcome to WFAF, which stands for Waiting For A Frien
 Blue(21550262) :-Disabling greets uwu
 Harenoir(11427049) :-but their feed is spammed tho
 Cryo(22783061) :-owo
+Cryo(22783061) :-because jupiter spammed the person who spammed his profile
