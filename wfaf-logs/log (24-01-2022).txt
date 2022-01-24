@@ -2132,3 +2132,5 @@ Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did
 TinyCath ~(19259507) :-E
 🖤M Sweetie 🖤(22975867) :-X\n
 TinyCath ~(19259507) :-P
+🖤M Sweetie 🖤(22975867) :-.exp?
+TinyCath ~(19259507) :-Hm-hmm
