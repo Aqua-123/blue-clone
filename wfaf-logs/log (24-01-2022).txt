@@ -4708,3 +4708,4 @@ Gashing Sphere(22975867) :-Is who I mean\n
 Somethinglalala(23370112) :-Idk\n
 Somethinglalala(23370112) :-Havent seen him\n
 Somethinglalala(23370112) :-Have you, spooky?
+Gashing Sphere(22975867) :-Seems like a no\n
