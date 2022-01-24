@@ -4221,3 +4221,6 @@ pluviophile(14751444) :-d
 pluviophile(14751444) :-e
 pluviophile(14751444) :-f
 pluviophile(14751444) :-u
+pluviophile(14751444) :-🤡
+pluviophile(14751444) :-🤡🤡
+pluviophile(14751444) :-🤡🤡🤡
