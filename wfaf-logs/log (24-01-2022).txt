@@ -174,3 +174,5 @@ Cryo(22783061) :-lmfao
 Cryo(22783061) :-i can see
 Harenoir(11427049) :-yes, a few
 Cryo(22783061) :-should i make the get id one admin only?
+Harenoir(11427049) :-hmm
+Cryo(22783061) :-(tbh i did make it but it didnt work heh)
