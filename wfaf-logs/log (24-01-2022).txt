@@ -4788,3 +4788,7 @@ Maddie(23374658) :-hi
 nullity(14751444) :-How are u doin?
 Maddie(23374658) :-good
 nullity(14751444) :-Good to know
+Maddie(23374658) :-i got a gf
+nullity(14751444) :-so what brings u here? :)
+nullity(14751444) :-oh ok
+nullity(14751444) :-i don’t have a gf lol
