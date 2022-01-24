@@ -1247,3 +1247,7 @@ Lumi(16008266) :-Hello, Trtno! Welcome to WFAF! - Waiting for a Friend! The plac
 🖤M Sweetie 🖤(22975867) :-Hmm\n
 🖤M Sweetie 🖤(22975867) :-Im actually interested more in that guy now\n
 Harenoir(11427049) :-who isnt tbh
+🖤M Sweetie 🖤(22975867) :-Heh\n
+🖤M Sweetie 🖤(22975867) :-How do they make a bot?
+Harenoir(11427049) :-coding
+🖤M Sweetie 🖤(22975867) :-Like... Which languag\n
