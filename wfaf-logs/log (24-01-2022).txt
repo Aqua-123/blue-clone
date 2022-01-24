@@ -804,3 +804,8 @@ Cryo(22783061) :-blue start stalking 22975867
 Blue(21550262) :-Okai waking stalk function
 Cryo(22783061) :-blue get stalklist
 Blue(21550262) :-Currently stalking the following IDs:- 22975867
+Cryo(22783061) :-blue stop stalking 22975867
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Cryo(22783061) :-oh
+Cryo(22783061) :-right
