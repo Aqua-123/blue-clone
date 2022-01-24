@@ -839,3 +839,8 @@ Neptune Dugtrio(23367722) :-Connected using Tor\n
 Neptune Dugtrio(23367722) :-And\n
 Cryo(22783061) :-erm
 Neptune Dugtrio(23367722) :-Its so difficult
+Neptune Dugtrio(23367722) :-The screen is so large\n
+Cryo(22783061) :-dang
+Neptune Dugtrio(23367722) :-And no images load\n
+Cryo(22783061) :-yea it is
+Neptune Dugtrio(23367722) :-;-;
