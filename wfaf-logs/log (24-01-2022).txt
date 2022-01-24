@@ -309,3 +309,6 @@ Blue(21550262) :-Hi, its Blue ^-^
 Cryo(22783061) :-you try that everytime knowing it wont work
 Cyan Tomato(23366877) :-It works sometimes
 Cyan Tomato(23366877) :-the <3 and <:
+Cryo(22783061) :-not the ily
+Cyan Tomato(23366877) :-True
+Cryo(22783061) :-<3 and :> work everytime
