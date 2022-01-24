@@ -4608,3 +4608,7 @@ Gashing Sphere(22975867) :-crayons!
 Gashing Sphere(22975867) :-CRAYONS!
 Gashing Sphere(22975867) :-*sigh*
 Spooky(20199174) :-sphere is that really you?
+Gashing Sphere(22975867) :-yes
+Gashing Sphere(22975867) :-me
+Spooky(20199174) :-ok
+Gashing Sphere(22975867) :-why?
