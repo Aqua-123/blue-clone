@@ -4692,3 +4692,5 @@ Gashing Sphere(22975867) :-Hi mecha\n
 Gashing Sphere(22975867) :-Hi me\n
 Somethinglalala(23370112) :-Hiiiiii~
 Somethinglalala(23370112) :-Lol\n
+Somethinglalala(23370112) :-Who is this limping cube\n
+Somethinglalala(23370112) :-Blue whos here\n
