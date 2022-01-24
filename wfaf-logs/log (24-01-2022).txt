@@ -2734,3 +2734,6 @@ Cryo(22783061) :-blue get details of 22783061
 Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 3784 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
 Cryo(22783061) :-blue start stalking 22783061
 Blue(21550262) :-Okai waking stalk function
+🖤M Sweetie 🖤(22975867) :-Well... If it works in RxE. U can.
+Cryo(22783061) :-nope
+🖤M Sweetie 🖤(22975867) :-Why no?
