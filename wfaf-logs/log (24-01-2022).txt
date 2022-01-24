@@ -2012,3 +2012,8 @@ Cryo(22783061) :-it issssss
 🤖 Mecha Nurse 💉(20909261) :-your profile data doesnt look like a full JPG nor PNG.. \n
 Cryo(22783061) :-straw is recontructing images
 Cryo(22783061) :-on a canvas
+Cryo(22783061) :-with a colour palate
+Cryo(22783061) :-so thats the data for it
+🤖 Mecha Nurse 💉(20909261) :-ah, so totally custom stuff then\n
+Cryo(22783061) :-saying what pixel is what
+Cryo(22783061) :-yes
