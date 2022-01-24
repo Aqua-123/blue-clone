@@ -4927,3 +4927,7 @@ Spooky(20199174) :-overthinks
 Spooky(20199174) :-do they eventually come true
 Harenoir(11427049) :-that person ends up doing things they might regret later
 Spooky(20199174) :-no like for example
+Spooky(20199174) :-nvm
+Spooky(20199174) :-its complicated
+Harenoir(11427049) :-oh well
+Spooky(20199174) :-:(
