@@ -624,3 +624,6 @@ Cryo(22783061) :-mhmm
 Cryo(22783061) :-blue ban 23367389
 Blue(21550262) :-Banning 23367389
 🖤M Sweetie 🖤(22975867) :-Not... Zombie apocalypse or something.
+Cryo(22783061) :-blue ban 23367132
+Blue(21550262) :-Banning 23367132
+🖤M Sweetie 🖤(22975867) :-Normal life situations
