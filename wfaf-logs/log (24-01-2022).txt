@@ -2038,3 +2038,6 @@ Cryo(22783061) :-it would be better
 Cryo(22783061) :-then we can also send normal images
 Cryo(22783061) :-yes
 Cryo(22783061) :-idk
+Cryo(22783061) :-i said the api is neat
+Cryo(22783061) :-they just denied
+Cryo(22783061) :-saying its not practical
