@@ -4596,3 +4596,5 @@ Lumi(16008266) :-Hi, John! Im afraid they arent your friend yet, you can always 
 Lumi(16008266) :-Hi again, John, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
 Gashing Sphere(22975867) :-warning
+Gashing Sphere(22975867) :-oof not now internet
+Gashing Sphere(22975867) :-okay
