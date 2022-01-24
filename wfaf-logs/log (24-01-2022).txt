@@ -579,3 +579,4 @@ Cryo(22783061) :-what ive to check is
 Harenoir(11427049) :-then whats the plan here
 Cryo(22783061) :-if eme even loads on tor
 Harenoir(11427049) :-i think it does
+Cryo(22783061) :-yea ive been sitting for past 30 seconds
