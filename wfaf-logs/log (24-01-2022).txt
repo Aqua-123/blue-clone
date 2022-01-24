@@ -1290,3 +1290,5 @@ Harenoir(11427049) :-name
 🖤M Sweetie 🖤(22975867) :-Jupiter Hutt\n
 🖤M Sweetie 🖤(22975867) :-He said the N word\n
 🖤M Sweetie 🖤(22975867) :-And didnt get banned\n
+Harenoir(11427049) :-blue ban 23367682
+Blue(21550262) :-Banning 23367682
