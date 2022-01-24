@@ -2043,3 +2043,7 @@ Cryo(22783061) :-they just denied
 Cryo(22783061) :-saying its not practical
 🤖 Mecha Nurse 💉(20909261) :-I suspect they wanted to see if this approach would work.\n
 Cryo(22783061) :-mhm ig
+Cryo(22783061) :-most images do look like a hot mess tho
+Cryo(22783061) :-ill show you a ss on disc
+🤖 Mecha Nurse 💉(20909261) :-which frankly is probably more fun to put together than fighting CORS issues with imgurs servers.\n
+🖤M Sweetie 🖤(22975867) :-Mecha... Is speaking like strawberry or Atsos... I feel...
