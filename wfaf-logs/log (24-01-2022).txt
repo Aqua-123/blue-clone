@@ -167,3 +167,4 @@ Cryo(22783061) :-wdym?
 Harenoir(11427049) :-did you say bans were logged too
 Harenoir(11427049) :-sorta
 Cryo(22783061) :-ohright
+Cryo(22783061) :-yea on every ban its updated
