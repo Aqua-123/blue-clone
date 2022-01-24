@@ -732,3 +732,4 @@ Blue(21550262) :-Hi, Jessica, Welcome to WFAF, which stands for Waiting For A Fr
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Jessica(23319629) :-Umm
+Cryo(22783061) :-recaptcha automatically flags for uhh what is it called
