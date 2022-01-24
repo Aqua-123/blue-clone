@@ -4923,3 +4923,5 @@ Spooky(20199174) :-teri i need ur help
 Spooky(20199174) :-what happens
 Harenoir(11427049) :-yea?
 Spooky(20199174) :-when a person over thinks things to much?
+Spooky(20199174) :-overthinks
+Spooky(20199174) :-do they eventually come true
