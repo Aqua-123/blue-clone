@@ -4653,3 +4653,4 @@ Blue(21550262) :-Hi, Spooky, Welcome to WFAF, which stands for Waiting For A Fri
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Salmon Icecream! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Katie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
