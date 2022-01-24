@@ -2027,3 +2027,4 @@ TinyCath ~(19259507) :-Sigh
 🤖 Mecha Nurse 💉(20909261) :-Its a neat hack. I think it could be worth trying to use a 3rd party image host though, to get proper images, and maybe have the bio point to that.\n
 TinyCath ~(19259507) :-o.o
 Lumi(16008266) :-Hi, Venus Wookiee! Im afraid they arent your friend yet, you can always try again!
+Cryo(22783061) :-i said that
