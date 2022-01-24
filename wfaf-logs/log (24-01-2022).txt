@@ -394,3 +394,6 @@ Cryo(22783061) :-without that extra work
 🖤M Sweetie 🖤(22975867) :-...
 🖤M Sweetie 🖤(22975867) :-Eh?
 Cryo(22783061) :-yea with the /n being there
+🖤M Sweetie 🖤(22975867) :-How??
+Cryo(22783061) :-i fixed it?
+🖤M Sweetie 🖤(22975867) :-Oh okok\n
