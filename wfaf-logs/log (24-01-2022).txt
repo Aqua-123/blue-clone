@@ -567,3 +567,6 @@ Lumi(16008266) :-Hello, Reeses puffs! Welcome to WFAF! - Waiting for a Friend! T
 Cryo(22783061) :-nope he said hell run em every now and then
 Harenoir(11427049) :-oh right
 Cryo(22783061) :-tor takes extensions fine just fine
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
