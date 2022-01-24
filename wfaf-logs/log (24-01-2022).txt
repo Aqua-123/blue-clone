@@ -273,3 +273,5 @@ Cryo(22783061) :-:))
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Blue(21550262) :-Personal pizzas all around! Harenoir has arisen from the void!
 Blue(21550262) :-Disabling greets uwu
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
