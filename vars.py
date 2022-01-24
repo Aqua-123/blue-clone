@@ -173,7 +173,7 @@ unmutereg = re.compile(r"""blue unmute [^""]+(\\n)*\s*""", re.I)
 
 stalk = re.compile(r"""(blue start stalking )([0-9]+)(\\n)*\s*""", re.I)
 stop_stalk = re.compile(r"""(blue stop stalking )([0-9]+)(\\n)*\s*""", re.I)
-
+get_stalk = re.compile(r"""(blue get stalklist(\\n)*\s*""", re.I)
 ban = re.compile(r"""(blue ban )([0-9]+)(\\n)*\s*""", re.I)
 
 ai = re.compile(r""">[^""]+(\\n)*\s*""", re.I)
@@ -293,7 +293,8 @@ admin_commands = [
     ban,
     get_admin_list,
     stalk,
-    stop_stalk
+    stop_stalk,
+    get_stalk
 ]
 
 #Menu list with images
