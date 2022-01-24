@@ -587,3 +587,4 @@ Harenoir(11427049) :-and im guessing nulls magic restart will remain a mystery
 Cryo(22783061) :-not really
 Cryo(22783061) :-lets see
 Harenoir(11427049) :-hm
+Lumi(16008266) :-Hello, Julianfive! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
