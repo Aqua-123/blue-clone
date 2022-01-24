@@ -67,7 +67,7 @@ stats = []  # Total people joined stats
 greet_timeout = {}  # Control number of greets and timeout
 timeout_control = {}  # Control dict for list switch timeout
 banned = set()
-
+stalking_log = {}
 whohere_t = 0  # timestamp for whos here
 reset_clock = 0  # reset greet timeout
 starttime = time.time()  # Script start timestamp
