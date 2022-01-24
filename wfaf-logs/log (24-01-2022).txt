@@ -799,3 +799,8 @@ Cryo(22783061) :-blue get stalklist
 Blue(21550262) :-Im currently stalking no one :>
 🖤M Sweetie 🖤(22975867) :-Welp. Ill brb. Ill try coming here using Tor\n
 Cryo(22783061) :-good
+Cryo(22783061) :-sure
+Cryo(22783061) :-blue start stalking 22975867
+Blue(21550262) :-Okai waking stalk function
+Cryo(22783061) :-blue get stalklist
+Blue(21550262) :-Currently stalking the following IDs:- 22975867
