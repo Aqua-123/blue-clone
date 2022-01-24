@@ -2606,3 +2606,5 @@ Cryo(22783061) :-blue get details of 22783061
 Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 3650 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
 Lumi(16008266) :-Hello, Neptune Alpaca! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Neptune Alpaca! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Neptune Alpaca, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Greetings cathy cath ~*
