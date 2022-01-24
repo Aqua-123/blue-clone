@@ -4931,3 +4931,8 @@ Spooky(20199174) :-nvm
 Spooky(20199174) :-its complicated
 Harenoir(11427049) :-oh well
 Spooky(20199174) :-:(
+Spooky(20199174) :-okay
+Spooky(20199174) :-i have to go do chores now
+Spooky(20199174) :-*sigh*
+Harenoir(11427049) :-oof
+Spooky(20199174) :-see u later !! :D
