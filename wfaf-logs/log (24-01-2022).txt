@@ -194,3 +194,5 @@ Harenoir(11427049) :-lol
 Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Cryo(22783061) :-next up stopping stalking at will
+Cryo(22783061) :-blue start stalking 2
+Blue(21550262) :-Okai waking stalk function
