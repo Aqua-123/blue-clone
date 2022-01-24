@@ -2581,3 +2581,8 @@ TinyCath ~(19259507) :-Yes (????????????)
 TinyCath ~(19259507) :-🎉.
 🖤M Sweetie 🖤(22975867) :-Lol\n
 Cryo(22783061) :-Aeyy
+Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 3631 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
+TinyCath ~(19259507) :-o.o
+Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 3633 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
