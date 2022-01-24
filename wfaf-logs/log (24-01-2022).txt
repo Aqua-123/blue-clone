@@ -452,3 +452,5 @@ Cryo(22783061) :-yes
 Cryo(22783061) :-word list is essentially one regex string
 Cryo(22783061) :-ok 2
 Cryo(22783061) :-but yea
+Cryo(22783061) :-blue ban 23367118
+Blue(21550262) :-Banning 23367118
