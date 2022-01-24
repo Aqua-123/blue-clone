@@ -2693,3 +2693,13 @@ Shearing Orange(23369710) :-into 0-10
 Lumi(16008266) :-Hello, Mercury Jolteon! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Shearing Orange(23369710) :-;)
 Lumi(16008266) :-Hi, Mercury Jolteon! Im afraid they arent your friend yet, you can always try again!
+Cryo(22783061) :-blue ban 23369710
+Blue(21550262) :-Banning 23369710
+Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 3773 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
+Lumi(16008266) :-Hello, Male! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+TinyCath ~(19259507) :-The hell was that...
+Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
+TinyCath ~(19259507) :-qvp
+🖤M Sweetie 🖤(22975867) :-Lol\n
+🖤M Sweetie 🖤(22975867) :-So yeah\n
