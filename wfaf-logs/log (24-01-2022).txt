@@ -3777,3 +3777,5 @@ Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) wi
 Cryo(22783061) :-script error nvm
 Cryo(22783061) :-one sec
 🖤M Sweetie 🖤(22975867) :-Oki\n
+Cryo(22783061) :-started
+Cryo(22783061) :-blue get details of 21550262
