@@ -591,3 +591,4 @@ Lumi(16008266) :-Hello, Julianfive! Welcome to WFAF! - Waiting for a Friend! The
 Lumi(16008266) :-Hi, Julianfive! Im afraid they arent your friend yet, you can always try again!
 Cryo(22783061) :-blue ban 23367325
 Blue(21550262) :-Banning 23367325
+Harenoir(11427049) :-i wouldnt be surprised if that script beggar already has tricks on his own
