@@ -516,3 +516,4 @@ Cryo(22783061) :-slowing the rendering
 Harenoir(11427049) :-i see
 Harenoir(11427049) :-too much memory even for him
 Cryo(22783061) :-i have a theory that its the css abuse
+Cryo(22783061) :-i\m taking a week off this coming week just to fix any and all opal issues, so i\ll be separating what\s not absolutely vital for the chat to function and making each additional thing togglable in a debug menu. That\ll help me find these issues.\n
