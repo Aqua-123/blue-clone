@@ -4560,3 +4560,5 @@ Blue(21550262) :-I can see 🖤M Sweetie 🖤, Lumi and 3 peeps lurking :p
 🖤M Sweetie 🖤(22975867) :-im smart
 Lumi(16008266) :-Hello, Nonni M24! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Conquering Buffalo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Conquering Buffalo! Im afraid they arent your friend yet, you can always try again!
+Conquering Buffalo(23372350) :-ayo wtf
