@@ -2798,3 +2798,6 @@ TinyCath ~(19259507) :-Not recommended
 TinyCath ~(19259507) :-There yah go
 🖤M Sweetie 🖤(22975867) :-Hehe\n
 🖤M Sweetie 🖤(22975867) :-Did tele come here today?
+TinyCath ~(19259507) :-Dunno
+TinyCath ~(19259507) :-I think no
+🖤M Sweetie 🖤(22975867) :-Hmm\n
