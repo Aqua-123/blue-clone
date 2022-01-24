@@ -1300,3 +1300,4 @@ Lumi(16008266) :-Hello, Violet Rabbit! Welcome to WFAF! - Waiting for a Friend! 
 🖤M Sweetie 🖤(22975867) :-Look! A rabbit!
 Harenoir(11427049) :-oh woah
 Harenoir(11427049) :-and its violet
+Harenoir(11427049) :-violet! youre turning violet!
