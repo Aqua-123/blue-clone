@@ -3097,3 +3097,9 @@ Blue(21550262) :-Currently stalking the following IDs:- 23370112, 22783061
 Aqua(16986137) :-Hmm?
 🖤M Sweetie 🖤(22975867) :-Nothing. Just wanted to say hi\n
 Aqua(16986137) :-Hi :))
+Aqua(16986137) :-Blue stop stalking 23370112
+Blue(21550262) :-Alright ill stop stalking 23370112 UnU
+🖤M Sweetie 🖤(22975867) :-Both those whome you are staolking is you right?
+🖤M Sweetie 🖤(22975867) :-Whom*
+Aqua(16986137) :-Blue start stalking 16986137
+Blue(21550262) :-Okai waking stalk function
