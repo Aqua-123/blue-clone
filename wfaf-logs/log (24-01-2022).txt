@@ -74,3 +74,4 @@ Harenoir(11427049) :-no, not really
 Cryo(22783061) :-what happened, wanna talk about it?
 Harenoir(11427049) :-its fine
 Cryo(22783061) :-okay, hope youll be better ^-^
+Harenoir(11427049) :-thanks
