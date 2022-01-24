@@ -4631,3 +4631,4 @@ Lumi(16008266) :-Hello, Saturn Gamorreans! Welcome to WFAF! - Waiting for a Frie
 Lumi(16008266) :-Hi, Saturn Gamorreans! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Saturn Gamorreans, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Spooky! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Spooky! Im afraid they arent your friend yet, you can always try again!
