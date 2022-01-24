@@ -4903,3 +4903,7 @@ Spooky(20199174) :-lumi whos idle
 Lumi(16008266) :-I see Harenoir, Blue lurking in the shadows...
 Spooky(20199174) :-Hey terii
 Harenoir(11427049) :-hi
+Spooky(20199174) :-so guess what
+Spooky(20199174) :-the goose ended up dying :(
+Harenoir(11427049) :-wait
+Harenoir(11427049) :-what-
