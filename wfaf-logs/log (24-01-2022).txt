@@ -4755,3 +4755,4 @@ Lumi(16008266) :-I can see Lumi, mia and 3 lurkers
 mia(13304686) :-lumi whos lurking
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Subby Boy, Blue lurking in the shadows...
 mia(13304686) :-lumi whos subby boy
+Lumi(16008266) :-Hello, Subby Boy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
