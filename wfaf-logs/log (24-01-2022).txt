@@ -2273,3 +2273,7 @@ Lumi(16008266) :-I can see Natsuki The Neko, Blue, pluviophile, 🖤M Sweetie �
 pluviophile(14751444) :-lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Cryo lurking in the shadows...
 🖤M Sweetie 🖤(22975867) :-The glow got stronger\n
+pluviophile(14751444) :-the glow?
+🖤M Sweetie 🖤(22975867) :-And few seconds later\n
+🖤M Sweetie 🖤(22975867) :-Kim Jong un came out\n
+pluviophile(14751444) :-whos kim jong un?
