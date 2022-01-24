@@ -373,3 +373,4 @@ Blue(21550262) :-Hi, Nailing Spider, Welcome to WFAF, which stands for Waiting F
 Blue(21550262) :-Disabling greets uwu
 Nailing Spider(23367003) :-hi
 Cryo(22783061) :-also stalking should be done
+Cryo(22783061) :-termination command also done
