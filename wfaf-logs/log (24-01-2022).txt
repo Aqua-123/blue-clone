@@ -774,3 +774,8 @@ Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place
 Blue(21550262) :-Disabling greets uwu
 Cryo(22783061) :-well that works atleast
 🖤M Sweetie 🖤(22975867) :-Will blue disable greets always?
+Cryo(22783061) :-when lumi is greeting she will disable
+Cryo(22783061) :-when mecha is
+Cryo(22783061) :-she will re enable
+Cryo(22783061) :-to take over
+Cryo(22783061) :-because that would indicate lumi has crashed
