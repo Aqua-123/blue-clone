@@ -386,9 +386,16 @@ def send_feelings(array,index,id,result):
     if index != 4:
         del array [0:4]
         name = result.group(1)
-        if index == 1: respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
-        elif index == 2: respons = "Sending pats to " + name+" *pat pat*"
-        elif index == 3: respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
+        print(index,name)
+        if index == 1: 
+            respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
+            send_message(respons)
+        elif index == 2: 
+            respons = "Sending pats to " + name+" *pat pat*"
+            send_message(respons)
+        elif index == 3: 
+            respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
+            send_message(respons)
         elif index == 5:
             name = result.group(4)
             l = list(stats_list.values())
