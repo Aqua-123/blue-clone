@@ -2501,3 +2501,6 @@ Participating Chicken(23369515) :-;-;
 Lumi(16008266) :-Hello, hi! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 TinyCath ~(19259507) :-Hm-hmm
 🖤M Sweetie 🖤(22975867) :-Hello hi lol\n
+hi(9988509) :-... whut\n
+🖤M Sweetie 🖤(22975867) :-Blue get id of hi\n
+Blue(21550262) :-ID of hi\n is 9988509
