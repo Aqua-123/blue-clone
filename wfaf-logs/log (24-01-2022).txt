@@ -449,3 +449,6 @@ Cryo(22783061) :-lmao
 🖤M Sweetie 🖤(22975867) :-But\n
 🖤M Sweetie 🖤(22975867) :-Are all words still covered?
 Cryo(22783061) :-yes
+Cryo(22783061) :-word list is essentially one regex string
+Cryo(22783061) :-ok 2
+Cryo(22783061) :-but yea
