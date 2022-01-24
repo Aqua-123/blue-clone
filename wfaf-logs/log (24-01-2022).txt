@@ -3937,3 +3937,6 @@ Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) wi
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 🖤M Sweetie 🖤(22975867) :-.
 Cryo(22783061) :-working with mecha is so fun
+Cryo(22783061) :-im glad he is back
+Cryo(22783061) :-UwU
+Blue(21550262) :-UwU
