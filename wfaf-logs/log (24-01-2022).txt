@@ -4812,3 +4812,7 @@ nullity(14751444) :-Ohhh I see
 Maddie(23374658) :-yea
 nullity(14751444) :-Mhmm
 Maddie(23374658) :-we are childhood sweethearts
+nullity(14751444) :-<33333
+Blue(21550262) :-<3
+nullity(14751444) :-So cute
+Maddie(23374658) :-yea
