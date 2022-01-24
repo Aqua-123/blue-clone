@@ -439,3 +439,4 @@ Cryo(22783061) :-blue ban 23367106
 Blue(21550262) :-Banning 23367106
 Cryo(22783061) :-B)
 🖤M Sweetie 🖤(22975867) :-...
+Cryo(22783061) :-n word thingy should be fixed too now
