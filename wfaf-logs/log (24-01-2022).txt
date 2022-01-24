@@ -1989,3 +1989,5 @@ Cryo(22783061) :-i should do it
 Cryo(22783061) :-just had to reverse teh incomming array
 Cryo(22783061) :-of texts
 🤖 Mecha Nurse 💉(20909261) :-your commit had a green checkmark, it should have produced a build\n
+Cryo(22783061) :-nono i think straw didnt pull before pushing
+Cryo(22783061) :-so it over rid
