@@ -3695,3 +3695,9 @@ Cryo(22783061) :-CAN YOU NOT GIVE ME HEART ATTACKS
 Cryo(22783061) :-ahem
 Cryo(22783061) :-blue get details of 21550262
 Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13136 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+Cryo(22783061) :-i-
+Cryo(22783061) :-q-p
+Cryo(22783061) :-blue get details of 21550262
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13147 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+Cryo(22783061) :-im not even
+Cryo(22783061) :-gonna
