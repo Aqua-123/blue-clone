@@ -1998,3 +1998,7 @@ Cryo(22783061) :-issue
 Cryo(22783061) :-but straw pulled it
 Cryo(22783061) :-then i fixed it
 Cryo(22783061) :-and ig straw didnt pull the fixed one
+Cryo(22783061) :-and a side note
+🤖 Mecha Nurse 💉(20909261) :-what image format are you using?\n
+Cryo(22783061) :-eslint is annoying
+Cryo(22783061) :-ummm
