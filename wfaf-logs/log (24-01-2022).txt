@@ -2555,3 +2555,8 @@ Cryo(22783061) :-then
 🖤M Sweetie 🖤(22975867) :-Happens\n
 Cryo(22783061) :-um sure
 Cryo(22783061) :-whatever suites
+🖤M Sweetie 🖤(22975867) :-Crayons? Or Aquarium? Its your wish\n
+Cryo(22783061) :-any
+🖤M Sweetie 🖤(22975867) :-I can do both\n
+Cryo(22783061) :-yea whatever you wish
+🖤M Sweetie 🖤(22975867) :-Hmmm\n
