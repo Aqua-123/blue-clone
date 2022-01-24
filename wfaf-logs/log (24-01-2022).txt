@@ -4733,3 +4733,7 @@ Lumi(16008266) :-I can see Spooky, Lumi and 2 lurkers
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Spooky. Also 1 person is idle, and there may be lurkers.
 Spooky(20199174) :-lumi whos idle
 Lumi(16008266) :-I see Blue lurking in the shadows...
+Spooky(20199174) :-hi blue
+Blue(21550262) :-Hellosss :D
+Spooky(20199174) :-hi lumi
+Lumi(16008266) :-Hiiiiii!~
