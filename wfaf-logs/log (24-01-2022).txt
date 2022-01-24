@@ -834,3 +834,8 @@ Lumi(16008266) :-Hello, Nico! Welcome to WFAF! - Waiting for a Friend! The place
 Blue(21550262) :-Disabling greets uwu
 Cryo(22783061) :-blue start stalking 22975867
 Blue(21550262) :-Okai waking stalk function
+Cryo(22783061) :-blue stop stalking 22975867
+Neptune Dugtrio(23367722) :-Connected using Tor\n
+Neptune Dugtrio(23367722) :-And\n
+Cryo(22783061) :-erm
+Neptune Dugtrio(23367722) :-Its so difficult
