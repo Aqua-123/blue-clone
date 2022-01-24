@@ -3361,3 +3361,6 @@ Lumi(16008266) :-Hello, Sadix! Welcome to WFAF! - Waiting for a Friend! The plac
 Lumi(16008266) :-Hello, Swimming Rhombus! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi again, Neptune Antelope, dont feel bad, theyll accept one day... hopefully!
 Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 3022 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
+Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 3022 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
