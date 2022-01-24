@@ -1788,3 +1788,10 @@ TinyCath ~(19259507) :-GRRRRRRRRRR
 🖤M Sweetie 🖤(22975867) :-VROOM\n
 TinyCath ~(19259507) :-EH-
 🖤M Sweetie 🖤(22975867) :-i took my car. Nothing else\n
+🖤M Sweetie 🖤(22975867) :-Where are the others?
+TinyCath ~(19259507) :-Asleep
+TinyCath ~(19259507) :-Resting
+TinyCath ~(19259507) :-Fixing
+🖤M Sweetie 🖤(22975867) :-Oh...
+TinyCath ~(19259507) :-Stuff
+TinyCath ~(19259507) :-^^
