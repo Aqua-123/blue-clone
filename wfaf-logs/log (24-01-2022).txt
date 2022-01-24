@@ -3872,3 +3872,8 @@ Cryo(22783061) :-yes
 🖤M Sweetie 🖤(22975867) :-He was taken to -8000
 Cryo(22783061) :-wait what
 🖤M Sweetie 🖤(22975867) :-Yes\n
+Cryo(22783061) :-mecha seen null in *
+🖤M Sweetie 🖤(22975867) :-...
+🤖 Mecha Nurse 💉(20909261) :-I last saw Null (#null) 14008355 in royal squad 👑 1 day, 15 hours, 6 minutes ago.
+Cryo(22783061) :-blue get details of 21550262
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13141 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
