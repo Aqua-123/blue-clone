@@ -5046,3 +5046,6 @@ Lumi(16008266) :-Hello, Earth Pizza! Welcome to WFAF! - Waiting for a Friend! Th
 Lumi(16008266) :-Hello, Saturn Eevee! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, nsanek! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, karma trade?! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, karma trade?! Im afraid they arent your friend yet, you can always try again!
+Harenoir(11427049) :-blue get id of karma trade?
+Blue(21550262) :-ID of karma trade? is 14088489
