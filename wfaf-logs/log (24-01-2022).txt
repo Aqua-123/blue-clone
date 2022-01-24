@@ -544,3 +544,6 @@ Cryo(22783061) :-why cant be
 Cryo(22783061) :-we*
 Harenoir(11427049) :-how
 Lumi(16008266) :-Hello, M15! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Uranus Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Cryo(22783061) :-farm, ip ban, restart tor to get a new ip
+Harenoir(11427049) :-ohh
