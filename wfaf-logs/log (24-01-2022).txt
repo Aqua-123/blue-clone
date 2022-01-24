@@ -4657,3 +4657,4 @@ Lumi(16008266) :-Hello, Katie! Welcome to WFAF! - Waiting for a Friend! The plac
 Lumi(16008266) :-Hello, Olive Mon Calamari! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Olive Mon Calamari(23373439) :-Hi
 Lumi(16008266) :-Hello, Neptune Rhombus! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Mister hypnotist! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
