@@ -3106,3 +3106,7 @@ Blue(21550262) :-Okai waking stalk function
 Aqua(16986137) :-Those are my accounts
 🖤M Sweetie 🖤(22975867) :-Felt so\n
 TinyCath ~(19259507) :-o:
+Aqua(16986137) :-Blue get details of 16986137
+Blue(21550262) :-The account with ID 16986137 has the name Aqua(___) with karma:- 35904 and gender set to m and was created on 2021-01-04 at 13:44:14.051Z
+Aqua(16986137) :-Aight brb
+🖤M Sweetie 🖤(22975867) :-(___)?????
