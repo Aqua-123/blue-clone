@@ -4948,3 +4948,5 @@ Lumi(16008266) :-I see Harenoir, Blue lurking in the shadows...
 Yellow Pyramid(23376127) :-oh
 Yellow Pyramid(23376127) :-bye
 Harenoir(11427049) :-dont forget your free gift
+Harenoir(11427049) :-blue ban 23376127
+Blue(21550262) :-Banning 23376127
