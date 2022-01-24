@@ -173,3 +173,4 @@ Cryo(22783061) :-Harenoir(11427049) banned 23339710\nHarenoir(11427049) banned 2
 Cryo(22783061) :-lmfao
 Cryo(22783061) :-i can see
 Harenoir(11427049) :-yes, a few
+Cryo(22783061) :-should i make the get id one admin only?
