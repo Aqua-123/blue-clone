@@ -4865,3 +4865,6 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hello, Venus Hound! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Venus Hound(23375320) :-hi
+The Deathstar(10579120) :-hullo
+Lumi(16008266) :-Hi, Venus Hound! Im afraid they arent your friend yet, you can always try again!
