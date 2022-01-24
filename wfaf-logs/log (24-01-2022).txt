@@ -261,3 +261,5 @@ Bee(18274541) :-What cryo means
 Cryo(22783061) :-idk i just took it from the word cryogenic
 Cryo(22783061) :-sounded cool
 Cryo(22783061) :-pun intended
+Harenoir(11427049) :-from the creators of voidecption
+Cryo(22783061) :-lmfao
