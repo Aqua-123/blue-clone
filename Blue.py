@@ -424,11 +424,13 @@ def check_greeters(message,id):
                     send_message("Re-enabling greets :D")
                     greet_status = True
         for reg_m in custom_greet_id.values():
-            reg = re.compile(r"" + reg_m+ r"\s*", re.I)
+            reg = re.compile(r"" + reg_m+ r"", re.I)
+            pattern = reg_m + "\s*"
             print(reg)
-            result = reg.search(name)
+            result = reg.search(message)
+            result1 = re.match(pattern,message)
             print(result)
-            if result is not None:
+            if result or result1 :
                 if id == "16008266"and greet_status == True:
                     send_message("Disabling greets uwu")
                     greet_status = False
