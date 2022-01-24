@@ -4045,3 +4045,9 @@ Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) wi
 pluviophile(14751444) :-🤡?
 Cryo(22783061) :-blue get details of 22783061
 Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 4565 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
+Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 4572 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
+Cryo(22783061) :-coool
+pluviophile(14751444) :-why do i have abdominal pain 🤡
+Cryo(22783061) :-that should
+pluviophile(14751444) :-it
