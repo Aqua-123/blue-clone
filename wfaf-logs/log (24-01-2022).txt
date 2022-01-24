@@ -349,3 +349,6 @@ Cyan Tomato(23366877) :-Oh
 Lumi(16008266) :-Hi, Jackel! Im afraid they arent your friend yet, you can always try again!
 Cryo(22783061) :-,
 Lumi(16008266) :-Hello, Johnny! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Cryo(22783061) :-really
