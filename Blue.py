@@ -251,7 +251,7 @@ def stalker(id,time_now):
     else:
         log = ""
         repo.create_file(git_file, "committing files", log, branch="main")
-    while True:
+    while stalking_log[id][1] == True:
         r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
         print(r.status_code)
         if r.status_code == 200:
@@ -346,7 +346,7 @@ def admin_func(message,id,isadmin):
                 if id.isdigit():
                     if id not in stalking_log.keys():
                         t = threading.Thread(target=stalker, args=(id,timer(),) )
-                        stalking_log[id] = t
+                        stalking_log[id] = [t, True]
                         t.start()
                         send_message("Okai waking stalk function")
                     else: send_message("I'm already stalking ID " + id)
@@ -354,9 +354,7 @@ def admin_func(message,id,isadmin):
             elif i ==17 :
                 id = str(result.group(2))
                 if id in stalking_log.keys():
-                    t = stalking_log[id]
-                    t.terminate()
-                    del stalking_log[id]
+                    stalking_log[id][1] = False
                 else: send_message("I'm already not stalking the person with ID " + id)
             elif i == 18:
                 list1 = list(stalking_log.keys())
