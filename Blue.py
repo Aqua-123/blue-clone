@@ -355,7 +355,7 @@ def admin_func(message,id,isadmin):
                 id = str(result.group(2))
                 if id in stalking_log.keys():
                     stalking_log[id][1] = False
-                    del stalklog[id]
+                    del stalking_log[id]
                     send_message("Alright ill stop stalking " + id + " UnU")
                 else: send_message("I'm already not stalking the person with ID " + id)
             elif i == 18:
