@@ -2198,3 +2198,8 @@ Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 🖤M Sweetie 🖤(22975867) :-Blah blah black sheep\n
 TinyCath ~(19259507) :-Have u any wool
+Cryo(22783061) :-blue ban 23368508
+Blue(21550262) :-Banning 23368508
+TinyCath ~(19259507) :-Kewlios
+🖤M Sweetie 🖤(22975867) :-Yes sir yes sir 3 packs full\n
+🖤M Sweetie 🖤(22975867) :-Again!
