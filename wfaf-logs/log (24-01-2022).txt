@@ -235,3 +235,7 @@ Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Bee(18274541) :-Oh there is a new person
 Harenoir(11427049) :-lol
+Cryo(22783061) :-erm
+Harenoir(11427049) :-i wish
+Cryo(22783061) :-sureeee
+Harenoir(11427049) :-but sure
