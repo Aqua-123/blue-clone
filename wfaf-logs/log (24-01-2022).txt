@@ -45,3 +45,4 @@ Lumi(16008266) :-Hello, Loving Lolipop! Welcome to WFAF! - Waiting for a Friend!
 Lumi(16008266) :-Hi, Loving Lolipop! Im afraid they arent your friend yet, you can always try again!
 Harenoir(11427049) :-blue ban 23366175
 Blue(21550262) :-Banning 23366175
+Lumi(16008266) :-Hello, Alex! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
