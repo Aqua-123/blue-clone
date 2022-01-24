@@ -3035,3 +3035,5 @@ TinyCath ~(19259507) :-o:
 TinyCath ~(19259507) :-Choco ?
 🖤M Sweetie 🖤(22975867) :-Yes\n
 🖤M Sweetie 🖤(22975867) :-Phor chu\n
+TinyCath ~(19259507) :-O-oh
+TinyCath ~(19259507) :-Sank yu
