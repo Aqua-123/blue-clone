@@ -160,3 +160,6 @@ Cryo(22783061) :-if any chat then updates to github
 Cryo(22783061) :-else passes
 Harenoir(11427049) :-thats for the logging
 Harenoir(11427049) :-right
+Cryo(22783061) :-yes
+Cryo(22783061) :-logging
+Harenoir(11427049) :-how about banning
