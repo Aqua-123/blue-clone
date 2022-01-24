@@ -4721,3 +4721,7 @@ Gashing Sphere(22975867) :-If u see crayons around, wish him a great day too\n
 Gashing Sphere(22975867) :-Byeeeeee
 Somethinglalala(23370112) :-That what i wanna say too\n
 Somethinglalala(23370112) :-Take care
+Somethinglalala(23370112) :-Bubyeeee
+Gashing Sphere(22975867) :-I left\n
+Gashing Sphere(22975867) :-Anyways
+Gashing Sphere(22975867) :-Bye\n
