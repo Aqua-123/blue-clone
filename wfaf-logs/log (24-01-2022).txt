@@ -5045,3 +5045,4 @@ Lumi(16008266) :-Hello, Peter! Welcome to WFAF! - Waiting for a Friend! The plac
 Lumi(16008266) :-Hello, Earth Pizza! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Saturn Eevee! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, nsanek! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, karma trade?! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
