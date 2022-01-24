@@ -176,3 +176,6 @@ Harenoir(11427049) :-yes, a few
 Cryo(22783061) :-should i make the get id one admin only?
 Harenoir(11427049) :-hmm
 Cryo(22783061) :-(tbh i did make it but it didnt work heh)
+Harenoir(11427049) :-not really
+Harenoir(11427049) :-anyone can fetch ids these days
+Harenoir(11427049) :-blue makes it easier
