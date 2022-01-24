@@ -4612,3 +4612,6 @@ Gashing Sphere(22975867) :-yes
 Gashing Sphere(22975867) :-me
 Spooky(20199174) :-ok
 Gashing Sphere(22975867) :-why?
+Spooky(20199174) :-just asking
+Gashing Sphere(22975867) :-wanna see my signature move?
+Gashing Sphere(22975867) :-NYAN NYAN NYAN
