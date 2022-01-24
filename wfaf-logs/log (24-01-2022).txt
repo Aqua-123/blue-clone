@@ -4782,3 +4782,7 @@ Lumi(16008266) :-Hamtaro, the karmic wonder, has arrived ·ᴗ·
 nullity(14751444) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, nullity and 2 lurkers
 Lumi(16008266) :-Hello, Maddie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+nullity(14751444) :-lumi who’s idle
+nullity(14751444) :-Hi maddie
+Maddie(23374658) :-hi
+nullity(14751444) :-How are u doin?
