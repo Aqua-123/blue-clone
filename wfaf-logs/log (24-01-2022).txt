@@ -4915,3 +4915,5 @@ Spooky(20199174) :-i know, its a sad ending
 Harenoir(11427049) :-i...
 Harenoir(11427049) :-and what about the child
 Spooky(20199174) :-the child went into a shelter
+Harenoir(11427049) :-oh
+Spooky(20199174) :-but then it got ate by a alligator
