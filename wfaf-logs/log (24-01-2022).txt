@@ -1554,3 +1554,6 @@ Harenoir(11427049) :-oh no a loop
 Cryo(22783061) :-nono
 Cryo(22783061) :-that we me trying to stop her with the wrong command
 Harenoir(11427049) :-oh
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
