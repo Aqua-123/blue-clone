@@ -326,3 +326,5 @@ Lumi(16008266) :-Hello, Jackel! Welcome to WFAF! - Waiting for a Friend! The pla
 Blue(21550262) :-Hi, Jackel, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Blue(21550262) :-Disabling greets uwu
 Cryo(22783061) :-uhhh
+Cryo(22783061) :-no
+Cyan Tomato(23366877) :-oh I thought u made her
