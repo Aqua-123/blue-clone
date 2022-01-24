@@ -1649,3 +1649,7 @@ Blue(21550262) :-<:
 Harenoir(11427049) :-yesterday it was him
 Harenoir(11427049) :-you were talking with him
 Cryo(22783061) :-why
+Cryo(22783061) :-right
+Harenoir(11427049) :-anyways
+Cryo(22783061) :-oh to find eugene
+Cryo(22783061) :-sure
