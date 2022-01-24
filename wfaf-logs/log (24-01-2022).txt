@@ -436,3 +436,5 @@ Cryo(22783061) :-right
 🖤M Sweetie 🖤(22975867) :-Cant blame mee\n
 Cryo(22783061) :-mhm
 Cryo(22783061) :-blue ban 23367106
+Blue(21550262) :-Banning 23367106
+Cryo(22783061) :-B)
