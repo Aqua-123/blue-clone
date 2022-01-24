@@ -4663,3 +4663,4 @@ nullity(14751444) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, nullity and 3 lurkers
 nullity(14751444) :-lumi whos idle
 Lumi(16008266) :-I see Limping Cube, Cryo, Blue lurking in the shadows...
+Lumi(16008266) :-Hello, Tommy is my bitch! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
