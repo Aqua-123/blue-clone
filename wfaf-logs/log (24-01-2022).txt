@@ -1728,3 +1728,4 @@ Harenoir(11427049) :-if i ever see her.... yeah?
 Cryo(22783061) :-idk ill just check with blue if she came here or not
 Harenoir(11427049) :-or with mecha
 Cryo(22783061) :-right
+Harenoir(11427049) :-mecha seen 22466125 in *
