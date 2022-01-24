@@ -1622,3 +1622,9 @@ Fish Fingers(23367720) :-hi
 Cryo(22783061) :-testing
 Cryo(22783061) :-my
 Cryo(22783061) :-changes
+Cryo(22783061) :-in
+Cryo(22783061) :-gc ban
+Harenoir(11427049) :-oh damn
+Cryo(22783061) :-ahemmm
+Cryo(22783061) :-jknkjkjd
+Lumi(16008266) :-Hello, Crazymace! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
