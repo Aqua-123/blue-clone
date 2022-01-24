@@ -4698,3 +4698,7 @@ Somethinglalala(23370112) :-Blue whos here\n
 Somethinglalala(23370112) :-...
 Blue(21550262) :-I can see Spooky, Gashing Sphere, 🤖 Mecha Nurse 💉, Blue, Somethinglalala, Lumi and 2 peeps lurking :p
 Somethinglalala(23370112) :-Huh. That was fast\n
+Somethinglalala(23370112) :-Oh hi spooky
+Spooky(20199174) :-hi
+Gashing Sphere(22975867) :-Yes hello spooky\n
+Spooky(20199174) :-hi
