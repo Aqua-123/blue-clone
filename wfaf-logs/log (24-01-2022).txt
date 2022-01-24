@@ -1161,3 +1161,6 @@ Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did
 Lumi(16008266) :-Greetings cathy cath ~*
 TinyCath ~(19259507) :-Thanks lumi
 Lumi(16008266) :-Youre welcome :D
+Harenoir(11427049) :-greetings cath
+TinyCath ~(19259507) :-:o
+TinyCath ~(19259507) :-Greetings ~
