@@ -1970,3 +1970,8 @@ Cryo(22783061) :-bio
 Cryo(22783061) :-saving it there
 Cryo(22783061) :-and fetching
 Cryo(22783061) :-check mine
+Cryo(22783061) :-youll see a ton a gibberish
+Cryo(22783061) :-its not perfect due to high compression
+Cryo(22783061) :-and
+🤖 Mecha Nurse 💉(20909261) :-ooh I see. the bio size limit is big enough to allow that?\n
+Cryo(22783061) :-using a colour pallete to approximate colours
