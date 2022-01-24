@@ -4586,3 +4586,7 @@ Lumi(16008266) :-Hello, Spooky! Welcome to WFAF! - Waiting for a Friend! The pla
 🤖 Mecha Nurse 💉(20909261) :-and sometimes this is what awakens us.
 Lumi(16008266) :-Hello, Redsy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-I can see Spooky and 4 lurkers
+Spooky(20199174) :-lumi whos here
+Spooky(20199174) :-lumi whos idle
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Cryo lurking in the shadows...
+Spooky(20199174) :-hm
