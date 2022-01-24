@@ -3751,3 +3751,6 @@ Cryo(22783061) :-blue get details of 21550262
 Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13139 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
 🖤M Sweetie 🖤(22975867) :-Keep doing\n
 Cryo(22783061) :-i think ive to change up the script a bit
+Cryo(22783061) :-seems to work in the start
+Cryo(22783061) :-then dips down
+🖤M Sweetie 🖤(22975867) :-Try like... 5 more times\n
