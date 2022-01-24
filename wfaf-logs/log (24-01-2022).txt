@@ -4895,3 +4895,6 @@ Lumi(16008266) :-Hello, Chloee! Welcome to WFAF! - Waiting for a Friend! The pla
 Lumi(16008266) :-Hi, Chloee! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Neptune Diamond! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Neptune Diamond! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hello, Spooky! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Spooky! Im afraid they arent your friend yet, you can always try again!
+Spooky(20199174) :-lumi whos here
