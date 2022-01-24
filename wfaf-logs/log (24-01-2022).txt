@@ -365,3 +365,4 @@ Cryo(22783061) :-that needs some work-
 Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Cryo(22783061) :-blue ban 23366978
+Blue(21550262) :-Banning 23366978
