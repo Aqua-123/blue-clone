@@ -3754,3 +3754,5 @@ Cryo(22783061) :-i think ive to change up the script a bit
 Cryo(22783061) :-seems to work in the start
 Cryo(22783061) :-then dips down
 🖤M Sweetie 🖤(22975867) :-Try like... 5 more times\n
+Cryo(22783061) :-if you say so
+🖤M Sweetie 🖤(22975867) :-Yes\n
