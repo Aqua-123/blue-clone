@@ -340,3 +340,6 @@ Cyan Tomato(23366877) :-<3
 Blue(21550262) :-<3
 Cyan Tomato(23366877) :-<:
 Blue(21550262) :-:>
+Cyan Tomato(23366877) :-What is the blue no for
+Cyan Tomato(23366877) :-blue no
+Blue(21550262) :-Kindly be nice and keep this family-friendly while you are here, else the wfaf door is always open for you to leave, thanks
