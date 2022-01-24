@@ -1542,3 +1542,12 @@ Cryo(22783061) :-this is when you send it bug
 Cryo(22783061) :-bud*
 🖤M Sweetie 🖤(22975867) :-Ill see ya after ground report
 Cryo(22783061) :-sure
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Blue(21550262) :-Unknown error occurred, restarting... ~*
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Blue(21550262) :-Unknown error occurred, restarting... ~*
+Cryo(22783061) :-oh right
+Harenoir(11427049) :-oh no a loop
