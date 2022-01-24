@@ -4778,3 +4778,4 @@ Lumi(16008266) :-Hello, Purple Tauros! Welcome to WFAF! - Waiting for a Friend! 
 Lumi(16008266) :-Hi, Purple Tauros! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Purple Tauros, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Antho! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hamtaro, the karmic wonder, has arrived ·ᴗ·
