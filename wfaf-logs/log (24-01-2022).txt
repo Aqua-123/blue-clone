@@ -4959,3 +4959,5 @@ Neptune Diamond(23374670) :-hello
 Lumi(16008266) :-I see Harenoir, Blue lurking in the shadows...
 Chipping Toad(23376239) :-hey guys
 Neptune Diamond(23374670) :-wagwan
+Chipping Toad(23376239) :-What
+Neptune Diamond(23374670) :-what you guys lurking about for?
