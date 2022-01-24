@@ -4578,3 +4578,4 @@ Lumi(16008266) :-Hello, Blue Gerbil! Welcome to WFAF! - Waiting for a Friend! Th
 Lumi(16008266) :-Hello, Saundrowski! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Whipping Kaminoan! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Sky Blue Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
