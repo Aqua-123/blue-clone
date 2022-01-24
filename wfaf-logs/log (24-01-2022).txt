@@ -2109,3 +2109,7 @@ TinyCath ~(19259507) :-Arf ?
 🖤M Sweetie 🖤(22975867) :-Meow meow meowwwwwwww
 Rotting Koffing(23369074) :-lumi whos here\n
 Lumi(16008266) :-I can see 🖤M Sweetie 🖤, TinyCath ~, Lumi, Rotting Koffing and 3 lurkers
+TinyCath ~(19259507) :-Arf arf arfffffffffffffffffffffffffff
+Rotting Koffing(23369074) :-lumi whos lurking\n
+Lumi(16008266) :-I see Blue, Cryo, 🤖 Mecha Nurse 💉 lurking in the shadows...
+🖤M Sweetie 🖤(22975867) :-Meow.
