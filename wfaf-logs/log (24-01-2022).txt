@@ -2103,3 +2103,9 @@ Lumi(16008266) :-Hello, Lewis! Welcome to WFAF! - Waiting for a Friend! The plac
 Lumi(16008266) :-Hello, Rotting Koffing! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lewis(23368864) :-Heyyy
 🖤M Sweetie 🖤(22975867) :-Meow meow
+🖤M Sweetie 🖤(22975867) :-Meow?
+TinyCath ~(19259507) :-Greetings ~
+TinyCath ~(19259507) :-Arf ?
+🖤M Sweetie 🖤(22975867) :-Meow meow meowwwwwwww
+Rotting Koffing(23369074) :-lumi whos here\n
+Lumi(16008266) :-I can see 🖤M Sweetie 🖤, TinyCath ~, Lumi, Rotting Koffing and 3 lurkers
