@@ -5058,3 +5058,4 @@ Lumi(16008266) :-Hello, Mercury Abra! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Hello, Exploring Dathomirian! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Exploring Dathomirian(23374435) :-hey how are u
 Lumi(16008266) :-Hi, Exploring Dathomirian! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi, Mercury Abra! Im afraid they arent your friend yet, you can always try again!
