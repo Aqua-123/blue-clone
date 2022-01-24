@@ -1428,3 +1428,9 @@ Cryo(22783061) :-to render them as cats
 Cryo(22783061) :-yk
 Harenoir(11427049) :-but why remove it-
 Cryo(22783061) :-obv not intentionally duh
+Harenoir(11427049) :-then what is it
+Cryo(22783061) :-idk
+Cryo(22783061) :-i havent checked teh code
+Harenoir(11427049) :-huh
+Cryo(22783061) :-whatever it is
+Cryo(22783061) :-straw did it
