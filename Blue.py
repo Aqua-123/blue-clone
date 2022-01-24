@@ -343,9 +343,20 @@ def admin_func(message,id,isadmin):
                 id = str(result.group(2))
                 print(id)
                 if id.isdigit():
-                    threading.Thread(target=stalker, args=(id,timer(),) ).start()
-                    send_message("Okai waking stalk function")
+                    if id not in stalking_log.keys():
+                        t = threading.Thread(target=stalker, args=(id,timer(),) )
+                        stalking_log[id] = t
+                        t.start()
+                        send_message("Okai waking stalk function")
+                    else: send_message("I'm already stalking ID " + id)
                 else: send_message("Please give a valid ID UnU")
+            elif i ==17 :
+                id = str(result.group(2))
+                if id in stalking_log.keys():
+                    t = stalking_log[id]
+                    t.stop()
+                    del stalking_log[id]
+                else: send_message("I'm already not stalking the person with ID " + id)
                 
 def coin_handling(array):
     """Just as the name suggests,
