@@ -514,3 +514,5 @@ Harenoir(11427049) :-damn
 Cryo(22783061) :-and
 Cryo(22783061) :-slowing the rendering
 Harenoir(11427049) :-i see
+Harenoir(11427049) :-too much memory even for him
+Cryo(22783061) :-i have a theory that its the css abuse
