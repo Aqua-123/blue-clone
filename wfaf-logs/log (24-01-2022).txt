@@ -4598,3 +4598,4 @@ Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did
 Gashing Sphere(22975867) :-warning
 Gashing Sphere(22975867) :-oof not now internet
 Gashing Sphere(22975867) :-okay
+Gashing Sphere(22975867) :-Earth diamond is back
