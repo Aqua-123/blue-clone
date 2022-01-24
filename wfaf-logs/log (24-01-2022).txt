@@ -1588,3 +1588,6 @@ Blue(21550262) :-Hi, its Blue ^-^
 Cryo(22783061) :-blue send pats to teri
 Blue(21550262) :-Sending pats to teri *pat pat*
 Cryo(22783061) :-finallyyy
+Harenoir(11427049) :-aw
+Harenoir(11427049) :-thanks blue
+Blue(21550262) :-Youre welcome :D
