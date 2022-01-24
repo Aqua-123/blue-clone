@@ -503,3 +503,4 @@ Cryo(22783061) :-wb
 Harenoir(11427049) :-ty
 Harenoir(11427049) :-hm
 Harenoir(11427049) :-havent seen opal spam during the whole day
+Cryo(22783061) :-ooo
