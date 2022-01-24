@@ -31,3 +31,5 @@ Harenoir(11427049) :-B)
 Harenoir(11427049) :-blue get id of Uranus Jigglypuff
 Blue(21550262) :-Im sorry I havent seen anyone with the name Uranus Jigglypuff here
 Harenoir(11427049) :-fine ill do it myself
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
