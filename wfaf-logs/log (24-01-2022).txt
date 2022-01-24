@@ -3382,3 +3382,7 @@ Cryo(22783061) :-blue get details of 23370874
 Blue(21550262) :-The account with ID 23370874 has the name Swimming Rhombus(u37a8706f6b2a681e) with karma:- 2 and was created on 2022-01-24 at 10:13:07.159Z
 Cryo(22783061) :-blue get details of 23370874
 Blue(21550262) :-The account with ID 23370874 has the name Swimming Rhombus(u37a8706f6b2a681e) with karma:- 2 and was created on 2022-01-24 at 10:13:07.159Z
+Cryo(22783061) :-blue get details of 21550262
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13137 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+Cryo(22783061) :-blue get details of 21550262
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13133 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
