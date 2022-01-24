@@ -583,3 +583,4 @@ Cryo(22783061) :-yea ive been sitting for past 30 seconds
 Harenoir(11427049) :-hm...
 Harenoir(11427049) :-well, at least we gained new info after all of this experience
 Cryo(22783061) :-mhm
+Harenoir(11427049) :-and im guessing nulls magic restart will remain a mystery
