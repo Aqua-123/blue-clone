@@ -257,7 +257,7 @@ def stalker(id,time_now):
             name, karma,username, gender,created = r["user"]["display_name"],r["user"]["karma"], r["user"]["username"],r["user"]["gender"],r["user"]["created_at"].split("T")
             logs = repo.get_contents(git_file)
             log = logs.decoded_content.decode()
-            time = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
+            time = datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
             text = "Logging at (" + str(time) + ") " + name + " " + karma + " " + username + " " + gender + "\n"
             log = log + text
             repo.create_file(git_file, "committing files", log, branch="main")
@@ -430,7 +430,7 @@ def check_greeters(message,id):
             result = reg.search(message)
             result1 = re.match(pattern,message)
             print(result)
-            if result or result1 :
+            if result is not None :
                 if id == "16008266"and greet_status == True:
                     send_message("Disabling greets uwu")
                     greet_status = False
@@ -445,7 +445,7 @@ def coins_feelings(message,id):
             if index == 0 : coin_handling(message.split(" "))
             else : send_feelings(message.split(" "),index,id,result)
             break
-        
+
 def log_chats(message,user_id):
     name = fix_name(user["display_name"])
     log = fix_message(name + "(" + str(user_id) + ") :-" + message) + "\n" 
@@ -465,8 +465,7 @@ def push_logs():
     contents = repo.get_contents("")
     while contents:
         file_content = contents.pop(0)
-        if file_content.type == "dir":
-            contents.extend(repo.get_contents(file_content.path))
+        if file_content.type == "dir": contents.extend(repo.get_contents(file_content.path))
         else:
             file = file_content
             all_files.append(str(file).replace('ContentFile(path="','').replace('")',''))
@@ -475,13 +474,11 @@ def push_logs():
     if git_file in all_files:
         logs = repo.get_contents(git_file)
         log = logs.decoded_content.decode()
-        for i in contents1:
-            log = log + i 
+        for i in contents1: log = log + i 
         repo.update_file(logs.path, "chat-log", log, logs.sha, branch="main")
     else:
         log = ""
-        for i in contents1:
-            log = log + i
+        for i in contents1: log = log + i
         repo.create_file(git_file, "committing files", log, branch="main")
 
 
