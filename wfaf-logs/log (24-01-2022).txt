@@ -4877,3 +4877,4 @@ The Deathstar(10579120) :-hello
 Lumi(16008266) :-Hello, Ultimate Fun Game  ;)! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Tommy is my bitch! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Ryu! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, The Deathstar! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
