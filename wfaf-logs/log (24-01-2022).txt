@@ -4861,3 +4861,4 @@ The Deathstar(10579120) :-lumi whos lurking
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows...
 🤖 Mecha Nurse 💉(20909261) :-People keep telling me that life goes on,
 🤖 Mecha Nurse 💉(20909261) :-but to me that’s the saddest part.
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
