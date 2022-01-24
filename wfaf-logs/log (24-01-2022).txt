@@ -2475,3 +2475,6 @@ Lumi(16008266) :-Hello, Participating Chicken! Welcome to WFAF! - Waiting for a 
 🖤M Sweetie 🖤(22975867) :-Read\n
 🖤M Sweetie 🖤(22975867) :-Bro..
 Participating Chicken(23369515) :-I see
+🖤M Sweetie 🖤(22975867) :-Hmm\n
+🖤M Sweetie 🖤(22975867) :-U can leave if u want\n
+Participating Chicken(23369515) :-I just havent encountered this feature on a website before
