@@ -4590,3 +4590,4 @@ Spooky(20199174) :-lumi whos here
 Spooky(20199174) :-lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Cryo lurking in the shadows...
 Spooky(20199174) :-hm
+Lumi(16008266) :-Hello, Nonni M24! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
