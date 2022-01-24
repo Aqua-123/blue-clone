@@ -809,3 +809,6 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Cryo(22783061) :-oh
 Cryo(22783061) :-right
+🖤M Sweetie 🖤(22975867) :-Its taking so much while to connect ;-;
+Cryo(22783061) :-prolly used the wrong function to terminate thread
+Cryo(22783061) :-welp
