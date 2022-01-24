@@ -4043,3 +4043,5 @@ Cryo(22783061) :-nvm
 Cryo(22783061) :-blue get details of 21550262
 Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13147 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
 pluviophile(14751444) :-🤡?
+Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 4565 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
