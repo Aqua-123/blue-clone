@@ -4834,3 +4834,7 @@ nullity(14751444) :-its like mid night here..
 Maddie(23374658) :-it is night time here
 nullity(14751444) :-I think I should go to bed now..
 Maddie(23374658) :-i from uk
+nullity(14751444) :-ohh okk
+nullity(14751444) :-thats cool
+Maddie(23374658) :-i miss my fiancés
+nullity(14751444) :-i always wanna live in uk ;-;
