@@ -2722,3 +2722,6 @@ Lumi(16008266) :-Hi, Male! Im afraid they arent your friend yet, you can always 
 🖤M Sweetie 🖤(22975867) :-Ike\n
 🖤M Sweetie 🖤(22975867) :-Ip\n
 🖤M Sweetie 🖤(22975867) :-Then building name\n
+🖤M Sweetie 🖤(22975867) :-Then device details\n
+Cryo(22783061) :-lmfao-
+🖤M Sweetie 🖤(22975867) :-And all such stuff\n
