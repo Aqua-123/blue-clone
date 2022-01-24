@@ -2506,3 +2506,5 @@ hi(9988509) :-... whut\n
 Blue(21550262) :-ID of hi\n is 9988509
 TinyCath ~(19259507) :-Greetings
 🖤M Sweetie 🖤(22975867) :-Lol\n
+hi(9988509) :-Whats going on?
+🖤M Sweetie 🖤(22975867) :-Nothing here. Why?
