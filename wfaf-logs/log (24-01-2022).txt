@@ -1391,3 +1391,5 @@ Notifying Poliwrath(23368402) :-hello\n
 🖤M Sweetie 🖤(22975867) :-Eh go to the airplane mode and turn it off. Go to voLTE settings and turn it off and on again
 🖤M Sweetie 🖤(22975867) :-Turn off airplane mode
 🖤M Sweetie 🖤(22975867) :-Wrong place, notifying
+Harenoir(11427049) :-oh its for mobile users
+🖤M Sweetie 🖤(22975867) :-Yes\n
