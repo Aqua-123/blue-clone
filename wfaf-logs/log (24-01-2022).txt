@@ -2002,3 +2002,6 @@ Cryo(22783061) :-and a side note
 🤖 Mecha Nurse 💉(20909261) :-what image format are you using?\n
 Cryo(22783061) :-eslint is annoying
 Cryo(22783061) :-ummm
+Cryo(22783061) :-its taking both jpeg and png?
+🤖 Mecha Nurse 💉(20909261) :-its supposed to be. the trick is to agree to be annoyed with the right set of nags.\n
+Cryo(22783061) :-i think?
