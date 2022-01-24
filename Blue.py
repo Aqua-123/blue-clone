@@ -354,13 +354,13 @@ def admin_func(message,id,isadmin):
                 id = str(result.group(2))
                 if id in stalking_log.keys():
                     t = stalking_log[id]
-                    t.stop()
+                    t.terminate()
                     del stalking_log[id]
                 else: send_message("I'm already not stalking the person with ID " + id)
             elif i == 18:
-                list = stalking_log.keys()
-                if not list: response = "I'm currently stalking no one :>"
-                else: response = "Currently stalking the following IDs:- " +fix_message(str(list))
+                list1 = list(stalking_log.keys())
+                if not list1: response = "I'm currently stalking no one :>"
+                else: response = "Currently stalking the following IDs:- " +fix_message(str(list1))
                 send_message(response)
 def coin_handling(array):
     """Just as the name suggests,
