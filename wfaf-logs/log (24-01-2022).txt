@@ -3242,3 +3242,9 @@ Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) wit
 Cryo(22783061) :-blue get details of 22783061
 Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 4375 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
 Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 4419 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
+Lumi(16008266) :-Hello, Orchid Icecream! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Cryo(22783061) :-now thats the beauty
+Lumi(16008266) :-Hi, Orchid Icecream! Im afraid they arent your friend yet, you can always try again!
+Cryo(22783061) :-itll drop now
+Cryo(22783061) :-my prediction
