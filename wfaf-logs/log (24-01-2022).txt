@@ -352,3 +352,5 @@ Lumi(16008266) :-Hello, Johnny! Welcome to WFAF! - Waiting for a Friend! The pla
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Cryo(22783061) :-really
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
