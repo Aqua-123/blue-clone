@@ -1965,3 +1965,8 @@ Cryo(22783061) :-i and straw did some work on
 Cryo(22783061) :-RxE
 Cryo(22783061) :-an attempt to add pfps
 🤖 Mecha Nurse 💉(20909261) :-oh, neat\n
+🤖 Mecha Nurse 💉(20909261) :-from where?\n
+Cryo(22783061) :-bio
+Cryo(22783061) :-saving it there
+Cryo(22783061) :-and fetching
+Cryo(22783061) :-check mine
