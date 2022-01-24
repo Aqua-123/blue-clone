@@ -4215,3 +4215,9 @@ pluviophile(14751444) :-:(
 🖤M Sweetie 🖤(22975867) :-Huh\n
 🖤M Sweetie 🖤(22975867) :-Lemme get some water...
 pluviophile(14751444) :-a
+pluviophile(14751444) :-b
+pluviophile(14751444) :-c
+pluviophile(14751444) :-d
+pluviophile(14751444) :-e
+pluviophile(14751444) :-f
+pluviophile(14751444) :-u
