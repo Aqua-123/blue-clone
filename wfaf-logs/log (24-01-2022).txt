@@ -505,3 +505,5 @@ Harenoir(11427049) :-hm
 Harenoir(11427049) :-havent seen opal spam during the whole day
 Cryo(22783061) :-ooo
 Cryo(22783061) :-also told null about the lag
+Harenoir(11427049) :-what about it
+Cryo(22783061) :-said hell fix this week
