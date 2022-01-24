@@ -3373,3 +3373,4 @@ Lumi(16008266) :-Hello, Sadix! Welcome to WFAF! - Waiting for a Friend! The plac
 Cryo(22783061) :-blue get details of 23370874
 Blue(21550262) :-The account with ID 23370874 has the name Swimming Rhombus(u37a8706f6b2a681e) with karma:- 1 and was created on 2022-01-24 at 10:13:07.159Z
 Cryo(22783061) :-blue get details of 23370874
+Blue(21550262) :-The account with ID 23370874 has the name Swimming Rhombus(u37a8706f6b2a681e) with karma:- 3 and was created on 2022-01-24 at 10:13:07.159Z
