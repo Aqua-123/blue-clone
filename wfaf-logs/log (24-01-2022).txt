@@ -5015,3 +5015,4 @@ Harenoir(11427049) :-i-
 Harenoir(11427049) :-blue disable greets
 Blue(21550262) :-Okai done ^-^
 Lumi(16008266) :-Hello, Jake! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Jake! Im afraid they arent your friend yet, you can always try again!
