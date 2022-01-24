@@ -293,3 +293,6 @@ Blue(21550262) :-Hi, Cyan Tomato, Welcome to WFAF, which stands for Waiting For 
 Blue(21550262) :-Disabling greets uwu
 Cyan Tomato(23366877) :-Lumi whos here
 Lumi(16008266) :-I can see Harenoir, Blue, Cyan Tomato, Cryo, Lumi and 1 lurkers
+Cyan Tomato(23366877) :-lumi whos lurking
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉 lurking in the shadows...
+Cyan Tomato(23366877) :-k
