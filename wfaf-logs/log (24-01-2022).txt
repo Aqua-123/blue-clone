@@ -2612,3 +2612,6 @@ Lumi(16008266) :-Greetings cathy cath ~*
 🖤M Sweetie 🖤(22975867) :-Woah\n
 🖤M Sweetie 🖤(22975867) :-Finally internet is back\n
 Cryo(22783061) :-admin only
+Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 3652 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
+🖤M Sweetie 🖤(22975867) :-Seemingly
