@@ -158,3 +158,5 @@ Harenoir(11427049) :-wow
 Cryo(22783061) :-she checks every 10 secs
 Cryo(22783061) :-if any chat then updates to github
 Cryo(22783061) :-else passes
+Harenoir(11427049) :-thats for the logging
+Harenoir(11427049) :-right
