@@ -385,7 +385,7 @@ def send_feelings(array,index,id,result):
     global respons
     if index != 4:
         del array [0:4]
-        name = fix_name(" ".join(array))
+        name = result.group(1)
         if index == 1: respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
         elif index == 2: respons = "Sending pats to " + name+" *pat pat*"
         elif index == 3: respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"

@@ -186,9 +186,9 @@ ppizza = re.compile(r"""blue serve (pineapple pizza|b)(\\n)*\s*$""", re.I)
 
 #feelings regex
 coins = re.compile(r"""blue add [0-9]+( [^""]+)? coins(\\n)*\s*""", re.I)
-hug = re.compile(r"""blue send hug(s)? to [^""]+(\\n)*\s*""", re.I)
-pat = re.compile(r"""blue send pats to [^""]+(\\n)*\s*""", re.I)
-loves = re.compile(r"""blue send love to [^""]+(\\n)*\s*""", re.I)
+hug = re.compile(r"""blue send hug(s)? to ([^""]+)(\\n)*\s*""", re.I)
+pat = re.compile(r"""blue send pats to ([^""]+)(\\n)*\s*""", re.I)
+loves = re.compile(r"""blue send love to ([^""]+)(\\n)*\s*""", re.I)
 bonk = re.compile(r"""blue bonk [^""]+(\\n)*\s*""", re.I)
 get_id = re.compile(r"""(blue )(fetch|get)( id of )([^""]+)(\\n)*\s*""", re.I)
 get_karma = re.compile(r"""blue (fetch|get) details of ([^""]+)(\\n)*\s*""", re.I)
