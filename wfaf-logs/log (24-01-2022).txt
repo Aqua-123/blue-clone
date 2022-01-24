@@ -1076,3 +1076,6 @@ Lumi(16008266) :-Hello, BlackMale20! Welcome to WFAF! - Waiting for a Friend! Th
 Cryo(22783061) :-lol
 Harenoir(11427049) :-someone should have told me earlier
 🖤M Sweetie 🖤(22975867) :-I kept forgetting it\n
+Cryo(22783061) :-you know lumi is due a couple hundred updates
+Cryo(22783061) :-changes in regex and shiz
+Harenoir(11427049) :-we havent worked on lumi in a while
