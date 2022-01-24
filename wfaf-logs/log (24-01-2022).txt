@@ -4984,3 +4984,4 @@ Lumi(16008266) :-Hello, Lime Icecream! Welcome to WFAF! - Waiting for a Friend! 
 Lime Icecream(23376379) :-uh
 Lime Icecream(23376379) :-lol
 Lumi(16008266) :-Hi, Lime Icecream! Im afraid they arent your friend yet, you can always try again!
+Purple Triangle(23376180) :-Hi 👋🏻 I know how this place may be but I didn’t get the chance to tell you that I can’t ask yoh for nudes
