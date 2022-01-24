@@ -2307,3 +2307,8 @@ TinyCath ~(19259507) :-;-;
 TinyCath ~(19259507) :-Maybe next time..
 🖤M Sweetie 🖤(22975867) :-Oki...
 TinyCath ~(19259507) :-Now make me coffee
+🖤M Sweetie 🖤(22975867) :-Lol
+🖤M Sweetie 🖤(22975867) :-Blue menu\n
+Blue(21550262) :-Rn we have 1) Coffee, 2) Milk, 3) Water
+🖤M Sweetie 🖤(22975867) :-Blue serve 1
+Blue(21550262) :-☕
