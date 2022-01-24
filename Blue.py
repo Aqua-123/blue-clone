@@ -19,6 +19,7 @@ from timeit import default_timer as timer
 restart_program = lambda : execl(executable,executable, * argv)
 name = " "
 channel_id = "null"
+starttime = t
 def reconnect():
     while connection == True:
         websocket.enableTrace(False)
@@ -277,7 +278,7 @@ def admin_func(message,id,isadmin):
     
     for i in range(0, len(admin_commands)):
         result = admin_commands[i].match(message)
-        global greet_status,running,name
+        global greet_status,running,name,starttime
         if bool(result) == True:
             if i == 0 :
                 greet_status,response = True,"Okai done ^-^"
@@ -300,7 +301,7 @@ def admin_func(message,id,isadmin):
                 list_main_dict.clear()
                 idle_main_dict.clear()
             elif i == 4:
-                sr = str(datetime.now() - t).split(":")
+                sr = str(datetime.now() - starttime).split(":")
                 if sr[0] == "0":
                     if str(int(sr[1])+0) == "0" : response = "I just joined -w-"
                     elif (int(sr[1])+0) == 1 : response = "I've been here for just a minute"
@@ -311,7 +312,7 @@ def admin_func(message,id,isadmin):
                 greet_timeout,response = {},"Just had some memory loss x-x"
                 send_message(response)
             elif i == 6:
-                l, sr, r= len(stats_list.keys()),str(datetime.now() - t).split(":"),strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
+                l, sr, r= len(stats_list.keys()),str(datetime.now() - starttime).split(":"),strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
                 stats_r = str(len(stats)) + " have entered wfaf and " + str(l) + " unique people have joined in the past " + sr[0] + " hours and " + sr[1] + " minutes"", and it is " + str(r) + " in wfaf"
                 send_message(stats_r)
             elif i == 7 and isadmin == True : send_message(fix_message(str(mute_list)))
