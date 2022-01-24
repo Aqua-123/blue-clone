@@ -399,3 +399,5 @@ Cryo(22783061) :-i fixed it?
 🖤M Sweetie 🖤(22975867) :-Oh okok\n
 🖤M Sweetie 🖤(22975867) :-Thanks\n
 🖤M Sweetie 🖤(22975867) :-Lemme try now\n
+Cryo(22783061) :-sure
+🖤M Sweetie 🖤(22975867) :-Blue get id of cyro\n
