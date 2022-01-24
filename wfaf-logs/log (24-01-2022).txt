@@ -1226,3 +1226,4 @@ Harenoir(11427049) :-alright
 Lumi(16008266) :-Hello, missy <3! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, missy <3! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, missy <3, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Greetings cathy cath ~*
