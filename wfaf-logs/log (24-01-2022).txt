@@ -62,3 +62,5 @@ Lumi(16008266) :-Hello, name ! Welcome to WFAF! - Waiting for a Friend! The plac
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Harenoir(11427049) :-i want this place to live and die at the same time so much
 Lumi(16008266) :-Hello, princesshugs_give0🖕! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+princesshugs_give0🖕(18133491) :-Lumi whos here
+Lumi(16008266) :-I can see princesshugs_give0🖕, Lumi and 5 lurkers
