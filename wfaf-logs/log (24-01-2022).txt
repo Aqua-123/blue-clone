@@ -388,3 +388,6 @@ Lumi(16008266) :-Hello, 🖤M Sweetie 🖤! Welcome to WFAF! - Waiting for a Fri
 🖤M Sweetie 🖤(22975867) :-Blue whos here\n
 Blue(21550262) :-I can see Cryo, Blue, 🖤M Sweetie 🖤, Lumi, Harenoir and no lurkers :p
 Cryo(22783061) :-Hai
+🖤M Sweetie 🖤(22975867) :-Hi\n
+Cryo(22783061) :-btw for you get id should work fine
+Cryo(22783061) :-without that extra work
