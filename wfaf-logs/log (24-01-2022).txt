@@ -2174,3 +2174,5 @@ TinyCath ~(19259507) :-Nope
 🖤M Sweetie 🖤(22975867) :-It was awkward
 TinyCath ~(19259507) :-Understood
 🖤M Sweetie 🖤(22975867) :-Overslept\n
+TinyCath ~(19259507) :-Lucky
+🖤M Sweetie 🖤(22975867) :-Who?
