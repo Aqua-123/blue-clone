@@ -409,3 +409,8 @@ Cryo(22783061) :-oh
 Cryo(22783061) :-even i didnt read-
 🖤M Sweetie 🖤(22975867) :-Hehe sry
 Cryo(22783061) :-kdmkdlm
+🖤M Sweetie 🖤(22975867) :-Blue get id of Cryo\n
+Blue(21550262) :-ID of Cryo\n is 22783061
+🖤M Sweetie 🖤(22975867) :-Yay!
+🖤M Sweetie 🖤(22975867) :-Congratulations 🎉
+Cryo(22783061) :-yayy
