@@ -110,3 +110,4 @@ Cryo(22783061) :-right
 Harenoir(11427049) :-and its also funny the fact that my plan successed in the end
 Harenoir(11427049) :-i got want i wanted
 Harenoir(11427049) :-except that i never actually thought about making true friendships
+Harenoir(11427049) :-everyone was already nice to me by default, and i was happy with that
