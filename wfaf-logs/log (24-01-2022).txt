@@ -3340,3 +3340,7 @@ Blue(21550262) :-I can see Lumi, Cryo, 🖤M Sweetie 🖤, Blue and 2 peeps lurk
 Cryo(22783061) :-hm?
 🖤M Sweetie 🖤(22975867) :-Ill leave for now\n
 🖤M Sweetie 🖤(22975867) :-Ill be back soon\n
+🖤M Sweetie 🖤(22975867) :-Have a nice time till then\n
+🖤M Sweetie 🖤(22975867) :-Bubyeeee
+Cryo(22783061) :-alright
+Cryo(22783061) :-cya
