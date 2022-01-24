@@ -3,3 +3,5 @@ Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
 Blue(21550262) :-The river of life bubbles when Aqua comes near~
 Aqua(16986137) :-erm
+Aqua(16986137) :-i was...
+Aqua(16986137) :-nvm
