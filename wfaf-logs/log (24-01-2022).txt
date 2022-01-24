@@ -4177,3 +4177,15 @@ pluviophile(14751444) :-59
 pluviophile(14751444) :-60
 pluviophile(14751444) :-61
 pluviophile(14751444) :-62
+pluviophile(14751444) :-63
+pluviophile(14751444) :-64
+pluviophile(14751444) :-65
+pluviophile(14751444) :-66
+pluviophile(14751444) :-67
+pluviophile(14751444) :-68
+pluviophile(14751444) :-69
+pluviophile(14751444) :-~ 69 ~
+pluviophile(14751444) :-u.u
+pluviophile(14751444) :-nice
+pluviophile(14751444) :-gud
+pluviophile(14751444) :-*pats ham*
