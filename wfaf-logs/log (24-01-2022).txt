@@ -4879,3 +4879,5 @@ Lumi(16008266) :-Hello, Tommy is my bitch! Welcome to WFAF! - Waiting for a Frie
 Lumi(16008266) :-Hello, Ryu! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, The Deathstar! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Ryu! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Robert! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Robert(21094670) :-Hi
