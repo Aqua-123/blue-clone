@@ -4606,3 +4606,5 @@ Spooky(20199174) :-lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Cryo lurking in the shadows...
 Gashing Sphere(22975867) :-crayons!
 Gashing Sphere(22975867) :-CRAYONS!
+Gashing Sphere(22975867) :-*sigh*
+Spooky(20199174) :-sphere is that really you?
