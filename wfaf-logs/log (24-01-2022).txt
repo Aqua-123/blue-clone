@@ -1298,3 +1298,5 @@ Harenoir(11427049) :-done
 Lumi(16008266) :-Hello, Violet Rabbit! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 🖤M Sweetie 🖤(22975867) :-Ribbit!
 🖤M Sweetie 🖤(22975867) :-Look! A rabbit!
+Harenoir(11427049) :-oh woah
+Harenoir(11427049) :-and its violet
