@@ -2325,3 +2325,6 @@ TinyCath ~(19259507) :-Huh
 TinyCath ~(19259507) :-Hai ~
 🖤M Sweetie 🖤(22975867) :-Hi\n
 🖤M Sweetie 🖤(22975867) :-I mean... My mom says i make ok enough coffee\n
+TinyCath ~(19259507) :-Mom knows best
+TinyCath ~(19259507) :-Sigh
+🖤M Sweetie 🖤(22975867) :-Heh\n
