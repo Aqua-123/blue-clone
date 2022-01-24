@@ -589,3 +589,4 @@ Cryo(22783061) :-lets see
 Harenoir(11427049) :-hm
 Lumi(16008266) :-Hello, Julianfive! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Julianfive! Im afraid they arent your friend yet, you can always try again!
+Cryo(22783061) :-blue ban 23367325
