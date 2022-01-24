@@ -2123,3 +2123,6 @@ TinyCath ~(19259507) :-Quack
 🖤M Sweetie 🖤(22975867) :-Captcha sucks\n
 🖤M Sweetie 🖤(22975867) :-I struggle at it\n
 Lumi(16008266) :-Hello, Uranus Gamorreans! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Uranus Gamorreans! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Uranus Gamorreans, dont feel bad, theyll accept one day... hopefully!
+TinyCath ~(19259507) :-Hm-hmm
