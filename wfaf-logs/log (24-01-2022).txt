@@ -950,3 +950,7 @@ Cryo(22783061) :-opal
 Cryo(22783061) :-spam
 Cryo(22783061) :-UnU
 🖤M Sweetie 🖤(22975867) :--_- we could just make people go there and have a convo there...
+Cryo(22783061) :-blue start stalking 22975867
+Blue(21550262) :-Okai waking stalk function
+Cryo(22783061) :-now da actual test
+🖤M Sweetie 🖤(22975867) :-=_=
