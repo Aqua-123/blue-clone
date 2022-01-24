@@ -782,3 +782,4 @@ Cryo(22783061) :-because that would indicate lumi has crashed
 Cryo(22783061) :-lumi disable greets
 Lumi(16008266) :-Ok, Ill stop greeting people now :D
 🖤M Sweetie 🖤(22975867) :-Welp. Blue is the only one who welcomes me in a nice way lol\n
+Cryo(22783061) :-mecha didnt greet me-
