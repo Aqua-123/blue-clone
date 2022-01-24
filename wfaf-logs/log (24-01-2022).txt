@@ -1805,3 +1805,6 @@ Lumi(16008266) :-Hello, name! Welcome to WFAF! - Waiting for a Friend! The place
 TinyCath ~(19259507) :-Hm-hmm
 🖤M Sweetie 🖤(22975867) :-Hmmm\n
 🖤M Sweetie 🖤(22975867) :-So how are you?
+TinyCath ~(19259507) :-Me ?
+🖤M Sweetie 🖤(22975867) :-Who else\n
+TinyCath ~(19259507) :-I dunno
