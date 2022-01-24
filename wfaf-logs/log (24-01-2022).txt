@@ -5008,3 +5008,4 @@ Lumi(16008266) :-Hello, Jupiter Spice! Welcome to WFAF! - Waiting for a Friend! 
 Lumi(16008266) :-Hi, Jupiter Spice! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Jupiter Spice, dont feel bad, theyll accept one day... hopefully!
 Harenoir(11427049) :-blue ban 23376638
+Blue(21550262) :-Banning 23376638
