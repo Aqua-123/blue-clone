@@ -5036,3 +5036,4 @@ Lumi(16008266) :-Hi, yo! Im afraid they arent your friend yet, you can always tr
 Lumi(16008266) :-Hi again, yo, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Dalai Lama! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Dalai Lama(18447052) :-Hi bruv\n
+Dalai Lama(18447052) :-Hello
