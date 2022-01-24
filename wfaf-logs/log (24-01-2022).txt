@@ -3922,3 +3922,4 @@ Cryo(22783061) :-blue get details of 21550262
 🖤M Sweetie 🖤(22975867) :-Also... I should use python for this right?
 Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13138 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
 🖤M Sweetie 🖤(22975867) :-Bot making
+Cryo(22783061) :-yea well you coulf use js but then i wouldnt be able to help cause i suck at js
