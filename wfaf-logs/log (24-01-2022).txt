@@ -3927,3 +3927,8 @@ Cryo(22783061) :-so i would suggest python
 Cryo(22783061) :-blue get details of 21550262
 🖤M Sweetie 🖤(22975867) :-I dont know js\n
 Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13134 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+🖤M Sweetie 🖤(22975867) :-So python is the way\n
+Cryo(22783061) :-mhm
+Cryo(22783061) :-blue get details of 21550262
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13162 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+🖤M Sweetie 🖤(22975867) :-Huh\n
