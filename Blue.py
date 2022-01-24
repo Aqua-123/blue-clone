@@ -259,7 +259,7 @@ def stalker(id,time_now):
             logs = repo.get_contents(git_file)
             log = logs.decoded_content.decode()
             time = gmtime()
-            text = "Logging at (" + str(time) + ") " + name + " " + karma + " " + username + " " + gender + "\n"
+            text = "Logging at (" + str(time) + ") " + name + " " + str(karma) + " " + username + " " + gender + "\n"
             log = log + text
             repo.create_file(git_file, "committing files", log, branch="main")
         elif r.status_code == 404 or r is None:
