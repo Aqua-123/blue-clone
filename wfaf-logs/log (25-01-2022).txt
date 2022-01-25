@@ -1766,3 +1766,7 @@ Blue(21550262) :-The account with ID 18286795 has the name Jake(morningstar) wit
 🤖 Mecha Nurse 💉(20909261) :-I last saw Jake (#morningstar) 18286795 in air squad 🌪️ 6 hours, 21 minutes ago.
 Harenoir(11427049) :-oh right
 Cryo(22783061) :-oh i soo wanna take down that 50k
+Harenoir(11427049) :-im only 10k away from him
+Cryo(22783061) :-mhm
+Cryo(22783061) :-i could run this script to get you past him easily
+Cryo(22783061) :-well you could do that too
