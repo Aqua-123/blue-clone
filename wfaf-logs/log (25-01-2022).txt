@@ -1671,3 +1671,6 @@ Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did
 Cryo(22783061) :-even if its not infinitum
 Cryo(22783061) :-im still glad i can take 20k from someone in a day
 Cryo(22783061) :-does it take one full day?
+Cryo(22783061) :-but is it 20k?
+Cryo(22783061) :-yes
+Harenoir(11427049) :-hmm...
