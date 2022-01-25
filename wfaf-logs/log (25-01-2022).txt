@@ -1692,3 +1692,6 @@ Cryo(22783061) :-right
 Harenoir(11427049) :-at least for me tho
 Cryo(22783061) :-mhm
 Cryo(22783061) :-also if the second round doesnt work
+Cryo(22783061) :-there is a high chance if we run it in a day or two
+Cryo(22783061) :-it will
+Harenoir(11427049) :-huh
