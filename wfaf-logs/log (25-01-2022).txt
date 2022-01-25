@@ -25,3 +25,4 @@ Lumi(16008266) :-Hello, WhyAmIHere?! Welcome to WFAF! - Waiting for a Friend! Th
 WhyAmIHere?(23378048) :-I’m back to the void
 WhyAmIHere?(23378048) :-Guess there’s nothing here
 Harenoir(11427049) :-^ lmao
+Lumi(16008266) :-Hello, Earth Pizza! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
