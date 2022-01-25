@@ -3842,3 +3842,6 @@ Gashing Sphere(22975867) :-Syawyna\n
 S​o​u​L(20327398) :-hole?
 Gashing Sphere(22975867) :-Now correct
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-syaqyna
+Gashing Sphere(22975867) :-Soul. There is a foul hole in your soul\n
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-that sounds like a fancy name
+Gashing Sphere(22975867) :-Lol it does\n
