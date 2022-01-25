@@ -5703,3 +5703,10 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Blue(21550262) :-Disabling greets uwu
 Spooky(20199174) :-eva whos here
 Eva(21541886) :-These are the people here :Eva\u202d, \u202dMagenta Machop\u202d, \u202dJackal\u202d, \u202dSpooky\u202d, \u202dLime Wookiee\u202d, \u202dS\u200bo\u200bu\u200bL\u202d, \u202dOmnissiah. Maybe some are lurking
+Spooky(20199174) :-Eva stats
+Jackal(15466860) :-im a menace to society
+Spooky(20199174) :-Eva serve a
+S​o​u​L(20327398) :-eva doesnt do that
+Spooky(20199174) :-Eva ban jackai
+Lumi(16008266) :-Welcome lovely person <3
+Spooky(20199174) :-oh
