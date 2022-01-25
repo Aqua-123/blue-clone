@@ -3580,3 +3580,5 @@ Aqua(16986137) :-gc is mostly sorta dead
 Gashing Sphere(22975867) :-Why was salad joining and leaving.
 Gashing Sphere(22975867) :-Yikes red ants\n
 Gashing Sphere(22975867) :-Anyways
+Aqua(16986137) :-cause he be confused
+Gashing Sphere(22975867) :-Has anyone seen tele recently?
