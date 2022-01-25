@@ -5876,3 +5876,6 @@ Spooky(20199174) :-soul how can i add a greeter here? do i have to make a new ac
 S​o​u​L(20327398) :-yea a new account is preferred for the bot
 Lumi(16008266) :-Hello, S\u200bo\u200bu\u200bL! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Spooky(20199174) :-okay first step is to make a new account for the greeter
+Spooky(20199174) :-next step?
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
