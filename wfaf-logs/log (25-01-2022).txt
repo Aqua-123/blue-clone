@@ -2075,3 +2075,7 @@ Cryo(22783061) :-lets let it run for 5 mins and see the delta
 Gashing Sphere(22975867) :-Delta?
 Cryo(22783061) :-18140 is what we are starting at
 Gashing Sphere(22975867) :-Oh sum
+Cryo(22783061) :-delta is change
+Gashing Sphere(22975867) :-Noted\n
+Harenoir(11427049) :-18140, noted
+Gashing Sphere(22975867) :-Heh\n
