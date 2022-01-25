@@ -1914,3 +1914,7 @@ Lumi(16008266) :-Hello, Earth Mosquito! Welcome to WFAF! - Waiting for a Friend!
 Harenoir(11427049) :-+/-?
 Cryo(22783061) :-+
 Harenoir(11427049) :-ah
+Gashing Sphere(22975867) :-Back\n
+Cryo(22783061) :-wb
+Gashing Sphere(22975867) :-Hola\n
+Harenoir(11427049) :-warner bros
