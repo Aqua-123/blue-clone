@@ -658,3 +658,5 @@ Lumi(16008266) :-Hello, Producing Triangle! Welcome to WFAF! - Waiting for a Fri
 Gashing Sphere(22975867) :-Cut tomatoes
 Harenoir(11427049) :-huh
 Gashing Sphere(22975867) :-Heh\n
+Gashing Sphere(22975867) :-Hunt em\n
+Harenoir(11427049) :-do they taste good tho
