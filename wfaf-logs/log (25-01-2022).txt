@@ -1942,3 +1942,6 @@ Cryo(22783061) :-yea i didnt sleep because i was experimenting with eme
 Cryo(22783061) :-same same
 Gashing Sphere(22975867) :-And this nights dream was kinda...
 Gashing Sphere(22975867) :-Disturbing
+Gashing Sphere(22975867) :-Nvm\n
+Cryo(22783061) :-right
+Gashing Sphere(22975867) :-Thats why i was cranky when i woke up\n
