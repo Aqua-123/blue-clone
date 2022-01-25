@@ -4670,3 +4670,12 @@ Gashing Sphere(22975867) :-Okay found a song...
 Blue(21550262) :-UwU
 Eva(21541886) :-moist
 Eva(21541886) :-moist
+S​o​u​L(20327398) :-$ alias userlist u
+Eva(21541886) :-Alias set for userlist: u
+S​o​u​L(20327398) :-$ u
+Blue(21550262) :-Hi, Magenta Machop, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Lumi(16008266) :-Hello, Magenta Machop! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Disabling greets uwu
+Gashing Sphere(22975867) :-Blue bonk bubble and makes\n her fly in the sky and burst
+Blue(21550262) :-*bonks bubble and makes\n her fly in the sky and burst with a baseball bat~*
+Gashing Sphere(22975867) :-Hehe\n
