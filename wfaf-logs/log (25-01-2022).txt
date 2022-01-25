@@ -2605,3 +2605,5 @@ Blue(21550262) :-Re-enabling greets :D
 Cryo(22783061) :-mhm
 Gashing Sphere(22975867) :-I understand that, and its obvious. But kind of a similar process after all\n
 Blue(21550262) :-Hi again, Omnissiah, try asking what is wfaf for more info :D
+Cryo(22783061) :-sorta yes
+Gashing Sphere(22975867) :-:)
