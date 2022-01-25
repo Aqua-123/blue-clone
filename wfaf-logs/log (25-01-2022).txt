@@ -2538,3 +2538,7 @@ Gashing Sphere(22975867) :-I finished the pot\n
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Eh\n
 Gashing Sphere(22975867) :-PPT*
+Gashing Sphere(22975867) :-I be in GC\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Cryo(22783061) :-pot-
+Cryo(22783061) :-sus-
