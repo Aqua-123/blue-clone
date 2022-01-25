@@ -5914,3 +5914,4 @@ Jackal(15466860) :-eva whos idle
 🤖 Mecha Nurse 💉(20909261) :-I think Blue is idle.
 Jackal(15466860) :-cool
 Jackal(15466860) :-idk if im in the chat that i was in tho
+Jackal(15466860) :-soul you there?
