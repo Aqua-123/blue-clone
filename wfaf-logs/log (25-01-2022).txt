@@ -502,3 +502,7 @@ Harenoir(11427049) :-and more than link
 Lumi(16008266) :-Hi again, Icecream abs, dont feel bad, theyll accept one day... hopefully!
 Cryo(22783061) :-mhm
 Harenoir(11427049) :-its the settimeout function itself
+Harenoir(11427049) :-apparently
+Cryo(22783061) :-ummm yes
+Harenoir(11427049) :-alright fine
+Cryo(22783061) :-sort
