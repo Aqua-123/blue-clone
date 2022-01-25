@@ -2316,3 +2316,4 @@ Gashing Sphere(22975867) :-To Ribbit\n
 Harenoir(11427049) :-yes?
 Cryo(22783061) :-wsup
 Cryo(22783061) :-oh
+Gashing Sphere(22975867) :-Well... I remember you telling me that you farmed me.
