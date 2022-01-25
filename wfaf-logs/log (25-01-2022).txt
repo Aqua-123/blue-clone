@@ -6693,3 +6693,5 @@ Lumi(16008266) :-Hello, Neptune Fox! Welcome to WFAF! - Waiting for a Friend! Th
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Neptune Fox(23385397) :-hi
 Eva(21541886) :-hello
+Lumi(16008266) :-Hi, Mercury Orange! Im afraid they arent your friend yet, you can always try again!
+Mercury Orange(23385486) :-Bot ?
