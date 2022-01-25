@@ -4167,3 +4167,5 @@ Somethinglalala(23370112) :-U can say it\n
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-o.O
 Gashing Sphere(22975867) :-Yes. I hate you. I said it\n
 Somethinglalala(23370112) :-Welp\n
+Somethinglalala(23370112) :-Still hiding feelings
+Gashing Sphere(22975867) :-Sure. U got some problem?
