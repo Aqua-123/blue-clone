@@ -1795,3 +1795,7 @@ Harenoir(11427049) :-ppts are boring tho
 Gashing Sphere(22975867) :-I like everything except excel\n
 Harenoir(11427049) :-why not excel
 Gashing Sphere(22975867) :-Excel is boring\n
+Harenoir(11427049) :-damn
+Gashing Sphere(22975867) :-I like to get creative with all these stuff\n
+Harenoir(11427049) :-ever tried making a database in excel
+Gashing Sphere(22975867) :-Excel is like dead cells\n
