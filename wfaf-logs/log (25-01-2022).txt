@@ -1429,3 +1429,5 @@ Gashing Sphere(22975867) :-Then teach yourself. U need help too\n
 Somethinglalala(23370112) :-If i do?
 Gashing Sphere(22975867) :-I can book you an appointment. He can help\n
 Somethinglalala(23370112) :-Who can?
+Gashing Sphere(22975867) :-A therapist u fool. I dont thinks dentists help\n
+Somethinglalala(23370112) :-Oh yeah right\n
