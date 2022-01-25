@@ -1527,3 +1527,9 @@ Harenoir(11427049) :-well
 Gashing Sphere(22975867) :-So if i get gold for free...
 Gashing Sphere(22975867) :-Yay\n
 Harenoir(11427049) :-as long as your credit card is not there, all good
+Gashing Sphere(22975867) :-Nah nah\n
+Harenoir(11427049) :-card number*
+Gashing Sphere(22975867) :-I reinstalled it\n
+Gashing Sphere(22975867) :-So\n
+Gashing Sphere(22975867) :-No i fo\n
+Gashing Sphere(22975867) :-Info*
