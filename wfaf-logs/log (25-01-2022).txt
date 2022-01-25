@@ -959,3 +959,4 @@ Harenoir(11427049) :-big oof
 Gashing Sphere(22975867) :-OOOOOOOOOOOF\n
 Harenoir(11427049) :-i wonder how much would be in an actual year
 Gashing Sphere(22975867) :-felt like a wolf\n
+Cryo(22783061) :-i dont wanna improve the time interval cause that will... incrwase tthe chance of loosing logs at the time of restart
