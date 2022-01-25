@@ -7007,3 +7007,7 @@ Almond cookie(20199174) :-lumi whos idle
 Lumi(16008266) :-I see Blue, 🤖 Mecha Nurse 💉, m27 lurking in the shadows...
 Almond cookie(20199174) :-Hello, mecha
 Almond cookie(20199174) :-hi blue
+Blue(21550262) :-Hellosss :D
+Almond cookie(20199174) :-hi lumi
+Lumi(16008266) :-Hiiiiii!~
+🤖 Mecha Nurse 💉(20909261) :-Hi Almond cookie!
