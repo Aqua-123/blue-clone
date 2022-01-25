@@ -1450,3 +1450,5 @@ Somethinglalala(23370112) :-Who am I then?
 Gashing Sphere(22975867) :-Excluding you\n
 Somethinglalala(23370112) :-Ah oki. Who are you then?!
 Gashing Sphere(22975867) :-Excluding me too\n
+Somethinglalala(23370112) :-Bruh. If u keep excluding everyone, it will be silent\n
+Gashing Sphere(22975867) :-Yeah that is true\n
