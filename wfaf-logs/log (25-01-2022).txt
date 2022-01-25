@@ -3591,3 +3591,4 @@ Gashing Sphere(22975867) :-Learn from me tho. 6699 B)
 Aqua(16986137) :-lol
 Aqua(16986137) :-yuss
 Gashing Sphere(22975867) :-Hehe\n
+Gashing Sphere(22975867) :-Ill just reload. Getting hangs due to amount of chat above
