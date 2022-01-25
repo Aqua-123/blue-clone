@@ -2961,3 +2961,8 @@ Cryo(22783061) :-in absolutely stunning conditions
 Harenoir(11427049) :-huh
 Cryo(22783061) :-120 per 12 secs
 Gashing Sphere(22975867) :-600 per minute... 36000 per hour...
+Cryo(22783061) :-dont calculate it
+Cryo(22783061) :-can never be achieved
+Gashing Sphere(22975867) :-That again × 24
+Harenoir(11427049) :-not in practice, at least
+Cryo(22783061) :-right
