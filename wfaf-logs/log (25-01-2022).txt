@@ -846,3 +846,5 @@ Cryo(22783061) :-somewhere
 Cryo(22783061) :-i dont remember
 Harenoir(11427049) :-no idea
 Gashing Sphere(22975867) :-Huuuuuuuuh
+Gashing Sphere(22975867) :-Ill go look\n
+Cryo(22783061) :-lumi serve me
