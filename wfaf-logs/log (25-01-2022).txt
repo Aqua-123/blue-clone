@@ -7186,3 +7186,9 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Hello, Caressed and Obsessed Kid! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Caressed and Obsessed Kid! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Caressed and Obsessed Kid, dont feel bad, theyll accept one day... hopefully!
+Harenoir(11427049) :-i-
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Harenoir(11427049) :-thats a name i havent seen in a while
+Harenoir(11427049) :-blue get id of Caressed and Obsessed Kid
+Blue(21550262) :-ID of Caressed and Obsessed Kid is 17457799
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
