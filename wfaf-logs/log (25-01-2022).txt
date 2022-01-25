@@ -3147,3 +3147,10 @@ Harenoir(11427049) :-also that
 Cryo(22783061) :-nope
 Gashing Sphere(22975867) :-Game over
 Cryo(22783061) :-let the script run
+Harenoir(11427049) :-^ just that
+Gashing Sphere(22975867) :-Oki\n
+Cryo(22783061) :-game over means we arent playing anymore
+Cryo(22783061) :-whatever had to be done
+Cryo(22783061) :-isdone
+Cryo(22783061) :-we can chat
+Cryo(22783061) :-and thats it
