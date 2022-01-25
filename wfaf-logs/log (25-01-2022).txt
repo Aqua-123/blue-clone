@@ -2660,3 +2660,8 @@ Cryo(22783061) :-BLUE
 Gashing Sphere(22975867) :-.
 Cryo(22783061) :-aha
 Cryo(22783061) :-have a swookie
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Cryo(22783061) :-cwookie*
+Gashing Sphere(22975867) :-And..
+Gashing Sphere(22975867) :-Have more sugar rush?
+Cryo(22783061) :-umm
