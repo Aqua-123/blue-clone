@@ -5821,3 +5821,5 @@ Jackal(15466860) :-i mean learn python
 Spooky(20199174) :-can you make one for me?
 Spooky(20199174) :-PLEASE?
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Jackal(15466860) :-then it should be as easy as if new connection return hello or something like that
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
