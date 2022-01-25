@@ -2053,3 +2053,7 @@ Blue(21550262) :-Disabling greets uwu
 Gashing Sphere(22975867) :-Hii hammy\n
 Cryo(22783061) :-blue get details of 22783061
 Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 18135 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
+Gashing Sphere(22975867) :--5
+Cryo(22783061) :-test 2
+nullity(14751444) :-yo
+Cryo(22783061) :-blue get details of 22783061
