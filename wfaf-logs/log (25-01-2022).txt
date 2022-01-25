@@ -7173,3 +7173,4 @@ Lumi(16008266) :-I can see Blue, Orange Kangaroo, Ryu, Lumi, Harenoir, 🤖 Mech
 Harenoir(11427049) :-hi...?
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
