@@ -1051,3 +1051,7 @@ Cryo(22783061) :-good or bad idea?
 Harenoir(11427049) :-would need more logging for it?
 Cryo(22783061) :-one csv file
 Harenoir(11427049) :-ah
+Harenoir(11427049) :-doesnt seems bad
+Gashing Sphere(22975867) :-Go for it\n
+Cryo(22783061) :-something just like the wfaf logging
+Gashing Sphere(22975867) :-If something happens we can remove it too\n
