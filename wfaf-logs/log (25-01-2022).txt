@@ -5285,3 +5285,6 @@ Gashing Sphere(22975867) :-Uhh
 Gashing Sphere(22975867) :-Its Locus\n
 Gashing Sphere(22975867) :-Locus based questions
 Jackal(15466860) :-uh well then i have no idea
+Gashing Sphere(22975867) :-Oki...
+Gashing Sphere(22975867) :-When will goggles help\n
+Jackal(15466860) :-sounds like somethin complex tho
