@@ -6594,3 +6594,5 @@ Gashing Sphere(22975867) :-Lol\n
 Gashing Sphere(22975867) :-Welcome back
 Gashing Sphere(22975867) :-I have a special greeting message\n
 Gashing Sphere(22975867) :-Wanna see?
+Gashing Sphere(22975867) :-Ill have to rejoin\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
