@@ -1483,3 +1483,10 @@ Gashing Sphere(22975867) :-Ill stay\n
 Cryo(22783061) :-dont
 Cryo(22783061) :-it
 Cryo(22783061) :-say
+Gashing Sphere(22975867) :-With Ribbit\n
+Cryo(22783061) :-ah cool
+Cryo(22783061) :-brb
+Gashing Sphere(22975867) :-Nah I wont say THAT\n
+Harenoir(11427049) :-hm...
+Cryo(22783061) :-lmao
+Gashing Sphere(22975867) :-Hehe\n
