@@ -865,3 +865,6 @@ Cryo(22783061) :-umm
 Cryo(22783061) :-;-;
 Gashing Sphere(22975867) :-Its alright
 Gashing Sphere(22975867) :-Lol\n
+Gashing Sphere(22975867) :-Some questions have no answers\n
+Harenoir(11427049) :-i try my best to remember which account of mine does certain stuff
+Harenoir(11427049) :-for the most part
