@@ -1627,3 +1627,6 @@ Harenoir(11427049) :-hm...
 Harenoir(11427049) :-it had to be done
 Cryo(22783061) :-mhmm
 Cryo(22783061) :-if i could control the jump its giving
+Cryo(22783061) :-instead of it being random
+Cryo(22783061) :-it would be much higher
+Harenoir(11427049) :-its random...?
