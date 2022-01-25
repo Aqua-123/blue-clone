@@ -159,3 +159,7 @@ Harenoir(11427049) :-k.
 Harenoir(11427049) :-what about blue
 Cryo(22783061) :-yea leave blue too for now
 Harenoir(11427049) :-k
+Cryo(22783061) :-blue get id of cryo
+Blue(21550262) :-ID of cryo is 15231382
+Cryo(22783061) :-blue get details of 15231382
+Blue(21550262) :-The account with ID 15231382 has the name yo(oof15190956) with karma:- -330 and gender set to m and was created on 2020-10-26 at 03:50:55.474Z
