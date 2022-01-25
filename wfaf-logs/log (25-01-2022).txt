@@ -1851,3 +1851,6 @@ Cryo(22783061) :-ok asking makes it bad
 Harenoir(11427049) :-eh
 Harenoir(11427049) :-how-
 Gashing Sphere(22975867) :-Bubble beam is so nice!
+Gashing Sphere(22975867) :-Bye again
+Cryo(22783061) :-idk how
+Cryo(22783061) :-just does
