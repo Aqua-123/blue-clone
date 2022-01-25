@@ -6697,3 +6697,7 @@ Lumi(16008266) :-Hi, Mercury Orange! Im afraid they arent your friend yet, you c
 Mercury Orange(23385486) :-Bot ?
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hi, Neptune Fox! Im afraid they arent your friend yet, you can always try again!
+Mercury Orange(23385486) :-Where are the mods
+Mercury Orange(23385486) :-?
+Neptune Fox(23385397) :-are  there girls here?
+Mercury Orange(23385486) :-No
