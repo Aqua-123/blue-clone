@@ -1366,3 +1366,5 @@ Gashing Sphere(22975867) :-CHECKING YOUR BROWSER BEFORE YOU ENTER\n
 Gashing Sphere(22975867) :-CLOUDFLARE\n
 Harenoir(11427049) :-user friendly
 Gashing Sphere(22975867) :-Lol\n
+Gashing Sphere(22975867) :-Maybe because it is tor it js checking
+Gashing Sphere(22975867) :-Is*
