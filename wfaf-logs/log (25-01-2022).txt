@@ -5120,3 +5120,6 @@ Lumi(16008266) :-Hi again, Noting Jawa, dont feel bad, theyll accept one day... 
 Ivory Pyramid(23382564) :-Heey Maxim!!
 Lumi(16008266) :-Hello, nobody! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Camplayer! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Ivory Pyramid(23382564) :-Heey Maxim
+Lumi(16008266) :-Hi, Camplayer! Im afraid they arent your friend yet, you can always try again!
+Camplayer(960693) :-hey
