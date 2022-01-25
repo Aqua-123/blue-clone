@@ -1445,3 +1445,6 @@ Somethinglalala(23370112) :-Why?
 Gashing Sphere(22975867) :-There is still time\n
 Somethinglalala(23370112) :-Oukay\n
 Gashing Sphere(22975867) :-Mhmm\n
+Gashing Sphere(22975867) :-Its so lifeless here\n
+Somethinglalala(23370112) :-Who am I then?
+Gashing Sphere(22975867) :-Excluding you\n
