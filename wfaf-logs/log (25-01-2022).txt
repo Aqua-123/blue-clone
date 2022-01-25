@@ -1371,3 +1371,6 @@ Gashing Sphere(22975867) :-Is*
 Gashing Sphere(22975867) :-Ive put security to minimum\n
 Gashing Sphere(22975867) :-So no worries of failing the test\n
 Harenoir(11427049) :-good
+Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Somethinglalala(23370112) :-Missed me punk?
+Gashing Sphere(22975867) :-Absolutely not\n
