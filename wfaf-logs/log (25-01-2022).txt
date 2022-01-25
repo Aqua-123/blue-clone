@@ -1609,3 +1609,6 @@ Cryo(22783061) :-mhmm
 Harenoir(11427049) :-so
 Harenoir(11427049) :-if it goes beyond 17k
 Harenoir(11427049) :-then its infinitum
+Cryo(22783061) :-nono if it starts second cycle and continues increasing karma
+Cryo(22783061) :-then its infinitum
+Harenoir(11427049) :-ahh that
