@@ -1811,3 +1811,5 @@ Gashing Sphere(22975867) :-Must be weird\n
 Gashing Sphere(22975867) :-Anyways
 Gashing Sphere(22975867) :-I am also writing a story\n
 Gashing Sphere(22975867) :-Some people asked me to make one\n
+Gashing Sphere(22975867) :-Like.. sun, Elle\n
+Gashing Sphere(22975867) :-Also, how tf am i supposed to share it?
