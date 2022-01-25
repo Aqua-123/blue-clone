@@ -7104,3 +7104,4 @@ Lumi(16008266) :-Hi again, Lavender Dewgong, dont feel bad, theyll accept one da
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Almond cookie(20199174) :-OHHHH
 Almond cookie(20199174) :-U SAW EVA
+Almond cookie(20199174) :-the new greeter
