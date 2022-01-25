@@ -6477,3 +6477,8 @@ Gashing Sphere(22975867) :-Ah speaking of which\n
 Gashing Sphere(22975867) :-Blue menu\n
 Blue(21550262) :-Rn we have 1) Coffee, 2) Milk, 3) Water
 Gashing Sphere(22975867) :-Would u like a cup of coffee?
+🖤Sweetie🖤(19271305) :-Milk please
+Gashing Sphere(22975867) :-Blue serve 2
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-🥛
+Lumi(16008266) :-Hello, Maddie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
