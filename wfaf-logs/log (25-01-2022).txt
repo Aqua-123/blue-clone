@@ -2508,3 +2508,4 @@ Lumi(16008266) :-Hello, Orange Hutt! Welcome to WFAF! - Waiting for a Friend! Th
 Blue(21550262) :-Hi, Orange Hutt, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Blue(21550262) :-Disabling greets uwu
 Cryo(22783061) :-damn
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
