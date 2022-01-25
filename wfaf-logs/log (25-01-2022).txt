@@ -1746,3 +1746,6 @@ Cryo(22783061) :-right
 Harenoir(11427049) :-also most regulars only had between 20 to 100 karma at best so yeah
 Harenoir(11427049) :-no need to worry about karma before attack
 Harenoir(11427049) :-then again, that was planned, cant really feel sorry for starting that
+Cryo(22783061) :-right
+Harenoir(11427049) :-but
+Harenoir(11427049) :-it worked
