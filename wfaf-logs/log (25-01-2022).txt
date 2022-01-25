@@ -3705,3 +3705,9 @@ Gashing Sphere(22975867) :-This. Has a moon.
 Gashing Sphere(22975867) :-That doesnt
 Gashing Sphere(22975867) :-🌉
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-🌉
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-See
+Gashing Sphere(22975867) :-Nope\n
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-ugh
+Gashing Sphere(22975867) :-Its stars\n
+Gashing Sphere(22975867) :-No moon\n
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-🌉
