@@ -1674,3 +1674,6 @@ Cryo(22783061) :-does it take one full day?
 Cryo(22783061) :-but is it 20k?
 Cryo(22783061) :-yes
 Harenoir(11427049) :-hmm...
+Harenoir(11427049) :-im sure it could be improved
+Cryo(22783061) :-mhmm
+Harenoir(11427049) :-once i get to know the magic behind it owo
