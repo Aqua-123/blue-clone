@@ -6770,3 +6770,11 @@ Lumi(16008266) :-Hello, Uranus Mouse! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Uranus Mouse(23385771) :-Lumi whos here
 Lumi(16008266) :-I can see Uranus Mouse, Lumi and 2 lurkers
+Uranus Mouse(23385771) :-Lumi whos lurking
+Lumi(16008266) :-I see Blue, Limping Cube lurking in the shadows...
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Uranus Mouse(23385771) :-<3
+Blue(21550262) :-<3
+Uranus Mouse(23385771) :-<:
+Blue(21550262) :-:>
+Uranus Mouse(23385771) :-Lol
