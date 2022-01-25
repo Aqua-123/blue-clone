@@ -4454,3 +4454,4 @@ S​o​u​L(20327398) :-wow a stalking function
 Aqua(16986137) :-logs karma changes
 Aqua(16986137) :-thats it
 Aqua(16986137) :-runs for one hour
+S​o​u​L(20327398) :-as long as it doesnt find their location
