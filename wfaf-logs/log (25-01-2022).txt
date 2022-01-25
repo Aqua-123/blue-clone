@@ -4405,3 +4405,7 @@ Aqua(16986137) :-blue get id of cookiebugs
 Blue(21550262) :-ID of cookiebugs is 2359410
 Lumi(16008266) :-Welcome lovely person <3
 Gashing Sphere(22975867) :-Its 4 lol\n
+Aqua(16986137) :-blue get details of 2359410
+Blue(21550262) :-The account with ID 2359410 has the name Cookiebugs(aacnc) with karma:- 0 and gender set to m and was created on 2018-06-24 at 19:20:12.061Z
+Gashing Sphere(22975867) :-Bye all!
+Aqua(16986137) :-4 years old
