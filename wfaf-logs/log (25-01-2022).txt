@@ -1355,3 +1355,6 @@ Gashing Sphere(22975867) :-Connection broken in the other browser\n
 Gashing Sphere(22975867) :-Ribbit, u still here?
 Harenoir(11427049) :-damn
 Gashing Sphere(22975867) :-Lol\n
+Harenoir(11427049) :-just when i was going to grab more popcorn
+Gashing Sphere(22975867) :-Ikr\n
+Gashing Sphere(22975867) :-Its still not connected
