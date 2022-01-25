@@ -4540,3 +4540,8 @@ S​o​u​L(20327398) :-my phone would die quickly if i always keep it here
 S​o​u​L(20327398) :-whos mia?
 Gashing Sphere(22975867) :-Idk...
 Aqua(16986137) :-heroku
+Gashing Sphere(22975867) :-I just imagined someone
+Gashing Sphere(22975867) :-And spoke to them\n
+Aqua(16986137) :-host her on heroku
+Gashing Sphere(22975867) :-...
+S​o​u​L(20327398) :-nah
