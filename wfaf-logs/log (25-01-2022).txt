@@ -2343,3 +2343,8 @@ Gashing Sphere(22975867) :-This time.... Wont be coming soon\n
 Harenoir(11427049) :-hm...
 Cryo(22783061) :-umm
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Cryo(22783061) :-did i do something there?
+Harenoir(11427049) :-nope
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
+Harenoir(11427049) :-ill just pretend that didnt happen
