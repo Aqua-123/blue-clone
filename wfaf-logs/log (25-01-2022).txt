@@ -6183,3 +6183,10 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Mecah
 Gashing Sphere(22975867) :-Macaw\n
+Lumi(16008266) :-Hello, Pumped rake! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Pumped rake! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Pumped rake, dont feel bad, theyll accept one day... hopefully!
+Pumped rake(23289247) :-hey
+Gashing Sphere(22975867) :-Hi\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Lol\n
