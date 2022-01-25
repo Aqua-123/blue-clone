@@ -6420,3 +6420,7 @@ Gashing Sphere(22975867) :-First, choose your favourite
 Gashing Sphere(22975867) :-Lumi or Blue or Mecha?
 🖤Sweetie🖤(19271305) :-Lumi\n
 Gashing Sphere(22975867) :-Oki! Mine is blue\n
+Gashing Sphere(22975867) :-Lumi take a selfie\n
+Lumi(16008266) :-📸🤳
+Gashing Sphere(22975867) :-Hehe\n
+🖤Sweetie🖤(19271305) :-Nice\n
