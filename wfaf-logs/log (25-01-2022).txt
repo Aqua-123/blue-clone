@@ -1417,3 +1417,4 @@ Gashing Sphere(22975867) :-So u call yourself a Dumbo now\n
 Somethinglalala(23370112) :-At least not a cow like you\n
 Gashing Sphere(22975867) :-Im no cow\n
 Gashing Sphere(22975867) :-U are a cow\n
+Gashing Sphere(22975867) :-Chewing on grass and talk cowdung\n
