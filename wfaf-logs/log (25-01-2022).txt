@@ -7245,3 +7245,5 @@ Lumi(16008266) :-Hello, Orange Salad! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Hello, Orchid Fish Fingers! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hello, Dolli! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Dolli(23361718) :-woah who r u?
