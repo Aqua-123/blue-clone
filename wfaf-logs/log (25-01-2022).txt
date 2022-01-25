@@ -7078,3 +7078,4 @@ Almond cookie(20199174) :-u sleep to much
 Almond cookie(20199174) :-oh
 Harenoir(11427049) :-i know
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
+Almond cookie(20199174) :-i think im going to cut my leg off
