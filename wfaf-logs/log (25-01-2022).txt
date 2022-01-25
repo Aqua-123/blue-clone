@@ -708,3 +708,6 @@ Gashing Sphere(22975867) :-F\n
 Gashing Sphere(22975867) :-Never forget sel\n
 Gashing Sphere(22975867) :-Anyways
 Gashing Sphere(22975867) :-Uhh\n
+Gashing Sphere(22975867) :-Nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan
+Gashing Sphere(22975867) :-Hehe\n
+Harenoir(11427049) :-meow
