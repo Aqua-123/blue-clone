@@ -6702,3 +6702,7 @@ Mercury Orange(23385486) :-?
 Neptune Fox(23385397) :-are  there girls here?
 Mercury Orange(23385486) :-No
 Lumi(16008266) :-Hi again, Mercury Orange, dont feel bad, theyll accept one day... hopefully!
+Mercury Orange(23385486) :-Lumi
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Mercury Orange(23385486) :-:lumi
+Mercury Orange(23385486) :-:
