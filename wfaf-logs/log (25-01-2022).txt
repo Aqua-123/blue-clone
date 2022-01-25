@@ -2892,3 +2892,8 @@ Cryo(22783061) :-blue start stalking 22783061
 Blue(21550262) :-Okai waking stalk function
 Gashing Sphere(22975867) :-So 4800 karma increase per hour\n
 Gashing Sphere(22975867) :-?
+Harenoir(11427049) :-apparently
+Cryo(22783061) :-dunno yet
+Cryo(22783061) :-blues stalking will tell better results
+Cryo(22783061) :-taking an average of over an hour
+Harenoir(11427049) :-hopefully
