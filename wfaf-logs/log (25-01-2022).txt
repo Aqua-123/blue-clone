@@ -1760,3 +1760,9 @@ Cryo(22783061) :-about what did i just do
 Harenoir(11427049) :-mecha seen 18286795 in *
 Harenoir(11427049) :-what did you do-
 Cryo(22783061) :-blue get details of 18286795
+Cryo(22783061) :-asked blue if she had seen jake
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-The account with ID 18286795 has the name Jake(morningstar) with karma:- 50568 and gender set to m and was created on 2021-02-23 at 10:11:11.955Z
+🤖 Mecha Nurse 💉(20909261) :-I last saw Jake (#morningstar) 18286795 in air squad 🌪️ 6 hours, 21 minutes ago.
+Harenoir(11427049) :-oh right
+Cryo(22783061) :-oh i soo wanna take down that 50k
