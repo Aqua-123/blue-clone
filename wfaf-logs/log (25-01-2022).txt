@@ -2468,3 +2468,4 @@ Lumi(16008266) :-Hello, Earth Squirrel! Welcome to WFAF! - Waiting for a Friend!
 Earth Squirrel(23380999) :-click on your cam
 Lumi(16008266) :-Hi, Earth Squirrel! Im afraid they arent your friend yet, you can always try again!
 Gashing Sphere(22975867) :-Lol\n
+Cryo(22783061) :-blue whos here
