@@ -1189,3 +1189,6 @@ Harenoir(11427049) :-like those
 Harenoir(11427049) :-easter eggs
 Gashing Sphere(22975867) :-Lol\n
 Gashing Sphere(22975867) :-Yea. Call them that\n
+Gashing Sphere(22975867) :-And u are the Easter Bunny
+Harenoir(11427049) :-wait
+Cryo(22783061) :-im sure blue has a couple
