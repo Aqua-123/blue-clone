@@ -1339,3 +1339,5 @@ Gashing Sphere(22975867) :-Its useless\n
 Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-Dirty\n
 Gashing Sphere(22975867) :-And bad\n
+Somethinglalala(23370112) :-I swear stfu!
+Gashing Sphere(22975867) :-Now who are you to shut me up.
