@@ -1733,3 +1733,5 @@ Harenoir(11427049) :-how did we found out jamie had it again
 Harenoir(11427049) :-ah, yes, bresh
 Cryo(22783061) :-he said it
 Cryo(22783061) :-yep
+Harenoir(11427049) :-tbh, when jamie told me about it
+Harenoir(11427049) :-i thought the other person was mari
