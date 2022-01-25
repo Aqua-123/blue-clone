@@ -5123,3 +5123,6 @@ Lumi(16008266) :-Hello, Camplayer! Welcome to WFAF! - Waiting for a Friend! The 
 Ivory Pyramid(23382564) :-Heey Maxim
 Lumi(16008266) :-Hi, Camplayer! Im afraid they arent your friend yet, you can always try again!
 Camplayer(960693) :-hey
+Ivory Pyramid(23382564) :-Is this Maxim?
+Lumi(16008266) :-Hi again, Camplayer, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
