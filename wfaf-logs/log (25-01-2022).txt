@@ -97,3 +97,6 @@ Cryo(22783061) :-no one?
 Cryo(22783061) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, Cryo and 4 lurkers
 Cryo(22783061) :-lumi whos idle
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Jupiter Gungan, Blue, Harenoir lurking in the shadows...
+Cryo(22783061) :-damn
+Cryo(22783061) :-aight
