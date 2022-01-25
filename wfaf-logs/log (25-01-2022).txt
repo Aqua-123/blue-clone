@@ -344,3 +344,5 @@ Harenoir(11427049) :-man...
 Cryo(22783061) :-but with no captcha this time
 Cryo(22783061) :-now thats a record
 Harenoir(11427049) :-10k without a single captcha
+Cryo(22783061) :-not even one
+Harenoir(11427049) :-woah
