@@ -896,3 +896,7 @@ Harenoir(11427049) :-idk
 Harenoir(11427049) :-once in a lifetime
 Harenoir(11427049) :-back when people talked about it more often
 Gashing Sphere(22975867) :-Microsoft Edge is actually good. Just... I feel its a little overwhelming
+Gashing Sphere(22975867) :-So i use Chrome\n
+Harenoir(11427049) :-ive tried edge
+Harenoir(11427049) :-too slow for me
+Harenoir(11427049) :-same as chrome
