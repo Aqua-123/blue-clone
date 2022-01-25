@@ -5343,3 +5343,12 @@ Gashing Sphere(22975867) :-Woah\n
 Gashing Sphere(22975867) :-Oki\n
 Gashing Sphere(22975867) :-So\n
 Gashing Sphere(22975867) :-Guess\n
+Gashing Sphere(22975867) :-My\n
+Gashing Sphere(22975867) :-Tage\n
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-guess
+Gashing Sphere(22975867) :-Tage?
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-what
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-tage?
+Gashing Sphere(22975867) :-Age*
+Jackal(15466860) :-17
+Gashing Sphere(22975867) :-.
