@@ -769,3 +769,8 @@ Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-Tf?
 Harenoir(11427049) :-hm?
 Gashing Sphere(22975867) :-Why does tor browser notification show  firefox symbol?
+Harenoir(11427049) :-tor is based on firefox, i think
+Gashing Sphere(22975867) :-Ohhh\n
+Gashing Sphere(22975867) :-I kinda felt so\n
+Harenoir(11427049) :-the gecko thingy
+Harenoir(11427049) :-if thats how its called
