@@ -590,3 +590,6 @@ Gashing Sphere(22975867) :-Still doing testing?
 Cryo(22783061) :-mhmm
 Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13139 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
 Gashing Sphere(22975867) :-Ah alright. All the best with it\n
+Cryo(22783061) :-thanks
+Cryo(22783061) :-blue get details of 21550262
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13139 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
