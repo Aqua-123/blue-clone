@@ -7433,3 +7433,9 @@ Lumi(16008266) :-Hello, MadMax! Welcome to WFAF! - Waiting for a Friend! The pla
 Lumi(16008266) :-Hi, MadMax! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, MadMax, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-Lumi whos here
+Lumi(16008266) :-I can see Strawberry 🍓, Lumi and 4 lurkers
+Strawberry 🍓(16521287) :-Lumi whos idle
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Harenoir, Blue, Limping Cube lurking in the shadows...
+Strawberry 🍓(16521287) :-Hmm
+Strawberry 🍓(16521287) :-Nurse seen Harenoir
