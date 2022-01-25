@@ -6603,3 +6603,10 @@ Blue(21550262) :-I can see Blue, Lumi, Gashing Sphere and 2 peeps lurking :p
 Gashing Sphere(22975867) :-Mecha whos idle\n
 🤖 Mecha Nurse 💉(20909261) :-I dont see anybody idle.
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Mecha whos lurking
+🤖 Mecha Nurse 💉(20909261) :-I dont see anybody idle.
+🖤Sweetie🖤(19271305) :-Im here
+Gashing Sphere(22975867) :-Ah not u\n
+🖤Sweetie🖤(19271305) :-\nSorry
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Im seeing those two guys\n
