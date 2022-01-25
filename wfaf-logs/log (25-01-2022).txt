@@ -1687,3 +1687,5 @@ Harenoir(11427049) :-it has been half a year since then
 Harenoir(11427049) :-back when we still a few more people on here
 Cryo(22783061) :-mhmm
 Cryo(22783061) :-why does half an year sound more than 6 months
+Harenoir(11427049) :-because what happened last year, feels more than just a year
+Cryo(22783061) :-right
