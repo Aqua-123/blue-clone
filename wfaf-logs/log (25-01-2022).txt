@@ -4658,3 +4658,5 @@ Gashing Sphere(22975867) :-I saw blue leave\n
 Gashing Sphere(22975867) :-And blue returned\n
 Gashing Sphere(22975867) :-Or no?
 Gashing Sphere(22975867) :-Idk\n
+Gashing Sphere(22975867) :-Blue bonk bubble and blast her bubble\n
+Blue(21550262) :-*bonks bubble and blast her bubble\n with a baseball bat~*
