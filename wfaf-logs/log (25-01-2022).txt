@@ -5931,3 +5931,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Eva(21541886) :-These are the people here :Eva\u202d, \u202dMagenta Machop\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dAlmond cookie. Maybe some are lurking
 Almond cookie(20199174) :-lumi whos idle
 Lumi(16008266) :-I see Blue, Jupiter Gungan lurking in the shadows...
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
