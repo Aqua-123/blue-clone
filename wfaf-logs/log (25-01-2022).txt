@@ -1826,3 +1826,5 @@ Gashing Sphere(22975867) :-Speaking of programmers, yes. Chipland is a dream hom
 Gashing Sphere(22975867) :-Also for kiddos like me\n
 Harenoir(11427049) :-huh
 Gashing Sphere(22975867) :-Bubble beam is the way\n
+Gashing Sphere(22975867) :-Heh\n
+Gashing Sphere(22975867) :-Nice moves, crayons\n
