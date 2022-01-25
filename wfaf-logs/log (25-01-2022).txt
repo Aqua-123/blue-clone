@@ -2358,3 +2358,6 @@ Harenoir(11427049) :-thats the question
 Cryo(22783061) :-im not sure-
 Harenoir(11427049) :-mhm...
 Harenoir(11427049) :-welp
+Harenoir(11427049) :-lets just wait and see
+Cryo(22783061) :-i could stop hitting with with 120 requests a second
+Cryo(22783061) :-but thats what i have to do
