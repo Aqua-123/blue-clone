@@ -2881,3 +2881,10 @@ Cryo(22783061) :-mhmm
 Harenoir(11427049) :-true
 Gashing Sphere(22975867) :-I feel like a gentleman saying that\n
 Cryo(22783061) :-80 per min
+Cryo(22783061) :-how much is that in one hour?
+Gashing Sphere(22975867) :-Eh?
+Harenoir(11427049) :-80 x 60
+Gashing Sphere(22975867) :-4800
+Harenoir(11427049) :-4800
+Gashing Sphere(22975867) :-Simple\n
+Cryo(22783061) :-yeet
