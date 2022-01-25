@@ -4451,3 +4451,6 @@ Lumi(16008266) :-Hello, Cookiebugs! Welcome to WFAF! - Waiting for a Friend! The
 Blue(21550262) :-Hi, Cookiebugs, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Blue(21550262) :-Disabling greets uwu
 S​o​u​L(20327398) :-wow a stalking function
+Aqua(16986137) :-logs karma changes
+Aqua(16986137) :-thats it
+Aqua(16986137) :-runs for one hour
