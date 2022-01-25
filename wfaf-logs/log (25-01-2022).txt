@@ -3310,3 +3310,10 @@ Cryo(22783061) :-blue get details of 22975867
 Blue(21550262) :-The account with ID 22975867 has the name Gashing Sphere(gashing_sphere) with karma:- 6698 and gender set to m and was created on 2021-12-19 at 14:42:42.002Z
 Cryo(22783061) :-ifst
 Cryo(22783061) :-g
+Gashing Sphere(22975867) :-Hold on\n
+Cryo(22783061) :-this isnt supposed to be this hard
+Gashing Sphere(22975867) :-See now\n
+Harenoir(11427049) :-blue get details of 22975867
+Cryo(22783061) :-blue get details of 22975867
+Blue(21550262) :-The account with ID 22975867 has the name Gashing Sphere(gashing_sphere) with karma:- 6698 and gender set to m and was created on 2021-12-19 at 14:42:42.002Z
+Blue(21550262) :-The account with ID 22975867 has the name Gashing Sphere(gashing_sphere) with karma:- 6698 and gender set to m and was created on 2021-12-19 at 14:42:42.002Z
