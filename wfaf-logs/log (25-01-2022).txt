@@ -1615,3 +1615,6 @@ Harenoir(11427049) :-ahh that
 Cryo(22783061) :-i said 17k cause i assumed it would end around that
 Cryo(22783061) :-it certainly did not
 Harenoir(11427049) :-oh
+Harenoir(11427049) :-so its going to give more by the end of the first cycle
+Cryo(22783061) :-mhm
+Harenoir(11427049) :-sorta?
