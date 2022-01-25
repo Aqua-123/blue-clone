@@ -1533,3 +1533,5 @@ Gashing Sphere(22975867) :-I reinstalled it\n
 Gashing Sphere(22975867) :-So\n
 Gashing Sphere(22975867) :-No i fo\n
 Gashing Sphere(22975867) :-Info*
+Harenoir(11427049) :-ok good
+Gashing Sphere(22975867) :-Hmm\n
