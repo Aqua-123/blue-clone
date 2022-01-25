@@ -1310,3 +1310,6 @@ Harenoir(11427049) :-also oof
 Gashing Sphere(22975867) :-Yes Ribbit\n
 Gashing Sphere(22975867) :-And shut up Something
 Somethinglalala(23370112) :-Who are u to shut me up?
+Gashing Sphere(22975867) :-Your dad\n
+Somethinglalala(23370112) :-My dad is lost in the milk store\n
+Gashing Sphere(22975867) :-Felt so\n
