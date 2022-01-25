@@ -1501,3 +1501,4 @@ Gashing Sphere(22975867) :-Hehe\n
 Harenoir(11427049) :-ohh
 Harenoir(11427049) :-*noted*
 Gashing Sphere(22975867) :-I made it up\n
+Gashing Sphere(22975867) :-Bruh my network wont come back in the others
