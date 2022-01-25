@@ -2529,3 +2529,7 @@ Blue(21550262) :-The account with ID 11427049 has the name Harenoir(harenoir) wi
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Cryo(22783061) :-blue get details of 11427049
+Blue(21550262) :-The account with ID 11427049 has the name Harenoir(harenoir) with karma:- 40820 and gender set to uwu and was created on 2020-05-03 at 05:58:59.674Z
