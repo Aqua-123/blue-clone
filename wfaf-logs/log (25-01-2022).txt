@@ -5339,3 +5339,7 @@ Jackal(15466860) :-i dont think bubble is here
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-i was
 Gashing Sphere(22975867) :-Blackberry
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-on other tab
+Gashing Sphere(22975867) :-Woah\n
+Gashing Sphere(22975867) :-Oki\n
+Gashing Sphere(22975867) :-So\n
+Gashing Sphere(22975867) :-Guess\n
