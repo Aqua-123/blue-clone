@@ -6964,3 +6964,6 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hello, idontsend! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 idontsend(22951464) :-u alr man?
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Hello, Jupiter Frog! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Jupiter Frog(23386552) :-Lumi whos here
+Lumi(16008266) :-I can see Jupiter Frog, Lumi and 3 lurkers
