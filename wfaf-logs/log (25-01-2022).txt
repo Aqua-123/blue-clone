@@ -4,3 +4,4 @@ Neptune Burger(23377741) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, Neptune Burger and 5 lurkers
 Neptune Burger(23377741) :-Lumi whos lurking
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Mars Chicken, Harenoir, Blue, nullity lurking in the shadows...
+Harenoir(11427049) :-lumi clear userlist
