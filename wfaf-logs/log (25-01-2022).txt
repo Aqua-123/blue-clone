@@ -1739,3 +1739,4 @@ Harenoir(11427049) :-would have made sense, those two talked about karma a lot b
 Cryo(22783061) :-right
 Harenoir(11427049) :-then again
 Harenoir(11427049) :-everyone talked about karma because of me sorta
+Cryo(22783061) :-mhmm
