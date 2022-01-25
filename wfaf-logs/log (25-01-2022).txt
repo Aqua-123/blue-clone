@@ -6981,3 +6981,6 @@ Jupiter Frog(23386552) :-<: <3
 Jupiter Frog(23386552) :-blue no
 Blue(21550262) :-Kindly be nice and keep this family-friendly while you are here, else the wfaf door is always open for you to leave, thanks
 Lumi(16008266) :-Hello, Almond cookie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Almond cookie(20199174) :-Lumi whos here
+Lumi(16008266) :-I can see Blue, Almond cookie, Lumi and 2 lurkers
+Almond cookie(20199174) :-lumi whos idle bbg
