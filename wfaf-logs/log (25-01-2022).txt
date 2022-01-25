@@ -693,3 +693,6 @@ Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did
 Gashing Sphere(22975867) :-Nyan\n
 Gashing Sphere(22975867) :-Im back
 Gashing Sphere(22975867) :-Ill eat breakfast one hour late\n
+Gashing Sphere(22975867) :-Cause j brushed 1 hour late\n
+Gashing Sphere(22975867) :-Hi ribbit\n
+Harenoir(11427049) :-reasonable
