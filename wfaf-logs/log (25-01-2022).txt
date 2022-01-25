@@ -10,3 +10,4 @@ Harenoir(11427049) :-blue clear userlist
 Blue(21550262) :-List went -poof-
 Lumi(16008266) :-Hello, Uranus Rhombus! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Saturn Crab! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Storing Burger! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
