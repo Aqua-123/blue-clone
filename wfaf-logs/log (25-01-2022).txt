@@ -1136,3 +1136,6 @@ Harenoir(11427049) :-same result
 Harenoir(11427049) :-two accounts at the same time
 Gashing Sphere(22975867) :-Different browser or incognito tab?
 Harenoir(11427049) :-i prefer incognito
+Gashing Sphere(22975867) :-Me too. Just came here for changing settings
+Somethinglalala(23370112) :-But no use\n
+Harenoir(11427049) :-oof
