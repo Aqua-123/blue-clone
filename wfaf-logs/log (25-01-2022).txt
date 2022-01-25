@@ -3629,3 +3629,6 @@ Aqua(16986137) :-fixing
 Gashing Sphere(22975867) :-Everything is so smol now\n
 Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-Yes\n
+Gashing Sphere(22975867) :-I got... A smollll part of Wfaf on the bottom\n
+Gashing Sphere(22975867) :-Nothing else\n
+Aqua(16986137) :-mhm
