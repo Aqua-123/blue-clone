@@ -1313,3 +1313,6 @@ Somethinglalala(23370112) :-Who are u to shut me up?
 Gashing Sphere(22975867) :-Your dad\n
 Somethinglalala(23370112) :-My dad is lost in the milk store\n
 Gashing Sphere(22975867) :-Felt so\n
+Gashing Sphere(22975867) :-U have bad parenting
+Somethinglalala(23370112) :-Now like you
+Somethinglalala(23370112) :-I dont speak and talk gibberish\n
