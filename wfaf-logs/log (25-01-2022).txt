@@ -1508,3 +1508,6 @@ Gashing Sphere(22975867) :-Wait wtf?
 Harenoir(11427049) :-what-
 Gashing Sphere(22975867) :-It says reloading may make u redo the payment and stuff\n
 Gashing Sphere(22975867) :-What payment?!
+Harenoir(11427049) :-oh that
+Harenoir(11427049) :-i get that sometimes too
+Gashing Sphere(22975867) :-Huh\n
