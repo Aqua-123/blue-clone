@@ -1362,3 +1362,5 @@ Gashing Sphere(22975867) :-Ill reload
 Harenoir(11427049) :-hmm...
 Gashing Sphere(22975867) :-Its not even reloading •_•
 Harenoir(11427049) :-emerald going slow
+Gashing Sphere(22975867) :-CHECKING YOUR BROWSER BEFORE YOU ENTER\n
+Gashing Sphere(22975867) :-CLOUDFLARE\n
