@@ -2421,3 +2421,9 @@ Cryo(22783061) :-she is rejoining
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Oh oki\n
 Gashing Sphere(22975867) :-Why is Ribbit not asleep yet?
+Cryo(22783061) :-ribbit
+Cryo(22783061) :-answer
+Harenoir(11427049) :-because
+Harenoir(11427049) :-idk
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-...
