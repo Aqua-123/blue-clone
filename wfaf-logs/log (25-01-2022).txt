@@ -6623,3 +6623,7 @@ Gashing Sphere(22975867) :-...
 Gashing Sphere(22975867) :-Seems like a network issue
 Gashing Sphere(22975867) :-Ill wait\n
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Blue whos here\n
+Blue(21550262) :-I can see Gashing Sphere, Lumi and 3 peeps lurking :p
+Gashing Sphere(22975867) :-Blue whos lurking\n
+Blue(21550262) :-I can see Limping Cube, Saturn Pizza lurking
