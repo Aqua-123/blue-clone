@@ -4571,3 +4571,6 @@ Gashing Sphere(22975867) :-Once.
 Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-For.
 Gashing Sphere(22975867) :-All\n
+Gashing Sphere(22975867) :-‹-›
+S​o​u​L(20327398) :-.
+Gashing Sphere(22975867) :-No shots\n
