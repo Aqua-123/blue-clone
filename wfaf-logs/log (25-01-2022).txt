@@ -1055,3 +1055,8 @@ Harenoir(11427049) :-doesnt seems bad
 Gashing Sphere(22975867) :-Go for it\n
 Cryo(22783061) :-something just like the wfaf logging
 Gashing Sphere(22975867) :-If something happens we can remove it too\n
+Cryo(22783061) :-which also means time and energy wated
+Cryo(22783061) :-wasted*
+Cryo(22783061) :-:)
+Harenoir(11427049) :-yes that
+Gashing Sphere(22975867) :-If it works?
