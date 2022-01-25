@@ -1543,3 +1543,6 @@ Harenoir(11427049) :-usually takes seconds for me
 Gashing Sphere(22975867) :-Im not gonna do some tedious brute force attack or something!
 Harenoir(11427049) :-who knows
 Gashing Sphere(22975867) :-Im leaving that account
+Gashing Sphere(22975867) :-And\n
+Gashing Sphere(22975867) :-Wym who knows?
+Gashing Sphere(22975867) :-Hmph\n
