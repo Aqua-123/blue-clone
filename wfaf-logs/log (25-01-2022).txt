@@ -1226,3 +1226,5 @@ Cryo(22783061) :-lmao
 Gashing Sphere(22975867) :-It takes a while\n
 Cryo(22783061) :-takes a while to recover from the scream
 Harenoir(11427049) :-clearly
+Harenoir(11427049) :-too much abuse
+Somethinglalala(23370112) :-I like mecha. Except when she comes for shots
