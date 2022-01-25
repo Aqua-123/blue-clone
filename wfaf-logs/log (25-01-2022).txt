@@ -1574,3 +1574,5 @@ Harenoir(11427049) :-lol he gave up
 Gashing Sphere(22975867) :-Who\n
 Gashing Sphere(22975867) :-Oh ok\n
 Gashing Sphere(22975867) :-Null\n
+Gashing Sphere(22975867) :-But i saw him\n
+Gashing Sphere(22975867) :-I told Aqua about it\n
