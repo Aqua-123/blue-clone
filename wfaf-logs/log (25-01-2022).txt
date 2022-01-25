@@ -3823,3 +3823,7 @@ Gashing Sphere(22975867) :-Hole?
 S​o​u​L(20327398) :-hole?
 Gashing Sphere(22975867) :-Nvm\n
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-hole?
+Gashing Sphere(22975867) :-It was a typo!
+Gashing Sphere(22975867) :-Stop poking my nose with that\n
+Gashing Sphere(22975867) :-Anyways
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-O.o
