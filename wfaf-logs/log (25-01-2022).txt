@@ -791,3 +791,11 @@ Gashing Sphere(22975867) :-Geckodriver. Noted\n
 Lumi(16008266) :-Hi, David! Im afraid they arent your friend yet, you can always try again!
 Gashing Sphere(22975867) :-Nice name tho\n
 Cryo(22783061) :-blue get details of 22783061
+Gashing Sphere(22975867) :-Geckodriver
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 14344 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
+Harenoir(11427049) :-gecko
+Gashing Sphere(22975867) :-Is it just blue?
+Gashing Sphere(22975867) :-Who is so slow?
+Cryo(22783061) :-blue uptime
+Blue(21550262) :-Ive been here for only 35 minutes
+Cryo(22783061) :-not slow
