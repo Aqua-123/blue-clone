@@ -6879,3 +6879,5 @@ Lumi(16008266) :-Hello, Training Water Buffalo! Welcome to WFAF! - Waiting for a
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 🤖 Mecha Nurse 💉(20909261) :-Hi again, Omnissiah, try asking what is wfaf for more info :D
 Blue(21550262) :-Re-enabling greets :D
+Blue(21550262) :-Hi, Omnissiah, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Hi, Omnissiah, retrying wont help, you can try asking what is wfaf for more info :D
