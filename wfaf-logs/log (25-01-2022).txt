@@ -5280,3 +5280,4 @@ Jackal(15466860) :-wait lumi is persons
 Gashing Sphere(22975867) :-3.\n\nThe equation to the locus of a point P for which the distance from P to (0, 5) is double the distance from P to y-axis is\n
 Gashing Sphere(22975867) :-There\n
 Gashing Sphere(22975867) :-Question
+Jackal(15466860) :-what kinda math is this?
