@@ -6619,3 +6619,4 @@ Gashing Sphere(22975867) :-And better now\n
 Gashing Sphere(22975867) :-And see? Thats my special greeting message
 Gashing Sphere(22975867) :-Its Shakespearean, so may make no sense\n
 Gashing Sphere(22975867) :-Sweetie? U there?
+Gashing Sphere(22975867) :-...
