@@ -519,3 +519,8 @@ Gashing Sphere(22975867) :-Sorry\n
 Gashing Sphere(22975867) :-\u2066Saturn Rhombus\u2069
 Harenoir(11427049) :-name!
 Cryo(22783061) :-yes
+Cryo(22783061) :-blue ban 23378876
+Gashing Sphere(22975867) :-Will u do it?
+Blue(21550262) :-Banning 23378876
+Gashing Sphere(22975867) :-Yay!
+Gashing Sphere(22975867) :-Lemme see\n
