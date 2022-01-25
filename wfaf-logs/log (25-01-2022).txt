@@ -4265,3 +4265,5 @@ Somethinglalala(23370112) :-Mhmm\n
 Somethinglalala(23370112) :-Heh\n
 Gashing Sphere(22975867) :-But Im still confused on how this is gonna end up\n
 Gashing Sphere(22975867) :-And scared too...
+Gashing Sphere(22975867) :-Shut up\n
+Somethinglalala(23370112) :-Heh\n
