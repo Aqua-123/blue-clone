@@ -1437,3 +1437,6 @@ Gashing Sphere(22975867) :-Crayons?
 Somethinglalala(23370112) :-...
 Somethinglalala(23370112) :-U must have imagined
 Gashing Sphere(22975867) :-Seemingly
+Gashing Sphere(22975867) :-Anyways. How is the weather?
+Somethinglalala(23370112) :-Ah its pleasant.
+Somethinglalala(23370112) :-Did u eat breakfast?
