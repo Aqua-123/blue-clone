@@ -6977,3 +6977,6 @@ Blue(21550262) :-<3
 Jupiter Frog(23386552) :-<:
 Blue(21550262) :-:>
 Jupiter Frog(23386552) :-<: <
+Jupiter Frog(23386552) :-<: <3
+Jupiter Frog(23386552) :-blue no
+Blue(21550262) :-Kindly be nice and keep this family-friendly while you are here, else the wfaf door is always open for you to leave, thanks
