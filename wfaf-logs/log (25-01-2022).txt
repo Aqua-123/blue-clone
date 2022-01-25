@@ -1341,3 +1341,7 @@ Gashing Sphere(22975867) :-Dirty\n
 Gashing Sphere(22975867) :-And bad\n
 Somethinglalala(23370112) :-I swear stfu!
 Gashing Sphere(22975867) :-Now who are you to shut me up.
+Somethinglalala(23370112) :-;-; bad guy\n
+Gashing Sphere(22975867) :-Cry baby\n
+Gashing Sphere(22975867) :-Ive seen you in school\n
+Gashing Sphere(22975867) :-Crying even for the smallest stuff\n
