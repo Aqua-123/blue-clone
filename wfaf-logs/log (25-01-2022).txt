@@ -6038,3 +6038,4 @@ Blue(21550262) :-Hi, Omnissiah, Welcome to WFAF, which stands for Waiting For A 
 Blue(21550262) :-Hi, Omnissiah, retrying wont help, you can try asking what is wfaf for more info :D
 🤖 Mecha Nurse 💉(20909261) :-But the most daring thing is to create stable communities
 🤖 Mecha Nurse 💉(20909261) :-in which the terrible disease of loneliness can be cured.
+Blue(21550262) :-Hi again, Omnissiah, try asking what is wfaf for more info :D
