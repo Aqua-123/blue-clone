@@ -1420,3 +1420,5 @@ Gashing Sphere(22975867) :-U are a cow\n
 Gashing Sphere(22975867) :-Chewing on grass and talk cowdung\n
 Somethinglalala(23370112) :-Ever heard what u speak out?
 Somethinglalala(23370112) :-Not even processed cowdung\n
+Gashing Sphere(22975867) :-Well i dont speak nonsens like you\n
+Somethinglalala(23370112) :-Look at that! Nonsens\n
