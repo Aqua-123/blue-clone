@@ -531,3 +531,15 @@ Cryo(22783061) :-*flips hair*
 Harenoir(11427049) :-certainly
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Cryo(22783061) :-blue whos here
+🤖 Mecha Nurse 💉(20909261) :-I can see Harenoir, Lumi, Blue, Cryo, and maybe some lurkers.
+Cryo(22783061) :-blue whos idle
+🤖 Mecha Nurse 💉(20909261) :-I dont see anybody idle.
+Cryo(22783061) :-blue-
+Cryo(22783061) :-!uptime
+Lumi(16008266) :-Ive been here for 11 hours and 1 minutes
+🤖 Mecha Nurse 💉(20909261) :-Ive been here for 14 days, 11 hours, 47 minutes.
+Blue(21550262) :-I can see Lumi, Harenoir, Blue, Cryo and 2 peeps lurking :p
+Blue(21550262) :-I can see Jupiter Gungan lurking
+Blue(21550262) :-Ive been here for 4 hours and 49 minutes
+Cryo(22783061) :-ahh
+Cryo(22783061) :-there
