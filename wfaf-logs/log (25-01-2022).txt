@@ -6999,3 +6999,4 @@ Lumi(16008266) :-Hiiiiii!~
 Almond cookie(20199174) :-Hi blue <3
 Almond cookie(20199174) :-Hi blue
 Blue(21550262) :-Hellosss :D
+Almond cookie(20199174) :-Hello, blue
