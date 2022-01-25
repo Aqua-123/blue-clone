@@ -5953,3 +5953,5 @@ Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Hi, Limping Cube! Im afraid they arent your friend yet, you can always try again!
 Gashing Sphere(22975867) :-Blue whos here\n
 Blue(21550262) :-I can see Limping Cube, 🤖 Mecha Nurse 💉, Lumi, Gashing Sphere and 2 peeps lurking :p
+Gashing Sphere(22975867) :-Blue whos lurking
+Blue(21550262) :-I can see Eva lurking
