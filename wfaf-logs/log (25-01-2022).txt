@@ -84,3 +84,4 @@ Lumi(16008266) :-Hello, Mercury Paras! Welcome to WFAF! - Waiting for a Friend! 
 Blue(21550262) :-Hi, Mercury Paras, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Blue(21550262) :-Disabling greets uwu
 Mercury Paras(23378306) :-Sorry
+Lumi(16008266) :-Hi, Mercury Paras! Im afraid they arent your friend yet, you can always try again!
