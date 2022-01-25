@@ -1109,3 +1109,6 @@ Cryo(22783061) :-nw
 Gashing Sphere(22975867) :-Woah... U increased\n
 Gashing Sphere(22975867) :-Lol\n
 Gashing Sphere(22975867) :-He left\n
+Lumi(16008266) :-Hello, Vixere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Somethinglalala(23370112) :-Hello\n
+Cryo(22783061) :-teri do i have the permission to make the regex better
