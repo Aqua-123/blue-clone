@@ -3640,3 +3640,5 @@ Aqua(16986137) :-that
 Gashing Sphere(22975867) :-Hmm\n
 Gashing Sphere(22975867) :-I dont have it\n
 Gashing Sphere(22975867) :-Anyways
+Gashing Sphere(22975867) :-Can we actually send images?
+Aqua(16986137) :-nope
