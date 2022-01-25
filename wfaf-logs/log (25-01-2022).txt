@@ -2966,3 +2966,7 @@ Cryo(22783061) :-can never be achieved
 Gashing Sphere(22975867) :-That again × 24
 Harenoir(11427049) :-not in practice, at least
 Cryo(22783061) :-right
+Gashing Sphere(22975867) :-Almost a million
+Cryo(22783061) :-yeeetus
+Gashing Sphere(22975867) :-800k+
+Cryo(22783061) :-this ones gonna hit 20k soon
