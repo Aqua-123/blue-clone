@@ -1368,3 +1368,5 @@ Harenoir(11427049) :-user friendly
 Gashing Sphere(22975867) :-Lol\n
 Gashing Sphere(22975867) :-Maybe because it is tor it js checking
 Gashing Sphere(22975867) :-Is*
+Gashing Sphere(22975867) :-Ive put security to minimum\n
+Gashing Sphere(22975867) :-So no worries of failing the test\n
