@@ -2509,3 +2509,4 @@ Blue(21550262) :-Hi, Orange Hutt, Welcome to WFAF, which stands for Waiting For 
 Blue(21550262) :-Disabling greets uwu
 Cryo(22783061) :-damn
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Cryo(22783061) :-blue get details of 11427049
