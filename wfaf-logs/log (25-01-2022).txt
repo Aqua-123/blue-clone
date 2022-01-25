@@ -6616,3 +6616,4 @@ Gashing Sphere(22975867) :-Imma reload once. Its hanging. Brb\n
 Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
 Gashing Sphere(22975867) :-Back\n
 Gashing Sphere(22975867) :-And better now\n
+Gashing Sphere(22975867) :-And see? Thats my special greeting message
