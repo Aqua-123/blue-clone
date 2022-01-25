@@ -380,3 +380,5 @@ Harenoir(11427049) :-like really
 Cryo(22783061) :-now ill wait for mechas ideas to make it faster
 Cryo(22783061) :-and have a reliable pace
 Harenoir(11427049) :-mhm
+Harenoir(11427049) :-i should have just left emerald for good
+Cryo(22783061) :-lol no....
