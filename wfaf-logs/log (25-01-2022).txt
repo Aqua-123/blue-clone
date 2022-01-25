@@ -3176,3 +3176,10 @@ Cryo(22783061) :-rainbow tables are used in cryptography
 Cryo(22783061) :-that too
 Harenoir(11427049) :-heh
 Gashing Sphere(22975867) :-I... Dont know half of the stuff u talk about...
+Cryo(22783061) :-basically
+Gashing Sphere(22975867) :-Yikes\n
+Cryo(22783061) :-when something is cryptographically signed
+Cryo(22783061) :-it cant be reversed
+Gashing Sphere(22975867) :-Ant bit me\n
+Cryo(22783061) :-because it takes a key
+Harenoir(11427049) :-like blowfish
