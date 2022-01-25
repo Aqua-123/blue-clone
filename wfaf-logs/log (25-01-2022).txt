@@ -6822,3 +6822,4 @@ Venus Orange(23385939) :-hello
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hi, Venus Orange! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Venus Orange, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
