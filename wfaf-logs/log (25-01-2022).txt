@@ -1431,3 +1431,6 @@ Gashing Sphere(22975867) :-I can book you an appointment. He can help\n
 Somethinglalala(23370112) :-Who can?
 Gashing Sphere(22975867) :-A therapist u fool. I dont thinks dentists help\n
 Somethinglalala(23370112) :-Oh yeah right\n
+Gashing Sphere(22975867) :-Did i just see someone typing?
+Somethinglalala(23370112) :-Not me\n
+Gashing Sphere(22975867) :-Crayons?
