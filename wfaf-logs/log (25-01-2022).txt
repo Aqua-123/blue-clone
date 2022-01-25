@@ -4224,3 +4224,7 @@ Aqua(16986137) :-go on sphere
 Gashing Sphere(22975867) :-...
 Gashing Sphere(22975867) :-?
 Aqua(16986137) :-dont be shy
+Gashing Sphere(22975867) :-Brr\n
+Aqua(16986137) :-tell what happened
+Somethinglalala(23370112) :-Okay so... Bulbul...
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-mhm?
