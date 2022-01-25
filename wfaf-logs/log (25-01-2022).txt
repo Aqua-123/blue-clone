@@ -767,3 +767,5 @@ Gashing Sphere(22975867) :-Oh meeting started\n
 Gashing Sphere(22975867) :-*Panik*
 Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-Tf?
+Harenoir(11427049) :-hm?
+Gashing Sphere(22975867) :-Why does tor browser notification show  firefox symbol?
