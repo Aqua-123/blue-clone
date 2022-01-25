@@ -1750,3 +1750,6 @@ Cryo(22783061) :-right
 Harenoir(11427049) :-but
 Harenoir(11427049) :-it worked
 Harenoir(11427049) :-bresh left wfaf which meant no more info for me
+Cryo(22783061) :-blue seen jake in *
+Harenoir(11427049) :-had to get info somehow
+Cryo(22783061) :-mhm
