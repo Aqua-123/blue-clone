@@ -6373,3 +6373,5 @@ Gashing Sphere(22975867) :-Ooooh
 Gashing Sphere(22975867) :-Interesting
 WALL E(14751444) :-yep
 WALL E(14751444) :-it has a lot of segg
+Gashing Sphere(22975867) :-...
+Gashing Sphere(22975867) :-Tf?
