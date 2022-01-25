@@ -1168,3 +1168,5 @@ Gashing Sphere(22975867) :-Let it be there\n
 Somethinglalala(23370112) :-Does not bother me\n
 Somethinglalala(23370112) :-I wanna go to the GC and fool some people
 Gashing Sphere(22975867) :-Me too\n
+Cryo(22783061) :-lmao
+Cryo(22783061) :-wait
