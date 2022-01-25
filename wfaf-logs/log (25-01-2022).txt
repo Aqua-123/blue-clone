@@ -7071,3 +7071,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ğŸ’‰ ğŸ’
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Blue(21550262) :-Disabling greets uwu
 Almond cookie(20199174) :-how is your day going?
+Harenoir(11427049) :-woke up early
+Harenoir(11427049) :-just to fall asleep again
+Harenoir(11427049) :-and woke up again just now
