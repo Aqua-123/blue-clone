@@ -5283,3 +5283,5 @@ Gashing Sphere(22975867) :-Question
 Jackal(15466860) :-what kinda math is this?
 Gashing Sphere(22975867) :-Uhh
 Gashing Sphere(22975867) :-Its Locus\n
+Gashing Sphere(22975867) :-Locus based questions
+Jackal(15466860) :-uh well then i have no idea
