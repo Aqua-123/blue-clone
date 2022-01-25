@@ -1345,3 +1345,5 @@ Somethinglalala(23370112) :-;-; bad guy\n
 Gashing Sphere(22975867) :-Cry baby\n
 Gashing Sphere(22975867) :-Ive seen you in school\n
 Gashing Sphere(22975867) :-Crying even for the smallest stuff\n
+Gashing Sphere(22975867) :-Lol u cried when u lost a pencil right?
+Somethinglalala(23370112) :-Noo\n
