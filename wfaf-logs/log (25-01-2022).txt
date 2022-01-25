@@ -6475,3 +6475,5 @@ Gashing Sphere(22975867) :-Who are these both?
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Ah speaking of which\n
 Gashing Sphere(22975867) :-Blue menu\n
+Blue(21550262) :-Rn we have 1) Coffee, 2) Milk, 3) Water
+Gashing Sphere(22975867) :-Would u like a cup of coffee?
