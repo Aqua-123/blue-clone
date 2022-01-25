@@ -1651,3 +1651,7 @@ Lumi(16008266) :-☕️
 Harenoir(11427049) :-thx lumi
 Lumi(16008266) :-Youre welcome :D
 Cryo(22783061) :-is there a popcorn emoji somewhere
+Harenoir(11427049) :-there is
+Cryo(22783061) :-canyaaddit
+Harenoir(11427049) :-should i add it? yes
+Cryo(22783061) :-:3
