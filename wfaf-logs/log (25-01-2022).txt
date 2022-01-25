@@ -546,3 +546,4 @@ Cryo(22783061) :-there
 Cryo(22783061) :-blue ban 23379032
 Blue(21550262) :-Banning 23379032
 Harenoir(11427049) :-mhm...
+Cryo(22783061) :-blue get details of 22783061
