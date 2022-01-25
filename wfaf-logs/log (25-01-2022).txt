@@ -1517,3 +1517,8 @@ Gashing Sphere(22975867) :-Bro\n
 Gashing Sphere(22975867) :-.3 times it has done ddos protection
 Harenoir(11427049) :-were talking about a blue line at the end of the gold ad, right
 Gashing Sphere(22975867) :-Eh?
+Gashing Sphere(22975867) :-Reload\n
+Harenoir(11427049) :-eh
+Harenoir(11427049) :-then no
+Harenoir(11427049) :-no idea
+Gashing Sphere(22975867) :-...
