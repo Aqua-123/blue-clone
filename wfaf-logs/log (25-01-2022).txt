@@ -1255,3 +1255,6 @@ Gashing Sphere(22975867) :-Not now\n
 Harenoir(11427049) :-damn
 Harenoir(11427049) :-you learn something new every day
 Gashing Sphere(22975867) :-Lol true\n
+Gashing Sphere(22975867) :-I wonder what is the storage capacity of the human brain\n
+Harenoir(11427049) :-isnt it like
+Gashing Sphere(22975867) :-Cause all i do is store cache\n
