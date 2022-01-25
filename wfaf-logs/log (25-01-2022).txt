@@ -333,3 +333,6 @@ Harenoir(11427049) :-cookie stuff came first so...
 Cryo(22783061) :-at the end of the day you tend to overlook the most obvious stuff
 Harenoir(11427049) :-clearly
 Harenoir(11427049) :-and once again
+Harenoir(11427049) :-i gave jamie the idea
+Cryo(22783061) :-mhmm
+Cryo(22783061) :-feel proud
