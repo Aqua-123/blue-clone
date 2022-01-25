@@ -1809,3 +1809,5 @@ Harenoir(11427049) :-like a proper database, but in excel
 Harenoir(11427049) :-im guessing
 Gashing Sphere(22975867) :-Must be weird\n
 Gashing Sphere(22975867) :-Anyways
+Gashing Sphere(22975867) :-I am also writing a story\n
+Gashing Sphere(22975867) :-Some people asked me to make one\n
