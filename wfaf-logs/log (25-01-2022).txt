@@ -93,3 +93,7 @@ Blue(21550262) :-Banning 23378306
 Lumi(16008266) :-Hello, Mars Diamond! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Cryo(22783061) :-Morning wfaffles
+Cryo(22783061) :-no one?
+Cryo(22783061) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, Cryo and 4 lurkers
+Cryo(22783061) :-lumi whos idle
