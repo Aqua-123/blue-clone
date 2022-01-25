@@ -5866,3 +5866,6 @@ Spooky(20199174) :-bye byeeeeeeeeeee
 Jackal(15466860) :-easy
 Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Jackal(15466860) :-its like writing but machine code instead of spoken language
+Spooky(20199174) :-can u teach me?
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+S​o​u​L(20327398) :-mine is full of if statements
