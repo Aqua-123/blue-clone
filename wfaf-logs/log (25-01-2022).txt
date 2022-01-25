@@ -100,3 +100,6 @@ Cryo(22783061) :-lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Jupiter Gungan, Blue, Harenoir lurking in the shadows...
 Cryo(22783061) :-damn
 Cryo(22783061) :-aight
+Harenoir(11427049) :-why is emerald
+Harenoir(11427049) :-so slow today
+Harenoir(11427049) :-also morning
