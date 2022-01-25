@@ -3333,3 +3333,10 @@ Blue(21550262) :-The account with ID 22975867 has the name Gashing Sphere(gashin
 Cryo(22783061) :-blue get details of 22975867
 Blue(21550262) :-The account with ID 22975867 has the name Gashing Sphere(gashing_sphere) with karma:- 6698 and gender set to m and was created on 2021-12-19 at 14:42:42.002Z
 Gashing Sphere(22975867) :--stiff-\n
+Lumi(16008266) :-Hello, Earth Triangle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Earth Triangle(23381573) :-say smth
+Gashing Sphere(22975867) :-My chem class finished
+Cryo(22783061) :-fuck no
+Gashing Sphere(22975867) :-:)
+Gashing Sphere(22975867) :-Said\n
+Gashing Sphere(22975867) :-Oops\n
