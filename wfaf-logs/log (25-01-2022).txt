@@ -7234,3 +7234,4 @@ Lumi(16008266) :-Hello, Skylarfalling! Welcome to WFAF! - Waiting for a Friend! 
 Skylarfalling(4700604) :-HGI
 Lumi(16008266) :-Hi again, Sewing Fish Fingers, dont feel bad, theyll accept one day... hopefully!
 Skylarfalling(4700604) :-HI
+Lumi(16008266) :-Hello, Purple Strawberry! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
