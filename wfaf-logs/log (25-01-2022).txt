@@ -6888,3 +6888,6 @@ Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hello, Needing Marten! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Needing Marten(23386242) :-heyyy im mark
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hi, Needing Marten! Im afraid they arent your friend yet, you can always try again!
+🤖 Mecha Nurse 💉(20909261) :-Hi again, Omnissiah, try asking what is wfaf for more info :D
+Blue(21550262) :-Re-enabling greets :D
