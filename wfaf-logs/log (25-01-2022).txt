@@ -3168,3 +3168,9 @@ Cryo(22783061) :-no waking till 4am to know what rainbow tables are
 Harenoir(11427049) :-damn
 Cryo(22783061) :-and then also
 Gashing Sphere(22975867) :-Rainbow tables?
+Cryo(22783061) :-read about ruby on rails
+Cryo(22783061) :-how it handles hings
+Gashing Sphere(22975867) :-Oukay...
+Harenoir(11427049) :-no more being obssesed about manipulating people into giving me info
+Cryo(22783061) :-rainbow tables are used in cryptography
+Cryo(22783061) :-that too
