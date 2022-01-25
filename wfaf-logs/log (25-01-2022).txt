@@ -1784,3 +1784,5 @@ Cryo(22783061) :-and 30 mins left for the round to end
 Harenoir(11427049) :-n i c e
 Gashing Sphere(22975867) :-.
 Gashing Sphere(22975867) :-I realised i forgot to exit this place\n
+Gashing Sphere(22975867) :-And now all those chats are right there...
+Gashing Sphere(22975867) :-Welp. I need halp
