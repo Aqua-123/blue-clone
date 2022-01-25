@@ -163,3 +163,8 @@ Cryo(22783061) :-blue get id of cryo
 Blue(21550262) :-ID of cryo is 15231382
 Cryo(22783061) :-blue get details of 15231382
 Blue(21550262) :-The account with ID 15231382 has the name yo(oof15190956) with karma:- -330 and gender set to m and was created on 2020-10-26 at 03:50:55.474Z
+Cryo(22783061) :-erm
+Harenoir(11427049) :-lmao
+Cryo(22783061) :-anyways
+Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 12439 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
