@@ -6153,3 +6153,5 @@ Natsuki The Neko(15832363) :-Hi lumi\n
 Lumi(16008266) :-Hiiiiii!~
 Natsuki The Neko(15832363) :-Lumi whos here\n
 Lumi(16008266) :-I can see Lumi, Natsuki The Neko, Gashing Sphere, 🤖 Mecha Nurse 💉 and 2 lurkers
+Gashing Sphere(22975867) :-The Wfaf button on the side doesnt work\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
