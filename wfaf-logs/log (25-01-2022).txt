@@ -5926,3 +5926,8 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Jackal(15466860) :-why do i still here pings but see no messages
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hello, Almond cookie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Almond cookie(20199174) :-Eva whos here
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Eva(21541886) :-These are the people here :Eva\u202d, \u202dMagenta Machop\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dAlmond cookie. Maybe some are lurking
+Almond cookie(20199174) :-lumi whos idle
+Lumi(16008266) :-I see Blue, Jupiter Gungan lurking in the shadows...
