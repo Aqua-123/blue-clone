@@ -3154,3 +3154,11 @@ Cryo(22783061) :-whatever had to be done
 Cryo(22783061) :-isdone
 Cryo(22783061) :-we can chat
 Cryo(22783061) :-and thats it
+Cryo(22783061) :-some blue developments
+Cryo(22783061) :-maybe
+Harenoir(11427049) :-now we can truly chat
+Cryo(22783061) :-thats all
+Harenoir(11427049) :-and focus on greeter stuff
+Harenoir(11427049) :-aside from that
+Harenoir(11427049) :-welp
+Cryo(22783061) :-yes
