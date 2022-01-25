@@ -1744,3 +1744,4 @@ Harenoir(11427049) :-before i started massive attack, everyone just laughed and 
 Harenoir(11427049) :-after attack, people were often talking about means to protect themselves
 Cryo(22783061) :-right
 Harenoir(11427049) :-also most regulars only had between 20 to 100 karma at best so yeah
+Harenoir(11427049) :-no need to worry about karma before attack
