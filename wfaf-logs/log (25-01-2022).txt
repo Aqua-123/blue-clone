@@ -3257,3 +3257,14 @@ Gashing Sphere(22975867) :-Ribbit. U know what to do\n
 Harenoir(11427049) :-ill give a +1
 Gashing Sphere(22975867) :-Yes\n
 Harenoir(11427049) :-there
+Gashing Sphere(22975867) :-Yay\n
+Cryo(22783061) :-22975867
+Gashing Sphere(22975867) :-...
+Cryo(22783061) :-blue get details of 22975867
+Harenoir(11427049) :-blue get details of 22975867
+Blue(21550262) :-The account with ID 22975867 has the name Gashing Sphere(gashing_sphere) with karma:- 6700 and gender set to m and was created on 2021-12-19 at 14:42:42.002Z
+Blue(21550262) :-The account with ID 22975867 has the name Gashing Sphere(gashing_sphere) with karma:- 6700 and gender set to m and was created on 2021-12-19 at 14:42:42.002Z
+Cryo(22783061) :-i-
+Gashing Sphere(22975867) :-What theeee\n
+Harenoir(11427049) :-damnit
+Gashing Sphere(22975867) :-;-;
