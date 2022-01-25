@@ -3751,3 +3751,7 @@ Gashing Sphere(22975867) :-Gun gang\n
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-its just 2-1 rn
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-dunno
 Gashing Sphere(22975867) :-Yes\n
+Gashing Sphere(22975867) :-Aquarium
+Gashing Sphere(22975867) :-Aquarium?
+Gashing Sphere(22975867) :-AQUARIUM
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-aq is hving lunch remember?
