@@ -6527,3 +6527,6 @@ Gashing Sphere(22975867) :-Blue whos here\n
 Blue(21550262) :-I can see Gashing Sphere, Blue, Lumi, 🖤Sweetie🖤 and 2 peeps lurking :p
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Still those two peeps\n
+Gashing Sphere(22975867) :-Anyways
+Gashing Sphere(22975867) :-Try magic menu\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
