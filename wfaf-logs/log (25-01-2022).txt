@@ -788,3 +788,6 @@ Harenoir(11427049) :-chrome is to chromium just like firefox is to geckodriver
 Cryo(22783061) :-yes
 David(878319) :-wat
 Gashing Sphere(22975867) :-Geckodriver. Noted\n
+Lumi(16008266) :-Hi, David! Im afraid they arent your friend yet, you can always try again!
+Gashing Sphere(22975867) :-Nice name tho\n
+Cryo(22783061) :-blue get details of 22783061
