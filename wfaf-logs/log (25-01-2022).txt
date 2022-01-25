@@ -646,3 +646,6 @@ Gashing Sphere(22975867) :-Give me pizza. WITHOUT pineapple
 Harenoir(11427049) :-lumi serve pizza
 Lumi(16008266) :-🍕🍕🍕🍕🍕🍕🍕🍕
 Gashing Sphere(22975867) :-Yay\n
+Harenoir(11427049) :-:D
+Gashing Sphere(22975867) :-*gobbles up pizza*
+Gashing Sphere(22975867) :-All phor me\n
