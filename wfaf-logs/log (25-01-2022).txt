@@ -2069,3 +2069,9 @@ Harenoir(11427049) :-noice
 Cryo(22783061) :-need to give it a sec-
 nullity(14751444) :-im outt
 Harenoir(11427049) :-okay good
+Gashing Sphere(22975867) :-Give it a minute
+Gashing Sphere(22975867) :-Let it rejoice\n
+Cryo(22783061) :-lets let it run for 5 mins and see the delta
+Gashing Sphere(22975867) :-Delta?
+Cryo(22783061) :-18140 is what we are starting at
+Gashing Sphere(22975867) :-Oh sum
