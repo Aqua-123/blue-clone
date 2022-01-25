@@ -7324,3 +7324,5 @@ Lumi(16008266) :-Hello, Caressed and Obsessed Kid! Welcome to WFAF! - Waiting fo
 Blue(21550262) :-Re-enabling greets :D
 Blue(21550262) :-Hi again, Omnissiah, try asking what is wfaf for more info :D
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Disabling greets uwu
