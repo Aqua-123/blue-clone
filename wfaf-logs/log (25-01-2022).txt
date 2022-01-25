@@ -5807,3 +5807,9 @@ Spooky(20199174) :-okiee
 S​o​u​L(20327398) :-i need to add custom greet too
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 S​o​u​L(20327398) :-lime wookie, omni and mecha keeps joining and leaving
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+S​o​u​L(20327398) :-thats why the lag
+Spooky(20199174) :-Soul how did u make a greeter?
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-mhm
+Spooky(20199174) :-i want a greeter
+S​o​u​L(20327398) :-by coding it
