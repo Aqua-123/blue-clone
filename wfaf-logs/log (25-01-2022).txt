@@ -6485,3 +6485,6 @@ Lumi(16008266) :-Hello, Maddie! Welcome to WFAF! - Waiting for a Friend! The pla
 Gashing Sphere(22975867) :-Thanks blue\n
 Blue(21550262) :-Youre welcome :D
 🖤Sweetie🖤(19271305) :-THIS IS SO COOL\n
+Gashing Sphere(22975867) :-Yes\n
+Gashing Sphere(22975867) :-Blue magic menu\n
+Blue(21550262) :-We have A) Cookies n Milk, B) Pineapple Pizza
