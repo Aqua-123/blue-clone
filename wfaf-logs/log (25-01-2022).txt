@@ -5321,3 +5321,5 @@ Jackal(15466860) :-well it had som complex stuff in the explination
 Gashing Sphere(22975867) :-Oki...
 Gashing Sphere(22975867) :-Lemme goggle myself
 Jackal(15466860) :-i took the questionThe equation to the locus of a point P for which the distance from P to (0, 5) is double the distance from P to y-axis is and looked it up first result
+Gashing Sphere(22975867) :-Oki... I got it\n
+Gashing Sphere(22975867) :-And bulbul\n
