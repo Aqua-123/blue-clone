@@ -6161,3 +6161,7 @@ Gashing Sphere(22975867) :-Blue whos lurking
 Blue(21550262) :-I can see Blue, The Deathstar lurking
 Gashing Sphere(22975867) :-The deathstar\n
 The Deathstar(10579120) :-hi hi
+Gashing Sphere(22975867) :-Hi hi\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Hi Hi\n
+The Deathstar(10579120) :-how are you?
