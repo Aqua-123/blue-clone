@@ -3291,3 +3291,7 @@ Cryo(22783061) :-you have teri account open right?
 Cryo(22783061) :-give -1 from that
 Harenoir(11427049) :-yes
 Harenoir(11427049) :-one sec
+Gashing Sphere(22975867) :-Hold one\n
+Gashing Sphere(22975867) :-Second
+Cryo(22783061) :-YOU DONT MOVE MISTER
+Gashing Sphere(22975867) :-...i have a second account too...
