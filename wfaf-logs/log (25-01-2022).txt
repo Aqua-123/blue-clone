@@ -5911,3 +5911,6 @@ Jackal(15466860) :-hello eva
 Eva(21541886) :-hi there
 Jackal(15466860) :-whos idle
 Jackal(15466860) :-eva whos idle
+🤖 Mecha Nurse 💉(20909261) :-I think Blue is idle.
+Jackal(15466860) :-cool
+Jackal(15466860) :-idk if im in the chat that i was in tho
