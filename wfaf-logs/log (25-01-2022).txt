@@ -4589,3 +4589,8 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 S​o​u​L(20327398) :-whos this dood keep joining and leaving
 Gashing Sphere(22975867) :-Omnissiah is another bot i guess\n
 Gashing Sphere(22975867) :-Collects data\n
+Gashing Sphere(22975867) :-And gives it to mecha\n
+S​o​u​L(20327398) :-Omnissiah whos there
+S​o​u​L(20327398) :-wait really?
+Gashing Sphere(22975867) :-Nah it not that type\n
+Gashing Sphere(22975867) :-Only data\n
