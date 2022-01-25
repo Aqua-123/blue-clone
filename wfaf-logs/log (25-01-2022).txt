@@ -1126,3 +1126,5 @@ Harenoir(11427049) :-lol
 Harenoir(11427049) :-happens
 Gashing Sphere(22975867) :-Weird but cool\n
 Somethinglalala(23370112) :-Fun lol\n
+Somethinglalala(23370112) :-I love fooling people like Im not me\n
+Gashing Sphere(22975867) :-And Im me\n
