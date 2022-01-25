@@ -302,3 +302,5 @@ Cryo(22783061) :-then
 Cryo(22783061) :-weve to make it infinite
 Harenoir(11427049) :-i----
 Harenoir(11427049) :-i cant believe i actually gave jamie the idea for this method
+Cryo(22783061) :-lol
+Harenoir(11427049) :-i mean
