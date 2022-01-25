@@ -1803,3 +1803,9 @@ Gashing Sphere(22975867) :-And nope\n
 Harenoir(11427049) :-me neither
 Harenoir(11427049) :-but people always say dont do that
 Gashing Sphere(22975867) :-What is database in Excel anyway?
+Harenoir(11427049) :-idk
+Gashing Sphere(22975867) :-Heh\n
+Harenoir(11427049) :-like a proper database, but in excel
+Harenoir(11427049) :-im guessing
+Gashing Sphere(22975867) :-Must be weird\n
+Gashing Sphere(22975867) :-Anyways
