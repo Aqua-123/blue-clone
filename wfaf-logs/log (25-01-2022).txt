@@ -1522,3 +1522,8 @@ Harenoir(11427049) :-eh
 Harenoir(11427049) :-then no
 Harenoir(11427049) :-no idea
 Gashing Sphere(22975867) :-...
+Gashing Sphere(22975867) :-Eh i didnt do anything
+Harenoir(11427049) :-well
+Gashing Sphere(22975867) :-So if i get gold for free...
+Gashing Sphere(22975867) :-Yay\n
+Harenoir(11427049) :-as long as your credit card is not there, all good
