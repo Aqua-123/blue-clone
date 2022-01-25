@@ -1955,3 +1955,5 @@ Gashing Sphere(22975867) :-Then Ill try to finish in 5 minutes
 Gashing Sphere(22975867) :-Brb\n
 Cryo(22783061) :-sure
 Cryo(22783061) :-be here for the party
+Harenoir(11427049) :-alright, got the food ready
+Harenoir(11427049) :-2 am but who cares
