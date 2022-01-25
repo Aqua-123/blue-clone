@@ -2877,3 +2877,7 @@ Harenoir(11427049) :-took me a second-
 Cryo(22783061) :-lmfao
 Gashing Sphere(22975867) :-Lol\n
 Gashing Sphere(22975867) :-Better late than never\n
+Cryo(22783061) :-mhmm
+Harenoir(11427049) :-true
+Gashing Sphere(22975867) :-I feel like a gentleman saying that\n
+Cryo(22783061) :-80 per min
