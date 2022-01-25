@@ -1292,3 +1292,6 @@ Cryo(22783061) :-lumi whos ther
 Lumi(16008266) :-I can see Lumi, Gashing Sphere, Somethinglalala, Harenoir, Cryo and 3 lurkers
 Harenoir(11427049) :-i dont remember anymore
 Gashing Sphere(22975867) :-Ther\n
+Harenoir(11427049) :-when i wrote it, it made sense in my head
+Gashing Sphere(22975867) :-Well just in case of a typo\n
+Harenoir(11427049) :-damn
