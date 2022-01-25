@@ -7074,3 +7074,6 @@ Almond cookie(20199174) :-how is your day going?
 Harenoir(11427049) :-woke up early
 Harenoir(11427049) :-just to fall asleep again
 Harenoir(11427049) :-and woke up again just now
+Almond cookie(20199174) :-u sleep to much
+Almond cookie(20199174) :-oh
+Harenoir(11427049) :-i know
