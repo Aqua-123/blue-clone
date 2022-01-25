@@ -1237,3 +1237,6 @@ Gashing Sphere(22975867) :-Luckily no one is around me speaking
 Harenoir(11427049) :-even jamie scolded me about it when he saw thea
 Cryo(22783061) :-ill consolidate this one and while adding more just follow that pattern
 Harenoir(11427049) :-the if else statement is too big because of too many whos here combinations
+Gashing Sphere(22975867) :-If else?
+Harenoir(11427049) :-:)
+Gashing Sphere(22975867) :-Thats C++ right?
