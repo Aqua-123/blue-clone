@@ -466,3 +466,6 @@ Cryo(22783061) :-rest im waiting for mechas insights
 Cryo(22783061) :-whenever he is free that is
 Harenoir(11427049) :-mhm
 Harenoir(11427049) :-i did mention to jamie
+Harenoir(11427049) :-that i got the pic link for thea from the exploit
+Harenoir(11427049) :-which was entirely a spam script for the karma link
+Cryo(22783061) :-mhm
