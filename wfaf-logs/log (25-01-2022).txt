@@ -3230,3 +3230,5 @@ Cryo(22783061) :-oh that i can do rn
 Gashing Sphere(22975867) :-Pretty close\n
 Harenoir(11427049) :-ooh
 Gashing Sphere(22975867) :-Hehe\n
+Harenoir(11427049) :-karma only has the value you give it
+Gashing Sphere(22975867) :-Who said that\n
