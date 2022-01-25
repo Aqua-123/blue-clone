@@ -4370,3 +4370,5 @@ Gashing Sphere(22975867) :-See your face in mirror. The reflection will be screa
 Cryo(22783061) :-karma stonks going on in this account
 Gashing Sphere(22975867) :-Stonks lol\n
 Aqua(16986137) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 24068 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
+Aqua(16986137) :-stonks
