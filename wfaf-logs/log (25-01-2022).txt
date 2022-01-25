@@ -29,3 +29,4 @@ Lumi(16008266) :-Hello, Earth Pizza! Welcome to WFAF! - Waiting for a Friend! Th
 Lumi(16008266) :-Hello, Magenta Cubone! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Magenta Cubone(23378208) :-hey
 Lumi(16008266) :-Hello, Mercury Paras! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Mercury Paras(23378306) :-Any mod active?
