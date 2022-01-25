@@ -1475,3 +1475,11 @@ Cryo(22783061) :-overloading the ram
 Harenoir(11427049) :-no, not the ram
 Cryo(22783061) :-lol
 Gashing Sphere(22975867) :-I left\n
+Gashing Sphere(22975867) :-Same\n
+Gashing Sphere(22975867) :-Lol\n
+Gashing Sphere(22975867) :-Eat well\n
+Gashing Sphere(22975867) :-Or no\n
+Gashing Sphere(22975867) :-Ill stay\n
+Cryo(22783061) :-dont
+Cryo(22783061) :-it
+Cryo(22783061) :-say
