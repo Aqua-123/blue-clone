@@ -2847,3 +2847,13 @@ Cryo(22783061) :-heat????
 Gashing Sphere(22975867) :-Yes\n
 Cryo(22783061) :-ITS FUCKING FREEZING
 Gashing Sphere(22975867) :-Its super hot here\n
+Cryo(22783061) :-I-
+Gashing Sphere(22975867) :-Melting
+Cryo(22783061) :-south?
+Gashing Sphere(22975867) :-Im sweating!
+Harenoir(11427049) :-its hot for me as well
+Gashing Sphere(22975867) :-Yes\n
+Cryo(22783061) :-ahh
+Cryo(22783061) :-thought so
+Gashing Sphere(22975867) :-Sooth\n
+Cryo(22783061) :-fucking freezing in delhi
