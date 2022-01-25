@@ -360,3 +360,9 @@ Harenoir(11427049) :-but i still cant believe thats it
 Cryo(22783061) :-thats her karma rn
 Harenoir(11427049) :-yes
 Cryo(22783061) :-blue get details of 21550262
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13138 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+Cryo(22783061) :-welp-
+Cryo(22783061) :-blue get details of 21550262
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13141 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+Cryo(22783061) :-i ran it
+Cryo(22783061) :-the other way-
