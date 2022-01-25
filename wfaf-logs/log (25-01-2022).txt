@@ -6600,3 +6600,6 @@ Gashing Sphere(22975867) :-Sweetie?
 Gashing Sphere(22975867) :-Blue whos here\n
 Blue(21550262) :-I can see Blue, Lumi, Gashing Sphere and 2 peeps lurking :p
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Gashing Sphere. Also 1 person is idle, and there may be lurkers.
+Gashing Sphere(22975867) :-Mecha whos idle\n
+🤖 Mecha Nurse 💉(20909261) :-I dont see anybody idle.
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
