@@ -1418,3 +1418,5 @@ Somethinglalala(23370112) :-At least not a cow like you\n
 Gashing Sphere(22975867) :-Im no cow\n
 Gashing Sphere(22975867) :-U are a cow\n
 Gashing Sphere(22975867) :-Chewing on grass and talk cowdung\n
+Somethinglalala(23370112) :-Ever heard what u speak out?
+Somethinglalala(23370112) :-Not even processed cowdung\n
