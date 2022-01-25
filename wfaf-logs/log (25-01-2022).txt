@@ -2994,3 +2994,13 @@ Gashing Sphere(22975867) :-Oh\n
 Harenoir(11427049) :-im 19 years old
 Gashing Sphere(22975867) :-Coincidence
 Harenoir(11427049) :-that is a fact
+Cryo(22783061) :-im 16
+Gashing Sphere(22975867) :-Not your age\n
+Cryo(22783061) :-:)
+Harenoir(11427049) :-:D
+Gashing Sphere(22975867) :-Im 16 too\n
+Cryo(22783061) :-turning 17 in exactly a month
+Cryo(22783061) :-like
+Cryo(22783061) :-very exactly
+Gashing Sphere(22975867) :-But compared to you both, 10
+Cryo(22783061) :-i-
