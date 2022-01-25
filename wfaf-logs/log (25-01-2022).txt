@@ -1005,3 +1005,7 @@ Cryo(22783061) :-yes
 Harenoir(11427049) :-great
 Harenoir(11427049) :-i wont be sleeping early tonight
 Gashing Sphere(22975867) :-Lol\n
+Cryo(22783061) :-lol
+Gashing Sphere(22975867) :-Give yourself a nap now\n
+Cryo(22783061) :-im having that feeling i get when i watch a space rocket launch
+Cryo(22783061) :-the first 1 hour
