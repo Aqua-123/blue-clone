@@ -3085,3 +3085,9 @@ Cryo(22783061) :-blue get details of 22783061
 Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 19623 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
 Cryo(22783061) :-now das wsup
 Lumi(16008266) :-Hello, talky io/sauceman! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, talky io/sauceman! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, talky io/sauceman, dont feel bad, theyll accept one day... hopefully!
+Gashing Sphere(22975867) :-Lol\n
+Cryo(22783061) :-i feel so relieved
+Gashing Sphere(22975867) :-Why?
+Cryo(22783061) :-that i wont have to think about
