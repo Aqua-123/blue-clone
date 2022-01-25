@@ -3632,3 +3632,4 @@ Gashing Sphere(22975867) :-Yes\n
 Gashing Sphere(22975867) :-I got... A smollll part of Wfaf on the bottom\n
 Gashing Sphere(22975867) :-Nothing else\n
 Aqua(16986137) :-mhm
+Gashing Sphere(22975867) :-There is supposed to be one... Secret room stuff right?
