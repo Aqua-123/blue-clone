@@ -3226,3 +3226,7 @@ Cryo(22783061) :-mhm
 Harenoir(11427049) :-in practice
 Cryo(22783061) :-also true
 Gashing Sphere(22975867) :-I just want mine to be 6699
+Cryo(22783061) :-oh that i can do rn
+Gashing Sphere(22975867) :-Pretty close\n
+Harenoir(11427049) :-ooh
+Gashing Sphere(22975867) :-Hehe\n
