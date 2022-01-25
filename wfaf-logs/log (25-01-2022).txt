@@ -3162,3 +3162,9 @@ Harenoir(11427049) :-and focus on greeter stuff
 Harenoir(11427049) :-aside from that
 Harenoir(11427049) :-welp
 Cryo(22783061) :-yes
+Harenoir(11427049) :-its done
+Gashing Sphere(22975867) :-Okay. Congratulations in that case. Mission accomplished. U get a reward. Press F to recieve\n
+Cryo(22783061) :-no waking till 4am to know what rainbow tables are
+Harenoir(11427049) :-damn
+Cryo(22783061) :-and then also
+Gashing Sphere(22975867) :-Rainbow tables?
