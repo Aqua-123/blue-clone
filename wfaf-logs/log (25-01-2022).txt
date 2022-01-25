@@ -3103,3 +3103,7 @@ Cryo(22783061) :-no researching about cookies
 Gashing Sphere(22975867) :-Dayum\n
 Cryo(22783061) :-no sql injections
 Harenoir(11427049) :-i mean
+Cryo(22783061) :-no nothing
+Harenoir(11427049) :-this is pretty much it
+Harenoir(11427049) :-game over
+Gashing Sphere(22975867) :-Why research cookies tho\n
