@@ -1358,3 +1358,5 @@ Gashing Sphere(22975867) :-Lol\n
 Harenoir(11427049) :-just when i was going to grab more popcorn
 Gashing Sphere(22975867) :-Ikr\n
 Gashing Sphere(22975867) :-Its still not connected
+Gashing Sphere(22975867) :-Ill reload
+Harenoir(11427049) :-hmm...
