@@ -5869,3 +5869,5 @@ Jackal(15466860) :-its like writing but machine code instead of spoken language
 Spooky(20199174) :-can u teach me?
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 S​o​u​L(20327398) :-mine is full of if statements
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Jackal(15466860) :-i can try to yeah, its been a minuet since ive coded
