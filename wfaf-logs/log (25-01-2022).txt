@@ -6818,3 +6818,7 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Hi, m27! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, m27, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Venus Orange! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Venus Orange(23385939) :-hello
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hi, Venus Orange! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Venus Orange, dont feel bad, theyll accept one day... hopefully!
