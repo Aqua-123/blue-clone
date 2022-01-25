@@ -1546,3 +1546,5 @@ Gashing Sphere(22975867) :-Im leaving that account
 Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-Wym who knows?
 Gashing Sphere(22975867) :-Hmph\n
+Harenoir(11427049) :-lol
+Gashing Sphere(22975867) :-Ddos attacks are kinda easy unless there is no company like CLOUDFLARE\n
