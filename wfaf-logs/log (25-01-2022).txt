@@ -242,3 +242,7 @@ Cryo(22783061) :-yes
 Cryo(22783061) :-yes
 Harenoir(11427049) :-THATS IT?1
 Cryo(22783061) :-yes
+Harenoir(11427049) :-you\d only need a settimeout function to make a script for it
+Cryo(22783061) :-ahem
+Harenoir(11427049) :-i remember saying that quite often
+Harenoir(11427049) :-when spam was brought as topic
