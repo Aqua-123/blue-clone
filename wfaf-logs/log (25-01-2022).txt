@@ -1566,3 +1566,5 @@ Blue(21550262) :-Hi, Subby Boy, Welcome to WFAF, which stands for Waiting For A 
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 🤖 Mecha Nurse 💉(20909261) :-Two possibilities exist:
+🤖 Mecha Nurse 💉(20909261) :-either we are alone in the Universe or we are not.
+🤖 Mecha Nurse 💉(20909261) :-Both are equally terrifying.
