@@ -762,3 +762,5 @@ Cryo(22783061) :-mhm
 Lumi(16008266) :-Hi again, Yellow Pyramid, dont feel bad, theyll accept one day... hopefully!
 Gashing Sphere(22975867) :-Lol\n
 Gashing Sphere(22975867) :-Panick\n
+Harenoir(11427049) :-*panik*
+Gashing Sphere(22975867) :-Oh meeting started\n
