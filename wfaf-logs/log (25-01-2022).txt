@@ -4531,3 +4531,5 @@ Gashing Sphere(22975867) :-Eva is another bot here?
 Gashing Sphere(22975867) :-Oki\n
 S​o​u​L(20327398) :-temporarily
 Gashing Sphere(22975867) :-Why temporary?
+S​o​u​L(20327398) :-cant always keep it alive
+Gashing Sphere(22975867) :-Hmm explains it all\n
