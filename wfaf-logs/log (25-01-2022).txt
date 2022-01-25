@@ -1576,3 +1576,4 @@ Gashing Sphere(22975867) :-Oh ok\n
 Gashing Sphere(22975867) :-Null\n
 Gashing Sphere(22975867) :-But i saw him\n
 Gashing Sphere(22975867) :-I told Aqua about it\n
+Gashing Sphere(22975867) :-But he didnt believe
