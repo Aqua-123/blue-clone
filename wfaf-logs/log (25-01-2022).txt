@@ -6687,3 +6687,9 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Hello, Mercury Orange! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Mercury Orange(23385486) :-Hi
 Eva(21541886) :-hello
+Mercury Orange(23385486) :-Any mod active?
+Mercury Orange(23385486) :-I want to have a word
+Lumi(16008266) :-Hello, Neptune Fox! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Neptune Fox(23385397) :-hi
+Eva(21541886) :-hello
