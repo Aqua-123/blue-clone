@@ -2433,3 +2433,5 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ğŸ’‰ ğŸ’
 Gashing Sphere(22975867) :-Mecha alright?
 Gashing Sphere(22975867) :-Left again
 Cryo(22783061) :-yeaaa
+Gashing Sphere(22975867) :-Wym i joined the chat?
+Gashing Sphere(22975867) :-Omni bus is here\n
