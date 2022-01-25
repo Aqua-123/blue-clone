@@ -2084,3 +2084,7 @@ Cryo(22783061) :-this is infinitum
 Harenoir(11427049) :-△
 Cryo(22783061) :-that
 Cryo(22783061) :-yea physics
+Cryo(22783061) :-delta heat gain
+Gashing Sphere(22975867) :-For me it shows you are in 13830
+Cryo(22783061) :-delta v
+Cryo(22783061) :-because i havent refreshed
