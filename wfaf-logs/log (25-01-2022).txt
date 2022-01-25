@@ -6621,3 +6621,4 @@ Gashing Sphere(22975867) :-Its Shakespearean, so may make no sense\n
 Gashing Sphere(22975867) :-Sweetie? U there?
 Gashing Sphere(22975867) :-...
 Gashing Sphere(22975867) :-Seems like a network issue
+Gashing Sphere(22975867) :-Ill wait\n
