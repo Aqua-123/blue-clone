@@ -3232,3 +3232,6 @@ Harenoir(11427049) :-ooh
 Gashing Sphere(22975867) :-Hehe\n
 Harenoir(11427049) :-karma only has the value you give it
 Gashing Sphere(22975867) :-Who said that\n
+Harenoir(11427049) :-a wise person
+Harenoir(11427049) :-not me btw
+Gashing Sphere(22975867) :-Heh\n
