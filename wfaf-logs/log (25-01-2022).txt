@@ -3189,3 +3189,11 @@ Cryo(22783061) :-so rainbow table is a database
 Cryo(22783061) :-which has all the possible
 Cryo(22783061) :-signed tokens
 Cryo(22783061) :-and then you match
+Cryo(22783061) :-and get the original value
+Cryo(22783061) :-problem is
+Cryo(22783061) :-its insanely impractical
+Cryo(22783061) :-cause
+Gashing Sphere(22975867) :-Oh... Like the ones we use in a brute force attack for an account cracking\n
+Cryo(22783061) :-yes
+Harenoir(11427049) :-almost brute force like
+Harenoir(11427049) :-yes
