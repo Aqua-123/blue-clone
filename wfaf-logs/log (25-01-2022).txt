@@ -6437,3 +6437,8 @@ Gashing Sphere(22975867) :-Thanks blue\n
 Blue(21550262) :-Youre welcome :D
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Blue can bonk others\n
+Gashing Sphere(22975867) :-Blue bonk Gashing Sphere
+Blue(21550262) :-*bonks Gashing Sphere with a baseball bat~*
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Lol\n
+🖤Sweetie🖤(19271305) :-Lol\n
