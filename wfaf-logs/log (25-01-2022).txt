@@ -2442,3 +2442,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Cryo(22783061) :-no you arent really
 Cryo(22783061) :-im done for the day
 Gashing Sphere(22975867) :-Oh oki\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
