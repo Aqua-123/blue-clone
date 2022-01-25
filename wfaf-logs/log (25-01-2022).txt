@@ -325,3 +325,6 @@ Cryo(22783061) :-certainly
 Harenoir(11427049) :-i was literally the only other person who indirectly knew about his method
 Cryo(22783061) :-mhmmm
 Cryo(22783061) :-and yes someone couldve discovered it by accident
+Harenoir(11427049) :-hmm...
+Harenoir(11427049) :-just like the cookie stuff
+Cryo(22783061) :-ermmmm prolly easier than that
