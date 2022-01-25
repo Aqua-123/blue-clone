@@ -3107,3 +3107,6 @@ Cryo(22783061) :-no nothing
 Harenoir(11427049) :-this is pretty much it
 Harenoir(11427049) :-game over
 Gashing Sphere(22975867) :-Why research cookies tho\n
+Cryo(22783061) :-no spending hours reading about cryptography
+Gashing Sphere(22975867) :-And u do SQL injection here?
+Harenoir(11427049) :-you\ve won but at what cost
