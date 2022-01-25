@@ -2638,3 +2638,6 @@ Gashing Sphere(22975867) :-Again!
 Cryo(22783061) :-wot
 Harenoir(11427049) :-blue get id of Aqua staryu
 Blue(21550262) :-ID of Aqua staryu is 22047705
+Gashing Sphere(22975867) :-\n...
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
