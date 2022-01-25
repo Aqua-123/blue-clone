@@ -3183,3 +3183,9 @@ Cryo(22783061) :-it cant be reversed
 Gashing Sphere(22975867) :-Ant bit me\n
 Cryo(22783061) :-because it takes a key
 Harenoir(11427049) :-like blowfish
+Gashing Sphere(22975867) :-Yes ik\n
+Harenoir(11427049) :-damn blowfish
+Cryo(22783061) :-so rainbow table is a database
+Cryo(22783061) :-which has all the possible
+Cryo(22783061) :-signed tokens
+Cryo(22783061) :-and then you match
