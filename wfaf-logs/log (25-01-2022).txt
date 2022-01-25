@@ -1623,3 +1623,6 @@ Cryo(22783061) :-thats my present assumption
 Harenoir(11427049) :-mhm
 Cryo(22783061) :-but net 14k karma for nothing
 Cryo(22783061) :-thats still not bad
+Harenoir(11427049) :-hm...
+Harenoir(11427049) :-it had to be done
+Cryo(22783061) :-mhmm
