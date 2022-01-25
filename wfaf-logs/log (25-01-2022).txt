@@ -2204,3 +2204,5 @@ Cryo(22783061) :-wait no
 Cryo(22783061) :-now started
 Harenoir(11427049) :-ooo
 Gashing Sphere(22975867) :-Nvm me\n
+Cryo(22783061) :-ill slowly start all accounts
+Cryo(22783061) :-prolly
