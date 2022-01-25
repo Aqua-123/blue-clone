@@ -6596,3 +6596,5 @@ Gashing Sphere(22975867) :-I have a special greeting message\n
 Gashing Sphere(22975867) :-Wanna see?
 Gashing Sphere(22975867) :-Ill have to rejoin\n
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Sweetie?
+Gashing Sphere(22975867) :-Blue whos here\n
