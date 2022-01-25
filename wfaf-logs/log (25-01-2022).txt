@@ -1060,3 +1060,8 @@ Cryo(22783061) :-wasted*
 Cryo(22783061) :-:)
 Harenoir(11427049) :-yes that
 Gashing Sphere(22975867) :-If it works?
+Harenoir(11427049) :-then it works
+Harenoir(11427049) :-yay
+Gashing Sphere(22975867) :-Heh\n
+Cryo(22783061) :-it will be easy
+Cryo(22783061) :-ish
