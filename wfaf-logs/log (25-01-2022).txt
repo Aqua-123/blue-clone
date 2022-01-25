@@ -1472,3 +1472,6 @@ Blue(21550262) :-I just joined -w-
 Cryo(22783061) :-yep
 Cryo(22783061) :-thought soo
 Cryo(22783061) :-overloading the ram
+Harenoir(11427049) :-no, not the ram
+Cryo(22783061) :-lol
+Gashing Sphere(22975867) :-I left\n
