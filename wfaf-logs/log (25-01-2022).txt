@@ -6471,3 +6471,7 @@ Gashing Sphere(22975867) :-One is mecha\n
 Gashing Sphere(22975867) :-Blue whos lurking
 Blue(21550262) :-I can see Saturn Pizza, Limping Cube lurking
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Who are these both?
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Ah speaking of which\n
+Gashing Sphere(22975867) :-Blue menu\n
