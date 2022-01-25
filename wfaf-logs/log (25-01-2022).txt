@@ -3415,3 +3415,4 @@ Gashing Sphere(22975867) :-Sphere is what I typed\n
 Harenoir(11427049) :-ohh
 Gashing Sphere(22975867) :-What has u tippid?
 Harenoir(11427049) :-i have no idea lol
+Gashing Sphere(22975867) :-Lemme refine mine\n
