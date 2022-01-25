@@ -1268,3 +1268,12 @@ Lumi(16008266) :-I can see Gashing Sphere, Somethinglalala, Harenoir, Cryo and 4
 Cryo(22783061) :-lumi whos her
 Lumi(16008266) :-I can see Lumi, Gashing Sphere, Somethinglalala, Harenoir, Cryo and 3 lurkers
 Cryo(22783061) :-sigh
+Somethinglalala(23370112) :-Look! My name is there\n
+Harenoir(11427049) :-lumi whos her
+Lumi(16008266) :-I can see Lumi, Gashing Sphere, Somethinglalala, Harenoir, Cryo and 3 lurkers
+Cryo(22783061) :-what was the point
+Harenoir(11427049) :-yes that works
+Harenoir(11427049) :-apprently
+Somethinglalala(23370112) :-Her?
+Harenoir(11427049) :-apparently*
+Somethinglalala(23370112) :-Lol\n
