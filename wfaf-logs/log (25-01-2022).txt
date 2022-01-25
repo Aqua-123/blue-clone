@@ -300,3 +300,5 @@ Cryo(22783061) :-then we know its infinite
 Cryo(22783061) :-if it stops at 17 or 18k
 Cryo(22783061) :-then
 Cryo(22783061) :-weve to make it infinite
+Harenoir(11427049) :-i----
+Harenoir(11427049) :-i cant believe i actually gave jamie the idea for this method
