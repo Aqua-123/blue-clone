@@ -6583,3 +6583,5 @@ Gashing Sphere(22975867) :-We just
 Gashing Sphere(22975867) :-Blue get id of 🖤Sweetie🖤
 Blue(21550262) :-ID of 🖤Sweetie🖤 is 19271305
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-And then we say ban that Id and they will be banned\n
+Gashing Sphere(22975867) :-But doesnt work for us\n
