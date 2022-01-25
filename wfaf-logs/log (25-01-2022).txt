@@ -5025,3 +5025,10 @@ Cryo(22783061) :-blue get details of 22783061
 Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 27983 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
 Blue(21550262) :-yep i checked emojipedia
 nullity(14751444) :-5
+nullity(14751444) :-4
+nullity(14751444) :-3
+nullity(14751444) :-2
+nullity(14751444) :-1
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-3
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-...
+nullity(14751444) :-me ques got ignored
