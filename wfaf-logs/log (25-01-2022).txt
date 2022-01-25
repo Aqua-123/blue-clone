@@ -5118,3 +5118,4 @@ Lumi(16008266) :-Hello, Noting Jawa! Welcome to WFAF! - Waiting for a Friend! Th
 Lumi(16008266) :-Hi, Noting Jawa! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Noting Jawa, dont feel bad, theyll accept one day... hopefully!
 Ivory Pyramid(23382564) :-Heey Maxim!!
+Lumi(16008266) :-Hello, nobody! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
