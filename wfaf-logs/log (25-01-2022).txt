@@ -4109,3 +4109,7 @@ Gashing Sphere(22975867) :-Sooo\n
 Gashing Sphere(22975867) :-Nyan\n
 Gashing Sphere(22975867) :-Nyan nyan
 Gashing Sphere(22975867) :-3
+Gashing Sphere(22975867) :-2
+Gashing Sphere(22975867) :-\n1
+Gashing Sphere(22975867) :-Nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan
+Gashing Sphere(22975867) :-I love me\n
