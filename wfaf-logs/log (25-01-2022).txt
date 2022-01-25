@@ -5281,3 +5281,5 @@ Gashing Sphere(22975867) :-3.\n\nThe equation to the locus of a point P for whic
 Gashing Sphere(22975867) :-There\n
 Gashing Sphere(22975867) :-Question
 Jackal(15466860) :-what kinda math is this?
+Gashing Sphere(22975867) :-Uhh
+Gashing Sphere(22975867) :-Its Locus\n
