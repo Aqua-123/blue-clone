@@ -7439,3 +7439,6 @@ Strawberry 🍓(16521287) :-Lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Harenoir, Blue, Limping Cube lurking in the shadows...
 Strawberry 🍓(16521287) :-Hmm
 Strawberry 🍓(16521287) :-Nurse seen Harenoir
+Strawberry 🍓(16521287) :-delay~
+Strawberry 🍓(16521287) :-aaand
+🤖 Mecha Nurse 💉(20909261) :-I last saw Harenoir (#harenoir) 11427049 in WFAF 19 minutes ago.
