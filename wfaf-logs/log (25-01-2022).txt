@@ -1600,3 +1600,8 @@ Harenoir(11427049) :-english
 Harenoir(11427049) :-do you speak it?
 Cryo(22783061) :-yea
 Harenoir(11427049) :-ok good
+Cryo(22783061) :-owo
+Harenoir(11427049) :-glad were on the same page
+Cryo(22783061) :-right
+Harenoir(11427049) :-also those numbers
+Harenoir(11427049) :-are looking good too
