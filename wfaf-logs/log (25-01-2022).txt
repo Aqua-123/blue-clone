@@ -617,3 +617,9 @@ Gashing Sphere(22975867) :-i got mad logging in\n
 Cryo(22783061) :-youre welcome
 Cryo(22783061) :-blue get details of 21550262
 Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13140 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+Gashing Sphere(22975867) :-Lol thanks\n
+Gashing Sphere(22975867) :-Anyways
+Cryo(22783061) :-blue get details of 21550262
+Gashing Sphere(22975867) :-Ribbit\n
+Gashing Sphere(22975867) :-.
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13140 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
