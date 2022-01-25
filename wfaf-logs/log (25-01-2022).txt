@@ -1211,3 +1211,5 @@ Gashing Sphere(22975867) :-Yes\n
 Harenoir(11427049) :-ig this is what people call
 Harenoir(11427049) :-character development
 Gashing Sphere(22975867) :-Lol at least i do\n
+Gashing Sphere(22975867) :-I like how no one has found a unique name for me lol\n
+Cryo(22783061) :-you know teri you dont have to add lumi what is WFAF and lumi what is wfaf both to regex, we are already ignore the case with the re . I command
