@@ -182,3 +182,4 @@ Harenoir(11427049) :-you know i wont leave, but you get what i mean
 Lumi(16008266) :-Hello, Venus Ewok! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Venus Ewok! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Venus Ewok, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
