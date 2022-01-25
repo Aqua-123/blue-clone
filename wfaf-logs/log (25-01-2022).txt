@@ -5484,3 +5484,7 @@ Jackal(15466860) :-hello me name is jackal i am robot\n
 Gashing Sphere(22975867) :-And Ive copied it
 Jackal(15466860) :-thats what it says
 Gashing Sphere(22975867) :-And Ill do it myself
+Gashing Sphere(22975867) :->:(
+Jackal(15466860) :-lol
+Gashing Sphere(22975867) :-Hmph\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
