@@ -4179,3 +4179,8 @@ Gashing Sphere(22975867) :-Bubbles\n
 Somethinglalala(23370112) :-Nice name. Bubbles\n
 Somethinglalala(23370112) :-Bubblies\n
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-hmm?
+Gashing Sphere(22975867) :-Shut up\n
+Gashing Sphere(22975867) :-Meet this guy\n
+Gashing Sphere(22975867) :-He is me\n
+Somethinglalala(23370112) :-And i am him\n
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-wha
