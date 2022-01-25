@@ -1287,3 +1287,8 @@ Cryo(22783061) :-this
 Harenoir(11427049) :-oh
 Harenoir(11427049) :-that?
 Cryo(22783061) :-is it supposed to do something else?
+Cryo(22783061) :-lmao look at this
+Cryo(22783061) :-lumi whos ther
+Lumi(16008266) :-I can see Lumi, Gashing Sphere, Somethinglalala, Harenoir, Cryo and 3 lurkers
+Harenoir(11427049) :-i dont remember anymore
+Gashing Sphere(22975867) :-Ther\n
