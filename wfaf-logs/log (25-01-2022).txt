@@ -5192,3 +5192,7 @@ Lumi(16008266) :-Hi, Jackal! Im afraid they arent your friend yet, you can alway
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hi again, Jackal, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Jackal(15466860) :-hi
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Eva(21541886) :-hello
+Jackal(15466860) :-hru
