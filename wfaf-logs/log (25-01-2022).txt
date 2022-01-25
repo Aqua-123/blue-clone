@@ -2378,3 +2378,4 @@ Cryo(22783061) :-if anything
 Harenoir(11427049) :-i gave up long ago
 Harenoir(11427049) :-huh
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Cryo(22783061) :-blue get details of 22783061
