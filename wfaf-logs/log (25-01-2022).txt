@@ -3657,3 +3657,6 @@ Gashing Sphere(22975867) :-Eat well\n
 S​o​u​L(20327398) :-by3
 Gashing Sphere(22975867) :-Even i didnt eat...
 Gashing Sphere(22975867) :-Ah not hungry
+Gashing Sphere(22975867) :-Ribbit?
+Harenoir(11427049) :-yea?
+Gashing Sphere(22975867) :-:)
