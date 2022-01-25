@@ -805,3 +805,6 @@ Cryo(22783061) :-so getting that info took time
 Harenoir(11427049) :-emerald going slow
 Gashing Sphere(22975867) :-Maybe gonna fall.
 Cryo(22783061) :-i take thy no blame-
+Harenoir(11427049) :--.-
+Gashing Sphere(22975867) :-No blame comes upon thee\n
+Harenoir(11427049) :-ive given up in my usual schedule in the meanwhile
