@@ -718,3 +718,8 @@ Gashing Sphere(22975867) :-Been long\n
 Harenoir(11427049) :-havent seen her in a while
 Gashing Sphere(22975867) :-Hmphhhhh
 Cryo(22783061) :-she is not well
+Harenoir(11427049) :-oh
+Gashing Sphere(22975867) :-Oh...
+Gashing Sphere(22975867) :-Hope she gets well soon\n
+Cryo(22783061) :-fever headache
+Cryo(22783061) :-and all
