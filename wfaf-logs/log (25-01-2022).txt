@@ -1240,3 +1240,6 @@ Harenoir(11427049) :-the if else statement is too big because of too many whos h
 Gashing Sphere(22975867) :-If else?
 Harenoir(11427049) :-:)
 Gashing Sphere(22975867) :-Thats C++ right?
+Gashing Sphere(22975867) :-Oh wait\n
+Gashing Sphere(22975867) :-Python is made with C++
+Gashing Sphere(22975867) :-So obvious\n
