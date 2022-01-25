@@ -6706,3 +6706,5 @@ Mercury Orange(23385486) :-Lumi
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Mercury Orange(23385486) :-:lumi
 Mercury Orange(23385486) :-:
+Mercury Orange(23385486) :-#
+Mercury Orange(23385486) :-$
