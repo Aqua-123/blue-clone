@@ -900,3 +900,6 @@ Gashing Sphere(22975867) :-So i use Chrome\n
 Harenoir(11427049) :-ive tried edge
 Harenoir(11427049) :-too slow for me
 Harenoir(11427049) :-same as chrome
+Gashing Sphere(22975867) :-Heh idc about speed\n
+Gashing Sphere(22975867) :-Its about usability
+Cryo(22783061) :-the comparison, blue 910 lines, lumi 414
