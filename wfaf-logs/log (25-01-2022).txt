@@ -4533,3 +4533,5 @@ S​o​u​L(20327398) :-temporarily
 Gashing Sphere(22975867) :-Why temporary?
 S​o​u​L(20327398) :-cant always keep it alive
 Gashing Sphere(22975867) :-Hmm explains it all\n
+Gashing Sphere(22975867) :-Hi Mia
+Gashing Sphere(22975867) :-Yikes\n
