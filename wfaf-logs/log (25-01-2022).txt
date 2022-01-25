@@ -3134,3 +3134,8 @@ Cryo(22783061) :-just talking about eme for now
 Cryo(22783061) :-field obv not
 Cryo(22783061) :-yes
 Gashing Sphere(22975867) :-And... Fr what will u do if Callan gives you this website?!
+Cryo(22783061) :-shut it down
+Harenoir(11427049) :-good
+Gashing Sphere(22975867) :-Huuuuuuuuh
+Harenoir(11427049) :-its all over anyway
+Cryo(22783061) :-game over time
