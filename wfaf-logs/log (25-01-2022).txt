@@ -1247,3 +1247,5 @@ Cryo(22783061) :-all languages have if else statementss
 Somethinglalala(23370112) :-You are a fool, sphere\n
 Gashing Sphere(22975867) :-Ikr!
 Harenoir(11427049) :-harsh
+Gashing Sphere(22975867) :-I need to learn wayyyy more than what i know now\n
+Harenoir(11427049) :-me too
