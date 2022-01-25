@@ -991,3 +991,10 @@ Cryo(22783061) :-200
 Cryo(22783061) :-FFS
 Cryo(22783061) :-anyways
 Gashing Sphere(22975867) :-Not multiply!
+Harenoir(11427049) :-lmao
+Cryo(22783061) :-soo 200 minutes
+Cryo(22783061) :-thats
+Cryo(22783061) :-3 hours ish
+Gashing Sphere(22975867) :-Yes\n
+Cryo(22783061) :-thats how much time is left for first cycle to complete
+Gashing Sphere(22975867) :-3 hours 20 minutes\n
