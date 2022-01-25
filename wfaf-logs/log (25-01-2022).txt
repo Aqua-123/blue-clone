@@ -6396,3 +6396,11 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Gashing Sphere(22975867) :-U can ignore these mecha bot messages\n
 Gashing Sphere(22975867) :-Hi blue\n
 Blue(21550262) :-Hellosss :D
+Gashing Sphere(22975867) :-Hi lumi\n
+Lumi(16008266) :-Hiiiiii!~
+Gashing Sphere(22975867) :-Hi mecha\n
+🤖 Mecha Nurse 💉(20909261) :-Howdy Gashing Sphere?
+🖤Sweetie🖤(19271305) :-Boii :D\n
+Gashing Sphere(22975867) :-Hehe\n
+🖤Sweetie🖤(19271305) :-Hoii
+Gashing Sphere(22975867) :-U try\n
