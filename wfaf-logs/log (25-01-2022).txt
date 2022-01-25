@@ -5381,3 +5381,9 @@ Gashing Sphere(22975867) :-H\n
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-high five~* :D
 Jackal(15466860) :-guess my age?
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-22
+Gashing Sphere(22975867) :-High five~* :D\n
+Gashing Sphere(22975867) :-22?
+Gashing Sphere(22975867) :-Woah\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Jackal(15466860) :-nope
