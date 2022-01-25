@@ -1025,3 +1025,4 @@ Cryo(22783061) :-not taking that job
 Gashing Sphere(22975867) :-Astronaut in the Space. Not ocean\n
 Harenoir(11427049) :-me neither tbh
 Gashing Sphere(22975867) :-All of u together
+Harenoir(11427049) :-deep seas and space are not different at all
