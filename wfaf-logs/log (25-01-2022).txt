@@ -6993,3 +6993,9 @@ Almond cookie(20199174) :-you lying bitxh
 Almond cookie(20199174) :-Hello, mecha
 🤖 Mecha Nurse 💉(20909261) :-Hi Almond cookie!
 Almond cookie(20199174) :-hello, lumi
+Almond cookie(20199174) :-Hello, lumi
+Almond cookie(20199174) :-Hi lumi
+Lumi(16008266) :-Hiiiiii!~
+Almond cookie(20199174) :-Hi blue <3
+Almond cookie(20199174) :-Hi blue
+Blue(21550262) :-Hellosss :D
