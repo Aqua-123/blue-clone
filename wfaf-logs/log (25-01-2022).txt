@@ -1495,3 +1495,9 @@ Harenoir(11427049) :-but
 Gashing Sphere(22975867) :-Its night\n
 Harenoir(11427049) :-i dont think breakfast at midnight is a thing
 Gashing Sphere(22975867) :-And u call it a breakfast
+Gashing Sphere(22975867) :-Breakfast + dinner =
+Gashing Sphere(22975867) :-Breaker\n
+Gashing Sphere(22975867) :-Hehe\n
+Harenoir(11427049) :-ohh
+Harenoir(11427049) :-*noted*
+Gashing Sphere(22975867) :-I made it up\n
