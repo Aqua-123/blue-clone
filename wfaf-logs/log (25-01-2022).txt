@@ -3268,3 +3268,13 @@ Cryo(22783061) :-i-
 Gashing Sphere(22975867) :-What theeee\n
 Harenoir(11427049) :-damnit
 Gashing Sphere(22975867) :-;-;
+Gashing Sphere(22975867) :-Its oki\n
+Gashing Sphere(22975867) :-Lol\n
+Harenoir(11427049) :-someone give it a -1
+Cryo(22783061) :-blue get details of 22975867
+Blue(21550262) :-The account with ID 22975867 has the name Gashing Sphere(gashing_sphere) with karma:- 6700 and gender set to m and was created on 2021-12-19 at 14:42:42.002Z
+Gashing Sphere(22975867) :-Ill go to GC and one will give me -1
+Gashing Sphere(22975867) :-For sure\n
+Cryo(22783061) :-blue get details of 22975867
+Blue(21550262) :-The account with ID 22975867 has the name Gashing Sphere(gashing_sphere) with karma:- 6700 and gender set to m and was created on 2021-12-19 at 14:42:42.002Z
+Harenoir(11427049) :-wait dont move
