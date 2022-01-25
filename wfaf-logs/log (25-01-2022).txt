@@ -6068,3 +6068,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Hi, The Deathstar! Im afraid they arent your friend yet, you can always try again!
 The Deathstar(10579120) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, 🤖 Mecha Nurse 💉, The Deathstar, Omnissiah, Blue and 2 lurkers
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
+The Deathstar(10579120) :-whats up wfaf
