@@ -6157,3 +6157,6 @@ Gashing Sphere(22975867) :-The Wfaf button on the side doesnt work\n
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-...
+Gashing Sphere(22975867) :-Blue whos lurking
+Blue(21550262) :-I can see Blue, The Deathstar lurking
+Gashing Sphere(22975867) :-The deathstar\n
