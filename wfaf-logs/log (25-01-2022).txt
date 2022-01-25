@@ -458,3 +458,7 @@ Cryo(22783061) :-*cough cough* jake *cough*
 Harenoir(11427049) :-yes that
 Harenoir(11427049) :-i wonder if i could work on it too
 Harenoir(11427049) :-cant be too hard
+Cryo(22783061) :-you can try
+Harenoir(11427049) :-nice
+Cryo(22783061) :-also maybe js would be better with this
+Cryo(22783061) :-i tried with python and got these rates
