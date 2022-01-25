@@ -1249,3 +1249,6 @@ Gashing Sphere(22975867) :-Ikr!
 Harenoir(11427049) :-harsh
 Gashing Sphere(22975867) :-I need to learn wayyyy more than what i know now\n
 Harenoir(11427049) :-me too
+Somethinglalala(23370112) :-Yup\n
+Somethinglalala(23370112) :-Go study you fool\n
+Gashing Sphere(22975867) :-Not now\n
