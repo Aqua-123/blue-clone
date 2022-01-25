@@ -4566,3 +4566,8 @@ Blue(21550262) :-Ive been here for only 26 minutes
 🤖 Mecha Nurse 💉(20909261) :-Ive been here for 14 days, 19 hours, 57 minutes.
 Eva(21541886) :-Ive been here for 0 hour(s) 28 minute(s) and 56 seconds.
 Gashing Sphere(22975867) :-Mecha give me my shot\n
+Gashing Sphere(22975867) :-Finish it\n
+Gashing Sphere(22975867) :-Once.
+Gashing Sphere(22975867) :-And\n
+Gashing Sphere(22975867) :-For.
+Gashing Sphere(22975867) :-All\n
