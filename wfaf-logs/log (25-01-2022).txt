@@ -6453,3 +6453,7 @@ Gashing Sphere(22975867) :-:>
 Blue(21550262) :-<:
 Gashing Sphere(22975867) :-<:
 Blue(21550262) :-:>
+Gashing Sphere(22975867) :-<3
+Blue(21550262) :-<3
+Gashing Sphere(22975867) :-Lol\n
+🖤Sweetie🖤(19271305) :-Haha
