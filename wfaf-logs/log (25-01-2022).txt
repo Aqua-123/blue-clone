@@ -2475,3 +2475,11 @@ Blue(21550262) :-I can see Bi m 15 twink , Harenoir, 🤖 Mecha Nurse 💉 lurki
 Cryo(22783061) :-blue get id of Harenoir
 Blue(21550262) :-ID of Harenoir is 11427049
 Gashing Sphere(22975867) :-Who?
+Gashing Sphere(22975867) :-Bi m 15
+Cryo(22783061) :-blue get id of Bi m 15 twink
+Blue(21550262) :-Im sorry I havent seen anyone with the name Bi m 15 twink here
+Cryo(22783061) :-blue get id of Bo
+Blue(21550262) :-Im sorry I havent seen anyone with the name Bo here
+Cryo(22783061) :-blue get id of Bi
+Blue(21550262) :-Im sorry I havent seen anyone with the name Bi here
+Cryo(22783061) :-umm
