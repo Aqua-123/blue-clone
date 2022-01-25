@@ -2955,3 +2955,9 @@ Cryo(22783061) :-max is really 600 per min
 Gashing Sphere(22975867) :-Literally 2 letters away\n
 Cryo(22783061) :-B)
 Cryo(22783061) :-theoretical max
+Harenoir(11427049) :-ah
+Harenoir(11427049) :-i wasnt aware of that
+Cryo(22783061) :-in absolutely stunning conditions
+Harenoir(11427049) :-huh
+Cryo(22783061) :-120 per 12 secs
+Gashing Sphere(22975867) :-600 per minute... 36000 per hour...
