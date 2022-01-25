@@ -5480,3 +5480,7 @@ Jackal(15466860) :-01101000 01100101 01101100 01101100 01101111 00100000 0110110
 Gashing Sphere(22975867) :-...
 Jackal(15466860) :-yeah to me it was just that
 Gashing Sphere(22975867) :-I am too lazy to decode binary rn\n
+Jackal(15466860) :-hello me name is jackal i am robot\n
+Gashing Sphere(22975867) :-And Ive copied it
+Jackal(15466860) :-thats what it says
+Gashing Sphere(22975867) :-And Ill do it myself
