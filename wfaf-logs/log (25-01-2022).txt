@@ -985,3 +985,9 @@ Gashing Sphere(22975867) :-\n200
 Cryo(22783061) :-wiat
 Cryo(22783061) :-JODNDFIJN
 Gashing Sphere(22975867) :-60!
+Gashing Sphere(22975867) :-Lol\n
+Harenoir(11427049) :-36000
+Cryo(22783061) :-200
+Cryo(22783061) :-FFS
+Cryo(22783061) :-anyways
+Gashing Sphere(22975867) :-Not multiply!
