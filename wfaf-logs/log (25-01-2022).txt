@@ -7442,3 +7442,7 @@ Strawberry 🍓(16521287) :-Nurse seen Harenoir
 Strawberry 🍓(16521287) :-delay~
 Strawberry 🍓(16521287) :-aaand
 🤖 Mecha Nurse 💉(20909261) :-I last saw Harenoir (#harenoir) 11427049 in WFAF 19 minutes ago.
+Harenoir(11427049) :-hihi
+Strawberry 🍓(16521287) :-Ooh
+Strawberry 🍓(16521287) :-hii
+Strawberry 🍓(16521287) :-Haha
