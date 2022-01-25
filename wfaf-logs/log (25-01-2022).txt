@@ -2420,3 +2420,4 @@ Gashing Sphere(22975867) :-Mecha nurse left?
 Cryo(22783061) :-she is rejoining
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Oh oki\n
+Gashing Sphere(22975867) :-Why is Ribbit not asleep yet?
