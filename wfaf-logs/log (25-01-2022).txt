@@ -452,3 +452,5 @@ Cryo(22783061) :-during that i farmed a temp to 2400
 Cryo(22783061) :-and gave it to him
 Cryo(22783061) :-oidjdj
 Harenoir(11427049) :-thats fair
+Harenoir(11427049) :-it should remain that way for now
+Cryo(22783061) :-certainly
