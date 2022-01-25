@@ -3235,3 +3235,11 @@ Gashing Sphere(22975867) :-Who said that\n
 Harenoir(11427049) :-a wise person
 Harenoir(11427049) :-not me btw
 Gashing Sphere(22975867) :-Heh\n
+Gashing Sphere(22975867) :-What goes around comes around
+Gashing Sphere(22975867) :-That too\n
+Gashing Sphere(22975867) :-Is like karma\n
+Gashing Sphere(22975867) :-But in a sentence
+Harenoir(11427049) :-yes karma
+Cryo(22783061) :-blue get details of 22975867
+Blue(21550262) :-The account with ID 22975867 has the name Gashing Sphere(gashing_sphere) with karma:- 6623 and gender set to m and was created on 2021-12-19 at 14:42:42.002Z
+Gashing Sphere(22975867) :-Woahhh\n
