@@ -3382,3 +3382,7 @@ Gashing Sphere(22975867) :-Back again
 Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-Thats mine\n
 Gashing Sphere(22975867) :-Woo!
+Gashing Sphere(22975867) :-Did grind\n
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
+Gashing Sphere(22975867) :-I did grind lol\n
+Gashing Sphere(22975867) :-Pitsaaa\n
