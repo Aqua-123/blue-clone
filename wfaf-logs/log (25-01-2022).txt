@@ -937,3 +937,8 @@ Harenoir(11427049) :-i value speed the most because
 Gashing Sphere(22975867) :-GOT IT!
 Gashing Sphere(22975867) :-finally lol\n
 Gashing Sphere(22975867) :-And\n
+Gashing Sphere(22975867) :-U can continue
+Harenoir(11427049) :-my potato cant handle stuff around 80% of the time
+Gashing Sphere(22975867) :-Potato?
+Harenoir(11427049) :-yes
+Harenoir(11427049) :-the potato i have for pc
