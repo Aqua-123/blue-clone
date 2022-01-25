@@ -1243,3 +1243,7 @@ Gashing Sphere(22975867) :-Thats C++ right?
 Gashing Sphere(22975867) :-Oh wait\n
 Gashing Sphere(22975867) :-Python is made with C++
 Gashing Sphere(22975867) :-So obvious\n
+Cryo(22783061) :-all languages have if else statementss
+Somethinglalala(23370112) :-You are a fool, sphere\n
+Gashing Sphere(22975867) :-Ikr!
+Harenoir(11427049) :-harsh
