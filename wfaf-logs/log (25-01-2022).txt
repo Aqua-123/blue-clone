@@ -22,3 +22,4 @@ Lumi(16008266) :-Hi again, Earth Pizza, dont feel bad, theyll accept one day... 
 Earth Pizza(23374112) :-hello im 19rys old and from germany , how are you and where are you from?
 Lumi(16008266) :-Hello, Jupiter Gungan! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, WhyAmIHere?! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+WhyAmIHere?(23378048) :-I’m back to the void
