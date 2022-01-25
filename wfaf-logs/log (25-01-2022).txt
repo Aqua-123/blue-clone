@@ -5197,3 +5197,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Eva(21541886) :-hello
 Jackal(15466860) :-hru
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Jackal(15466860) :-hi
+Eva(21541886) :-hello
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
