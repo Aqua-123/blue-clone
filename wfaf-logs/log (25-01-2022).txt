@@ -1284,3 +1284,6 @@ Gashing Sphere(22975867) :-Happens
 Harenoir(11427049) :-let me check that real quick
 Cryo(22783061) :-lumi (who?s) here?
 Cryo(22783061) :-this
+Harenoir(11427049) :-oh
+Harenoir(11427049) :-that?
+Cryo(22783061) :-is it supposed to do something else?
