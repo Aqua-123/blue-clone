@@ -749,3 +749,9 @@ Gashing Sphere(22975867) :-Like\n
 Gashing Sphere(22975867) :-Rn if possible
 Cryo(22783061) :-hm hmm
 Gashing Sphere(22975867) :-Welp. I got meth class\n
+Gashing Sphere(22975867) :-The teacher hasnt started meeting
+Gashing Sphere(22975867) :-Im free\n
+Cryo(22783061) :-oh btw what happened to your name
+Lumi(16008266) :-Hello, Yellow Pyramid! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Gashing Sphere(22975867) :-I just changed it as of now\n
+Lumi(16008266) :-Hi, Yellow Pyramid! Im afraid they arent your friend yet, you can always try again!
