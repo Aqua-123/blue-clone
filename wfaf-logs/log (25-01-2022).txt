@@ -3370,3 +3370,6 @@ Harenoir(11427049) :-really is nice
 Aqua(16986137) :-certainly
 Gashing Sphere(22975867) :-And on the other end, there is mine lol\n
 Gashing Sphere(22975867) :-Shakespearean
+Harenoir(11427049) :-and mine is in between
+Gashing Sphere(22975867) :-Its in Hawaii\n
+Harenoir(11427049) :-still brings me a bittersweet feeling
