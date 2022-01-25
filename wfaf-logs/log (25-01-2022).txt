@@ -7005,3 +7005,5 @@ Almond cookie(20199174) :-lumi whos here
 Lumi(16008266) :-I can see Almond cookie, Lumi and 3 lurkers
 Almond cookie(20199174) :-lumi whos idle
 Lumi(16008266) :-I see Blue, 🤖 Mecha Nurse 💉, m27 lurking in the shadows...
+Almond cookie(20199174) :-Hello, mecha
+Almond cookie(20199174) :-hi blue
