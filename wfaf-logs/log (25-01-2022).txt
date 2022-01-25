@@ -1375,3 +1375,5 @@ Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend
 Somethinglalala(23370112) :-Missed me punk?
 Gashing Sphere(22975867) :-Absolutely not\n
 Gashing Sphere(22975867) :-Ahem\n
+Gashing Sphere(22975867) :-Nothing to discuss about with myself
+Somethinglalala(23370112) :-Ikr\n
