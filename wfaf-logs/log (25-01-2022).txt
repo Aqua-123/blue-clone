@@ -1329,3 +1329,5 @@ Somethinglalala(23370112) :-U cant touch my hair\n
 Gashing Sphere(22975867) :-I maybe cant touch your hair\n
 Gashing Sphere(22975867) :-But i can kick your balls\n
 Gashing Sphere(22975867) :-Also\n
+Gashing Sphere(22975867) :-Your hair is dirty\n
+Somethinglalala(23370112) :-Dare speak about my hair!
