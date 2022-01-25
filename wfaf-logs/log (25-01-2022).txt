@@ -2088,3 +2088,8 @@ Cryo(22783061) :-delta heat gain
 Gashing Sphere(22975867) :-For me it shows you are in 13830
 Cryo(22783061) :-delta v
 Cryo(22783061) :-because i havent refreshed
+Gashing Sphere(22975867) :-Oki\n
+Cryo(22783061) :-blue will report accurately
+Gashing Sphere(22975867) :-And my internet is so slow\n
+Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 18178 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
