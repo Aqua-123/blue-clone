@@ -1799,3 +1799,7 @@ Harenoir(11427049) :-damn
 Gashing Sphere(22975867) :-I like to get creative with all these stuff\n
 Harenoir(11427049) :-ever tried making a database in excel
 Gashing Sphere(22975867) :-Excel is like dead cells\n
+Gashing Sphere(22975867) :-And nope\n
+Harenoir(11427049) :-me neither
+Harenoir(11427049) :-but people always say dont do that
+Gashing Sphere(22975867) :-What is database in Excel anyway?
