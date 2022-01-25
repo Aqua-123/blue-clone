@@ -251,3 +251,7 @@ Harenoir(11427049) :-i-
 Harenoir(11427049) :-so it really had nothing to do with greeters
 Cryo(22783061) :-nope
 Cryo(22783061) :-nothin
+Cryo(22783061) :-considering its the same thing that ny experiment is doing...
+Cryo(22783061) :-it is reaching rates of 60 per min at times
+Cryo(22783061) :-inconsistently tho
+Cryo(22783061) :-but yes
