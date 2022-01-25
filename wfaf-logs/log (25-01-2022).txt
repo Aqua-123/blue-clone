@@ -2840,3 +2840,10 @@ Harenoir(11427049) :-huh
 Cryo(22783061) :-thats what you are supposed to do in class
 Cryo(22783061) :-i think?
 Gashing Sphere(22975867) :-Its 2 pm and u know it\n
+Cryo(22783061) :-but its class?
+Gashing Sphere(22975867) :-I wont get sleep\n
+Gashing Sphere(22975867) :-In this heat\n
+Cryo(22783061) :-heat????
+Gashing Sphere(22975867) :-Yes\n
+Cryo(22783061) :-ITS FUCKING FREEZING
+Gashing Sphere(22975867) :-Its super hot here\n
