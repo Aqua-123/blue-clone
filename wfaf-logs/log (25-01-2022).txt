@@ -2372,3 +2372,4 @@ Harenoir(11427049) :-well
 Harenoir(11427049) :-this is it, then
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Cryo(22783061) :-it is
+Cryo(22783061) :-eme is laggy af
