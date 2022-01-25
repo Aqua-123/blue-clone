@@ -5315,3 +5315,8 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Gashing Sphere(22975867) :-I need to study more\n
 Gashing Sphere(22975867) :-And.
+Gashing Sphere(22975867) :-U did what?
+Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
+Jackal(15466860) :-well it had som complex stuff in the explination
+Gashing Sphere(22975867) :-Oki...
+Gashing Sphere(22975867) :-Lemme goggle myself
