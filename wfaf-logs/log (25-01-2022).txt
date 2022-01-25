@@ -1440,3 +1440,8 @@ Gashing Sphere(22975867) :-Seemingly
 Gashing Sphere(22975867) :-Anyways. How is the weather?
 Somethinglalala(23370112) :-Ah its pleasant.
 Somethinglalala(23370112) :-Did u eat breakfast?
+Gashing Sphere(22975867) :-Eh no\n
+Somethinglalala(23370112) :-Why?
+Gashing Sphere(22975867) :-There is still time\n
+Somethinglalala(23370112) :-Oukay\n
+Gashing Sphere(22975867) :-Mhmm\n
