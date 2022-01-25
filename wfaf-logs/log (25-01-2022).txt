@@ -1455,3 +1455,5 @@ Gashing Sphere(22975867) :-Yeah that is true\n
 Somethinglalala(23370112) :-Welp\n
 Somethinglalala(23370112) :-Even i just saw someone type?
 Gashing Sphere(22975867) :-I saw nobody\n
+Gashing Sphere(22975867) :-Mayyybe someone is hiding
+Somethinglalala(23370112) :-Blue whos here\n
