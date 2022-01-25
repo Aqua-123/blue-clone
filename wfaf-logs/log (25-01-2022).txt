@@ -1493,3 +1493,5 @@ Gashing Sphere(22975867) :-Hehe\n
 Harenoir(11427049) :-id join in breakfast
 Harenoir(11427049) :-but
 Gashing Sphere(22975867) :-Its night\n
+Harenoir(11427049) :-i dont think breakfast at midnight is a thing
+Gashing Sphere(22975867) :-And u call it a breakfast
