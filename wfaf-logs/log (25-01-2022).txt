@@ -1716,3 +1716,7 @@ Lumi(16008266) :-Hello, 119! Welcome to WFAF! - Waiting for a Friend! The place 
 119(8462867) :-hi
 Lumi(16008266) :-Hi, 119! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, 119, dont feel bad, theyll accept one day... hopefully!
+Cryo(22783061) :-if jamie knew this all along
+Cryo(22783061) :-he coudve
+Cryo(22783061) :-just
+Cryo(22783061) :-improved maris script
