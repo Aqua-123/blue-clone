@@ -4656,3 +4656,5 @@ S​o​u​L(20327398) :-he isnt here
 Gashing Sphere(22975867) :-Hmm ik\n
 Gashing Sphere(22975867) :-I saw blue leave\n
 Gashing Sphere(22975867) :-And blue returned\n
+Gashing Sphere(22975867) :-Or no?
+Gashing Sphere(22975867) :-Idk\n
