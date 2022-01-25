@@ -625,3 +625,12 @@ Gashing Sphere(22975867) :-.
 Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13140 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
 Gashing Sphere(22975867) :-Ribbittttt\n
 Harenoir(11427049) :-ah yes
+Gashing Sphere(22975867) :-Ribbit Ribbit
+Harenoir(11427049) :-here
+Gashing Sphere(22975867) :-Hi\n
+Harenoir(11427049) :-present
+Blue(21550262) :-Hi, Cryo, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Harenoir(11427049) :-hi
+Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Disabling greets uwu
+Gashing Sphere(22975867) :-Lol just wanted to say hi, nothing else\n
