@@ -19,3 +19,4 @@ Lumi(16008266) :-Hi again, Earth Pizza, dont feel bad, theyll accept one day... 
 Lumi(16008266) :-Hello, Earth Pizza! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Earth Pizza! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Earth Pizza, dont feel bad, theyll accept one day... hopefully!
+Earth Pizza(23374112) :-hello im 19rys old and from germany , how are you and where are you from?
