@@ -1233,3 +1233,6 @@ Cryo(22783061) :-insane
 Harenoir(11427049) :-i know
 Harenoir(11427049) :-i was planning to add even more stuff
 Gashing Sphere(22975867) :-I was unmute in meth class...
+Gashing Sphere(22975867) :-Luckily no one is around me speaking
+Harenoir(11427049) :-even jamie scolded me about it when he saw thea
+Cryo(22783061) :-ill consolidate this one and while adding more just follow that pattern
