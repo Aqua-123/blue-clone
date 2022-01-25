@@ -1331,3 +1331,6 @@ Gashing Sphere(22975867) :-But i can kick your balls\n
 Gashing Sphere(22975867) :-Also\n
 Gashing Sphere(22975867) :-Your hair is dirty\n
 Somethinglalala(23370112) :-Dare speak about my hair!
+Gashing Sphere(22975867) :-Ever seen your hair in the mirror? It looks like an elephant tail spread out\n
+Somethinglalala(23370112) :-Stop!
+Somethinglalala(23370112) :-My hair is awesome!
