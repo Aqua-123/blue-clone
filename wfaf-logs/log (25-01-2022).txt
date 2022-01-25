@@ -1424,3 +1424,5 @@ Gashing Sphere(22975867) :-Well i dont speak nonsens like you\n
 Somethinglalala(23370112) :-Look at that! Nonsens\n
 Somethinglalala(23370112) :-Thats how u spell it u fool?.
 Gashing Sphere(22975867) :-I spell it that way. Who are you to teach me?
+Somethinglalala(23370112) :-Oh i just felt it is my duty to teach a fool\n
+Gashing Sphere(22975867) :-Then teach yourself. U need help too\n
