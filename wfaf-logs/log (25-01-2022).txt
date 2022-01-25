@@ -6139,3 +6139,4 @@ Lumi(16008266) :-Hello, The Deathstar! Welcome to WFAF! - Waiting for a Friend! 
 The Deathstar(10579120) :-yee
 🤖 Mecha Nurse 💉(20909261) :-Welcome, The Deathstar, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.
 Blue(21550262) :-Re-enabling greets :D
+Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
