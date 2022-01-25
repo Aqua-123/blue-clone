@@ -5893,3 +5893,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Jackal(15466860) :-wait so you have to make a new account for a greeter?
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Jackal(15466860) :-man i really lost my touch with programming
