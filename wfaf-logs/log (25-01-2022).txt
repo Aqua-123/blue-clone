@@ -2643,3 +2643,6 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Gashing Sphere(22975867) :-What are we supposed to do if one has a sugar rush?
 Cryo(22783061) :-run
+Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
+Gashing Sphere(22975867) :-...
+Gashing Sphere(22975867) :-Run?
