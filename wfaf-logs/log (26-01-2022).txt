@@ -4395,3 +4395,5 @@ Lumi(16008266) :-Hi again, Shining Eevee, dont feel bad, theyll accept one day..
 Lumi(16008266) :-Hello, Neptune Rectangle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Neptune Rectangle! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Subby Boy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Subby Boy! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Subby Boy, dont feel bad, theyll accept one day... hopefully!
