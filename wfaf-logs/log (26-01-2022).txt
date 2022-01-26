@@ -3684,3 +3684,8 @@ Gashing Sphere(22975867) :-Choose\n
 Gashing Sphere(22975867) :-All of u\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-bug and ghost\n
 Wasting elk(23394915) :-Yup
+Wasting elk(23394915) :-There is only one pokemon
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-a bug type is weedle\n
+Wasting elk(23394915) :-Nooo
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-ghost type is gengar\n
+Gashing Sphere(22975867) :-*sigh* so nobody needs anything?
