@@ -4434,3 +4434,4 @@ Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hello, Black Porg! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Black Porg(23395706) :-hey
 Lumi(16008266) :-Hello, Orange Flareon! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Orange Flareon(23396391) :-wanna b naughty?
