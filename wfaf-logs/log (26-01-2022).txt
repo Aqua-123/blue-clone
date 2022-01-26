@@ -4576,3 +4576,4 @@ purpleflower(11040022) :-blu bye
 Harenoir(11427049) :-aw man
 Harenoir(11427049) :-why do i always get the weird ones
 Harenoir(11427049) :-even two years later
+Lumi(16008266) :-Hello, Magenta Electabuzz! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
