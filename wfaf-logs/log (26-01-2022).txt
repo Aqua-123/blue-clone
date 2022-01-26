@@ -1246,3 +1246,8 @@ Gashing Sphere(22975867) :-Someone just said Eugene\n
 Gashing Sphere(22975867) :-In the GC\n
 Gashing Sphere(22975867) :-And\n
 Harenoir(11427049) :-oh-
+Gashing Sphere(22975867) :-Why was Aqua mad tho?
+Harenoir(11427049) :-idk
+Gashing Sphere(22975867) :-Hmm\n
+Harenoir(11427049) :-stuff
+Harenoir(11427049) :-random stuff
