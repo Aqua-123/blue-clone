@@ -972,3 +972,20 @@ Gashing Sphere(22975867) :-Word\n
 Gashing Sphere(22975867) :-By\n
 Gashing Sphere(22975867) :-Word\n
 Harenoir(11427049) :-i
+Harenoir(11427049) :-mean
+Harenoir(11427049) :-is
+Harenoir(11427049) :-not
+Harenoir(11427049) :-really
+Harenoir(11427049) :-that
+Harenoir(11427049) :-hard
+Harenoir(11427049) :-is
+Harenoir(11427049) :-it
+Harenoir(11427049) :-?
+Gashing Sphere(22975867) :-Yes\n
+Gashing Sphere(22975867) :-Right
+Gashing Sphere(22975867) :-But\n
+Gashing Sphere(22975867) :-Still\n
+Harenoir(11427049) :-yeah
+Harenoir(11427049) :-i
+Harenoir(11427049) :-get
+Harenoir(11427049) :-it
