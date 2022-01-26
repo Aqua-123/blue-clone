@@ -384,3 +384,4 @@ Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... ho
 WALL E(14751444) :-Blue get id of bella
 Blue(21550262) :-ID of bella is 9990528
 WALL E(14751444) :-Lolol
+WALL E(14751444) :-:o
