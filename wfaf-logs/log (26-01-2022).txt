@@ -3058,3 +3058,4 @@ Lumi(16008266) :-Hello, Jace! Welcome to WFAF! - Waiting for a Friend! The place
 Lumi(16008266) :-Hello, Silver Ewok! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Silver Ewok(23393804) :-big fish
 Lumi(16008266) :-Hello, Silver Ewok! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Asking Trout! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
