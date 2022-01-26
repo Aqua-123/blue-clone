@@ -4343,3 +4343,5 @@ Gashing Sphere(22975867) :-Mecha whos here
 🤖 Mecha Nurse 💉(20909261) :-I can see Gashing Sphere. Also 2 people are idle, and there may be lurkers.
 Gashing Sphere(22975867) :-Mecha whos idle\n
 🤖 Mecha Nurse 💉(20909261) :-I think Lumi, Blue are idle.
+Gashing Sphere(22975867) :-Thanks mecha\n
+🤖 Mecha Nurse 💉(20909261) :-My pleasure.
