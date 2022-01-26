@@ -3886,3 +3886,13 @@ Eva(21541886) :-hi
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-hello\n
 Strawberry 🍓(16521287) :-Hi Eva
 Eva(21541886) :-hello there
+Almond cookie(20199174) :-Hello, eva
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-Eva doesnt reply to me\n
+Almond cookie(20199174) :-hi eva
+Eva(21541886) :-hello there
+Gashing Sphere(22975867) :-No comma\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-hi ebe\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-hi Eva\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-hi eva
+Eva(21541886) :-hello there
+Strawberry 🍓(16521287) :-How are you Eva?
