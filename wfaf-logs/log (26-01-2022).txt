@@ -661,3 +661,4 @@ Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... ho
 Gashing Sphere(22975867) :-Id*
 Gashing Sphere(22975867) :-Nope
 Gashing Sphere(22975867) :-Frick\n
+Gashing Sphere(22975867) :-Finally correct
