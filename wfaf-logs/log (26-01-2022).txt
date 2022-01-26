@@ -1002,3 +1002,12 @@ Gashing Sphere(22975867) :-Get\n
 Gashing Sphere(22975867) :-Automuted\n
 Harenoir(11427049) :-hopefully
 Harenoir(11427049) :-not
+Gashing Sphere(22975867) :-Yes\n
+Gashing Sphere(22975867) :-+++
+Gashing Sphere(22975867) :-So\n
+Gashing Sphere(22975867) :-How\n
+Gashing Sphere(22975867) :-Is\n
+Gashing Sphere(22975867) :-It\n
+Gashing Sphere(22975867) :-All\n
+Gashing Sphere(22975867) :-Here\n
+Gashing Sphere(22975867) :-?
