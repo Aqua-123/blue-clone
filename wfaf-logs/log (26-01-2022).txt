@@ -1612,3 +1612,4 @@ Blue(21550262) :-Greetings cathy cath ~*
 Lumi(16008266) :-Greetings cathy cath ~*
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Greetings cathy cath ~*
+Lumi(16008266) :-Hello, Mars Oblong! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
