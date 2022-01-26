@@ -2163,3 +2163,6 @@ TinyCath ~(19259507) :-Whew
 TinyCath ~(19259507) :-This got me
 TinyCath ~(19259507) :-Like
 TinyCath ~(19259507) :-Grrrrrrrrrrrrrrrrrr
+TinyCath ~(19259507) :-GrrrRrrrrRrrRrrRR
+TinyCath ~(19259507) :-uWu
+Blue(21550262) :-UwU
