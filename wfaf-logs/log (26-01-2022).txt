@@ -1240,3 +1240,9 @@ Harenoir(11427049) :-probably keep up the hate
 Gashing Sphere(22975867) :-Seemingly
 Gashing Sphere(22975867) :-Or\n
 Gashing Sphere(22975867) :-Scold us all\n
+Gashing Sphere(22975867) :-Whatever
+Harenoir(11427049) :-also that
+Gashing Sphere(22975867) :-Someone just said Eugene\n
+Gashing Sphere(22975867) :-In the GC\n
+Gashing Sphere(22975867) :-And\n
+Harenoir(11427049) :-oh-
