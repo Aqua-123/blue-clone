@@ -1129,3 +1129,7 @@ Harenoir(11427049) :-*shivers*
 Harenoir(11427049) :-lol
 Gashing Sphere(22975867) :-Heh\n
 Gashing Sphere(22975867) :-He is planning a blast against me i guess\n
+Gashing Sphere(22975867) :-He forgave me\n
+Gashing Sphere(22975867) :-Cause\n
+Gashing Sphere(22975867) :-I did\n
+Gashing Sphere(22975867) :-$ sudo recover Hecker
