@@ -3060,3 +3060,4 @@ Silver Ewok(23393804) :-big fish
 Lumi(16008266) :-Hello, Silver Ewok! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Asking Trout! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Asking Trout! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
