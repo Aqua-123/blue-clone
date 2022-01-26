@@ -1172,3 +1172,4 @@ Blue(21550262) :-☕
 Gashing Sphere(22975867) :-Have a cup of coffee
 Wasting elk(23391224) :-Ok
 Gashing Sphere(22975867) :-Lol\n
+Gashing Sphere(22975867) :-In case u wanna exit, u can simply reload
