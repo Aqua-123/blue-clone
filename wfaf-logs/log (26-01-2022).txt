@@ -2338,3 +2338,6 @@ TinyCath ~(19259507) :-WAHHHHHHHHHHHH
 Gashing Sphere(22975867) :-Ahem\n
 Gashing Sphere(22975867) :-Anyways
 Gashing Sphere(22975867) :-Gold Elk\n
+Gashing Sphere(22975867) :-Ban this bit\n
+Gashing Sphere(22975867) :-Bot*
+Gashing Sphere(22975867) :-Also\n
