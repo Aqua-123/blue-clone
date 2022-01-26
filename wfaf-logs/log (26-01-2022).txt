@@ -4643,3 +4643,6 @@ Saturn(19364487) :-not so many people come to WFAF these days
 Harenoir(11427049) :-ah yes
 Harenoir(11427049) :-gc still with 10 people at best
 Saturn(19364487) :-that kinda might be an advantage if its fewer spammers and bad guys
+Harenoir(11427049) :-mhm...
+Harenoir(11427049) :-really annoying
+Saturn(19364487) :-yes
