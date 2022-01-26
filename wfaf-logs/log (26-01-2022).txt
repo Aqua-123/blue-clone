@@ -507,3 +507,5 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Cryo(22783061) :-mhmm
+Gashing Sphere(22975867) :-Tho Im free most of the time cause i dont study and fail
+Gashing Sphere(22975867) :-And...
