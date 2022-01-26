@@ -3106,3 +3106,6 @@ Gashing Sphere(22975867) :-Blue whos here\n
 Blue(21550262) :-I can see Lumi, Venus Pringle, Gashing Sphere, 🖤Sweetie🖤 and 4 peeps lurking :p
 Venus Pringle(23130149) :-YO
 Gashing Sphere(22975867) :-4?!
+Gashing Sphere(22975867) :-Uhh hi Venus\n
+Gashing Sphere(22975867) :-Blue whos idle\n
+Blue(21550262) :-I can see Asking Trout, Eva, 🤖 Mecha Nurse 💉 lurking
