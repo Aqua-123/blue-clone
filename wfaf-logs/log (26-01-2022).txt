@@ -952,3 +952,4 @@ Gashing Sphere(22975867) :-Am i back in ancient Japan?
 Gashing Sphere(22975867) :-Ribbit\n
 Gashing Sphere(22975867) :-Crayon
 Harenoir(11427049) :-yea?
+Gashing Sphere(22975867) :-Hi\n
