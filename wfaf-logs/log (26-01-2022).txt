@@ -2911,3 +2911,7 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Wildflower(14751444) :-tc : Why shouldnt you answer\n
 Wildflower(14751444) :-krab : cuz u have to cath\n
 Wildflower(14751444) :-strange
+TinyCath ~(19259507) :-...
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
+TinyCath ~(19259507) :-??? o -- o ???
