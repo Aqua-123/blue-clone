@@ -105,3 +105,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Lumi(16008266) :-Hello, meomyo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Justifying Burger(23388769) :-Hey
 Lumi(16008266) :-Hello, Demonwolf! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
