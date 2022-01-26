@@ -4582,3 +4582,5 @@ Lumi(16008266) :-Hi again, Magenta Electabuzz, dont feel bad, theyll accept one 
 Lumi(16008266) :-Hello, Magenta Electabuzz! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, White Donkey! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello,  Sam bD! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Sam bD(20020719) :-hey
+Sam bD(20020719) :-dead...
