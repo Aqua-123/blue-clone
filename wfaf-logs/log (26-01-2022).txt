@@ -1334,3 +1334,5 @@ Gashing Sphere(22975867) :-Would u like me to sing baby shark to reduce the tens
 Aqua(16986137) :-yes please
 Harenoir(11427049) :-sure why not
 Gashing Sphere(22975867) :-Babyyy shark do do do do do baby shark do do do do do momma shark do do do do do momma shark do do do do do
+Gashing Sphere(22975867) :-Sing along!
+Aqua(16986137) :-Babyyy shark do do do do do
