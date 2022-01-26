@@ -90,3 +90,6 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Hello, Uranus Mewtwo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Uranus Mewtwo(23388791) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, Uranus Mewtwo and 3 lurkers
