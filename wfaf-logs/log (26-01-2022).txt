@@ -3257,3 +3257,4 @@ Blue(21550262) :-ID of Sweet Puppy is 23393842
 Lumi(16008266) :-Hello, Mars Whale! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Mars Whale! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Mars Whale, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Hello, Earth Electrode! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
