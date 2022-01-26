@@ -4436,3 +4436,4 @@ Black Porg(23395706) :-hey
 Lumi(16008266) :-Hello, Orange Flareon! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Orange Flareon(23396391) :-wanna b naughty?
 Lumi(16008266) :-Hello, Eva! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Teeing Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
