@@ -4642,3 +4642,4 @@ Saturn(19364487) :-i guess GC livens up at times
 Saturn(19364487) :-not so many people come to WFAF these days
 Harenoir(11427049) :-ah yes
 Harenoir(11427049) :-gc still with 10 people at best
+Saturn(19364487) :-that kinda might be an advantage if its fewer spammers and bad guys
