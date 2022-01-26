@@ -397,3 +397,10 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Blue(21550262) :-Re-enabling greets :D
 Jupiter Icecream(23384004) :-michaela?
 Blue(21550262) :-Hi, Jupiter Icecream, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Hi, Jupiter Icecream, retrying wont help, you can try asking what is wfaf for more info :D
+Blue(21550262) :-Hi again, Jupiter Icecream, try asking what is wfaf for more info :D
+Lumi(16008266) :-Hi, Jupiter Icecream! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Jupiter Icecream, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Hello, Jupiter Icecream! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Jupiter Icecream(23384004) :-hello?
+Blue(21550262) :-Disabling greets uwu
