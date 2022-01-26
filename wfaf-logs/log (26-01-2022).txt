@@ -1179,3 +1179,4 @@ Gashing Sphere(22975867) :-Lol\n
 Gashing Sphere(22975867) :-Blue whos here\n
 Blue(21550262) :-I can see Harenoir, Lumi, Gashing Sphere, Blue and 2 peeps lurking :p
 Gashing Sphere(22975867) :-Left lol\n
+Gashing Sphere(22975867) :-He was panicking like i did\n
