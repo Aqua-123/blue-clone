@@ -2686,3 +2686,5 @@ Fetching Ewok(23393252) :-I cld help (?)
 TinyCath ~(19259507) :-I kant
 TinyCath ~(19259507) :-u W u
 Fetching Ewok(23393252) :-Why not\n
+TinyCath ~(19259507) :-Its just sum question
+TinyCath ~(19259507) :-Uh-
