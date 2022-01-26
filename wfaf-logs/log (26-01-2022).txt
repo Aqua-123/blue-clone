@@ -2392,3 +2392,7 @@ Wildflower(14751444) :-oof
 Lumi(16008266) :-Hello, 🖤Sweetie🖤! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 🖤Sweetie🖤(19271305) :-Hey
 TinyCath ~(19259507) :-; - ;
+🖤Sweetie🖤(19271305) :-Lumi whos here\n
+Lumi(16008266) :-I can see TinyCath ~, 🖤Sweetie🖤, Wildflower, Lumi and 2 lurkers
+Wildflower(14751444) :-Specsy is the New Sexy ~ Lenskart
+TinyCath ~(19259507) :--pats someone who needs/wants to be patted-
