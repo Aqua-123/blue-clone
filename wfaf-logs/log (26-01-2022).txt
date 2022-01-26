@@ -3279,3 +3279,7 @@ Gashing Sphere(22975867) :-What do u want, kid\n
 Lumi(16008266) :-Hi again, Earth nidoran, dont feel bad, theyll accept one day... hopefully!
 🖤Sweetie🖤(19271305) :-o:
 Gashing Sphere(22975867) :-Lol earth\n
+Gashing Sphere(22975867) :-Blue get id of Earth nidoran\n
+Blue(21550262) :-ID of Earth nidoran\n is 23394266
+🖤Sweetie🖤(19271305) :-I think dat person tryna get me\n
+Gashing Sphere(22975867) :-Oooooooooooooo
