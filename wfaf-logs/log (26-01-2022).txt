@@ -3505,3 +3505,5 @@ Gashing Sphere(22975867) :-7?!?
 Gashing Sphere(22975867) :-Blue whos idle\n
 Blue(21550262) :-I can see Eva, Asking Trout, Blue, 🤖 Mecha Nurse 💉 lurking
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-shiny kyurem\n
+Wasting elk(23394915) :-Rishiram
+Gashing Sphere(22975867) :-Anyways
