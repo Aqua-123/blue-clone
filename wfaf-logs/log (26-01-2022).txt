@@ -1390,3 +1390,4 @@ Aqua(16986137) :-oops
 Gashing Sphere(22975867) :-...
 Aqua(16986137) :-Blue who\s here
 Aqua(16986137) :-you did
+Gashing Sphere(22975867) :-It replied... 4 minutes late\n
