@@ -2909,3 +2909,5 @@ TinyCath ~(19259507) :-Ahem
 Wildflower(14751444) :-krab : why should i answer u wild\n
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Wildflower(14751444) :-tc : Why shouldnt you answer\n
+Wildflower(14751444) :-krab : cuz u have to cath\n
+Wildflower(14751444) :-strange
