@@ -2971,3 +2971,4 @@ Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can al
 Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Katieh! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Katieh(23392738) :-haii
