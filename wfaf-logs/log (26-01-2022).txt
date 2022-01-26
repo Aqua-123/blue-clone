@@ -526,3 +526,4 @@ Lumi(16008266) :-Hello, Mercury Cylinder! Welcome to WFAF! - Waiting for a Frien
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Yesterday i brought Kay here and after almost one month, Im seeing her happy thanks to mecha and Lumi and Blue\n
 Mercury Cylinder(23389563) :-hey I think it was tweaking
+Lumi(16008266) :-Hi, Mercury Cylinder! Im afraid they arent your friend yet, you can always try again!
