@@ -2329,3 +2329,7 @@ Gashing Sphere(22975867) :-•_-
 TinyCath ~(19259507) :-q v p
 Gashing Sphere(22975867) :-Sus\n
 TinyCath ~(19259507) :-Wait
+TinyCath ~(19259507) :-Tell meh who
+Gashing Sphere(22975867) :-U\n
+Gashing Sphere(22975867) :-Are\n
+Gashing Sphere(22975867) :-Sus\n
