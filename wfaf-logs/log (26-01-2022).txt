@@ -94,3 +94,4 @@ Lumi(16008266) :-Hello, Uranus Mewtwo! Welcome to WFAF! - Waiting for a Friend! 
 Uranus Mewtwo(23388791) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, Uranus Mewtwo and 3 lurkers
 Uranus Mewtwo(23388791) :-pft
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
