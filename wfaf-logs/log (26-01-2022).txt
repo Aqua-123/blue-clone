@@ -2280,3 +2280,8 @@ TinyCath ~(19259507) :-No i hope not
 TinyCath ~(19259507) :-Ah-
 TinyCath ~(19259507) :-Phew
 TinyCath ~(19259507) :-GAWD-
+TinyCath ~(19259507) :-Tis is Cathy
+TinyCath ~(19259507) :-She is
+TinyCath ~(19259507) :-Uhhh
+TinyCath ~(19259507) :-Cathy is high
+TinyCath ~(19259507) :-Yes.
