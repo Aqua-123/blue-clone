@@ -4464,3 +4464,7 @@ Lumi(16008266) :-Hello, Spookyy! Welcome to WFAF! - Waiting for a Friend! The pl
 Spookyy(20199174) :-breath in
 Spookyy(20199174) :-breath out
 Spookyy(20199174) :-we get worst before we get better
+Spookyy(20199174) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, Spookyy and 5 lurkers
+Spookyy(20199174) :-lumi whos idle
+Lumi(16008266) :-I see Omnissiah, Sweet Puppy, Blue, 🤖 Mecha Nurse 💉, Asking Trout lurking in the shadows...
