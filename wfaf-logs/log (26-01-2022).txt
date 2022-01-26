@@ -4584,3 +4584,4 @@ Lumi(16008266) :-Hello, White Donkey! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Hello,  Sam bD! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Sam bD(20020719) :-hey
 Sam bD(20020719) :-dead...
+Lumi(16008266) :-Hi, Magenta Electabuzz! Im afraid they arent your friend yet, you can always try again!
