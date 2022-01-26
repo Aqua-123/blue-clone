@@ -1566,3 +1566,21 @@ TinyCath ~(19259507) :-:o
 TinyCath ~(19259507) :-I shee
 Lumi(16008266) :-Greetings cathy cath ~*
 TinyCath ~(19259507) :-Whew
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Cryo(22783061) :-blue send love to me
+Cryo(22783061) :-okay that worked
+Cryo(22783061) :-why didnt she send
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Greetings cathy cath ~*
+Blue(21550262) :-Greetings cathy cath ~*
+Blue(21550262) :-Disabling greets uwu
+Lumi(16008266) :-The river of life bubbles when Aqua comes near~
