@@ -4652,3 +4652,5 @@ Harenoir(11427049) :-i was asleep when it happened tho
 Lumi(16008266) :-Hello, Peter! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Peter! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Missing Mink! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Missing Mink! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Missing Mink, dont feel bad, theyll accept one day... hopefully!
