@@ -1116,3 +1116,6 @@ Harenoir(11427049) :-worms, trojans and all that stuff
 Lumi(16008266) :-Hello, Mars Chicken! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Gashing Sphere(22975867) :-Lol I typed\n
+Gashing Sphere(22975867) :-$ sudo blast Hecker
+Gashing Sphere(22975867) :-And he is gone\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
