@@ -3591,3 +3591,6 @@ Wasting elk(23394915) :-Yup
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-big overweight\n
 Gashing Sphere(22975867) :-All get everything... Except Pineapple on pizza\n
 Wasting elk(23394915) :-Lol tele
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-I will order pineapple pizza\n
+Gashing Sphere(22975867) :-No\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-if you dont like it just throw away the pineapple\n
