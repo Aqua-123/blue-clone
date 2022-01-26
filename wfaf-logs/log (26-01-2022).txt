@@ -2341,3 +2341,6 @@ Gashing Sphere(22975867) :-Gold Elk\n
 Gashing Sphere(22975867) :-Ban this bit\n
 Gashing Sphere(22975867) :-Bot*
 Gashing Sphere(22975867) :-Also\n
+Gashing Sphere(22975867) :-Blue whos here\n
+Gashing Sphere(22975867) :-;-;
+Blue(21550262) :-I can see TinyCath ~, Gashing Sphere, Blue, Lumi and 1 person lurking :p
