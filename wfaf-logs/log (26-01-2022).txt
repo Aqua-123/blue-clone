@@ -989,3 +989,8 @@ Harenoir(11427049) :-yeah
 Harenoir(11427049) :-i
 Harenoir(11427049) :-get
 Harenoir(11427049) :-it
+Gashing Sphere(22975867) :-Heh\n
+Gashing Sphere(22975867) :-Goo\n
+Gashing Sphere(22975867) :-U\n
+Gashing Sphere(22975867) :-Do\n
+Gashing Sphere(22975867) :-Good*
