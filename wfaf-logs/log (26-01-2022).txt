@@ -537,3 +537,6 @@ Gashing Sphere(22975867) :-Anywayssss\n
 Lumi(16008266) :-Hello, Male! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-Thats a nice name. Male\n
 Cryo(22783061) :-you want me to give her a greet? if that would make her feel nice
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Jupiter Minnow! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Jupiter Minnow(23390040) :-Hey
