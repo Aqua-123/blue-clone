@@ -2887,3 +2887,5 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Wildflower(14751444) :-i was never interefering, was i ?
 Wildflower(14751444) :-i was just asking a simple question and wanted to answer
 Preparing Krabby(23232544) :-askin me why im callin is interference
+Wildflower(14751444) :-well dont answer taht question
+Wildflower(14751444) :-but do for the other one
