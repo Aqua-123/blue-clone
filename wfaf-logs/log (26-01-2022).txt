@@ -1340,3 +1340,7 @@ Gashing Sphere(22975867) :-Baby shark do do do do do
 Aqua(16986137) :-Babyyy shark do do do do do
 Aqua(16986137) :-baby shark
 Gashing Sphere(22975867) :-Momma shark do do do do do
+Aqua(16986137) :-momma shark do do do do do
+Gashing Sphere(22975867) :-Momma shark do do do do do
+Gashing Sphere(22975867) :-Momma shark!
+Aqua(16986137) :-Daddy next?
