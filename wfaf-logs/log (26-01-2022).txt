@@ -4286,3 +4286,7 @@ Strawberry 🍓(16521287) :-Sounds fake
 Gashing Sphere(22975867) :-Seemingly
 Wasting elk(23394915) :-Search it
 Strawberry 🍓(16521287) :-Source?
+Gashing Sphere(22975867) :-Hmm hmm\n
+Gashing Sphere(22975867) :-Sourceeee\n
+Gashing Sphere(22975867) :-Sorcerer
+Wasting elk(23394915) :-Ukraine is sending troops towards Chernobyl
