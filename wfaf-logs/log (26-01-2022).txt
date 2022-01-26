@@ -4560,3 +4560,5 @@ Lumi(16008266) :-Hello, Ajfig! Welcome to WFAF! - Waiting for a Friend! The plac
 Ajfig(21033194) :-hi
 Ajfig(21033194) :-pls answer
 Lumi(16008266) :-Hello, J.! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+🤖 Mecha Nurse 💉(20909261) :-Welcome, J., to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.
+Blue(21550262) :-Re-enabling greets :D
