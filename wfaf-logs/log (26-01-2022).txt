@@ -2626,3 +2626,7 @@ Fetching Ewok(23393252) :-She left\n
 TinyCath ~(19259507) :-Cutie left
 Gashing Sphere(22975867) :-...
 Gashing Sphere(22975867) :-Bye\n
+Fetching Ewok(23393252) :-Thenks caths\n
+Fetching Ewok(23393252) :-Oofs\n
+TinyCath ~(19259507) :-Bayuu-
+TinyCath ~(19259507) :-^~^
