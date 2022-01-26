@@ -4612,3 +4612,4 @@ Harenoir(11427049) :-i feel offended
 Lumi(16008266) :-Hello, Miles Morales! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Miles Morales(23398112) :-dreams dont come tru lumi
 Lumi(16008266) :-Hi, Miles Morales! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hello, Uranus Biscuit! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
