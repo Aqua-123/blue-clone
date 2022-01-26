@@ -4412,3 +4412,4 @@ Earth Lion(23396207) :-lumi
 Earth Lion(23396207) :-LUMI!!
 Lumi(16008266) :-Hello, Mr Gallagher! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Eva! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Mommy needed! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
