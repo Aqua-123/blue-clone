@@ -4408,3 +4408,5 @@ Earth Lion(23396207) :-hi
 Earth Lion(23396207) :-can one track ip address via emerald?
 Earth Lion(23396207) :-Lumi
 Lumi(16008266) :-Hi, Earth Lion! Im afraid they arent your friend yet, you can always try again!
+Earth Lion(23396207) :-lumi
+Earth Lion(23396207) :-LUMI!!
