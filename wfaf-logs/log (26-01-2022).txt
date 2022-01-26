@@ -948,3 +948,7 @@ Gashing Sphere(22975867) :-Blue whos lurking
 🤖 Mecha Nurse 💉(20909261) :-I think Harenoir is idle.
 Blue(21550262) :-I can see Harenoir, Hisoka, Cryo lurking
 Gashing Sphere(22975867) :-Hisoka?
+Gashing Sphere(22975867) :-Am i back in ancient Japan?
+Gashing Sphere(22975867) :-Ribbit\n
+Gashing Sphere(22975867) :-Crayon
+Harenoir(11427049) :-yea?
