@@ -1145,3 +1145,8 @@ Gashing Sphere(22975867) :-Lol oki\n
 Harenoir(11427049) :-this place is always empty anyways
 Lumi(16008266) :-Hello, Wasting elk! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-Hello elk\n
+Wasting elk(23391224) :-Who are you lumi
+Gashing Sphere(22975867) :-Welcome to Wfaf\n
+Wasting elk(23391224) :-Hii sphere
+Lumi(16008266) :-Hi, Wasting elk! Im afraid they arent your friend yet, you can always try again!
+Gashing Sphere(22975867) :-Lumi is a greeter\n
