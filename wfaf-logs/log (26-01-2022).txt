@@ -2323,3 +2323,5 @@ Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-Someone else is here?
 TinyCath ~(19259507) :-O -- o ???
 TinyCath ~(19259507) :-Yerp
+TinyCath ~(19259507) :-I dunno who though
+Gashing Sphere(22975867) :-Come ahead or Ill shoot water gun 🔫
