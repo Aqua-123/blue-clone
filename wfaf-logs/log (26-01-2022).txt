@@ -4504,3 +4504,4 @@ Lumi(16008266) :-Hello, Grey Ox! Welcome to WFAF! - Waiting for a Friend! The pl
 Lumi(16008266) :-Hello, J.! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 J.(23374560) :-Hi\n
 J.(23374560) :-What WFAF\n
+Harenoir(11427049) :-mecha seen 4003994 in *
