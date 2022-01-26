@@ -1283,3 +1283,5 @@ Lumi(16008266) :-The river of life bubbles when Aqua comes near~
 Gashing Sphere(22975867) :-Eh does not matter
 Gashing Sphere(22975867) :-We gonna die\n
 Gashing Sphere(22975867) :-All the best\n
+Gashing Sphere(22975867) :-Prepare for impact
+Aqua(16986137) :-brace for the impact
