@@ -965,3 +965,10 @@ Gashing Sphere(22975867) :-Illreverse Speaking
 Harenoir(11427049) :-oof
 Harenoir(11427049) :-;-;
 Gashing Sphere(22975867) :-Hehe
+Gashing Sphere(22975867) :-I\n
+Gashing Sphere(22975867) :-Could\n
+Gashing Sphere(22975867) :-Speak\n
+Gashing Sphere(22975867) :-Word\n
+Gashing Sphere(22975867) :-By\n
+Gashing Sphere(22975867) :-Word\n
+Harenoir(11427049) :-i
