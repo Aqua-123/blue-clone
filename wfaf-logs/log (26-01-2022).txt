@@ -4368,3 +4368,6 @@ Lumi(16008266) :-Hello, Mercury Geodude! Welcome to WFAF! - Waiting for a Friend
 Lumi(16008266) :-Hi, Mercury Geodude! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Mercury Geodude, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Uranus Lickitung! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+🤖 Mecha Nurse 💉(20909261) :-Sometimes youve got to be able to listen to yourself
+Lumi(16008266) :-Hi, Uranus Lickitung! Im afraid they arent your friend yet, you can always try again!
+🤖 Mecha Nurse 💉(20909261) :-and be okay with no one else understanding.
