@@ -709,3 +709,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Gashing Sphere(22975867) :-I go eat phood\n
 Gashing Sphere(22975867) :-Brb\n
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Cryo(22783061) :-brb from breakfast
