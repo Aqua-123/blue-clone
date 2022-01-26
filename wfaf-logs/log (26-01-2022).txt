@@ -3012,3 +3012,6 @@ Almond cookie(20199174) :-breath in
 Almond cookie(20199174) :-breath out.
 Almond cookie(20199174) :-im good.
 Almond cookie(20199174) :-*sigh*
+Almond cookie(20199174) :-im not good.
+Almond cookie(20199174) :-i am so so good.
+Almond cookie(20199174) :-*sigh*
