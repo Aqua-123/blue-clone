@@ -448,3 +448,8 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Gashing Sphere(22975867) :-Word donne\n
 Gashing Sphere(22975867) :-Hi ribbit\n
 Gashing Sphere(22975867) :-Ribbit?
+Gashing Sphere(22975867) :-Ribbittttt
+Gashing Sphere(22975867) :-RIBBITTTTT
+Gashing Sphere(22975867) :-ahem\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
