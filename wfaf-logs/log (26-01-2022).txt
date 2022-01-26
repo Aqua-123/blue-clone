@@ -591,3 +591,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
 Cryo(22783061) :-chill
 Gashing Sphere(22975867) :-Hehe\n
+Gashing Sphere(22975867) :-So\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-How are yall? If anyone else is there\n
