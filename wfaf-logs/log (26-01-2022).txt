@@ -1559,3 +1559,4 @@ Blue(21550262) :-UwU
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
 Aqua(16986137) :-blue ban 23391699
 Blue(21550262) :-Banning 23391699
+Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
