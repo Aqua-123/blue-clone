@@ -1631,3 +1631,4 @@ Gashing Sphere(22975867) :-Finally
 Aqua(16986137) :-def not me
 Lumi(16008266) :-Hello, Sigma Male! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Sigma Male(23310294) :-Hey!
+Sigma Male(23310294) :-Looks like there was some error or something?
