@@ -3699,3 +3699,7 @@ Lumi(16008266) :-🍎🧃
 Wasting elk(23394915) :-Poliswine
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-Pokémon 6?
 Gashing Sphere(22975867) :-Yes\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-thats blastoise\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-\nits a water type\n
+Gashing Sphere(22975867) :-Sweetie. Anything for you?
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-its not poliswine\n
