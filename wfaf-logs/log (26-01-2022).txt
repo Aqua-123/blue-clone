@@ -2695,3 +2695,7 @@ Fetching Ewok(23393252) :-Ohkai\n
 TinyCath ~(19259507) :-Forget it, my king-
 TinyCath ~(19259507) :-u w u
 Fetching Ewok(23393252) :-Ohkai...
+TinyCath ~(19259507) :-Not OHKAI-
+TinyCath ~(19259507) :-ITS NOT OKAI-
+TinyCath ~(19259507) :-Ahem
+Fetching Ewok(23393252) :-O.o\n
