@@ -4238,3 +4238,4 @@ Gashing Sphere(22975867) :-Where was Bourbon dynasty?
 Strawberry 🍓(16521287) :-Bourbon sounds French
 Wasting elk(23394915) :-Have you read main kemp
 Gashing Sphere(22975867) :-Okay. Something Im correct in\n
+Strawberry 🍓(16521287) :-Elk leave
