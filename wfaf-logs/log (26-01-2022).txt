@@ -947,3 +947,4 @@ Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did
 Gashing Sphere(22975867) :-Blue whos lurking
 🤖 Mecha Nurse 💉(20909261) :-I think Harenoir is idle.
 Blue(21550262) :-I can see Harenoir, Hisoka, Cryo lurking
+Gashing Sphere(22975867) :-Hisoka?
