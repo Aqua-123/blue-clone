@@ -2060,3 +2060,9 @@ Almond cookie(20199174) :-WHAT
 TinyCath ~(19259507) :-Right
 TinyCath ~(19259507) :-Indeed
 🖤Sweetie🖤(19271305) :-Oh god :/
+Almond cookie(20199174) :-everyone is with someone
+Almond cookie(20199174) :-i need to find someone for me
+Almond cookie(20199174) :-hmmmmmm
+TinyCath ~(19259507) :-A book
+🖤Sweetie🖤(19271305) :-DEMO\n
+Almond cookie(20199174) :-NO LMAO
