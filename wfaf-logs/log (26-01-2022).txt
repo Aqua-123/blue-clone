@@ -995,3 +995,10 @@ Gashing Sphere(22975867) :-U\n
 Gashing Sphere(22975867) :-Do\n
 Gashing Sphere(22975867) :-Good*
 Gashing Sphere(22975867) :-I\n
+Gashing Sphere(22975867) :-Hope\n
+Gashing Sphere(22975867) :-I\n
+Gashing Sphere(22975867) :-Dont\n
+Gashing Sphere(22975867) :-Get\n
+Gashing Sphere(22975867) :-Automuted\n
+Harenoir(11427049) :-hopefully
+Harenoir(11427049) :-not
