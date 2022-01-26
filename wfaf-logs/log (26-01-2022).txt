@@ -4636,3 +4636,5 @@ Lumi(16008266) :-I can see Blue, Lumi, Saturn, Harenoir and 1 lurkers
 Saturn(19364487) :-lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉 lurking in the shadows...
 Saturn(19364487) :-ah
+Harenoir(11427049) :-but yeah
+Harenoir(11427049) :-emerald wise, nothing left to do as of right now
