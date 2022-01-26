@@ -4345,3 +4345,4 @@ Gashing Sphere(22975867) :-Mecha whos idle\n
 🤖 Mecha Nurse 💉(20909261) :-I think Lumi, Blue are idle.
 Gashing Sphere(22975867) :-Thanks mecha\n
 🤖 Mecha Nurse 💉(20909261) :-My pleasure.
+Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
