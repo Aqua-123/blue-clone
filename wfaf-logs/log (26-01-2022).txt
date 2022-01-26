@@ -3092,3 +3092,4 @@ Gashing Sphere(22975867) :-Wait\n
 Gashing Sphere(22975867) :-Who u?
 Gashing Sphere(22975867) :-Ah nvm\n
 Gashing Sphere(22975867) :-Some lost soul\n
+Gashing Sphere(22975867) :-Sweetie. Cookies?
