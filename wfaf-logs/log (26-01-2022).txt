@@ -3317,3 +3317,7 @@ Gashing Sphere(22975867) :-Hi\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-oh hi earthworm
 The Deathstar(10579120) :-howdy
 Gashing Sphere(22975867) :-Earthworm lol\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-hi deathstar\n
+The Deathstar(10579120) :-hey hows it going? :)
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-cat\n
+Gashing Sphere(22975867) :-Fine enough.
