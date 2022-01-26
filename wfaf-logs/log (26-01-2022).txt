@@ -2350,3 +2350,7 @@ Gashing Sphere(22975867) :-Huuuuuuuuh
 Gashing Sphere(22975867) :-Ahem\n
 Gashing Sphere(22975867) :-Bye\n
 TinyCath ~(19259507) :-q = p
+TinyCath ~(19259507) :-Aight
+TinyCath ~(19259507) :-Lemme
+TinyCath ~(19259507) :-Ahem
+TinyCath ~(19259507) :--lorks for a bit-
