@@ -3596,3 +3596,6 @@ Gashing Sphere(22975867) :-No\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-if you dont like it just throw away the pineapple\n
 Gashing Sphere(22975867) :-Fruits do not belong on pizza\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-tomato sauce\n
+Gashing Sphere(22975867) :-Tomato was classified as a fruit lately! Im a little conservative\n
+Wasting elk(23394915) :-Btw tele do you want to participate world pokemon championship
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-yes\n
