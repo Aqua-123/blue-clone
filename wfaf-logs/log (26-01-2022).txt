@@ -1236,3 +1236,7 @@ Gashing Sphere(22975867) :-Thanks\n
 Harenoir(11427049) :-im sorry for being too cynical sometimes
 Gashing Sphere(22975867) :-Ah its alright
 Gashing Sphere(22975867) :-I wonder what he will do after he returns\n
+Harenoir(11427049) :-probably keep up the hate
+Gashing Sphere(22975867) :-Seemingly
+Gashing Sphere(22975867) :-Or\n
+Gashing Sphere(22975867) :-Scold us all\n
