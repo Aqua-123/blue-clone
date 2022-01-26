@@ -1155,3 +1155,9 @@ Wasting elk(23391224) :-Ok sphere what you do here
 Gashing Sphere(22975867) :-I just speak to one of the bosses here\n
 Gashing Sphere(22975867) :-Ribbit\n
 Gashing Sphere(22975867) :-Say hello\n
+Wasting elk(23391224) :-Hello
+Gashing Sphere(22975867) :-Not u\n
+Gashing Sphere(22975867) :-RIBBIT\n
+Wasting elk(23391224) :-Ok
+Harenoir(11427049) :-oh
+Harenoir(11427049) :-hello
