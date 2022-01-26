@@ -874,3 +874,4 @@ Lumi(16008266) :-I see Cryo, bella, Blue, 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, Harenoir
 Lumi(16008266) :-I can see Lumi, WALL E, 🤖 Mecha Nurse 💉 and 5 lurkers
 WALL E(14751444) :-bella
 WALL E(14751444) :-ciao
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
