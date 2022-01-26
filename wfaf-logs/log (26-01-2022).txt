@@ -4290,3 +4290,4 @@ Gashing Sphere(22975867) :-Hmm hmm\n
 Gashing Sphere(22975867) :-Sourceeee\n
 Gashing Sphere(22975867) :-Sorcerer
 Wasting elk(23394915) :-Ukraine is sending troops towards Chernobyl
+Wasting elk(23394915) :-And Chernobyl is the shortest path to the Ukraine capital
