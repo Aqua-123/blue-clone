@@ -2896,3 +2896,9 @@ Preparing Krabby(23232544) :-god wild stop
 Wildflower(14751444) :-why
 Wildflower(14751444) :-cant stop me now
 TinyCath ~(19259507) :-o.o
+Wildflower(14751444) :-lumi whos here
+Lumi(16008266) :-I can see Wildflower, TinyCath ~ and 3 lurkers
+Wildflower(14751444) :-lumi whos idle
+Lumi(16008266) :-I see Omnissiah, Blue lurking in the shadows...
+Wildflower(14751444) :-left
+Wildflower(14751444) :-hah
