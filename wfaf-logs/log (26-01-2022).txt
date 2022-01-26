@@ -4196,3 +4196,8 @@ Blue(21550262) :-Kindly be nice and keep this family-friendly while you are here
 Wasting elk(23394915) :-Vienna is a capital
 Strawberry 🍓(16521287) :-Sigh
 Gashing Sphere(22975867) :-Ik\n
+Wasting elk(23394915) :-Of austria
+Gashing Sphere(22975867) :-Wait\n
+Gashing Sphere(22975867) :-What?
+Wasting elk(23394915) :-Yup
+Gashing Sphere(22975867) :-Isnt Vienna in France?!
