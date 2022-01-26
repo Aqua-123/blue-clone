@@ -2703,3 +2703,11 @@ Fetching Ewok(23393252) :-U good?
 TinyCath ~(19259507) :-I love everyone whos here
 TinyCath ~(19259507) :-Ahem yes
 Fetching Ewok(23393252) :-Aww\n
+Fetching Ewok(23393252) :-Lumi whos here\n
+Lumi(16008266) :-I can see Fetching Ewok, Wildflower, Lumi, TinyCath ~ and 1 lurkers
+Fetching Ewok(23393252) :-Lumi whos idle\n
+Lumi(16008266) :-I see Blue lurking in the shadows...
+Wildflower(14751444) :-ahem-
+TinyCath ~(19259507) :-o.o
+Fetching Ewok(23393252) :-Thanks lumi\n
+Lumi(16008266) :-Youre welcome :D
