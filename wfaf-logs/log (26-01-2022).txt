@@ -3226,3 +3226,7 @@ Almond cookie(20199174) :-Eva whos idle
 🤖 Mecha Nurse 💉(20909261) :-I think Blue is idle.
 Almond cookie(20199174) :-eva stats
 Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
+Gashing Sphere(22975867) :-Mecha whos here
+🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Gashing Sphere. Also 2 people are idle, and there may be lurkers.
+Gashing Sphere(22975867) :-Mecha whos idle
+🤖 Mecha Nurse 💉(20909261) :-I think Blue, Venus Pringle are idle.
