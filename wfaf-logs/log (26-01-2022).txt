@@ -376,3 +376,7 @@ Lumi(16008266) :-I can see Lumi, WALL E and 3 lurkers
 WALL E(14751444) :-Lumi whos idle
 Lumi(16008266) :-I see Harenoir, bella, Blue lurking in the shadows...
 WALL E(14751444) :-Bella
+WALL E(14751444) :-🔔 a
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
+WALL E(14751444) :-🛎 a
