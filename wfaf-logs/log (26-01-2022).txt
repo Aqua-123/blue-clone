@@ -4403,3 +4403,4 @@ Lumi(16008266) :-Hi again, Salmon Twilek, dont feel bad, theyll accept one day..
 Lumi(16008266) :-Hello, Mars Cylinder! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Mars Cylinder(23396105) :-hi
 Eva(21541886) :-hello
+Lumi(16008266) :-Hello, Earth Lion! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
