@@ -4520,3 +4520,6 @@ Continuing Pig(23397162) :-lumi whos here
 Lumi(16008266) :-I can see Continuing Pig, Lumi and 2 lurkers
 Continuing Pig(23397162) :-lumi whos idle
 Lumi(16008266) :-I see Harenoir, 🤖 Mecha Nurse 💉 lurking in the shadows...
+Continuing Pig(23397162) :-thanks lumi
+Lumi(16008266) :-Youre welcome :D
+Lumi(16008266) :-Hello, Congratulating Neimoidian! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
