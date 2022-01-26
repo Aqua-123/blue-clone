@@ -3703,3 +3703,8 @@ Gashing Sphere(22975867) :-Yes\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-\nits a water type\n
 Gashing Sphere(22975867) :-Sweetie. Anything for you?
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-its not poliswine\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-its mamoswine\n
+Lumi(16008266) :-Hello, 🖤Sweetie🖤! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, 🖤Sweetie🖤! Im afraid they arent your friend yet, you can always try again!
+Wasting elk(23394915) :-Btw sidenja is the only grass and ghost type
+Gashing Sphere(22975867) :-Uhh that swimming Pokemon with a shell\n
