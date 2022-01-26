@@ -1360,3 +1360,5 @@ Harenoir(11427049) :-uh
 Harenoir(11427049) :-i
 Gashing Sphere(22975867) :-:))
 Aqua(16986137) :-ribbit sing
+Harenoir(11427049) :-do do do do (?)
+Aqua(16986137) :-lmao
