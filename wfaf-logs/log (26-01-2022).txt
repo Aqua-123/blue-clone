@@ -4406,3 +4406,4 @@ Eva(21541886) :-hello
 Lumi(16008266) :-Hello, Earth Lion! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Earth Lion(23396207) :-hi
 Earth Lion(23396207) :-can one track ip address via emerald?
+Earth Lion(23396207) :-Lumi
