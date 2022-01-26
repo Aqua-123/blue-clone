@@ -1151,3 +1151,7 @@ Wasting elk(23391224) :-Hii sphere
 Lumi(16008266) :-Hi, Wasting elk! Im afraid they arent your friend yet, you can always try again!
 Gashing Sphere(22975867) :-Lumi is a greeter\n
 Gashing Sphere(22975867) :-She greets who comes here\n
+Wasting elk(23391224) :-Ok sphere what you do here
+Gashing Sphere(22975867) :-I just speak to one of the bosses here\n
+Gashing Sphere(22975867) :-Ribbit\n
+Gashing Sphere(22975867) :-Say hello\n
