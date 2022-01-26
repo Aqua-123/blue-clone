@@ -2248,3 +2248,10 @@ TinyCath ~(19259507) :-Q v Q
 TinyCath ~(19259507) :-B r b
 TinyCath ~(19259507) :-Imma bonk my mom
 Lumi(16008266) :-Greetings cathy cath ~*
+TinyCath ~(19259507) :-Ahem
+TinyCath ~(19259507) :-Bek
+TinyCath ~(19259507) :-Now
+TinyCath ~(19259507) :-OH NO
+TinyCath ~(19259507) :-MY MOM
+TinyCath ~(19259507) :-ITS BROKEN
+TinyCath ~(19259507) :-..
