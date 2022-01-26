@@ -37,3 +37,5 @@ Lumi(16008266) :-Hello, dirtyf! Welcome to WFAF! - Waiting for a Friend! The pla
 Lumi(16008266) :-Hi, dirtyf! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, dirtyf, dont feel bad, theyll accept one day... hopefully!
 dirtyf(23215865) :-U look like me
+dirtyf(23215865) :-I look like me
+dirtyf(23215865) :-U*
