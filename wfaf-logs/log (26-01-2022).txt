@@ -3401,3 +3401,6 @@ Wasting elk(23394915) :-Umbrion
 Gashing Sphere(22975867) :-Yes\n
 Wasting elk(23394915) :-Espeion
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-\nmine is
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-empoleon\n
+Wasting elk(23394915) :-Wtf tele
+Gashing Sphere(22975867) :-What is yours, sweetie?
