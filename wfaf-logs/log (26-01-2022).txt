@@ -689,3 +689,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Harenoir(11427049) :-thx lumi
 Lumi(16008266) :-Youre welcome :D
 Gashing Sphere(22975867) :-Finally
+Gashing Sphere(22975867) :-I take it all\n
+Gashing Sphere(22975867) :-No one else gets it\n
+Gashing Sphere(22975867) :-Hmph\n
