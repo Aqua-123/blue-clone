@@ -3689,3 +3689,7 @@ Wasting elk(23394915) :-There is only one pokemon
 Wasting elk(23394915) :-Nooo
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-ghost type is gengar\n
 Gashing Sphere(22975867) :-*sigh* so nobody needs anything?
+Wasting elk(23394915) :-Which is both
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-apple juice
+Gashing Sphere(22975867) :-Say the number\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-name a Pokémon that is ice/ground type
