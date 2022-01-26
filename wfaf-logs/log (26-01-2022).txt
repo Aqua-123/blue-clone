@@ -3077,3 +3077,4 @@ Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did
 Gashing Sphere(22975867) :-Mecha whos here\n
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Eva, Gashing Sphere, and maybe some lurkers.
 Gashing Sphere(22975867) :-Eva?
+Gashing Sphere(22975867) :-Soul? U here?
