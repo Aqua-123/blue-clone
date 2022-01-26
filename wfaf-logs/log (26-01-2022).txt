@@ -1864,3 +1864,7 @@ Strawberry 🍓(16521287) :-dot dot dot
 TinyCath ~(19259507) :-; - ;
 Strawberry 🍓(16521287) :--oats-
 TinyCath ~(19259507) :--oats bek-
+Strawberry 🍓(16521287) :-Did you answer my Q
+TinyCath ~(19259507) :-Oh yes i did...
+Strawberry 🍓(16521287) :-I dont understand answer
+Strawberry 🍓(16521287) :--nuzzles-
