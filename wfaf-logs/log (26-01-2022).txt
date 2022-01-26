@@ -4573,3 +4573,6 @@ Lumi(16008266) :-Hello, purpleflower! Welcome to WFAF! - Waiting for a Friend! T
 purpleflower(11040022) :-stfu
 purpleflower(11040022) :-lumi bye
 purpleflower(11040022) :-blu bye
+Harenoir(11427049) :-aw man
+Harenoir(11427049) :-why do i always get the weird ones
+Harenoir(11427049) :-even two years later
