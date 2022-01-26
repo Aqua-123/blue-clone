@@ -1878,3 +1878,11 @@ TinyCath ~(19259507) :-q o p
 Strawberry 🍓(16521287) :-p o q
 Strawberry 🍓(16521287) :-p o p
 Strawberry 🍓(16521287) :-b o p
+Strawberry 🍓(16521287) :-bop
+TinyCath ~(19259507) :-Bop ~*
+Strawberry 🍓(16521287) :-shimmie shimmie kokobop
+TinyCath ~(19259507) :-;f,;sdf-
+Strawberry 🍓(16521287) :-I think I like it
+TinyCath ~(19259507) :-Ahem
+Strawberry 🍓(16521287) :-ahem
+Strawberry 🍓(16521287) :-cathy is cute
