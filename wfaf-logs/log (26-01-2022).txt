@@ -1484,3 +1484,6 @@ Blue(21550262) :-I can see Lumi, Gashing Sphere and 2 peeps lurking :p
 Gashing Sphere(22975867) :-Blue whos lurking
 Blue(21550262) :-I can see Aqua lurking
 Gashing Sphere(22975867) :-Oh hi aqua\n
+Gashing Sphere(22975867) :-I guess Ribbit went to sleep\n
+Gashing Sphere(22975867) :-Good\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
