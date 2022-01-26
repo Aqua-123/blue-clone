@@ -3915,3 +3915,8 @@ Almond cookie(20199174) :-Eva ban Bbprme
 Strawberry 🍓(16521287) :-Blue ban Bbprme
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-that is me\n
 Strawberry 🍓(16521287) :-:p
+Almond cookie(20199174) :-Lumi ban teletalis
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-no\n
+Almond cookie(20199174) :-jk
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-pls\n
+Almond cookie(20199174) :-brb
