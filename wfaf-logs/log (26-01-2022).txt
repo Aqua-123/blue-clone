@@ -431,3 +431,7 @@ Lumi(16008266) :-Hello, Jupiter Icecream! Welcome to WFAF! - Waiting for a Frien
 Lumi(16008266) :-Hi, Jupiter Icecream! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Jupiter Icecream, dont feel bad, theyll accept one day... hopefully!
 Gashing Sphere(22975867) :-Im right here\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-But brb\n
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
+Gashing Sphere(22975867) :-Some smol work\n
