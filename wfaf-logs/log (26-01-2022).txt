@@ -4244,3 +4244,9 @@ Gashing Sphere(22975867) :-Is it just me or does anyone else like Napoleon?
 Lumi(16008266) :-Hi, Spookyy! Im afraid they arent your friend yet, you can always try again!
 Spookyy(20199174) :-i am under too much pressure
 Strawberry 🍓(16521287) :-I dont like Napoleon no
+Gashing Sphere(22975867) :-How is the painting?
+Spookyy(20199174) :-i need a hug
+Strawberry 🍓(16521287) :--hug-
+Gashing Sphere(22975867) :--hugs-\n
+Gashing Sphere(22975867) :-Group hug\n
+Spookyy(20199174) :-thank you guys.
