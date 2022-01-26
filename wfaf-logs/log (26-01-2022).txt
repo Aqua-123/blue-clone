@@ -3049,3 +3049,7 @@ Lumi(16008266) :-Hello, Inaugurating Kabuto! Welcome to WFAF! - Waiting for a Fr
 Lumi(16008266) :-Hi, Sweet Puppy! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Asking Trout! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Almond cookie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Almond cookie(20199174) :-lumi whos idle
+Lumi(16008266) :-I see Omnissiah, Sweet Puppy, Blue, 🤖 Mecha Nurse 💉 lurking in the shadows...
+Almond cookie(20199174) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, Almond cookie and 4 lurkers
