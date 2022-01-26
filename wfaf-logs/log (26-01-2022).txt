@@ -3242,3 +3242,5 @@ Lumi(16008266) :-Hello, Impeding Snail! Welcome to WFAF! - Waiting for a Friend!
 Impeding Snail(23383726) :-hey
 Venus Pringle(23130149) :-YO
 Lumi(16008266) :-Hello, saski! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, saski! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, saski, dont feel bad, theyll accept one day... hopefully!
