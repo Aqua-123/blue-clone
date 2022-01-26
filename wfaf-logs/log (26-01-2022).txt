@@ -875,3 +875,5 @@ Lumi(16008266) :-I can see Lumi, WALL E, 🤖 Mecha Nurse 💉 and 5 lurkers
 WALL E(14751444) :-bella
 WALL E(14751444) :-ciao
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
