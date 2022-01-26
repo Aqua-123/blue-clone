@@ -4317,3 +4317,6 @@ Wasting elk(23394915) :-Ok
 Wasting elk(23394915) :-Ok
 Gashing Sphere(22975867) :-Blue whos here\n
 Blue(21550262) :-I can see 🖤Sweetie🖤, Gashing Sphere, Wasting elk and 5 peeps lurking :p
+Gashing Sphere(22975867) :-Blue whos lurking
+Blue(21550262) :-I can see 🤖 Mecha Nurse 💉, Asking Trout, Lumi, Eva lurking
+Gashing Sphere(22975867) :-All gone...
