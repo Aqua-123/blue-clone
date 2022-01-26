@@ -4183,3 +4183,8 @@ Lumi(16008266) :-Hi, Turquoise Porcupine! Im afraid they arent your friend yet, 
 Gashing Sphere(22975867) :-Oh\n
 Strawberry 🍓(16521287) :-F*cking is a town in Austria
 Wasting elk(23394915) :-Vienna
+Gashing Sphere(22975867) :-Australia\n
+Strawberry 🍓(16521287) :-Pronounced like
+Gashing Sphere(22975867) :-Its Australia i guess\n
+Wasting elk(23394915) :-Austria is a country too
+Strawberry 🍓(16521287) :-Foo-king
