@@ -3415,3 +3415,4 @@ Lumi(16008266) :-Hello, Earth nidoran! Welcome to WFAF! - Waiting for a Friend! 
 Gashing Sphere(22975867) :-Earth back again?
 Wasting elk(23394915) :-Its a radioactive evolution of eve
 Gashing Sphere(22975867) :-Nice\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-empoleon\n
