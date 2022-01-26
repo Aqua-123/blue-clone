@@ -3220,3 +3220,8 @@ Eva(21541886) :-hello there
 Almond cookie(20199174) :-eva whos here
 Eva(21541886) :-These are the people here :Eva\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dVenus Pringle\u202d, \u202dAlmond cookie. Maybe some are lurking
 Almond cookie(20199174) :-eva whos idle
+🤖 Mecha Nurse 💉(20909261) :-I think Blue is idle.
+Venus Pringle(23130149) :-yo hey people
+Almond cookie(20199174) :-Eva whos idle
+🤖 Mecha Nurse 💉(20909261) :-I think Blue is idle.
+Almond cookie(20199174) :-eva stats
