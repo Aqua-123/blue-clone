@@ -1561,3 +1561,6 @@ Aqua(16986137) :-blue ban 23391699
 Blue(21550262) :-Banning 23391699
 Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
 TinyCath ~(19259507) :-:>
+Blue(21550262) :-<:
+TinyCath ~(19259507) :-:o
+TinyCath ~(19259507) :-I shee
