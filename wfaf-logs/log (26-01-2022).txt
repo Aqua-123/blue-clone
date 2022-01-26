@@ -3615,3 +3615,6 @@ Gashing Sphere(22975867) :-Others will fight u.
 Wasting elk(23394915) :-X and y
 Gashing Sphere(22975867) :-And yes, tan\n
 Gashing Sphere(22975867) :-X is better\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-X is the red one?
+Gashing Sphere(22975867) :-Blue\n
+Wasting elk(23394915) :-No blue
