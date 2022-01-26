@@ -1375,3 +1375,5 @@ Aqua(16986137) :-sighhh
 Gashing Sphere(22975867) :-Halo\n
 Gashing Sphere(22975867) :-...?
 Gashing Sphere(22975867) :-I just returned. Why is there greeting so early?
+Gashing Sphere(22975867) :-Did it predict the future?
+Lumi(16008266) :-Hello, Black Pyramid! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
