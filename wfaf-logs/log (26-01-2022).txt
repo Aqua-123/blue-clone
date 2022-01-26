@@ -3254,3 +3254,4 @@ Wildflower(14751444) :-eva
 Wildflower(14751444) :-a sweet puppy
 Wildflower(14751444) :-blue get id of Sweet Puppy
 Blue(21550262) :-ID of Sweet Puppy is 23393842
+Lumi(16008266) :-Hello, Mars Whale! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
