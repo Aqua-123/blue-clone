@@ -4468,3 +4468,4 @@ Spookyy(20199174) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, Spookyy and 5 lurkers
 Spookyy(20199174) :-lumi whos idle
 Lumi(16008266) :-I see Omnissiah, Sweet Puppy, Blue, 🤖 Mecha Nurse 💉, Asking Trout lurking in the shadows...
+Lumi(16008266) :-Hi again, Black Nidoran, dont feel bad, theyll accept one day... hopefully!
