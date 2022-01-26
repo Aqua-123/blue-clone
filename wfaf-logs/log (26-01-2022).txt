@@ -3693,3 +3693,9 @@ Wasting elk(23394915) :-Which is both
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-apple juice
 Gashing Sphere(22975867) :-Say the number\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-name a Pokémon that is ice/ground type
+Wasting elk(23394915) :-6
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-lumi serve 6
+Lumi(16008266) :-🍎🧃
+Wasting elk(23394915) :-Poliswine
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-Pokémon 6?
+Gashing Sphere(22975867) :-Yes\n
