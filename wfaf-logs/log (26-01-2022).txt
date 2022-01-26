@@ -4364,3 +4364,4 @@ Lumi(16008266) :-I can see Lumi, Spookyy and 6 lurkers
 Spookyy(20199174) :-lumi whos idle
 Lumi(16008266) :-I see Eva, Blue, Omnissiah, Sweet Puppy, 🤖 Mecha Nurse 💉, Asking Trout lurking in the shadows...
 Spookyy(20199174) :-mhm
+Lumi(16008266) :-Hello, Mercury Geodude! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
