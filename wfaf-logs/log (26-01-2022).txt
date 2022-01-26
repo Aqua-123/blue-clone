@@ -4616,3 +4616,9 @@ Lumi(16008266) :-Hello, Uranus Biscuit! Welcome to WFAF! - Waiting for a Friend!
 Lumi(16008266) :-Hi, Uranus Biscuit! Im afraid they arent your friend yet, you can always try again!
 Uranus Biscuit(23398205) :-hey
 Lumi(16008266) :-Your friendly neighbourhood Saturn is here! *~~.
+Saturn(19364487) :-hi lumi
+Lumi(16008266) :-Hiiiiii!~
+Saturn(19364487) :-how goes it?
+Saturn(19364487) :-high five
+Blue(21550262) :-High five ~*
+Harenoir(11427049) :-hm...
