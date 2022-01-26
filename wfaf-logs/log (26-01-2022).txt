@@ -3252,3 +3252,5 @@ Wildflower(14751444) :-lumi whos idle
 Lumi(16008266) :-I see Eva, Blue, Omnissiah, Sweet Puppy, 🤖 Mecha Nurse 💉, Asking Trout lurking in the shadows...
 Wildflower(14751444) :-eva
 Wildflower(14751444) :-a sweet puppy
+Wildflower(14751444) :-blue get id of Sweet Puppy
+Blue(21550262) :-ID of Sweet Puppy is 23393842
