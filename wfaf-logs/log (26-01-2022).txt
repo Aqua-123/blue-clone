@@ -2277,3 +2277,6 @@ TinyCath ~(19259507) :-Aisssh
 TinyCath ~(19259507) :-NANI
 TinyCath ~(19259507) :-IS THAT-
 TinyCath ~(19259507) :-No i hope not
+TinyCath ~(19259507) :-Ah-
+TinyCath ~(19259507) :-Phew
+TinyCath ~(19259507) :-GAWD-
