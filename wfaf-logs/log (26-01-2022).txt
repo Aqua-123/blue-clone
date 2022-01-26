@@ -3078,3 +3078,5 @@ Gashing Sphere(22975867) :-Mecha whos here\n
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Eva, Gashing Sphere, and maybe some lurkers.
 Gashing Sphere(22975867) :-Eva?
 Gashing Sphere(22975867) :-Soul? U here?
+Gashing Sphere(22975867) :-Mecha whos idle
+🤖 Mecha Nurse 💉(20909261) :-I dont see anybody idle.
