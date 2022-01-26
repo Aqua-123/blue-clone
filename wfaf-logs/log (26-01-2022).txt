@@ -4531,3 +4531,5 @@ Continuing Pig(23397162) :-hm
 Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Limping Cube! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Dolli! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Dolli! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Dolli, dont feel bad, theyll accept one day... hopefully!
