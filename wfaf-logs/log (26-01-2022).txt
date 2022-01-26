@@ -53,3 +53,4 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hello, Violet Cheetah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Violet Cheetah(23388289) :-What happen
 Lumi(16008266) :-Hi, Violet Cheetah! Im afraid they arent your friend yet, you can always try again!
+Violet Cheetah(23388289) :-What happen
