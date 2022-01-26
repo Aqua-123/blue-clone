@@ -2579,3 +2579,9 @@ Fetching Ewok(23393252) :-Maybe\n
 Wildflower(14751444) :-maybe
 Fetching Ewok(23393252) :-Most prolly\n
 TinyCath ~(19259507) :-Q -- Q
+Fetching Ewok(23393252) :-Fear of me\n
+Fetching Ewok(23393252) :-Mwahahaha\n
+Wildflower(14751444) :-oh well its astraphobia -
+Wildflower(14751444) :-Astraphobia is an intense fear of thunder and lightning. The phobia is more common in children, but it can last into adulthood. Astraphobia often also affects animals. People with astraphobia feel extreme anxiety or debilitating fear when preparing for a thunderstorm.19-Nov-2021\n
+Wildflower(14751444) :-Sauce : Google
+TinyCath ~(19259507) :-:OOOO
