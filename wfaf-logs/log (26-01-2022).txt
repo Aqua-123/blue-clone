@@ -4372,3 +4372,4 @@ Lumi(16008266) :-Hello, Uranus Lickitung! Welcome to WFAF! - Waiting for a Frien
 Lumi(16008266) :-Hi, Uranus Lickitung! Im afraid they arent your friend yet, you can always try again!
 🤖 Mecha Nurse 💉(20909261) :-and be okay with no one else understanding.
 Lumi(16008266) :-Hi, Spookyy! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Spookyy, dont feel bad, theyll accept one day... hopefully!
