@@ -1422,3 +1422,5 @@ Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-Yay thats my words
 Gashing Sphere(22975867) :-Woah woah\n
+Gashing Sphere(22975867) :-...
+Gashing Sphere(22975867) :-Peace\n
