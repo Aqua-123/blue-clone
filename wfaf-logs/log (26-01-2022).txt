@@ -4513,3 +4513,4 @@ Harenoir(11427049) :-lumi whos her
 Lumi(16008266) :-I can see Lumi, Harenoir and 1 lurkers
 Lumi(16008266) :-Hello, J.! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Dante! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Continuing Pig! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
