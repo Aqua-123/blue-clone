@@ -479,3 +479,8 @@ Gashing Sphere(22975867) :-Lol\n
 Lumi(16008266) :-Hi, Mars Orange! Im afraid they arent your friend yet, you can always try again!
 Gashing Sphere(22975867) :-Limi is Lumiâ\n
 Gashing Sphere(22975867) :-Blue is blueâ\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hi again, Mars Orange, dont feel bad, theyll accept one day... hopefully!
+Cryo(22783061) :-yea thats a glitch in rxe we have seen once before
+Gashing Sphere(22975867) :-Yup. Lol\n
+Cryo(22783061) :-couldnt figure out what was triggering it
