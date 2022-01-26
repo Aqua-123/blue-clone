@@ -4566,3 +4566,4 @@ Blue(21550262) :-The river of life bubbles when Aqua comes near~
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hello, Fuchsia Tomato! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Katie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
