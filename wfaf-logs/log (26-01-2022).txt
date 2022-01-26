@@ -3364,3 +3364,7 @@ Lumi(16008266) :-Hello, 𝐇𝐨𝐫𝐫𝐨𝐫 𝐀𝐝𝐝𝐢𝐜𝐭💀! W
 Wasting elk(23394915) :-Hii sphere
 Gashing Sphere(22975867) :-Is that guy still here?
 Gashing Sphere(22975867) :-Hi\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-whats a horror addict\n
+Gashing Sphere(22975867) :-Person addicted to horror movies
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-whoever that is\n
+Gashing Sphere(22975867) :-Ig\n
