@@ -1680,3 +1680,4 @@ TinyCath ~(19259507) :-I mean, yessir
 TinyCath ~(19259507) :-q v p
 Aqua(16986137) :-:>
 Blue(21550262) :-<:
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
