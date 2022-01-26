@@ -230,3 +230,4 @@ Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... ho
 Cryo(22783061) :-blue get details of 22783061
 Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 35027 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
 Cryo(22783061) :-blue get details of 22783061
+Blue(21550262) :-The account with ID 22783061 has the name Cryo(cryoception) with karma:- 35055 and gender set to m and was created on 2021-12-01 at 05:54:47.186Z
