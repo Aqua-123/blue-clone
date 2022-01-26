@@ -2333,3 +2333,8 @@ TinyCath ~(19259507) :-Tell meh who
 Gashing Sphere(22975867) :-U\n
 Gashing Sphere(22975867) :-Are\n
 Gashing Sphere(22975867) :-Sus\n
+TinyCath ~(19259507) :-q = p
+TinyCath ~(19259507) :-WAHHHHHHHHHHHH
+Gashing Sphere(22975867) :-Ahem\n
+Gashing Sphere(22975867) :-Anyways
+Gashing Sphere(22975867) :-Gold Elk\n
