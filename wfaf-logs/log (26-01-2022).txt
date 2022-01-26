@@ -4609,3 +4609,4 @@ Lumi(16008266) :-Hello, Miles Morales! Welcome to WFAF! - Waiting for a Friend! 
 Miles Morales(23398112) :-hy
 Harenoir(11427049) :-stable communities
 Harenoir(11427049) :-i feel offended
+Lumi(16008266) :-Hello, Miles Morales! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
