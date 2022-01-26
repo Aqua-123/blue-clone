@@ -3044,3 +3044,4 @@ Lumi(16008266) :-Hi, Violet Cylinder! Im afraid they arent your friend yet, you 
 Lumi(16008266) :-Hi again, Violet Cylinder, dont feel bad, theyll accept one day... hopefully!
 Violet Cylinder(23393842) :-?
 Violet Cylinder(23393842) :-hahah
+Lumi(16008266) :-Hello, Sweet Puppy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
