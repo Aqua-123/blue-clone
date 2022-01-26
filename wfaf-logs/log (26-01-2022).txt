@@ -1627,3 +1627,5 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Aqua(16986137) :-blue ban 20210696
 Blue(21550262) :-Banning 20210696
 Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
+Gashing Sphere(22975867) :-Finally
+Aqua(16986137) :-def not me
