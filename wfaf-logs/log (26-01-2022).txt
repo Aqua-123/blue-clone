@@ -2493,3 +2493,8 @@ Blue(21550262) :-UwU
 Gashing Sphere(22975867) :-Cement?
 Wildflower(14751444) :-can i live inside that building ?
 TinyCath ~(19259507) :-Yesh
+TinyCath ~(19259507) :-YESH.
+Gashing Sphere(22975867) :-Oh\n
+Wildflower(14751444) :-oh
+Gashing Sphere(22975867) :-Hmmm\n
+Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
