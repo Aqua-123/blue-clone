@@ -3390,3 +3390,7 @@ Gashing Sphere(22975867) :-2 idle\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-betty ravioli\n
 Gashing Sphere(22975867) :-Mecha whos idle\n
 🤖 Mecha Nurse 💉(20909261) :-I think Blue is idle.
+Gashing Sphere(22975867) :-Thanks mecha\n
+Wasting elk(23394915) :-Who is nurse
+🤖 Mecha Nurse 💉(20909261) :-Youre welcome.
+Gashing Sphere(22975867) :-And\n
