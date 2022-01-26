@@ -1067,3 +1067,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ğŸ’‰ ğŸ’
 Gashing Sphere(22975867) :-Checha\n
 Gashing Sphere(22975867) :-Necha\n
 Gashing Sphere(22975867) :-...
+Gashing Sphere(22975867) :-I dont want shots. I take back what i said\n
