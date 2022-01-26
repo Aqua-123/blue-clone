@@ -100,3 +100,4 @@ Lumi(16008266) :-Hello, Choking Cube! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Hi, Choking Cube! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Choking Cube, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Justifying Burger! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
