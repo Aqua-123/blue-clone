@@ -4553,3 +4553,5 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
+Blue(21550262) :-Personal pizzas all around! Harenoir has arisen from the void!
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
