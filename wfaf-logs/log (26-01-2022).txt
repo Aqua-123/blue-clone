@@ -4639,3 +4639,6 @@ Saturn(19364487) :-ah
 Harenoir(11427049) :-but yeah
 Harenoir(11427049) :-emerald wise, nothing left to do as of right now
 Saturn(19364487) :-i guess GC livens up at times
+Saturn(19364487) :-not so many people come to WFAF these days
+Harenoir(11427049) :-ah yes
+Harenoir(11427049) :-gc still with 10 people at best
