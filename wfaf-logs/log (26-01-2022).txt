@@ -2681,3 +2681,8 @@ TinyCath ~(19259507) :-No, actually its just sum
 TinyCath ~(19259507) :-Hesitating problems
 TinyCath ~(19259507) :-Yes
 Fetching Ewok(23393252) :-Oh\n
+Fetching Ewok(23393252) :-Go on~
+Fetching Ewok(23393252) :-I cld help (?)
+TinyCath ~(19259507) :-I kant
+TinyCath ~(19259507) :-u W u
+Fetching Ewok(23393252) :-Why not\n
