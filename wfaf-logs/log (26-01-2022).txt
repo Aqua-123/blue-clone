@@ -2206,3 +2206,11 @@ TinyCath ~(19259507) :-kwakjabajo ~
 TinyCath ~(19259507) :-Ahem
 TinyCath ~(19259507) :-aissh
 TinyCath ~(19259507) :-Ahem
+TinyCath ~(19259507) :-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+TinyCath ~(19259507) :-Blue send pats to CAThy
+Blue(21550262) :-Sending pats to CAThy *pat pat*
+TinyCath ~(19259507) :-Yay-
+TinyCath ~(19259507) :-Klam
+TinyCath ~(19259507) :-DOWN
+TinyCath ~(19259507) :-OTAY ?
+TinyCath ~(19259507) :-NO
