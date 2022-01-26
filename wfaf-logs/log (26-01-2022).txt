@@ -4357,3 +4357,4 @@ Lumi(16008266) :-Hello, WhiteLantern#5987! Welcome to WFAF! - Waiting for a Frie
 Lumi(16008266) :-Hi, WhiteLantern#5987! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, WhiteLantern#5987, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Wasting elk! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Spookyy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
