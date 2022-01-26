@@ -484,3 +484,5 @@ Lumi(16008266) :-Hi again, Mars Orange, dont feel bad, theyll accept one day... 
 Cryo(22783061) :-yea thats a glitch in rxe we have seen once before
 Gashing Sphere(22975867) :-Yup. Lol\n
 Cryo(22783061) :-couldnt figure out what was triggering it
+Gashing Sphere(22975867) :-I am facing too many glitches now\n
+Gashing Sphere(22975867) :-The Wfaf button does not work\n
