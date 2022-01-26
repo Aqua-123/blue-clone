@@ -937,3 +937,4 @@ Dumping Rectangle(23391073) :-see you around
 Harenoir(11427049) :-how rude
 Harenoir(11427049) :-blue ban 23391073
 Blue(21550262) :-Banning 23391073
+Lumi(16008266) :-Hello, Venus Chicken! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
