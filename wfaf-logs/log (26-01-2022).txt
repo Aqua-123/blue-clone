@@ -1546,3 +1546,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Lumi(16008266) :-Hello, Chris (M)! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Chris (M)(91574) :-Hey I think it disconnected
 Lumi(16008266) :-Hello, Sadix! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Sadix! Im afraid they arent your friend yet, you can always try again!
