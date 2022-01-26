@@ -4559,3 +4559,4 @@ Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hello, Ajfig! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Ajfig(21033194) :-hi
 Ajfig(21033194) :-pls answer
+Lumi(16008266) :-Hello, J.! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
