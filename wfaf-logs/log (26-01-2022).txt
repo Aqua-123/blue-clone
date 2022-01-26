@@ -1073,3 +1073,6 @@ Gashing Sphere(22975867) :-Lol\n
 Gashing Sphere(22975867) :-Ribbit\n
 Gashing Sphere(22975867) :-Hecker just did something
 Harenoir(11427049) :-like what?
+Gashing Sphere(22975867) :-$ sudo locate elks pp\n
+Gashing Sphere(22975867) :-Its in his pants\n
+Harenoir(11427049) :-lmao
