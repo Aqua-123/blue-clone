@@ -2130,3 +2130,4 @@ Wildflower(14751444) :-lumi whos idle
 Lumi(16008266) :-I see Aqua, Limping Cube, TinyCath ~, Blue lurking in the shadows...
 Wildflower(14751444) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, 🤖 Mecha Nurse 💉, Wildflower and 4 lurkers
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
