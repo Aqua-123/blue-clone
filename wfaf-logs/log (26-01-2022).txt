@@ -1024,3 +1024,4 @@ Gashing Sphere(22975867) :-Is\n
 Gashing Sphere(22975867) :-Hatsuki?
 Gashing Sphere(22975867) :-No\n
 Gashing Sphere(22975867) :-Hisoka\n
+Gashing Sphere(22975867) :-Meow?
