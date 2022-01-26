@@ -1305,3 +1305,15 @@ Blue(21550262) :-The account with ID 11427049 has the name Harenoir(harenoir) wi
 Harenoir(11427049) :-someone is-
 Gashing Sphere(22975867) :-Still 42?!
 Gashing Sphere(22975867) :-Someone is?
+Aqua(16986137) :-blue get details of 11427049
+Blue(21550262) :-The account with ID 11427049 has the name Harenoir(harenoir) with karma:- 42031 and gender set to uwu and was created on 2020-05-03 at 05:58:59.674Z
+Harenoir(11427049) :-are you?
+Aqua(16986137) :-what?
+Harenoir(11427049) :-are you doing that?
+Gashing Sphere(22975867) :-...
+Aqua(16986137) :-yes
+Gashing Sphere(22975867) :-What\n
+Harenoir(11427049) :-phew
+Aqua(16986137) :-blue get details of 11427049
+Blue(21550262) :-The account with ID 11427049 has the name Harenoir(harenoir) with karma:- 42031 and gender set to uwu and was created on 2020-05-03 at 05:58:59.674Z
+Gashing Sphere(22975867) :-Oki\n
