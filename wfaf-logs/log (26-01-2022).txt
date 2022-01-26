@@ -476,3 +476,6 @@ Cryo(22783061) :-oh-
 Cryo(22783061) :-lmalkmd
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Lol\n
+Lumi(16008266) :-Hi, Mars Orange! Im afraid they arent your friend yet, you can always try again!
+Gashing Sphere(22975867) :-Limi is Lumiâ\n
+Gashing Sphere(22975867) :-Blue is blueâ\n
