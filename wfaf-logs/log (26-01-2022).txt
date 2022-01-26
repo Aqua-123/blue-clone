@@ -4454,3 +4454,7 @@ Lumi(16008266) :-Hello, Stairwaytorgasmmm! Welcome to WFAF! - Waiting for a Frie
 Lumi(16008266) :-Hello, Neptune Rhombus! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Black Nidoran! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Black Nidoran! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Black Nidoran! Im afraid they arent your friend yet, you can always try again!
+Black Nidoran(23396489) :-nhi
+Black Nidoran(23396489) :-hello
+Black Nidoran(23396489) :-are you online
