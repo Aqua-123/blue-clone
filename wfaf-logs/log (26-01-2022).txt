@@ -2402,3 +2402,6 @@ TinyCath ~(19259507) :-Birb
 Wildflower(14751444) :-sure
 Wildflower(14751444) :-🐦
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+TinyCath ~(19259507) :-o -- o
+TinyCath ~(19259507) :-Aissssh
+Lumi(16008266) :-Hi, 🖤Sweetie🖤! Im afraid they arent your friend yet, you can always try again!
