@@ -4446,3 +4446,6 @@ Lumi(16008266) :-I can see Lumi, Spookyy and 6 lurkers
 Spookyy(20199174) :-lumi whos idle
 Lumi(16008266) :-I see Omnissiah, Teeing Cube, Sweet Puppy, Blue, 🤖 Mecha Nurse 💉, Asking Trout lurking in the shadows...
 Lumi(16008266) :-Hello, Black Porg! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Black Porg(23395706) :-hey
+Spookyy(20199174) :-Hello
+Lumi(16008266) :-Hi, Black Porg! Im afraid they arent your friend yet, you can always try again!
