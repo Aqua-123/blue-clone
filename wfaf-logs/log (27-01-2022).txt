@@ -3751,3 +3751,5 @@ Saturn(19364487) :-maybe emerald is a bit unstable
 Saturn(19364487) :-hi waking dodrio
 Saturn(19364487) :-lumi whos here
 Lumi(16008266) :-I can see Saturn, Waking Dodrio, Lumi and 3 lurkers
+Saturn(19364487) :-lumi wfaf
+Saturn(19364487) :-blue wfaf
