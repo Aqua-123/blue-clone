@@ -234,3 +234,4 @@ Aqua(16986137) :-dang
 Gashing Sphere(22975867) :-And took away my niceness\n
 Lumi(16008266) :-Hello, Lisa! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lisa(9808681) :-hi
+Gashing Sphere(22975867) :-Hoi\n
