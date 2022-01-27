@@ -3856,3 +3856,6 @@ Saturn(19364487) :-lumi whos here
 Lumi(16008266) :-I can see Saturn, Lumi and 3 lurkers
 Saturn(19364487) :-lumi whos idle
 Lumi(16008266) :-I see Eva, Blue, male slave in chastity lurking in the shadows...
+Saturn(19364487) :-so you came back eva
+Saturn(19364487) :-hi eva
+Eva(21541886) :-hello there
