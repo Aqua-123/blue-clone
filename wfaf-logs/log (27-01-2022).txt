@@ -924,3 +924,7 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-<Multi_key> <e> <underscore> -> ē
 Harenoir(11427049) :-huh
+Strawberry 🍓(16521287) :-I have it as F9
+Harenoir(11427049) :-i should try it one day
+Strawberry 🍓(16521287) :-Its handy and has a lot of emoji too
+Strawberry 🍓(16521287) :-Mhm
