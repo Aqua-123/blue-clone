@@ -2846,3 +2846,6 @@ S​o​u​L(20327398) :-hmm
 Aqua(16986137) :-with pixel approximation
 Aqua(16986137) :-and
 Aqua(16986137) :-reconstruction of image
+Aqua(16986137) :-its downscaled to 48 x 48
+🤖 Mecha Nurse 💉(20909261) :-Hi again, Omnissiah, try asking what is wfaf for more info :D
+Aqua(16986137) :-blue enable chat-ai
