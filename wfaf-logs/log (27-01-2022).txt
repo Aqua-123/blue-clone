@@ -529,3 +529,7 @@ Lumi(16008266) :-Hello, Disturbing Chicken! Welcome to WFAF! - Waiting for a Fri
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-brb
 Gashing Sphere(22975867) :-Oki\n
 Lumi(16008266) :-Hi, Disturbing Chicken! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Disturbing Chicken, dont feel bad, theyll accept one day... hopefully!
+Gashing Sphere(22975867) :-Ribbit\n
+Gashing Sphere(22975867) :-Ribbittttt
+Gashing Sphere(22975867) :-RIBBITTTTT
