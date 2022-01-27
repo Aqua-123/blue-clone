@@ -15,7 +15,7 @@ from github import Github
 from vars import *
 import threading
 from timeit import default_timer as timer
-
+import cleverbotfree
 
 #Restarts the current program.
 restart_program = lambda : execl(executable,executable, * argv)
@@ -273,7 +273,7 @@ def admin_func(message,id,isadmin):
     
     for i in range(0, len(admin_commands)):
         result = admin_commands[i].match(message)
-        global greet_status,running,name,starttime
+        global greet_status,running,name,starttime,aichatstate
         if bool(result) == True:
             if i == 0 :
                 greet_status,response = True,"Okai done ^-^"
@@ -358,7 +358,12 @@ def admin_func(message,id,isadmin):
                 if not list1: response = "I'm currently stalking no one :>"
                 else: response = "Currently stalking the following IDs:- " +fix_message(str(list1))
                 send_message(response)
-                
+            elif i == 19:
+                aichatstate = True
+                send_message("Okai done")
+            elif i == 20:
+                aichatstate = False
+                send_message("Okai done")
 def coin_handling(array):
     """Just as the name suggests,
     handles coins and responses to them"""
@@ -420,6 +425,13 @@ def send_feelings(array,index,id,result):
             respons = "*bonks "+name + " with a baseball bat~*"
         send_message(respons)
         
+def chat(user_input):
+    with cleverbotfree.sync_playwright() as p_w:
+        c_b = cleverbotfree.Cleverbot(p_w)
+        bot = c_b.single_exchange(user_input)
+        send_message(bot)
+        c_b.close()
+
 def dis_en_greets(id):
     global greet_status
     if id == "16008266"and greet_status == True:
@@ -532,6 +544,9 @@ while running == True:
                 if "id" in user.keys():
                     id = str(user["id"])
                     message = fix_message(str(b["messages"]))
+                    if aichatstate == True:
+                        result = ai.match(message)
+                        if result: threading.Thread(target=chat, args=(message,)).start()
                     threading.Thread(target=check_greeters, args=(str(b["messages"]),id,)).start()
                     threading.Thread(target=log_chats, args=(message,id,)).start()
                     if id not in mute_list:
@@ -541,6 +556,6 @@ while running == True:
                     if id in admin : admin_func(message, id, True)
                     elif id in mod : admin_func(message, id, False)
 
-    except : 
+    except ValueError: 
         send_message("Unknown error occurred, restarting... ~*")
         restart_program()

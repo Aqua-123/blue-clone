@@ -74,7 +74,7 @@ starttime = time.time()  # Script start timestamp
 t = datetime.now()  # Current date time
 today = date.today()
 greet_status = True
-
+aichatstate = False
 cookies = {"_prototype_app_session":"OHVTZXhlYmpOUStPbU1KNTFaVUVlM1c0cktnYnN1MWN4eFN1akxwMElZWjRiZVNSSGVOUWZwajJ1V1NFMytrbm9tL3NFTE9rQk9HZnJLWUJsNTlXM0JOWG9hZE9yZjNmamkyM29Pd0JqU01YZVlpWkd2WlhBR3hVZGJHbGRtRG5HemtvL29xZm9kVExlODJSKzNiV1YxcHV2TUY1c0RPQXRUbkluelhJbmdPekZXcWUzZzNldnFPK1ZjRkhMN0xLa3A2WDkxemtvaTlDemZmTkJvT0RlUzJhczBkYnJBR3dVbEQyTWtIN3l4TT0tLUxQeW9UcHZtdUJWbEVjQXMwRmYxUnc9PQ%3D%3D--83ddb608f55747654feca4873dff6895e55b263e"}
 # Custom greets
 custom_greet_id = {
@@ -170,6 +170,8 @@ love = re.compile(r"""blue gift love(\\n)*\s*$""", re.I)
 dice = re.compile(r"""blue roll a dice(\\n)*\s*$""", re.I)
 mutereg = re.compile(r"""blue mute [^""]+(\\n)*\s*""", re.I)
 unmutereg = re.compile(r"""blue unmute [^""]+(\\n)*\s*""", re.I)
+enableai = re.compile(r"""blue enable chat-ai(\\n)*\s*""", re.I)
+disableai = re.compile(r"""blue disable chat-ai(\\n)*\s*""", re.I)
 
 stalk = re.compile(r"""(blue start stalking )([0-9]+)(\\n)*\s*""", re.I)
 stop_stalk = re.compile(r"""(blue stop stalking )([0-9]+)(\\n)*\s*""", re.I)
@@ -294,7 +296,9 @@ admin_commands = [
     get_admin_list,
     stalk,
     stop_stalk,
-    get_stalk
+    get_stalk,
+    enableai,
+    disableai
 ]
 
 #Menu list with images

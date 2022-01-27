@@ -34,3 +34,4 @@ youtube-search==2.1.0
 Unidecode==1.2.0
 PyGithub==1.55
 aiohttp>=3.8.1
+cleverbotfree>=2.3.3
