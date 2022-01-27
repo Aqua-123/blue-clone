@@ -3877,3 +3877,4 @@ Lumi(16008266) :-Hi, Spookyy! Im afraid they arent your friend yet, you can alwa
 Saturn(19364487) :-blue seen spooky
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Saturn(19364487) :-mecha seen spooky
+Saturn(19364487) :-lumi seen spooky
