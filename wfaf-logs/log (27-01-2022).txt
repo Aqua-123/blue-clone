@@ -3489,3 +3489,7 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Saturn(19364487) :-blue whos idle
 Blue(21550262) :-I can see Eva, Aqua, Strawberry 🍓 lurking
 🤖 Mecha Nurse 💉(20909261) :-I think Strawberry 🍓, maturemale4fem, Eva are idle.
+Saturn(19364487) :-eva whos here
+Eva(21541886) :-These are the people here :Eva\u202d, \u202dAqua\u202d, \u202dBlue\u202d, \u202dLumi\u202d, \u202dStrawberry 🍓\u202d, \u202dLimping Cube\u202d, \u202dSaturn\u202d, \u202d🤖 Mecha Nurse 💉. Maybe some are lurking
+Saturn(19364487) :-mecha whos here
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
