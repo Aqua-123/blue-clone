@@ -3210,3 +3210,4 @@ Lumi(16008266) :-Hello, Hapsoul! Welcome to WFAF! - Waiting for a Friend! The pl
 Lumi(16008266) :-Hi, Hapsoul! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
