@@ -555,3 +555,6 @@ Blue(21550262) :-I can see Gashing Sphere, 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, Lumi an
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-blue whos idle
 Blue(21550262) :-I can see Harenoir, Aqua lurking
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-thanks blue
+Blue(21550262) :-Youre welcome :D
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
