@@ -2568,3 +2568,4 @@ Lumi(16008266) :-Hello, Eva! Welcome to WFAF! - Waiting for a Friend! The place 
 S​o​u​L(20327398) :-$ find id of Lumi
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Eva(21541886) :-I couldnt find the id
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
