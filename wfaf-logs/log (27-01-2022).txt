@@ -1696,3 +1696,6 @@ Blue(21550262) :-*Sings ~*
 Blue(21550262) :-la la lalla ~*
 Strawberry 🍓(16521287) :-Aqua what problems did you have with codium
 Aqua(16986137) :-thats...
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Strawberry 🍓(16521287) :-FOSS >>
+Aqua(16986137) :-i was trying golang and its extension wasnt installing
