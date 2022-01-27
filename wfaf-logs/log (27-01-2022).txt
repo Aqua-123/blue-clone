@@ -2717,3 +2717,4 @@ Aqua(16986137) :-imma disable mechas greets
 Aqua(16986137) :-ffs
 S​o​u​L(20327398) :-all of the bots have gone crazy
 Aqua(16986137) :-mhm
+Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
