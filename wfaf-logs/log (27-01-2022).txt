@@ -755,3 +755,5 @@ Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Harenoir(11427049) :-yes
 Harenoir(11427049) :-he did
 Strawberry 🍓(16521287) :-Nice!
+Harenoir(11427049) :-im finally anime again! :D
+Strawberry 🍓(16521287) :-Satisfied so far?
