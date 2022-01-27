@@ -4673,3 +4673,7 @@ Almond cookie(20199174) :-TERI
 Almond cookie(20199174) :-I HAVE AN IDEA
 Almond cookie(20199174) :-I WILL START SELLING CANDY IN SCHOOL.
 Almond cookie(20199174) :-Today there was a kid
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
+Almond cookie(20199174) :-selling candy and he said that he started with 5$
+Almond cookie(20199174) :-and ended up with 35$
