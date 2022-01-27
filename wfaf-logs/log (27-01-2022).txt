@@ -3806,3 +3806,9 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Saturn(19364487) :-hi blue
 Blue(21550262) :-Hellosss :D
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Disabling greets uwu
+Saturn(19364487) :-blue serve 1
+Blue(21550262) :-☕
+Saturn(19364487) :-thanks blue :)
+Blue(21550262) :-Youre welcome :D
