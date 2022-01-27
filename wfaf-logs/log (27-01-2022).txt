@@ -434,3 +434,8 @@ Gashing Sphere(22975867) :-Next product
 Gashing Sphere(22975867) :-🍮
 Gashing Sphere(22975867) :-Puddings?
 Harenoir(11427049) :-whats that
+Harenoir(11427049) :-let me
+Gashing Sphere(22975867) :-Ah its like a jelly\n
+Harenoir(11427049) :-🍮
+Gashing Sphere(22975867) :-But super tasty\n
+Gashing Sphere(22975867) :-Yes\n
