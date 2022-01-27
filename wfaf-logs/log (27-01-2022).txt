@@ -848,3 +848,5 @@ Harenoir(11427049) :-oh, so it serves as an extra layer, sorta
 Strawberry 🍓(16521287) :-And sometimes its not the one you want
 Strawberry 🍓(16521287) :-Yep
 Harenoir(11427049) :-interesting
+Strawberry 🍓(16521287) :-Having black by default wouldnt fit everything
+Strawberry 🍓(16521287) :-Like if you have a black logo with transparency
