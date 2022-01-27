@@ -4819,3 +4819,7 @@ shadow(20182740) :-:/
 shadow(20182740) :-oh delay
 Harenoir(11427049) :-/:
 shadow(20182740) :-hi hare
+Harenoir(11427049) :-hihi
+shadow(20182740) :-hru
+Harenoir(11427049) :-im fine thx
+Harenoir(11427049) :-hbu?
