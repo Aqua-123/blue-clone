@@ -3143,3 +3143,6 @@ S​o​u​L(20327398) :-$ users
 Eva(21541886) :-These are the people here :Eva\u202d, \u202dAqua\u202d, \u202dBlue\u202d, \u202d𝒷𝓊𝒷𝒷𝓁𝑒𝓈\u202d, \u202dLumi\u202d, \u202dSpookyy\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking
 S​o​u​L(20327398) :-$ idle
 Eva(21541886) :-I think these people are idle: Aqua\u202d, \u202dBlue\u202d, \u202d𝒷𝓊𝒷𝒷𝓁𝑒𝓈\u202d, \u202dSpookyy
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+🤖 Mecha Nurse 💉(20909261) :-Welcome, Omnissiah, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.
+Blue(21550262) :-Re-enabling greets :D
