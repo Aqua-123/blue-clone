@@ -2291,3 +2291,6 @@ S​o​u​L(20327398) :-or its my internet
 Blue(21550262) :-prolly your network
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-Hash it?
+Strawberry 🍓(16521287) :-Lmao
+S​o​u​L(20327398) :-but the sever is gonna get the hashed key
+Strawberry 🍓(16521287) :-Its gonna be passed to a server request either way
