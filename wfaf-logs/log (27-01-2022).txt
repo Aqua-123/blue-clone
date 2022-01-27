@@ -361,3 +361,6 @@ Gashing Sphere(22975867) :-Anyways
 Lumi(16008266) :-Hello, Orchid Tomato! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-Do u have dumplings?
 Lumi(16008266) :-Hi, Orchid Tomato! Im afraid they arent your friend yet, you can always try again!
+Gashing Sphere(22975867) :-🍡
+Gashing Sphere(22975867) :-This.
+Lumi(16008266) :-Hi again, Orchid Tomato, dont feel bad, theyll accept one day... hopefully!
