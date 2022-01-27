@@ -1814,3 +1814,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Gashing Sphere(22975867) :-Blue joke
+Blue(21550262) :-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+Gashing Sphere(22975867) :-Heh\n
+Gashing Sphere(22975867) :-Not helping...
