@@ -2095,3 +2095,5 @@ S​o​u​L(20327398) :-hi agua
 Blue(21550262) :-hello
 Eva(21541886) :-hi
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+S​o​u​L(20327398) :-mecha is still on drugs?
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
