@@ -1526,3 +1526,9 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Arcadia Bay (15F) she/her(23394643) :-what is this
 TinyCath ~(19259507) :--oats-
+Gashing Sphere(22975867) :-A magical world\n
+TinyCath ~(19259507) :-HEAVEN-
+Arcadia Bay (15F) she/her(23394643) :-and how did i get here
+Gashing Sphere(22975867) :-There is food\n
+Gashing Sphere(22975867) :-There are candies\n
+Gashing Sphere(22975867) :-There are pets\n
