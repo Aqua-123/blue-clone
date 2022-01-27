@@ -270,3 +270,5 @@ Blue(21550262) :-okay
 Gashing Sphere(22975867) :-Uhh ok\n
 Gashing Sphere(22975867) :-So... First. A french stuff. 🥐 Croissant (please pronounce properly and keep me away from a stroke)
 Gashing Sphere(22975867) :-Then there is 🍟
+Blue(21550262) :-okay
+Gashing Sphere(22975867) :-French fries
