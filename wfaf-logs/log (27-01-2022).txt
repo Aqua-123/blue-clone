@@ -250,3 +250,7 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Gashing Sphere(22975867) :-Blue joke\n
 Blue(21550262) :-Velcro… What a rip-off.
 Gashing Sphere(22975867) :-Lmao\n
+Gashing Sphere(22975867) :-Took a while to get it\n
+Gashing Sphere(22975867) :-Blue quote\n
+Blue(21550262) :-Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
+Blue(21550262) :-~ by Ralph Waldo Emerson
