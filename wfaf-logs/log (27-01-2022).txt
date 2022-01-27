@@ -2464,3 +2464,8 @@ Blue(21550262) :-Disabling greets uwu
 Gashing Sphere(22975867) :-Mecha whos here
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Spookyy, Blue, Gashing Sphere. Also 4 people are idle, and there may be lurkers.
 Spookyy(20199174) :-lumi whos idlee
+Gashing Sphere(22975867) :-Idlee\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Spookyy(20199174) :-lumi whos idle
+Lumi(16008266) :-I see Eva, 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, S\u200bo\u200bu\u200bL, Limping Cube lurking in the shadows...
+Gashing Sphere(22975867) :-Limping cube?
