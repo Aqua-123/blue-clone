@@ -4812,3 +4812,7 @@ Almond cookie(20199174) :-Blue whos here
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Almond cookie. Also 2 people are idle, and there may be lurkers.
 Blue(21550262) :-I can see Lumi, Almond cookie and 2 peeps lurking :p
 Lumi(16008266) :-Hello, shadow! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+shadow(20182740) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, 🤖 Mecha Nurse 💉, Blue, shadow and 2 lurkers
+shadow(20182740) :-:/
+🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, shadow, Blue. Also 1 person is idle, and there may be lurkers.
