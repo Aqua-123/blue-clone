@@ -97,7 +97,7 @@ def greet(action, result, greet):
             if (greet == True) and ("id" in user) and (action == "user_connected"):
                 stats.append(name)
                 timeout_control[id] = perf_counter()
-                if (greet_status == True):
+                if (greet_status == True) and str(user["id"]) != "20909261" and str(user["id"]) != "20909232":
                     if str(user["id"]) in custom_greet_id.keys() : send_message(custom_greet_id[str(user["id"])])
                     else : send_greet(name)
                         
@@ -556,6 +556,6 @@ while running == True:
                     if id in admin : admin_func(message, id, True)
                     elif id in mod : admin_func(message, id, False)
 
-    except ValueError: 
+    except : 
         send_message("Unknown error occurred, restarting... ~*")
         restart_program()
