@@ -3081,3 +3081,6 @@ Eva(21541886) :-These are the people here :Eva\u202d, \u202dAqua\u202d, \u202dBl
 S​o​u​L(20327398) :-$ idle
 Eva(21541886) :-I think these people are idle: Aqua\u202d, \u202dBlue\u202d, \u202d𝒷𝓊𝒷𝒷𝓁𝑒𝓈
 S​o​u​L(20327398) :-$ uptime
+Eva(21541886) :-Ive been here for 1 hour(s) 47 minute(s) and 12 seconds.
+Lumi(16008266) :-Hello, maturemale4fem! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+S​o​u​L(20327398) :-. . .
