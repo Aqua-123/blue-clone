@@ -2758,3 +2758,9 @@ Strawberry 🍓(16521287) :-Aqua
 Aqua(16986137) :-strawww
 Strawberry 🍓(16521287) :-The menu fails on prod only doesnt it
 S​o​u​L(20327398) :-jeez chat is a mess now
+Aqua(16986137) :-prod...?
+Aqua(16986137) :-you mean the build?
+Strawberry 🍓(16521287) :-Because it works in my browser so I must have dev installed
+Strawberry 🍓(16521287) :-Yes
+Aqua(16986137) :-no i have dev installed
+Strawberry 🍓(16521287) :-Hm
