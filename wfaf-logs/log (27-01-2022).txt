@@ -2886,3 +2886,7 @@ Tan machine(16445365) :-soul what?
 Blue(21550262) :-Hi, Katie, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 S​o​u​L(20327398) :-r u a bot?
 Blue(21550262) :-Hi, Katie, retrying wont help, you can try asking what is wfaf for more info :D
+Tan machine(16445365) :-No I am real person
+Tan machine(16445365) :-Blue is bot
+Tan machine(16445365) :-WFAF
+Tan machine(16445365) :-what is wfa
