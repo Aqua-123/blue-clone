@@ -990,3 +990,7 @@ Aqua(16986137) :-mhmmm
 Strawberry 🍓(16521287) :-ritsu menu not opening mobile - thats a big one
 Aqua(16986137) :-ooo
 Strawberry 🍓(16521287) :-title on material icons
+Lumi(16008266) :-The river of life bubbles when Aqua comes near~
+Aqua(16986137) :-like this pic
+Strawberry 🍓(16521287) :-moving gem pic replacement to before render
+Aqua(16986137) :-ooo
