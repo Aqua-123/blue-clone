@@ -2713,3 +2713,6 @@ Aqua(16986137) :-lumi whos here
 Aqua(16986137) :-okay lumi crashed
 Aqua(16986137) :-wonderful
 Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Aqua(16986137) :-imma disable mechas greets
+Aqua(16986137) :-ffs
+S​o​u​L(20327398) :-all of the bots have gone crazy
