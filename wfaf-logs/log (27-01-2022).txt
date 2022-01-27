@@ -776,3 +776,5 @@ Strawberry 🍓(16521287) :-I think I could change the algorithm to try a higher
 Harenoir(11427049) :-mine is 1.\u200b5k
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-Mhm
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Strawberry 🍓(16521287) :-Mine 1.\u200b1
