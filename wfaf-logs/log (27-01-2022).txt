@@ -149,3 +149,5 @@ Lumi(16008266) :-Hello, Clicking Wookiee! Welcome to WFAF! - Waiting for a Frien
 Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Zach! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Zach(22292540) :-Please may I see your feet?
+Lumi(16008266) :-Hi, Zach! Im afraid they arent your friend yet, you can always try again!
