@@ -2824,3 +2824,4 @@ Aqua(16986137) :-rxe pfp stuff
 Aqua(16986137) :-thats where the data of pfp is stored
 S​o​u​L(20327398) :-the whole image?
 Aqua(16986137) :-yep
+Aqua(16986137) :->hi
