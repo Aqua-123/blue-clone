@@ -2060,3 +2060,8 @@ Blue(21550262) :-The things that one most wants to do are the things that are pr
 Blue(21550262) :-~ by Winifred Holtby
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Thats true.
+Gashing Sphere(22975867) :-:)
+Gashing Sphere(22975867) :-Thanks blue\n
+Blue(21550262) :-Youre welcome :D
+Gashing Sphere(22975867) :-<3
+Blue(21550262) :-<3
