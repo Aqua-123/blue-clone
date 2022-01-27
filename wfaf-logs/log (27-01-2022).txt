@@ -2697,3 +2697,5 @@ Blue(21550262) :-Hi, Omnissiah, retrying wont help, you can try asking what is w
 Aqua(16986137) :-blue enable chat-ai
 Blue(21550262) :-Okai done
 Aqua(16986137) :->hi
+Blue(21550262) :-Hi again, Omnissiah, try asking what is wfaf for more info :D
+Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
