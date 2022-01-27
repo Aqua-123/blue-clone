@@ -1078,3 +1078,7 @@ Strawberry 🍓(16521287) :-:>
 Blue(21550262) :-<:
 Lumi(16008266) :-Hi, Platypus_lord! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Platypus_lord, dont feel bad, theyll accept one day... hopefully!
+Strawberry 🍓(16521287) :-blue get details of 21550262
+Blue(21550262) :-The account with ID 21550262 has the name Blue(blue21495757) with karma:- 13253 and gender set to f and was created on 2021-08-17 at 09:00:42.325Z
+Strawberry 🍓(16521287) :-okay goos
+Strawberry 🍓(16521287) :-oof nvm
