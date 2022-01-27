@@ -3494,3 +3494,7 @@ Eva(21541886) :-These are the people here :Eva\u202d, \u202dAqua\u202d, \u202dBl
 Saturn(19364487) :-mecha whos here
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Saturn(19364487) :-things is confusing then
+Saturn(19364487) :-!uptime
+Lumi(16008266) :-Ive been here for 3 hours and 2 minutes
+Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+🤖 Mecha Nurse 💉(20909261) :-Ive been here for 17 days, 2 hours, 34 minutes.
