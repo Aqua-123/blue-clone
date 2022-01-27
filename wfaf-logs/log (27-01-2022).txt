@@ -2055,3 +2055,5 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Gashing Sphere(22975867) :-Blue joke\n
 Blue(21550262) :-I burned 2000 calories today, I left my food in the oven for too long.
 Gashing Sphere(22975867) :-Dayum\n
+Gashing Sphere(22975867) :-Blue quote\n
+Blue(21550262) :-The things that one most wants to do are the things that are probably most worth doing.
