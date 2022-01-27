@@ -832,3 +832,4 @@ Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-Disadvantage of using Nightly is the crashes haha
 Strawberry 🍓(16521287) :-Anyways
+Strawberry 🍓(16521287) :-Not an easy way to delete your pfp yet
