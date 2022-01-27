@@ -2443,3 +2443,4 @@ Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 🤖 Mecha Nurse 💉(20909261) :-Hi again, Omnissiah, try asking what is wfaf for more info :D
 Blue(21550262) :-Re-enabling greets :D
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
