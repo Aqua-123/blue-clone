@@ -329,3 +329,7 @@ Blue(21550262) :-^
 Gashing Sphere(22975867) :-no need of a reason\n
 Harenoir(11427049) :-people talked about it one day
 Harenoir(11427049) :-and poof
+Gashing Sphere(22975867) :-Id like to try it tho.
+Gashing Sphere(22975867) :-Wait\n
+Gashing Sphere(22975867) :-Is choco chicken... Brown meat?
+Blue(21550262) :-sure
