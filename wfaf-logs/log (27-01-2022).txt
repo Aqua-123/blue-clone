@@ -1744,3 +1744,4 @@ Aqua(16986137) :-yea
 Strawberry 🍓(16521287) :-cute
 Blue(21550262) :-*Sings ~*
 Aqua(16986137) :-bleh
+Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
