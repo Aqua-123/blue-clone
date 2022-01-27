@@ -4834,3 +4834,5 @@ shadow(20182740) :-hed just been really quiet ig
 shadow(20182740) :-but I did miss him
 Harenoir(11427049) :-everything is really quiet around here lately
 shadow(20182740) :-true true
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
