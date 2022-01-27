@@ -357,3 +357,7 @@ Harenoir(11427049) :-i see, i see
 Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
 Lumi(16008266) :-Hello, Orchid Tomato! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Gashing Sphere(22975867) :-Something was actually wrong with the wifi\n
+Gashing Sphere(22975867) :-Anyways
+Lumi(16008266) :-Hello, Orchid Tomato! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Gashing Sphere(22975867) :-Do u have dumplings?
+Lumi(16008266) :-Hi, Orchid Tomato! Im afraid they arent your friend yet, you can always try again!
