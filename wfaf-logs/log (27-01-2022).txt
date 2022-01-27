@@ -2852,3 +2852,5 @@ Aqua(16986137) :-blue enable chat-ai
 Blue(21550262) :-Okai done
 Aqua(16986137) :->hello
 S​o​u​L(20327398) :-hmm aight
+Aqua(16986137) :-:>
+Blue(21550262) :-<:
