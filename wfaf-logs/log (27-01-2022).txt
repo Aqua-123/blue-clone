@@ -3473,3 +3473,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Your friendly neighbourhood Saturn is here! *~~.
+Saturn(19364487) :-hi lumi
+Lumi(16008266) :-Hiiiiii!~
+Saturn(19364487) :-lumi serve 1
