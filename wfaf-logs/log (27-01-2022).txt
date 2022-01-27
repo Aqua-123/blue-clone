@@ -1959,3 +1959,8 @@ Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Hi, Limping Cube! Im afraid they arent your friend yet, you can always try again!
 TinyCath ~(19259507) :-Ahem
 TinyCath ~(19259507) :-I always thought ~
+TinyCath ~(19259507) :-I might be bad ~
+TinyCath ~(19259507) :-Now ~
+TinyCath ~(19259507) :-Im sure that its true ~
+TinyCath ~(19259507) :-Cause ~
+TinyCath ~(19259507) :-I think youre so good ~
