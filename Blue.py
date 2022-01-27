@@ -16,7 +16,7 @@ from vars import *
 import threading
 from timeit import default_timer as timer
 import cleverbotfree
-
+os.system("playwright install")
 #Restarts the current program.
 restart_program = lambda : execl(executable,executable, * argv)
 name = " "
