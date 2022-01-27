@@ -858,3 +858,4 @@ Strawberry 🍓(16521287) :-and they work in chat and bios just like links
 Harenoir(11427049) :-m:smile:
 Strawberry 🍓(16521287) :-m:favorite:
 Harenoir(11427049) :-m:heart:
+Strawberry 🍓(16521287) :-fonts.\u200bgoogle.\u200bcom/icons
