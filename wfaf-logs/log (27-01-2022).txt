@@ -3845,3 +3845,5 @@ Saturn(19364487) :-lumi ignore mecha maybe :)
 Saturn(19364487) :-hi poppadom
 Sky Blue Poppadom(23405767) :-hey
 Saturn(19364487) :-welcome to WFAF
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Sky Blue Poppadom(23405767) :-Thsnks lol
