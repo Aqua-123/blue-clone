@@ -904,3 +904,5 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Strawberry 🍓(16521287) :-Use Windows + ,
 Strawberry 🍓(16521287) :-or Windows + . I forget which one
 Strawberry 🍓(16521287) :-and then type the name
+Strawberry 🍓(16521287) :-I also use Wincompose
+Harenoir(11427049) :-oh i know that trick
