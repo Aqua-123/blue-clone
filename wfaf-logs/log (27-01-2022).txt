@@ -100,3 +100,5 @@ Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hi again, Venus Fish Fingers, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Bringing Twilek! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Bringing Twilek(23345529) :-hi m
+Lumi(16008266) :-Hello, Fuchsia Gungan! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Fuchsia Gungan(23400021) :-hi
