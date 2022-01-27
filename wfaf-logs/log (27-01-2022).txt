@@ -1206,3 +1206,12 @@ Gashing Sphere(22975867) :-Vroom?
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-vroom vroom
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-blue whos here
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-blue whos idle
+🤖 Mecha Nurse 💉(20909261) :-I can see Harenoir, Lumi, Blue, 𝒷𝓊𝒷𝒷𝓁𝑒𝓈 (#overthinker), Gashing Sphere, and maybe some lurkers.
+🤖 Mecha Nurse 💉(20909261) :-I dont see anybody idle.
+Blue(21550262) :-I can see Gashing Sphere, 𝒷𝓊𝒷𝒷𝓁𝑒𝓈, 🤖 Mecha Nurse 💉, Lumi, Blue and no lurkers :p
+Blue(21550262) :-I can see no lurkers as of now
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-thanks blue
+Blue(21550262) :-Youre welcome :D
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-thanks mecha
+🤖 Mecha Nurse 💉(20909261) :-No problem!
