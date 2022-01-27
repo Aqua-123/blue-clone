@@ -476,3 +476,4 @@ Gashing Sphere(22975867) :-I wish I could stay up late T T\n
 Harenoir(11427049) :-oof
 Gashing Sphere(22975867) :-If i stay up late, the next thing i see is my mom with a belt\n
 Gashing Sphere(22975867) :-And\n
+Gashing Sphere(22975867) :-Then i wake up\n
