@@ -489,3 +489,4 @@ Gashing Sphere(22975867) :-Cause it takes too long to reload\n
 Harenoir(11427049) :-sure thing
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
