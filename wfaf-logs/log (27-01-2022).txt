@@ -2721,3 +2721,4 @@ Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Aqua(16986137) :-blue get id of Omnissiah
 Blue(21550262) :-ID of Omnissiah is 20909232
 Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
