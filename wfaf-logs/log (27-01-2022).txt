@@ -2858,3 +2858,5 @@ S​o​u​L(20327398) :-thats why it didnt show up as an image when i tried to
 Aqua(16986137) :-yeo
 Aqua(16986137) :-yep
 S​o​u​L(20327398) :-aight
+Aqua(16986137) :->yeet
+Aqua(16986137) :-sighh
