@@ -2738,3 +2738,5 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Aqua(16986137) :-great
 Blue(21550262) :-Hi, its Blue ^-^
+Blue(21550262) :-*Sings ~*
+Blue(21550262) :-la la lalla ~*
