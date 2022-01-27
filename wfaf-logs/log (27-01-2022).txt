@@ -254,3 +254,8 @@ Gashing Sphere(22975867) :-Took a while to get it\n
 Gashing Sphere(22975867) :-Blue quote\n
 Blue(21550262) :-Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
 Blue(21550262) :-~ by Ralph Waldo Emerson
+Gashing Sphere(22975867) :-Nice one...
+Gashing Sphere(22975867) :-Thanks blue\n
+Blue(21550262) :-Youre welcome :D
+Gashing Sphere(22975867) :-Blue menu\n
+Blue(21550262) :-Rn we have 1) Coffee, 2) Milk, 3) Water
