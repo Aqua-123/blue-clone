@@ -2815,3 +2815,4 @@ Aqua(16986137) :-great
 Blue(21550262) :-Hi, its Blue ^-^
 Aqua(16986137) :-blue enable chat-ai
 Blue(21550262) :-Okai done
+Aqua(16986137) :->hi
