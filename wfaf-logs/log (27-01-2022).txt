@@ -2021,3 +2021,8 @@ Lumi(16008266) :-Hello, Eva! Welcome to WFAF! - Waiting for a Friend! The place 
 TinyCath ~(19259507) :-EVA !
 TinyCath ~(19259507) :-AND ADA-
 TinyCath ~(19259507) :-Ahem
+Lumi(16008266) :-Hello, Salmon Chicken! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+TinyCath ~(19259507) :-uWu
+Blue(21550262) :-UwU
+Salmon Chicken(23403381) :-hi
+Eva(21541886) :-moist
