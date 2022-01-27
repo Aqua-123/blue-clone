@@ -1200,3 +1200,6 @@ Lumi(16008266) :-I can see Lumi, Blue, 𝒷𝓊𝒷𝒷𝓁𝑒𝓈
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-lumi whos idle
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-:o
 Lumi(16008266) :-I see no one lurking.
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Vroom?
+𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-SPHEREEE
