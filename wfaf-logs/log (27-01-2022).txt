@@ -2528,3 +2528,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 S​o​u​L(20327398) :-jeez all bots have gone crazy
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 S​o​u​L(20327398) :-eva find id of Lumi
+Eva(21541886) :-I couldnt find the id
+S​o​u​L(20327398) :-oof
+S​o​u​L(20327398) :-rip
