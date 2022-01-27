@@ -4828,3 +4828,6 @@ shadow(20182740) :-u know saturn right
 Harenoir(11427049) :-right
 shadow(20182740) :-well I got a dm from him
 shadow(20182740) :-I thought he left this site
+Harenoir(11427049) :-he didnt left
+Harenoir(11427049) :-but hes not here often either
+shadow(20182740) :-hed just been really quiet ig
