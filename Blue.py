@@ -16,7 +16,7 @@ from vars import *
 import threading
 from timeit import default_timer as timer
 import cleverbotfree
-os.system("playwright install")
+
 #Restarts the current program.
 restart_program = lambda : execl(executable,executable, * argv)
 name = " "
@@ -544,9 +544,9 @@ while running == True:
                 if "id" in user.keys():
                     id = str(user["id"])
                     message = fix_message(str(b["messages"]))
-                    if aichatstate == True:
-                        result = ai.match(message)
-                        if result: threading.Thread(target=chat, args=(message,)).start()
+                    #if aichatstate == True:
+                     #   result = ai.match(message)
+                      #  if result: threading.Thread(target=chat, args=(message,)).start()
                     threading.Thread(target=check_greeters, args=(str(b["messages"]),id,)).start()
                     threading.Thread(target=log_chats, args=(message,id,)).start()
                     if id not in mute_list:
