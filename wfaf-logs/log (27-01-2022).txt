@@ -2646,3 +2646,5 @@ S​o​u​L(20327398) :-$ users
 Eva(21541886) :-These are the people here :Eva\u202d, \u202dS\u200bo\u200bu\u200bL\u202d, \u202dAqua. Maybe some are lurking
 Aqua(16986137) :-same as mecha
 Aqua(16986137) :-both work hand in hand
+S​o​u​L(20327398) :-hand in hand?
+Lumi(16008266) :-Nyan nyan its lumi <3
