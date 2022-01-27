@@ -2764,3 +2764,8 @@ Strawberry 🍓(16521287) :-Because it works in my browser so I must have dev in
 Strawberry 🍓(16521287) :-Yes
 Aqua(16986137) :-no i have dev installed
 Strawberry 🍓(16521287) :-Hm
+Aqua(16986137) :-it was working fine
+Aqua(16986137) :-failed when i changed my pfp
+Strawberry 🍓(16521287) :-Ill check if Im in sync with remote
+Strawberry 🍓(16521287) :-Thats
+Strawberry 🍓(16521287) :-Strange
