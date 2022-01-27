@@ -217,3 +217,7 @@ Lumi(16008266) :-Hi, Neptune Pringle! Im afraid they arent your friend yet, you 
 Lumi(16008266) :-Hi again, Neptune Pringle, dont feel bad, theyll accept one day... hopefully!
 Gashing Sphere(22975867) :-Pringles\n
 Aqua(16986137) :-hello
+Harenoir(11427049) :-hello
+Gashing Sphere(22975867) :-Henlooo
+Gashing Sphere(22975867) :--_-
+Gashing Sphere(22975867) :-HENLOOOOO\n
