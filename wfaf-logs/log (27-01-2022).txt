@@ -2825,3 +2825,24 @@ Aqua(16986137) :-thats where the data of pfp is stored
 S​o​u​L(20327398) :-the whole image?
 Aqua(16986137) :-yep
 Aqua(16986137) :->hi
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Cryo(22783061) :-blue send love to me
+Cryo(22783061) :-okay that worked
+Cryo(22783061) :-why didnt she send
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Lumi(16008266) :-Our favorite Blue greeter is here!
+Blue(21550262) :-Hi, its Blue ^-^
+Aqua(16986137) :-great
+Blue(21550262) :-Hi, its Blue ^-^
+Aqua(16986137) :-some custom stuff
+S​o​u​L(20327398) :-hmm
+Aqua(16986137) :-with pixel approximation
+Aqua(16986137) :-and
+Aqua(16986137) :-reconstruction of image
