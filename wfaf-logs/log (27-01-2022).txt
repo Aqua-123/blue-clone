@@ -2378,3 +2378,6 @@ Blue(21550262) :-yay :D
 Spookyy(20199174) :-Hi eva
 Spookyy(20199174) :-Hello, eva
 Eva(21541886) :-hello there
+Blue(21550262) :-smallest problem here, heroku provides free service for 550 hours
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-per month ^
