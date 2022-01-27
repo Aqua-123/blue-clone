@@ -520,7 +520,7 @@ while running == True:
         }
         if (len(list_main_dict.keys())+ len(idle_main_dict.keys())) <= 4:
             n = random.randint(0,100000)
-            if n % 222 == 0: threading.Thread(target= singing).start()
+            if n % 987 == 0: threading.Thread(target= singing).start()
         if ("identifier" in a.keys()) and ("message" in a.keys()):
             b = a["message"]
             threading.Thread(target=greet, args=("user_connected","add",True,)).start()
