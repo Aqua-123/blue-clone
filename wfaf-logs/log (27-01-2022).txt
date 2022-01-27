@@ -2354,3 +2354,4 @@ Blue(21550262) :-thats true
 Blue(21550262) :-yea
 Blue(21550262) :-mhm
 Blue(21550262) :-hmmm
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
