@@ -13,3 +13,4 @@ Lumi(16008266) :-Hello, Ralbu ! Welcome to WFAF! - Waiting for a Friend! The pla
 Harenoir(11427049) :-blue get id of Ralbu
 Blue(21550262) :-Im sorry I havent seen anyone with the name Ralbu here
 Harenoir(11427049) :-you did smh
+Lumi(16008266) :-Hello, Earth Victreebel! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
