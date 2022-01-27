@@ -2105,3 +2105,5 @@ Eva(21541886) :-Never gonna give you up, Never gonna let you down, Never gonna r
 Blue(21550262) :-that perticular mechanism is for it to detect when eme autodisconnects
 Blue(21550262) :-so it can rejoin
 Blue(21550262) :-but its taking small lags as false positives
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+S​o​u​L(20327398) :-oh
