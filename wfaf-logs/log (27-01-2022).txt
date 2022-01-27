@@ -382,3 +382,8 @@ Harenoir(11427049) :-i dont think so
 Gashing Sphere(22975867) :-Oki\n
 Gashing Sphere(22975867) :-So how many products are to be packaged?
 Harenoir(11427049) :-i have no idea
+Gashing Sphere(22975867) :-As of now 2 i guess\n
+Harenoir(11427049) :-i could pack anything that might exist in emojiland
+Gashing Sphere(22975867) :-Too less\n
+Gashing Sphere(22975867) :-French fries
+Gashing Sphere(22975867) :-And\n
