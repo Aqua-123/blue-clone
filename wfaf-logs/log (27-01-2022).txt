@@ -272,3 +272,5 @@ Gashing Sphere(22975867) :-So... First. A french stuff. 🥐 Croissant (please p
 Gashing Sphere(22975867) :-Then there is 🍟
 Blue(21550262) :-okay
 Gashing Sphere(22975867) :-French fries
+Gashing Sphere(22975867) :-Also, dry bread could be used\n
+Gashing Sphere(22975867) :-🍞
