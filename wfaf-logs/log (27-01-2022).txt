@@ -2343,3 +2343,7 @@ S​o​u​L(20327398) :-others can upload files using your api key if they hav
 Blue(21550262) :-which we actually want?
 Blue(21550262) :-like
 Blue(21550262) :-for normal gc pic sharing
+Blue(21550262) :-we would want that
+Blue(21550262) :-for imgur
+S​o​u​L(20327398) :-but ppl can abuse it
+Blue(21550262) :-how thats the question
