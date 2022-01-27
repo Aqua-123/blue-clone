@@ -2311,3 +2311,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Blue(21550262) :-nono but for us to upload pics as well directly from eme weve to use the api
 Strawberry 🍓(16521287) :-Well dont need to upload them here
 Strawberry 🍓(16521287) :-Two options:
+Strawberry 🍓(16521287) :-• if you wanna upload an imgur pic, create an api key, then you can upload them from emerald
+S​o​u​L(20327398) :-or ask them to insert an imgur link
+Strawberry 🍓(16521287) :-• if you wanna upload an imgur, upload it there and paste the link
