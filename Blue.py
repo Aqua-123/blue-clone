@@ -15,6 +15,8 @@ from github import Github
 from vars import *
 import threading
 from timeit import default_timer as timer
+
+
 #Restarts the current program.
 restart_program = lambda : execl(executable,executable, * argv)
 name = " "
@@ -32,7 +34,7 @@ def reconnect():
             ws.send(json.dumps(connect_json))
             connection = False
         if ws.connected == False : sleep(1)
-            
+
 def fix_name(name):
     for c in forbiden_chars : return(name.replace(c,""))
 
@@ -153,8 +155,6 @@ def matching(dictname,message):
             elif dictname == response_dict and re_m == quote: threading.Thread(target=get_quote).start()
             else: send_message(list(dictname.values())[i])
             break
-               
-
 
 def fix_message(messages):
     """Fixes syntactical problems with incomming 
@@ -237,20 +237,15 @@ def stalker(id,time_now):
     contents = repo.get_contents("")
     while contents:
         file_content = contents.pop(0)
-        if file_content.type == "dir":
-            contents.extend(repo.get_contents(file_content.path))
-        else:
-            file = file_content
-            all_files.append(str(file).replace('ContentFile(path="','').replace('")',''))
+        if file_content.type == "dir": contents.extend(repo.get_contents(file_content.path))
+        else: all_files.append(str(file_content).replace('ContentFile(path="','').replace('")',''))
     git_prefix = 'stalker-logs/'
     git_file = git_prefix + filename
     if git_file in all_files:
         logs = repo.get_contents(git_file)
         log = logs.decoded_content.decode()
         repo.update_file(logs.path, "stalker-log", log, logs.sha, branch="main")
-    else:
-        log = ""
-        repo.create_file(git_file, "committing files", log, branch="main")
+    else: repo.create_file(git_file, "committing files", "", branch="main")
     while stalking_log[id][1] == True:
         r = requests.get("https://emeraldchat.com/profile_json?id=" + str(id),cookies = cookies)
         print(r.status_code)
@@ -363,6 +358,7 @@ def admin_func(message,id,isadmin):
                 if not list1: response = "I'm currently stalking no one :>"
                 else: response = "Currently stalking the following IDs:- " +fix_message(str(list1))
                 send_message(response)
+                
 def coin_handling(array):
     """Just as the name suggests,
     handles coins and responses to them"""
@@ -378,6 +374,7 @@ def coin_handling(array):
         elif coin_add > 100: coin_confirm = "Woops too many coins, maybe buy me some chocolates instead? :>"
         send_message(coin_confirm)
 respons = ""
+
 def send_feelings(array,index,id,result):
     """Handles sending and recieving feelings 
     like hugs and love and what not I will be adding
@@ -386,33 +383,21 @@ def send_feelings(array,index,id,result):
     if index != 4:
         del array [0:4]
         name = result.group(1)
-        print(index,name)
-        if index == 1: 
-            respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
-            send_message(respons)
-        elif index == 2: 
-            respons = "Sending pats to " + name+" *pat pat*"
-            send_message(respons)
-        elif index == 3: 
-            respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
-            send_message(respons)
+        if index == 1: respons = "Sending lotsa love and hugs to " + name+" ❤️❤️"
+        elif index == 2: respons = "Sending pats to " + name+" *pat pat*"
+        elif index == 3: respons = "Sending hugs to "+name + " (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
         elif index == 5:
             name = result.group(4)
             l = list(stats_list.values())
             n = 0
             for re_m in l:
                 reg = re.compile(r"" + re_m+ "\\n*", re.I)
-                print(reg)
                 result = reg.search(name)
-                print(result)
                 if result is not None:
                     respons = "ID of " + name + " is " + str(list(stats_list.keys())[l.index(re_m)])
-                    send_message(respons)
                     break
                 else: n+=1
-            if n == len(stats_list.values()):
-                response = "Im sorry I havent seen anyone with the name "+name+" here"
-                send_message(response)
+            if n == len(stats_list.values()): response = "Im sorry I havent seen anyone with the name "+name+" here"
         elif index == 6 and id in admin:
             name = result.group(2)
             if name.isdigit():
@@ -427,40 +412,36 @@ def send_feelings(array,index,id,result):
                 elif r.status_code == 403: respons = "Timeout error, kindly wait for about 15-20 seconds and try again"
                 elif r is None : respons = "It appears the following account has either been deleted or doesnt exist, sowwy ;-;"
             else: respons = "Please provide with a valid ID :>"
-            send_message(respons)
+        send_message(respons)
     else: 
         if index == 4:
             del array [0:2]
             name = fix_name(" ".join(array))
             respons = "*bonks "+name + " with a baseball bat~*"
         send_message(respons)
+        
+def dis_en_greets(id):
+    global greet_status
+    if id == "16008266"and greet_status == True:
+        send_message("Disabling greets uwu")
+        greet_status = False
+    elif id == "20909261" and greet_status == False:
+        send_message("Re-enabling greets :D")
+        greet_status = True
 
 def check_greeters(message,id):
     global greet_status
     if (id == "16008266" or id == "20909261"):
         for reg_m in greet_check:
             result = reg_m.search(message)
-            if message in custom_greet_id.values() or  bool(result) == True or message == "Our favorite Blue greeter is here!" :
-                if id == "16008266"and greet_status == True:
-                    send_message("Disabling greets uwu")
-                    greet_status = False
-                elif id == "20909261" and greet_status == False:
-                    send_message("Re-enabling greets :D")
-                    greet_status = True
+            if message in custom_greet_id.values() or  bool(result) == True or message == "Our favorite Blue greeter is here!" : dis_en_greets(id)
         for reg_m in custom_greet_id.values():
             reg = re.compile(r"" + reg_m+ r"", re.I)
             pattern = reg_m + "\s*"
-            print(reg)
             result = reg.search(message)
             result1 = re.match(pattern,message)
-            print(result)
-            if result is not None :
-                if id == "16008266"and greet_status == True:
-                    send_message("Disabling greets uwu")
-                    greet_status = False
-                elif id == "20909261" and greet_status == False:
-                    send_message("Re-enabling greets :D")
-                    
+            if result is not None : dis_en_greets(id)
+                
 def coins_feelings(message,id):
     for reg_m in coinsandfeelings:
         result = reg_m.match(message)
@@ -477,6 +458,11 @@ def log_chats(message,user_id):
     file.write(log)
     file.close()
     
+def singing():
+    send_message("*Sings ~*")
+    time.sleep(2)
+    send_message("la la lalla ~*")
+    
 def push_logs():
     file = open("chatlogs.txt","r")
     contents1 = file.readlines()
@@ -490,9 +476,7 @@ def push_logs():
     while contents:
         file_content = contents.pop(0)
         if file_content.type == "dir": contents.extend(repo.get_contents(file_content.path))
-        else:
-            file = file_content
-            all_files.append(str(file).replace('ContentFile(path="','').replace('")',''))
+        else: all_files.append(str(file_content).replace('ContentFile(path="','').replace('")',''))
     git_prefix = 'wfaf-logs/'
     git_file = git_prefix + filename
     if git_file in all_files:
@@ -504,7 +488,6 @@ def push_logs():
         log = ""
         for i in contents1: log = log + i
         repo.create_file(git_file, "committing files", log, branch="main")
-
 
 """Connect blue to whatever"""
 websocket.enableTrace(False)
@@ -535,6 +518,9 @@ while running == True:
             bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
             dice: "Your number is...." + str(random.randint(1,6))
         }
+        if (len(list_main_dict.keys())+ len(idle_main_dict.keys())) <= 5:
+            n = random.randit(0,100000)
+            if n % 27 == 0: threading.Thread(target= singing).start()
         if ("identifier" in a.keys()) and ("message" in a.keys()):
             b = a["message"]
             threading.Thread(target=greet, args=("user_connected","add",True,)).start()
