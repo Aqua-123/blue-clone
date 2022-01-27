@@ -2375,3 +2375,6 @@ S​o​u​L(20327398) :-hi spooky
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-heyy spooks
 Spookyy(20199174) :-Hello, cathy
 Blue(21550262) :-yay :D
+Spookyy(20199174) :-Hi eva
+Spookyy(20199174) :-Hello, eva
+Eva(21541886) :-hello there
