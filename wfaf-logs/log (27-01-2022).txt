@@ -843,3 +843,5 @@ Strawberry 🍓(16521287) :-Oh uh
 Strawberry 🍓(16521287) :-Well you know how PNGs have transparency
 Harenoir(11427049) :-yes
 Strawberry 🍓(16521287) :-RxE pfps dont
+Strawberry 🍓(16521287) :-So we need to fill in a background colour
+Harenoir(11427049) :-oh, so it serves as an extra layer, sorta
