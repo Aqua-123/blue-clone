@@ -2296,3 +2296,4 @@ S​o​u​L(20327398) :-but the sever is gonna get the hashed key
 Strawberry 🍓(16521287) :-Its gonna be passed to a server request either way
 Strawberry 🍓(16521287) :-And you can all that on frontend
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Strawberry 🍓(16521287) :-No way around it sec wise if youre server less
