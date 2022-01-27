@@ -4458,3 +4458,5 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Fizz(22480587) :-Hey
 Fizz(22480587) :-how you doing?
 Spookyy(20199174) :-Good, you?
+Fizz(22480587) :-Ah same
+Fizz(22480587) :-bored
