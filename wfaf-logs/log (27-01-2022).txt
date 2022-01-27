@@ -4180,3 +4180,16 @@ Spookyy(20199174) :-lumi whos here
 Lumi(16008266) :-I can see Spookyy, Lumi, Blue, 🤖 Mecha Nurse 💉 and 2 lurkers
 Spookyy(20199174) :-lumi whos idle
 Lumi(16008266) :-I see Eva, Harenoir lurking in the shadows...
+🤖 Mecha Nurse 💉(20909261) :-I think Harenoir, Eva are idle.
+Spookyy(20199174) :-blue whos idle
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Spookyy(20199174) :-TERIIIIIIIIIIIIIIIII
+Harenoir(11427049) :-what
+Blue(21550262) :-I can see Eva, Harenoir lurking
+Blue(21550262) :-Disabling greets uwu
+Spookyy(20199174) :-TERIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Spookyy(20199174) :-hi
+Harenoir(11427049) :-what.
+Eva(21541886) :-hello
+Harenoir(11427049) :-hi
+Eva(21541886) :-hello
