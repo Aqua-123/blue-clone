@@ -2381,3 +2381,6 @@ Eva(21541886) :-hello there
 Blue(21550262) :-smallest problem here, heroku provides free service for 550 hours
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Blue(21550262) :-per month ^
+🤖 Mecha Nurse 💉(20909261) :-Hi, Omnissiah, retrying wont help, you can try asking what is wfaf for more info :D
+Blue(21550262) :-Re-enabling greets :D
+Blue(21550262) :-unless you add a cc then it increases the free hours to 1000 but... yea
