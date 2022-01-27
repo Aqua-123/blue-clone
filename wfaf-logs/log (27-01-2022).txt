@@ -782,3 +782,4 @@ Harenoir(11427049) :-nice
 Strawberry 🍓(16521287) :-That approach wouldnt break anything
 Strawberry 🍓(16521287) :-But it might take longer to upload
 Strawberry 🍓(16521287) :-Since I want to avoid a resolution picker
+Strawberry 🍓(16521287) :-Maybe a max resolution to try in the settings
