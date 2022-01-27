@@ -4671,3 +4671,5 @@ Almond cookie(20199174) :-LUMI WHOS IDLE
 Lumi(16008266) :-I see Harenoir, Blue, Steve lurking in the shadows...
 Almond cookie(20199174) :-TERI
 Almond cookie(20199174) :-I HAVE AN IDEA
+Almond cookie(20199174) :-I WILL START SELLING CANDY IN SCHOOL.
+Almond cookie(20199174) :-Today there was a kid
