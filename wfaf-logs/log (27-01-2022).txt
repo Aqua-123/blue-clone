@@ -1046,3 +1046,5 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Blue(21550262) :-mhmm
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-Hmm
+Strawberry 🍓(16521287) :-I wonder if its possible to change chat and bio so that
+Strawberry 🍓(16521287) :-so that line breaks show
