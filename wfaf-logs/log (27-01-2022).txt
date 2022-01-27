@@ -1727,3 +1727,5 @@ Aqua(16986137) :-twi adds the tails after for every message
 Aqua(16986137) :-and randomises or cycles between 3 variants
 Aqua(16986137) :-if i remember
 Strawberry 🍓(16521287) :-cycles yep
+Strawberry 🍓(16521287) :--pats Aqua-
+Strawberry 🍓(16521287) :-enough bullying
