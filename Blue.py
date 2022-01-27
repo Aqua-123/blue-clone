@@ -518,9 +518,9 @@ while running == True:
             bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
             dice: "Your number is...." + str(random.randint(1,6))
         }
-        if (len(list_main_dict.keys())+ len(idle_main_dict.keys())) <= 5:
+        if (len(list_main_dict.keys())+ len(idle_main_dict.keys())) <= 4:
             n = random.randint(0,100000)
-            if n % 27 == 0: threading.Thread(target= singing).start()
+            if n % 222 == 0: threading.Thread(target= singing).start()
         if ("identifier" in a.keys()) and ("message" in a.keys()):
             b = a["message"]
             threading.Thread(target=greet, args=("user_connected","add",True,)).start()
