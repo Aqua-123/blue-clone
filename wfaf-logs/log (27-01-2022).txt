@@ -20,3 +20,5 @@ Lumi(16008266) :-Hello, Uranus Gamorreans! Welcome to WFAF! - Waiting for a Frie
 Lumi(16008266) :-Hello, Black Drowzee! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Tommy is my bitch! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, kiara! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, kiara! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, kiara, dont feel bad, theyll accept one day... hopefully!
