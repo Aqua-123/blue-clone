@@ -4394,3 +4394,6 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Blue(21550262) :-Disabling greets uwu
 Spookyy(20199174) :-Alright
 Spookyy(20199174) :-how can i stop overthinking?
+Lumi(16008266) :-Hello, Uranus Sullustan! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Uranus Sullustan(23406954) :-hey
+Uranus Sullustan(23406954) :-you here?
