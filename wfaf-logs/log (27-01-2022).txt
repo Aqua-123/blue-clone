@@ -2666,3 +2666,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Hello, Maddie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Maddie(23364280) :-hey
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-*Sings ~*
