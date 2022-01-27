@@ -2625,3 +2625,4 @@ Eva(21541886) :-Id found :20327398
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 S​o​u​L(20327398) :-one more thing to check
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
