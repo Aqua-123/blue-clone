@@ -2997,3 +2997,6 @@ Treating Grasshopper(23404502) :-what is WFAF stand for?
 Aqua(16986137) :-waiting for a frined
 Aqua(16986137) :-friend*
 S​o​u​L(20327398) :-yea that
+Treating Grasshopper(23404502) :-oh okay
+Treating Grasshopper(23404502) :-why dont we be friend instead?
+Treating Grasshopper(23404502) :-haha
