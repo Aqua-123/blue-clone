@@ -2873,3 +2873,7 @@ Eva(21541886) :-hello
 Blue(21550262) :-I can see Blue, S\u200bo\u200bu\u200bL, Aqua, 🤖 Mecha Nurse 💉, Eva, Tan machine and no lurkers :p
 Aqua(16986137) :-blue uptime
 Blue(21550262) :-Ive been here for only 6 minutes
+Tan machine(16445365) :-Hello
+Tan machine(16445365) :-how is evryone?
+Eva(21541886) :-hi
+S​o​u​L(20327398) :-im good
