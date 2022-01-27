@@ -2866,3 +2866,10 @@ S​o​u​L(20327398) :-!uptime
 Eva(21541886) :-Ive been here for 0 hour(s) 58 minute(s) and 32 seconds.
 Blue(21550262) :-Hi, Tan machine, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Blue(21550262) :-Ive been here for only 5 minutes
+Aqua(16986137) :-blue whos here
+🤖 Mecha Nurse 💉(20909261) :-I can see Tan machine, Aqua, S\u200bo\u200bu\u200bL, Eva, Blue, and maybe some lurkers.
+Tan machine(16445365) :-Hi
+Eva(21541886) :-hello
+Blue(21550262) :-I can see Blue, S\u200bo\u200bu\u200bL, Aqua, 🤖 Mecha Nurse 💉, Eva, Tan machine and no lurkers :p
+Aqua(16986137) :-blue uptime
+Blue(21550262) :-Ive been here for only 6 minutes
