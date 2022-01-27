@@ -3452,3 +3452,8 @@ Spookyy(20199174) :-lumi whos here
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Spookyy. Also 4 people are idle, and there may be lurkers.
 Lumi(16008266) :-I can see Spookyy, 🤖 Mecha Nurse 💉, Lumi and 5 lurkers
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Spookyy(20199174) :-Eva whos idle
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Spookyy(20199174) :-Eva whos lurking
+Eva(21541886) :-I think these people are idle: Aqua\u202d, \u202dBlue\u202d, \u202dLimping Cube\u202d, \u202dStrawberry 🍓
+Eva(21541886) :-I think these people are idle: Aqua\u202d, \u202dBlue\u202d, \u202dLimping Cube\u202d, \u202dStrawberry 🍓
