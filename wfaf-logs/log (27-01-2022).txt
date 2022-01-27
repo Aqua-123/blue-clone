@@ -485,3 +485,5 @@ Gashing Sphere(22975867) :-Ill go eat breakfast
 Harenoir(11427049) :-cya
 Gashing Sphere(22975867) :-Au revoir!
 Gashing Sphere(22975867) :-Ill leave this thing open in background.
+Gashing Sphere(22975867) :-Cause it takes too long to reload\n
+Harenoir(11427049) :-sure thing
