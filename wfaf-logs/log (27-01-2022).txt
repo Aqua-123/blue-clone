@@ -3671,3 +3671,6 @@ Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend
 Blue(21550262) :-Disabling greets uwu
 Saturn(19364487) :-who told lumi that?!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Saturn(19364487) :-so mecha is broke
+Saturn(19364487) :-and blue a bit broke too
+Lumi(16008266) :-Hi, Strawberry 🍓! Im afraid they arent your friend yet, you can always try again!
