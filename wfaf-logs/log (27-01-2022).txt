@@ -210,3 +210,7 @@ Gashing Sphere(22975867) :-Mecha whos here
 Gashing Sphere(22975867) :-Woaaaahhhh. All the bosses here\n
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Hi ribbit
+Gashing Sphere(22975867) :-Hi aquarium
+Gashing Sphere(22975867) :-Hi me\n
+Gashing Sphere(22975867) :-Hiiiiiii\n
+Lumi(16008266) :-Hi, Neptune Pringle! Im afraid they arent your friend yet, you can always try again!
