@@ -2534,3 +2534,6 @@ S​o​u​L(20327398) :-rip
 Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 S​o​u​L(20327398) :-debug time
 S​o​u​L(20327398) :-$ shutdown
+Eva(21541886) :-Shutting down...
+S​o​u​L(20327398) :-lumi whos here
+Lumi(16008266) :-I can see Eva, S\u200bo\u200bu\u200bL, Lumi and 2 lurkers
