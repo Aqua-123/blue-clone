@@ -1063,3 +1063,4 @@ Strawberry 🍓(16521287) :-!! ritsu menu not opening\n! pfp gem before render\n
 Strawberry 🍓(16521287) :-behind debug option*
 Strawberry 🍓(16521287) :-also seems like we cant paste code but thats secondary
 Strawberry 🍓(16521287) :-definitely dont wanna make clickable code haha
+Aqua(16986137) :-mhmm
