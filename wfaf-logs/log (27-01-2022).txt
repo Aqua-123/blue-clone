@@ -3514,3 +3514,12 @@ Saturn(19364487) :-yess
 Saturn(19364487) :-and toast
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Saturn(19364487) :-how have you been?
+Strawberry 🍓(16521287) :-Ive been well
+Strawberry 🍓(16521287) :-Working on RxE again :)
+Lumi(16008266) :-Hi, Spookyy! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hello, Spookyy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-Were releasing v11.\u200b0 soon
+Saturn(19364487) :-ah good
+Saturn(19364487) :-oh right
+Lumi(16008266) :-Hello, Ryu! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Saturn(19364487) :-its forging ahead then
