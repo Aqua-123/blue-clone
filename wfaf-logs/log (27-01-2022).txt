@@ -379,3 +379,6 @@ Gashing Sphere(22975867) :-finally
 Gashing Sphere(22975867) :-Ahem ahem\n
 Gashing Sphere(22975867) :-Ju got pancakes?
 Harenoir(11427049) :-i dont think so
+Gashing Sphere(22975867) :-Oki\n
+Gashing Sphere(22975867) :-So how many products are to be packaged?
+Harenoir(11427049) :-i have no idea
