@@ -2583,3 +2583,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hi, Eva! Im afraid they arent your friend yet, you can always try again!
+S​o​u​L(20327398) :-$ find id of Lumi
+Eva(21541886) :-I couldnt find the id
