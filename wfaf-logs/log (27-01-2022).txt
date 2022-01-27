@@ -2944,3 +2944,4 @@ Blue(21550262) :-I just joined -w-
 Aqua(16986137) :-blue joke
 Blue(21550262) :-Im practicing for a bug-eating contest and Ive got butterflies in my stomach.
 S​o​u​L(20327398) :-lel
+Aqua(16986137) :-lol
