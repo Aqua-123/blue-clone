@@ -2718,3 +2718,5 @@ Aqua(16986137) :-ffs
 S​o​u​L(20327398) :-all of the bots have gone crazy
 Aqua(16986137) :-mhm
 Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Aqua(16986137) :-blue get id of Omnissiah
+Blue(21550262) :-ID of Omnissiah is 20909232
