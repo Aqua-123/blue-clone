@@ -265,3 +265,6 @@ Gashing Sphere(22975867) :-My bakery will provide you with items\n
 Blue(21550262) :-surely
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Gashing Sphere(22975867) :-....
+Gashing Sphere(22975867) :-Okay?
+Blue(21550262) :-okay
+Gashing Sphere(22975867) :-Uhh ok\n
