@@ -2359,3 +2359,4 @@ S​o​u​L(20327398) :-also the second u put an api key in a github repo then
 Blue(21550262) :-heroku server that we can send post requests to with the image data and that server will have the api key to umm send it over to imgur take the link and send back to client
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Blue(21550262) :-hows that?
+S​o​u​L(20327398) :-that could work
