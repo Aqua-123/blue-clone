@@ -4466,3 +4466,7 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Blue(21550262) :-Re-enabling greets :D
 Blue(21550262) :-Disabling greets uwu
+🤖 Mecha Nurse 💉(20909261) :-Hi again, Omnissiah, try asking what is wfaf for more info :D
+Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
+Blue(21550262) :-Re-enabling greets :D
+Blue(21550262) :-Disabling greets uwu
