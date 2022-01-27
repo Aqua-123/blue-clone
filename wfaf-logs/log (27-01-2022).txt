@@ -1007,3 +1007,4 @@ Strawberry 🍓(16521287) :-Youll have to check the token statistics
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Aqua(16986137) :-*thinks*
 Strawberry 🍓(16521287) :-and maybe even print the token list using the boolean option
+Strawberry 🍓(16521287) :-host webpack on lan - would be cool but i didnt manage it
