@@ -443,3 +443,4 @@ Harenoir(11427049) :-oh its that kind of yellow pudding
 Gashing Sphere(22975867) :-Hmm\n
 Gashing Sphere(22975867) :-Add to cart?
 Harenoir(11427049) :-sure why not
+Gashing Sphere(22975867) :-Oki. 3 items in cart. Press A to checkout. Press B to continue shopping
