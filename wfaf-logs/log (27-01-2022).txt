@@ -840,3 +840,6 @@ Harenoir(11427049) :-wait
 Harenoir(11427049) :-whats that transparency option i saw?
 Strawberry 🍓(16521287) :-I already have an idea on how to delete it from the bio
 Strawberry 🍓(16521287) :-Oh uh
+Strawberry 🍓(16521287) :-Well you know how PNGs have transparency
+Harenoir(11427049) :-yes
+Strawberry 🍓(16521287) :-RxE pfps dont
