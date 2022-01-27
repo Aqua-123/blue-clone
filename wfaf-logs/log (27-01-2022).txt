@@ -3275,3 +3275,5 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Lumi(16008266) :-Hello, Himel! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Himel(18750747) :-hi
 Eva(21541886) :-hello
+Spookyy(20199174) :-Hello, eva
+Himel(18750747) :-age?
