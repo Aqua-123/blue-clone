@@ -2880,3 +2880,5 @@ S​o​u​L(20327398) :-im good
 S​o​u​L(20327398) :-u?
 Tan machine(16445365) :-I am F 26
 Tan machine(16445365) :-and all?
+Tan machine(16445365) :-I am also great
+S​o​u​L(20327398) :-huh?
