@@ -2854,3 +2854,6 @@ Aqua(16986137) :->hello
 S​o​u​L(20327398) :-hmm aight
 Aqua(16986137) :-:>
 Blue(21550262) :-<:
+S​o​u​L(20327398) :-thats why it didnt show up as an image when i tried to decode it
+Aqua(16986137) :-yeo
+Aqua(16986137) :-yep
