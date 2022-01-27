@@ -3748,3 +3748,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ğŸ’‰ ğŸ’
 Saturn(19364487) :-WFAF seems a bit jum py these days
 Saturn(19364487) :-spates of messages
 Saturn(19364487) :-maybe emerald is a bit unstable
+Saturn(19364487) :-hi waking dodrio
+Saturn(19364487) :-lumi whos here
+Lumi(16008266) :-I can see Saturn, Waking Dodrio, Lumi and 3 lurkers
