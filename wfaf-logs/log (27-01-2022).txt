@@ -2081,3 +2081,7 @@ S​o​u​L(20327398) :-!i
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 🤖 Mecha Nurse 💉(20909261) :-I think TinyCath ~, Blue, 𝒷𝓊𝒷𝒷𝓁𝑒𝓈 (#), Gashing Sphere are idle.
 S​o​u​L(20327398) :-oh
+S​o​u​L(20327398) :-lemme test some updates real quick
+S​o​u​L(20327398) :-$ whos idle
+S​o​u​L(20327398) :-oof
+Eva(21541886) :-I think these people are idle: Gashing Sphere
