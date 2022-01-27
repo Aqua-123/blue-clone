@@ -4823,3 +4823,6 @@ Harenoir(11427049) :-hihi
 shadow(20182740) :-hru
 Harenoir(11427049) :-im fine thx
 Harenoir(11427049) :-hbu?
+shadow(20182740) :-im doing well
+shadow(20182740) :-u know saturn right
+Harenoir(11427049) :-right
