@@ -1039,3 +1039,5 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-also I have an idea about the pic thing
+Strawberry 🍓(16521287) :-I think it prioritizes spreading the palette too much
+Strawberry 🍓(16521287) :-So it doesnt have much precision with similar colours
