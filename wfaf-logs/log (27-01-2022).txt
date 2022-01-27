@@ -2200,3 +2200,4 @@ Blue(21550262) :-according to straw
 Blue(21550262) :-soo he was like
 Blue(21550262) :-fair enough
 Blue(21550262) :-rather than dealing with csp
+Strawberry 🍓(16521287) :-www.\u200breddit.\u200bcom/r/webdev/comments/2qhf7z/is_there_any_reason_not_to_use_imgur_as_a_host/
