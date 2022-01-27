@@ -519,7 +519,7 @@ while running == True:
             dice: "Your number is...." + str(random.randint(1,6))
         }
         if (len(list_main_dict.keys())+ len(idle_main_dict.keys())) <= 5:
-            n = random.randit(0,100000)
+            n = random.randint(0,100000)
             if n % 27 == 0: threading.Thread(target= singing).start()
         if ("identifier" in a.keys()) and ("message" in a.keys()):
             b = a["message"]
@@ -541,6 +541,6 @@ while running == True:
                     if id in admin : admin_func(message, id, True)
                     elif id in mod : admin_func(message, id, False)
 
-    except: 
+    except : 
         send_message("Unknown error occurred, restarting... ~*")
         restart_program()
