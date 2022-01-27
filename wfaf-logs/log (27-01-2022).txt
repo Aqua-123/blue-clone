@@ -33,3 +33,4 @@ Lumi(16008266) :-Hello, Venus Rectangle! Welcome to WFAF! - Waiting for a Friend
 Lumi(16008266) :-Hello, Venus Rectangle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Venus Rectangle! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, MarkyMoo (M 24)! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi again, Venus Rectangle, dont feel bad, theyll accept one day... hopefully!
