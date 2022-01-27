@@ -3476,3 +3476,9 @@ Lumi(16008266) :-Your friendly neighbourhood Saturn is here! *~~.
 Saturn(19364487) :-hi lumi
 Lumi(16008266) :-Hiiiiii!~
 Saturn(19364487) :-lumi serve 1
+Lumi(16008266) :-☕️
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Saturn(19364487) :-lumi whos here
+Lumi(16008266) :-I can see 🤖 Mecha Nurse 💉, Saturn, Lumi and 5 lurkers
+Saturn(19364487) :-lumi whos idle
+Lumi(16008266) :-I see Eva, Limping Cube, Strawberry 🍓, male slave in chastity, Blue lurking in the shadows...
