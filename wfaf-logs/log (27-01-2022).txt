@@ -780,3 +780,5 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Strawberry 🍓(16521287) :-Mine 1.\u200b1
 Harenoir(11427049) :-nice
 Strawberry 🍓(16521287) :-That approach wouldnt break anything
+Strawberry 🍓(16521287) :-But it might take longer to upload
+Strawberry 🍓(16521287) :-Since I want to avoid a resolution picker
