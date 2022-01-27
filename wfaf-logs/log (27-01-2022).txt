@@ -307,3 +307,8 @@ Gashing Sphere(22975867) :-Kyouko. Nice name.
 Blue(21550262) :-python comes for the save
 Kyouko~(19327031) :-thanks!
 Gashing Sphere(22975867) :-Choco- what?!
+Blue(21550262) :-chichen
+Blue(21550262) :-chicken*
+Kyouko~(19327031) :-Chocobitchen
+Gashing Sphere(22975867) :-Why would u put chocolate on CHICKEN?!
+Kyouko~(19327031) :-Chocochicken
