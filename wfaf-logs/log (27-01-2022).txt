@@ -431,3 +431,6 @@ Harenoir(11427049) :-i like that way
 Gashing Sphere(22975867) :-Hmm\n
 Harenoir(11427049) :-it*
 Gashing Sphere(22975867) :-Next product
+Gashing Sphere(22975867) :-🍮
+Gashing Sphere(22975867) :-Puddings?
+Harenoir(11427049) :-whats that
