@@ -516,3 +516,6 @@ Gashing Sphere(22975867) :-I gib up\n
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-.
 Gashing Sphere(22975867) :-Mecha whos idle\n
 🤖 Mecha Nurse 💉(20909261) :-I think Harenoir, Lumi, Blue are idle.
+Gashing Sphere(22975867) :-Oh\n
+Gashing Sphere(22975867) :-I thought u had left\n
+Gashing Sphere(22975867) :-Thats why didnt think about you\n
