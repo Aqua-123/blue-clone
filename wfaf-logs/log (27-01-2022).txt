@@ -336,3 +336,6 @@ Blue(21550262) :-sure
 Harenoir(11427049) :-if that works, works
 Gashing Sphere(22975867) :-Ahhhhhhh
 Gashing Sphere(22975867) :-Now it makes proper sense\n
+Gashing Sphere(22975867) :-Traditional stuff sure is valuable
+Harenoir(11427049) :-but imagine kfc chicken covered in chocolate
+Blue(21550262) :-dont-
