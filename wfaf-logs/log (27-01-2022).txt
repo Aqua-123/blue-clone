@@ -2340,3 +2340,6 @@ S​o​u​L(20327398) :-api should always be kept private
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 S​o​u​L(20327398) :-others can upload files using your api key if they have it
+Blue(21550262) :-which we actually want?
+Blue(21550262) :-like
+Blue(21550262) :-for normal gc pic sharing
