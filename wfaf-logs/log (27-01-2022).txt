@@ -4816,3 +4816,5 @@ shadow(20182740) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, 🤖 Mecha Nurse 💉, Blue, shadow and 2 lurkers
 shadow(20182740) :-:/
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, shadow, Blue. Also 1 person is idle, and there may be lurkers.
+shadow(20182740) :-oh delay
+Harenoir(11427049) :-/:
