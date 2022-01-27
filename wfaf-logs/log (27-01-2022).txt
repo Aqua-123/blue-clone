@@ -411,3 +411,6 @@ Gashing Sphere(22975867) :-This reminds me of the Canadians\n
 Harenoir(11427049) :-lol why
 Gashing Sphere(22975867) :-When it snows, they pour maple syrup on fresh snow, wait for it to be sticky, and them eat it\n
 Gashing Sphere(22975867) :-Then*
+Harenoir(11427049) :-they use actual snow for that?
+Gashing Sphere(22975867) :-Yes\n
+Harenoir(11427049) :-woah
