@@ -2945,3 +2945,4 @@ Aqua(16986137) :-blue joke
 Blue(21550262) :-Im practicing for a bug-eating contest and Ive got butterflies in my stomach.
 S​o​u​L(20327398) :-lel
 Aqua(16986137) :-lol
+Blue(21550262) :-Hi, Orange Sphere, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
