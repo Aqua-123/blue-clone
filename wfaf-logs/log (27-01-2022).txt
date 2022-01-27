@@ -1019,3 +1019,8 @@ Strawberry 🍓(16521287) :-Purple settings button lmao
 Blue(21550262) :-owo
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-Send me non working pics on Disc too
+Aqua(16986137) :-menu just stopped opening for me
+Aqua(16986137) :-Uncaught TypeError: this is undefined
+Aqua(16986137) :-this in da console
+Strawberry 🍓(16521287) :-Yep
+Aqua(16986137) :-for list settings
