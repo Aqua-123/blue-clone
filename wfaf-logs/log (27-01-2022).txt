@@ -1480,3 +1480,5 @@ Lumi(16008266) :-Greetings cathy cath ~*
 TinyCath ~(19259507) :--lorks-
 Gashing Sphere(22975867) :-Hiiii cath!!
 TinyCath ~(19259507) :-Ah i mean hi..
+Gashing Sphere(22975867) :-Looks\n
+TinyCath ~(19259507) :-o.o
