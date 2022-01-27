@@ -2967,3 +2967,11 @@ S​o​u​L(20327398) :-cant it just fetch the gc using api?
 Aqua(16986137) :-cause it logs normal gc too
 Aqua(16986137) :-it logs teh chats
 Blue(21550262) :-Hi, Treating Grasshopper, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Treating Grasshopper(23404502) :-hi
+Blue(21550262) :-Hi, Treating Grasshopper, retrying wont help, you can try asking what is wfaf for more info :D
+Eva(21541886) :-hello
+Treating Grasshopper(23404502) :-hi
+Eva(21541886) :-hello
+Treating Grasshopper(23404502) :-hi
+Eva(21541886) :-hello
+S​o​u​L(20327398) :-the api fetches the chat too ig
