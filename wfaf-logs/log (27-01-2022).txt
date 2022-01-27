@@ -2531,3 +2531,4 @@ S​o​u​L(20327398) :-eva find id of Lumi
 Eva(21541886) :-I couldnt find the id
 S​o​u​L(20327398) :-oof
 S​o​u​L(20327398) :-rip
+Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
