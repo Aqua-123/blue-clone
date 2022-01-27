@@ -131,3 +131,5 @@ Harenoir(11427049) :-yes that
 Harenoir(11427049) :-so glad
 Harenoir(11427049) :-and proud
 Blue(21550262) :-mhm
+Lumi(16008266) :-Hello, Venus Fish Fingers! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Venus Fish Fingers! Im afraid they arent your friend yet, you can always try again!
