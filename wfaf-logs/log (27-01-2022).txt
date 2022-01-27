@@ -4518,3 +4518,5 @@ Almond cookie(20199174) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, Almond cookie and 3 lurkers
 Almond cookie(20199174) :-Lumi whos idle
 Lumi(16008266) :-I see Blue, Harenoir, Eva lurking in the shadows...
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Chase! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
