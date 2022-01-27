@@ -2360,3 +2360,6 @@ Blue(21550262) :-heroku server that we can send post requests to with the image 
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Blue(21550262) :-hows that?
 S​o​u​L(20327398) :-that could work
+Blue(21550262) :-mhm
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Spookyy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
