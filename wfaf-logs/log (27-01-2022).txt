@@ -2287,3 +2287,4 @@ Blue(21550262) :-Disabling greets uwu
 Blue(21550262) :-hash the api key?
 Blue(21550262) :-in the source?
 S​o​u​L(20327398) :-eme is having connection errors
+S​o​u​L(20327398) :-or its my internet
