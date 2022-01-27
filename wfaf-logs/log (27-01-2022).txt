@@ -2937,3 +2937,7 @@ Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
 Aqua(16986137) :-great
 Blue(21550262) :-Hi, its Blue ^-^
+Aqua(16986137) :-blue whos here
+Blue(21550262) :-I can see Aqua, Blue and no lurkers :p
+Aqua(16986137) :-blue uptime
+Blue(21550262) :-I just joined -w-
