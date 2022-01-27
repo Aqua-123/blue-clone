@@ -1060,3 +1060,4 @@ Strawberry 🍓(16521287) :-I know youre working on Blue but
 Strawberry 🍓(16521287) :-Ill pressure you >:D
 Aqua(16986137) :-haha sure sure
 Strawberry 🍓(16521287) :-!! ritsu menu not opening\n! pfp gem before render\n! purple settings button\n! accept dot + zwsp in link path\n! too much assimilation in some cases (palette prio)\n- title on material icons\n- rich resolve wallposts\n- investigate /n in chats, bios, posts\n- cross next to BioImage to delete it\n- hide console logs before debug option before prod release\n? invis image text\n? host webpack on lan\n?? extra profile fields
+Strawberry 🍓(16521287) :-behind debug option*
