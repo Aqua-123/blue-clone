@@ -3501,3 +3501,7 @@ Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend
 Strawberry 🍓(16521287) :-Saturn :)
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Saturn(19364487) :-blue uptime
+Saturn(19364487) :-hi Strawbery :)
+Strawberry 🍓(16521287) :-test.\u200bcom/path/file.\u200bphp#anchor?key=value
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Strawberry 🍓(16521287) :-How have you been?
