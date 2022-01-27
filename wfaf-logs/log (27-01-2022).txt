@@ -2225,3 +2225,4 @@ Blue(21550262) :-sigh
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-Where does it accept requests from
+Strawberry 🍓(16521287) :-Someones gotta implement an option picker setting component and it wont (will) be me
