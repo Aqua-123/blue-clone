@@ -2966,3 +2966,4 @@ S​o​u​L(20327398) :-why does omni have to join normal gc
 S​o​u​L(20327398) :-cant it just fetch the gc using api?
 Aqua(16986137) :-cause it logs normal gc too
 Aqua(16986137) :-it logs teh chats
+Blue(21550262) :-Hi, Treating Grasshopper, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
