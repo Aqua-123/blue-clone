@@ -1144,3 +1144,4 @@ Gashing Sphere(22975867) :-Nyan nyan
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Gashing Sphere(22975867) :-Mecha whos here
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Gashing Sphere. Also 1 person is idle, and there may be lurkers.
+Gashing Sphere(22975867) :-Blue is idle\n
