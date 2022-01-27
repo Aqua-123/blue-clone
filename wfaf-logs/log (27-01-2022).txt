@@ -2612,3 +2612,7 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hello, Eva! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+S​o​u​L(20327398) :-eva find id of Lumi
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Eva(21541886) :-Id found :16008266
+S​o​u​L(20327398) :-finally
