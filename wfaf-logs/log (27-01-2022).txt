@@ -274,3 +274,5 @@ Blue(21550262) :-okay
 Gashing Sphere(22975867) :-French fries
 Gashing Sphere(22975867) :-Also, dry bread could be used\n
 Gashing Sphere(22975867) :-🍞
+Gashing Sphere(22975867) :-🥖 this too\n
+Harenoir(11427049) :-we already use all those kind of bread
