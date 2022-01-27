@@ -3944,3 +3944,9 @@ Lumi(16008266) :-Hello, White Porygon! Welcome to WFAF! - Waiting for a Friend! 
 White Porygon(23406375) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, White Porygon and 2 lurkers
 White Porygon(23406375) :-Lumi whos lurking
+Lumi(16008266) :-I see Spookyy, Blue lurking in the shadows...
+White Porygon(23406375) :-Guys
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+White Porygon(23406375) :-guys
+White Porygon(23406375) :-i have covid
+White Porygon(23406375) :-I feel terrible
