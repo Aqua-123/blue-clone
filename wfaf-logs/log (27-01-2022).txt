@@ -3783,3 +3783,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Saturn(19364487) :-its strange to have all this jumping around by blue and mecha
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
+Saturn(19364487) :-hi aqua
