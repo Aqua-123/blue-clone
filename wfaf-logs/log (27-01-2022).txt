@@ -158,3 +158,5 @@ Lumi(16008266) :-Hello, Pink Fish Fingers! Welcome to WFAF! - Waiting for a Frie
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Aqua(16986137) :-blue ban 23400444
+Blue(21550262) :-Banning 23400444
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
