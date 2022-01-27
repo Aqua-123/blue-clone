@@ -441,3 +441,5 @@ Gashing Sphere(22975867) :-But super tasty\n
 Gashing Sphere(22975867) :-Yes\n
 Harenoir(11427049) :-oh its that kind of yellow pudding
 Gashing Sphere(22975867) :-Hmm\n
+Gashing Sphere(22975867) :-Add to cart?
+Harenoir(11427049) :-sure why not
