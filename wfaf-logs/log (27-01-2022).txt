@@ -3731,3 +3731,6 @@ Waking Dodrio(23406027) :-hey\n
 Waking Dodrio(23406027) :-wheres saturn\n
 Lumi(16008266) :-Your friendly neighbourhood Saturn is here! *~~.
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
+Saturn(19364487) :-lumi whos here
+Lumi(16008266) :-I can see Spookyy, Saturn, Waking Dodrio, Lumi and 3 lurkers
