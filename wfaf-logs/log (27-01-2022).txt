@@ -285,3 +285,7 @@ Blue(21550262) :-lumi serve f
 Lumi(16008266) :-🍞🥖🥐🥨🥛
 Blue(21550262) :-mhm
 Gashing Sphere(22975867) :-Nice.
+Gashing Sphere(22975867) :-But i seriously cant see any of that!
+Gashing Sphere(22975867) :-No text support
+Blue(21550262) :-sad
+Harenoir(11427049) :-really sad
