@@ -4032,3 +4032,10 @@ S​o​u​L(20327398) :-!uptime
 Blue(21550262) :-Ive been here for only 58 minutes
 🤖 Mecha Nurse 💉(20909261) :-Ive been here for 17 days, 4 hours, 3 minutes.
 Eva(21541886) :-Ive been here for 5 hour(s) 59 minute(s) and 15 seconds.
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+S​o​u​L(20327398) :-eva whos idle
+Eva(21541886) :-I think these people are idle: Haley
+Lumi(16008266) :-Hi, Strawberry 🍓! Im afraid they arent your friend yet, you can always try again!
+Strawberry 🍓(16521287) :-Eva whos here
+Eva(21541886) :-These are the people here :Eva\u202d, \u202dBlue\u202d, \u202dLumi\u202d, \u202dHaley\u202d, \u202dS\u200bo\u200bu\u200bL\u202d, \u202dStrawberry 🍓. Maybe some are lurking
