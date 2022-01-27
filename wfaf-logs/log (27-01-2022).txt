@@ -921,3 +921,6 @@ Blue(21550262) :-<3
 Strawberry 🍓(16521287) :-Okay this work was all worth it
 Strawberry 🍓(16521287) :-win compose lets you combine keys
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Strawberry 🍓(16521287) :-<Multi_key> <e> <underscore> -> ē
+Harenoir(11427049) :-huh
