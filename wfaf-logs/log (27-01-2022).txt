@@ -2754,3 +2754,7 @@ Blue(21550262) :-Hi, Sky Blue Zebra, Welcome to WFAF, which stands for Waiting F
 Aqua(16986137) :-blue uptime
 Blue(21550262) :-Ive been here for only 2 minutes
 Blue(21550262) :-Hi, Sky Blue Zebra, retrying wont help, you can try asking what is wfaf for more info :D
+Strawberry 🍓(16521287) :-Aqua
+Aqua(16986137) :-strawww
+Strawberry 🍓(16521287) :-The menu fails on prod only doesnt it
+S​o​u​L(20327398) :-jeez chat is a mess now
