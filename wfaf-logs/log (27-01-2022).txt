@@ -3509,3 +3509,6 @@ Saturn(19364487) :-not too bad thanks :)
 Saturn(19364487) :-got chocolate and things
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-aw nice
+Strawberry 🍓(16521287) :-And porridge?
+Saturn(19364487) :-yess
+Saturn(19364487) :-and toast
