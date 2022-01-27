@@ -4860,3 +4860,4 @@ Blue(21550262) :-Hi, 😈, Welcome to WFAF, which stands for Waiting For A Frien
 Lumi(16008266) :-Hello, 😈! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Blue(21550262) :-Disabling greets uwu
 shadow(20182740) :-hi?
+shadow(20182740) :-damn no one here
