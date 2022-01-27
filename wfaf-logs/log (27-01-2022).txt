@@ -1444,3 +1444,5 @@ Gashing Sphere(22975867) :-In day time what happens with electricity
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-foes
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-does
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-*
+Gashing Sphere(22975867) :-Huh\n
+Gashing Sphere(22975867) :-Maybe\n
