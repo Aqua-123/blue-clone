@@ -4021,3 +4021,5 @@ Lumi(16008266) :-Hello, ^_^! Welcome to WFAF! - Waiting for a Friend! The place 
 Lumi(16008266) :-Hi, ^_^! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hi again, ^_^, dont feel bad, theyll accept one day... hopefully!
+Haley(23394643) :-i think
+Haley(23394643) :-so
