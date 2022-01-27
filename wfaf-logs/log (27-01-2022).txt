@@ -207,3 +207,6 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Gashing Sphere(22975867) :-NYAN nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan
 Gashing Sphere(22975867) :-Mecha whos here
 🤖 Mecha Nurse 💉(20909261) :-I can see Harenoir, Lumi, Aqua, Blue, Gashing Sphere, and maybe some lurkers.
+Gashing Sphere(22975867) :-Woaaaahhhh. All the bosses here\n
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Hi ribbit
