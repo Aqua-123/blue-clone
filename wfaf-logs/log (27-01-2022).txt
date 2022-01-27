@@ -747,3 +747,7 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Strawberry 🍓(16521287) :-Lumi whos here
 Lumi(16008266) :-I can see Lumi, Strawberry 🍓 and 2 lurkers
 Harenoir(11427049) :-about time
+Strawberry 🍓(16521287) :-O dont tell me
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hi, Applecoke! Im afraid they arent your friend yet, you can always try again!
+Strawberry 🍓(16521287) :-Aqua finally shared the new version
