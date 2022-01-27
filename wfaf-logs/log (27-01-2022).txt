@@ -4761,3 +4761,12 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hello, Harry! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+🤖 Mecha Nurse 💉(20909261) :-Hi, Harry, retrying wont help, you can try asking what is wfaf for more info :D
+Lumi(16008266) :-Hi, Harry! Im afraid they arent your friend yet, you can always try again!
+Blue(21550262) :-Re-enabling greets :D
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Hi, Harry, retrying wont help, you can try asking what is wfaf for more info :D
+Blue(21550262) :-Hi, Harry, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Hi again, Harry, try asking what is wfaf for more info :D
+Lumi(16008266) :-Hi again, Harry, dont feel bad, theyll accept one day... hopefully!
+Blue(21550262) :-Disabling greets uwu
