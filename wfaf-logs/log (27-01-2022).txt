@@ -528,3 +528,4 @@ Gashing Sphere(22975867) :-Nyan nyan
 Lumi(16008266) :-Hello, Disturbing Chicken! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈(22466125) :-brb
 Gashing Sphere(22975867) :-Oki\n
+Lumi(16008266) :-Hi, Disturbing Chicken! Im afraid they arent your friend yet, you can always try again!
