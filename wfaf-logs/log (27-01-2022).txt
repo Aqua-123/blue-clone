@@ -3885,3 +3885,10 @@ Saturn(19364487) :-thanks mecha
 Saturn(19364487) :-mecha seen Spookyy
 🤖 Mecha Nurse 💉(20909261) :-I last saw Spookyy (#spooky) 20199174 in WFAF 1 minute ago.
 Saturn(19364487) :-oh nice
+Saturn(19364487) :-lumi whos here
+🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Saturn, Spookyy, Eva. Also 1 person is idle, and there may be lurkers.
+Lumi(16008266) :-I can see 🤖 Mecha Nurse 💉, Saturn, Lumi and 3 lurkers
+🤖 Mecha Nurse 💉(20909261) :-Welcome, Omnissiah, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.
+Blue(21550262) :-Re-enabling greets :D
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Disabling greets uwu
