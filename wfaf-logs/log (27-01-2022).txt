@@ -4641,3 +4641,9 @@ Blue(21550262) :-Hi, Almond cookie, Welcome to WFAF, which stands for Waiting Fo
 Blue(21550262) :-Disabling greets uwu
 Almond cookie(20199174) :-Hello, mecha
 🤖 Mecha Nurse 💉(20909261) :-Hi Almond cookie!
+Almond cookie(20199174) :-Hi lumi
+Almond cookie(20199174) :-Eva whos idle
+Lumi(16008266) :-Hiiiiii!~
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Almond cookie(20199174) :-Blue whos idle
+Blue(21550262) :-I can see Steve, Harenoir lurking
