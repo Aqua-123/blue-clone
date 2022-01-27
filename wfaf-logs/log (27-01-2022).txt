@@ -3710,3 +3710,6 @@ Strawberry 🍓(16521287) :-Anyways thats done now
 Saturn(19364487) :-right
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-Not a lot of things on the to-do list anymore
+Saturn(19364487) :-you have worked through most of them
+Saturn(19364487) :-restored the bits that got broke on emerald
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
