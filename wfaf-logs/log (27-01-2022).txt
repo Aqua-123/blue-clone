@@ -1742,3 +1742,4 @@ Blue(21550262) :-<3
 Aqua(16986137) :-well
 Aqua(16986137) :-yea
 Strawberry 🍓(16521287) :-cute
+Blue(21550262) :-*Sings ~*
