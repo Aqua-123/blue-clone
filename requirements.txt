@@ -35,3 +35,4 @@ Unidecode==1.2.0
 PyGithub==1.55
 aiohttp>=3.8.1
 cleverbotfree>=2.3.3
+playwright>=1.18.1
