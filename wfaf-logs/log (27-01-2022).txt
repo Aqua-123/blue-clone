@@ -1024,3 +1024,7 @@ Aqua(16986137) :-Uncaught TypeError: this is undefined
 Aqua(16986137) :-this in da console
 Strawberry 🍓(16521287) :-Yep
 Aqua(16986137) :-for list settings
+Strawberry 🍓(16521287) :-On PC too?
+Blue(21550262) :-yes
+Strawberry 🍓(16521287) :-I see
+Strawberry 🍓(16521287) :-gotcha
