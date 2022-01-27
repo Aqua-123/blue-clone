@@ -845,3 +845,6 @@ Harenoir(11427049) :-yes
 Strawberry 🍓(16521287) :-RxE pfps dont
 Strawberry 🍓(16521287) :-So we need to fill in a background colour
 Harenoir(11427049) :-oh, so it serves as an extra layer, sorta
+Strawberry 🍓(16521287) :-And sometimes its not the one you want
+Strawberry 🍓(16521287) :-Yep
+Harenoir(11427049) :-interesting
