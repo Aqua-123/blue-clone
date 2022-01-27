@@ -509,3 +509,6 @@ Gashing Sphere(22975867) :-Mecha whos here\n
 Gashing Sphere(22975867) :-4
 Gashing Sphere(22975867) :-One, blue\n
 Gashing Sphere(22975867) :-Two, lumi\n
+Gashing Sphere(22975867) :-Three, Ribbit\n
+Gashing Sphere(22975867) :-Four....
+Gashing Sphere(22975867) :-Hmmm 🤔
