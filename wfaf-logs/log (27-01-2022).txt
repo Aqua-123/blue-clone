@@ -2458,3 +2458,9 @@ Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, Spookyy, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Blue(21550262) :-Hi, Spookyy, retrying wont help, you can try asking what is wfaf for more info :D
+Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Disabling greets uwu
+Gashing Sphere(22975867) :-Mecha whos here
+🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Spookyy, Blue, Gashing Sphere. Also 4 people are idle, and there may be lurkers.
+Spookyy(20199174) :-lumi whos idlee
