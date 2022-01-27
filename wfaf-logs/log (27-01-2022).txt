@@ -987,3 +987,5 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Aqua(16986137) :-mhm
 Strawberry 🍓(16521287) :-accept dot + zwsp in link path
 Aqua(16986137) :-mhmmm
+Strawberry 🍓(16521287) :-ritsu menu not opening mobile - thats a big one
+Aqua(16986137) :-ooo
