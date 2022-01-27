@@ -4770,3 +4770,4 @@ Blue(21550262) :-Hi, Harry, Welcome to WFAF, which stands for Waiting For A Frie
 Blue(21550262) :-Hi again, Harry, try asking what is wfaf for more info :D
 Lumi(16008266) :-Hi again, Harry, dont feel bad, theyll accept one day... hopefully!
 Blue(21550262) :-Disabling greets uwu
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
