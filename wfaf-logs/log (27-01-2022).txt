@@ -1548,3 +1548,4 @@ Lumi(16008266) :-Hi, Accepting wookiee! Im afraid they arent your friend yet, yo
 Gashing Sphere(22975867) :-Lol good for you\n
 Gashing Sphere(22975867) :-Would u like a cup of coffee?
 Arcadia Bay (15F) she/her(23394643) :-no ty
+Gashing Sphere(22975867) :-Oki.
