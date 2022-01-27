@@ -170,3 +170,4 @@ Blue(21550262) :-Hi, Omnissiah, Welcome to WFAF, which stands for Waiting For A 
 Blue(21550262) :-Hi, Omnissiah, retrying wont help, you can try asking what is wfaf for more info :D
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
