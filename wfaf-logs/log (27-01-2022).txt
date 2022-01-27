@@ -409,3 +409,5 @@ Harenoir(11427049) :-thats some kind of
 Harenoir(11427049) :-ice cream, right
 Gashing Sphere(22975867) :-This reminds me of the Canadians\n
 Harenoir(11427049) :-lol why
+Gashing Sphere(22975867) :-When it snows, they pour maple syrup on fresh snow, wait for it to be sticky, and them eat it\n
+Gashing Sphere(22975867) :-Then*
