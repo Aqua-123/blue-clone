@@ -3035,3 +3035,4 @@ Treating Grasshopper(23404502) :-blue
 Treating Grasshopper(23404502) :-who are you
 Blue(21550262) :-Hi, small PP Energy , Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 S​o​u​L(20327398) :-imma add like a profanity check to see if they are greet worthy
+S​o​u​L(20327398) :-yuuup there is a module for that
