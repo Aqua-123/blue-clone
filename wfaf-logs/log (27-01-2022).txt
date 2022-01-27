@@ -2167,3 +2167,8 @@ Strawberry 🍓(16521287) :-Got it
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-Well consider integrating an imgur format but
 Strawberry 🍓(16521287) :-Its suboptimal even if the quality is better
+S​o​u​L(20327398) :-i actually made this prototype encoding for imgur links by converting numbers to two alphabets from a = 0 and capital letters are three
+S​o​u​L(20327398) :-nah
+Blue(21550262) :-its certainly viable for chat pics
+S​o​u​L(20327398) :-its so messy
+Blue(21550262) :-UnU
