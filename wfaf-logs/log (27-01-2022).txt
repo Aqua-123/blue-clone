@@ -2692,3 +2692,8 @@ Blue(21550262) :-Hi, its Blue ^-^
 Blue(21550262) :-Hi, Eva, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Eva(21541886) :-oops, i got disconnected
 Aqua(16986137) :-oopsies
+Blue(21550262) :-Hi, Omnissiah, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Hi, Omnissiah, retrying wont help, you can try asking what is wfaf for more info :D
+Aqua(16986137) :-blue enable chat-ai
+Blue(21550262) :-Okai done
+Aqua(16986137) :->hi
