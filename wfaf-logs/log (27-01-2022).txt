@@ -2394,3 +2394,5 @@ Lumi(16008266) :-Hello, S\u200bo\u200bu\u200bL! Welcome to WFAF! - Waiting for a
 Eva(21541886) :-Never gonna give you up, Never gonna let you down, Never gonna run around and desert you....
 S​o​u​L(20327398) :-doesnt that have any bandwidth limits?
 Blue(21550262) :-i... am not sure
+Blue(21550262) :-Network bandwidth is soft limited at 2TB per app per month.
+Blue(21550262) :-plenty?
