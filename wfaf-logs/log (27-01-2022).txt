@@ -259,3 +259,5 @@ Gashing Sphere(22975867) :-Thanks blue\n
 Blue(21550262) :-Youre welcome :D
 Gashing Sphere(22975867) :-Blue menu\n
 Blue(21550262) :-Rn we have 1) Coffee, 2) Milk, 3) Water
+Gashing Sphere(22975867) :-*sigh*
+Gashing Sphere(22975867) :-I should bring up a partnership with you\n
