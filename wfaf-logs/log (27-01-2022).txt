@@ -2821,3 +2821,4 @@ Blue(21550262) :-Hi, S\u200bo\u200bu\u200bL, Welcome to WFAF, which stands for W
 Eva(21541886) :-Never gonna give you up, Never gonna let you down, Never gonna run around and desert you....
 S​o​u​L(20327398) :-btw whats in your bio?
 Aqua(16986137) :-rxe pfp stuff
+Aqua(16986137) :-thats where the data of pfp is stored
