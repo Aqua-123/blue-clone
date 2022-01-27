@@ -615,3 +615,9 @@ Lumi(16008266) :-Hello, Sigma Male! Welcome to WFAF! - Waiting for a Friend! The
 Lumi(16008266) :-Hi, Sigma Male! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Sigma Male, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
+🤖 Mecha Nurse 💉(20909261) :-Hi, Harenoir, retrying wont help, you can try asking what is wfaf for more info :D
+Blue(21550262) :-Re-enabling greets :D
+Blue(21550262) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Disabling greets uwu
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
