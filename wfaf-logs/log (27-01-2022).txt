@@ -247,3 +247,6 @@ Gashing Sphere(22975867) :-Imma speak to the greeters. Hmphhhhh
 Gashing Sphere(22975867) :-Hi blue\n
 Blue(21550262) :-Hellosss :D
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Gashing Sphere(22975867) :-Blue joke\n
+Blue(21550262) :-Velcro… What a rip-off.
+Gashing Sphere(22975867) :-Lmao\n
