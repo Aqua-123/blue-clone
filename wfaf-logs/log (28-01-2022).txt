@@ -2548,3 +2548,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Hello, Dining Ewok! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Dining Ewok(23412808) :-hi
 Venus Pringle(23130149) :-yo
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
