@@ -2278,3 +2278,5 @@ Somethinglalala(23370112) :-Hmm\nT\n
 Somethinglalala(23370112) :-Thanks mecha\n
 🤖 Mecha Nurse 💉(20909261) :-My pleasure.
 Zen(22174111) :-oh no, the nurse here
+Somethinglalala(23370112) :-Lol\n
+Somethinglalala(23370112) :-Nurse can give you shots tho, so be careful
