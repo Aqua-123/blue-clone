@@ -2685,3 +2685,8 @@ Demogorgon1/cosC gang(23065252) :-😔 ok
 Cryo(22783061) :-nothing specific atua
 Cryo(22783061) :-random stuff
 Cryo(22783061) :-dont worry about it
+Cryo(22783061) :-blue add 100 coins
+Blue(21550262) :-100 coins added to the fortune well, there are now 20302 coins in the well, wishing good luck to all :D
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Disabling greets uwu
+Demogorgon1/cosC gang(23065252) :-Blue what is wfaf
