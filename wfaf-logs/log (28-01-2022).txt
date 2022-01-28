@@ -2431,3 +2431,7 @@ Almond cookie(20199174) :-hey cathyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 Almond cookie(20199174) :-CATHY answer
 Almond cookie(20199174) :-i need to tell u smth
 TinyCath ~(19259507) :-; - ;
+TinyCath ~(19259507) :-Lumi whos here
+Lumi(16008266) :-I can see Lumi, TinyCath ~ and 4 lurkers
+TinyCath ~(19259507) :-lumi whos idle
+Lumi(16008266) :-I see Entangling Orange, Blue, Eva, 🤖 Mecha Nurse 💉 lurking in the shadows...
