@@ -2529,3 +2529,7 @@ Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hello, Cryo! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Cryo(22783061) :-!uptime
+Lumi(16008266) :-Ive been here for only 4 minutes
+Blue(21550262) :-Ive been here for only 4 minutes
+🤖 Mecha Nurse 💉(20909261) :-Ive been here for 17 days, 22 hours, 3 minutes.
