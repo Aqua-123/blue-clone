@@ -423,3 +423,5 @@ Demogorgon1/cosC gang(23065252) :-Hi Eva
 Eva(21541886) :-hello there
 Demogorgon1/cosC gang(23065252) :-What can you do eva
 Demogorgon1/cosC gang(23065252) :-SouL I need an eva tutorial
+Demogorgon1/cosC gang(23065252) :-Eva whos here
+Eva(21541886) :-These are the people here :Eva\u202d, \u202dS\u200bo\u200bu\u200bL\u202d, \u202dDemogorgon1/cosC gang. Maybe some are lurking
