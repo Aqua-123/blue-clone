@@ -1913,3 +1913,4 @@ Gashing Sphere(22975867) :-And clipboard
 Gashing Sphere(22975867) :-Lemme try AZERTY now\n
 Gashing Sphere(22975867) :-Why did that capitalise?
 Gashing Sphere(22975867) :-Anyways
+Gashing Sphere(22975867) :-Okay. Here we go\n
