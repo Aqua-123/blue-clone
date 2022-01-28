@@ -1603,3 +1603,5 @@ Gashing Sphere(22975867) :-Crayons\n
 Harenoir(11427049) :-oh cool
 Gashing Sphere(22975867) :-And... Cath and Bubbles\n
 Harenoir(11427049) :-im finally part of something
+Gashing Sphere(22975867) :-U are the part of the magical world in the story\n
+Gashing Sphere(22975867) :-Its... Childrens fiction
