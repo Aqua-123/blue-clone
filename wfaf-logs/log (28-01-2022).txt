@@ -1908,3 +1908,5 @@ S​o​u​L(20327398) :-there must be a settings for that ig?
 Gashing Sphere(22975867) :-Oh... Im too lazy for now. Ill check it out\n
 S​o​u​L(20327398) :-also i dont use gboard so idunno where is that on tge settings
 Gashing Sphere(22975867) :-Settings is a huge button right on the top of this keyboard
+Gashing Sphere(22975867) :-Along with gif and stuff\n
+Gashing Sphere(22975867) :-And clipboard
