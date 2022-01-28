@@ -2001,3 +2001,7 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Gashing Sphere(22975867) :-I forgot it...
 Gashing Sphere(22975867) :-Ah yes\n
+Harenoir(11427049) :-yea?
+Gashing Sphere(22975867) :-How do u find out i message you?
+Gashing Sphere(22975867) :-Like\n
+Gashing Sphere(22975867) :-I just say your name\n
