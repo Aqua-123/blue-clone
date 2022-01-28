@@ -944,3 +944,11 @@ Gashing Sphere(22975867) :-What do they represent?
 Cryo(22783061) :-cause math
 Gashing Sphere(22975867) :-...
 Harenoir(11427049) :-n = n +1
+Cryo(22783061) :-n += 1 is same as that
+Harenoir(11427049) :-i know lol
+Cryo(22783061) :-quick little tip
+Cryo(22783061) :-lmao
+Harenoir(11427049) :-but still
+Cryo(22783061) :-n++ in
+Harenoir(11427049) :-same thing
+Cryo(22783061) :-js
