@@ -2647,3 +2647,9 @@ Demogorgon1/cosC gang(23065252) :-Mecha Nurse get id of Lumi
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Demogorgon1/cosC gang(23065252) :-Blue get id of Lumi
 Blue(21550262) :-ID of Lumi is 16008266
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+S​o​u​L(20327398) :-hmm its kinda lagging
+Lumi(16008266) :-Hello, Spookyy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Spookyy! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Spookyy, dont feel bad, theyll accept one day... hopefully!
+S​o​u​L(20327398) :-hi spooky
