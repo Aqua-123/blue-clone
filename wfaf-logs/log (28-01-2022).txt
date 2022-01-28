@@ -1508,3 +1508,6 @@ Somethinglalala(23370112) :-Anyways
 Somethinglalala(23370112) :-Have u ever donated to any non profit company?
 Somethinglalala(23370112) :-Just curious
 Harenoir(11427049) :-hm, no, not really
+Somethinglalala(23370112) :-Oki.
+Harenoir(11427049) :-have you?
+Somethinglalala(23370112) :-Nah... Thinking about it..
