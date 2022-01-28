@@ -2174,3 +2174,5 @@ Somethinglalala(23370112) :-Im sure Eva will be an amazing greeter later\n
 S​o​u​L(20327398) :-whos this dood?
 Zen(22174111) :-right
 Somethinglalala(23370112) :-Lost kid lol\n
+Somethinglalala(23370112) :-Blue get id of Zen\n
+Blue(21550262) :-ID of Zen\n is 22174111
