@@ -2792,3 +2792,9 @@ S​o​u​L(20327398) :-eva find id of Spookyy
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Eva(21541886) :-Id found :20199174
+Demogorgon1/cosC gang(23065252) :-Blue get id of Demogorgon 1/cosC gang
+Blue(21550262) :-ID of Demogorgon 1/cosC gang is 23065252
+Spookyy(20199174) :-Blue get id of SouL
+Blue(21550262) :-ID of Demogorgon 1/cosC gang is 23065252
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Demogorgon1/cosC gang(23065252) :-Blue mute 23065252
