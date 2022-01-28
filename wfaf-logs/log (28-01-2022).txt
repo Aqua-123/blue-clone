@@ -1590,3 +1590,5 @@ Harenoir(11427049) :-sure...
 Gashing Sphere(22975867) :-...?
 Harenoir(11427049) :-....?
 Gashing Sphere(22975867) :-...........?
+Somethinglalala(23370112) :-Also\n
+Somethinglalala(23370112) :-I forgot something
