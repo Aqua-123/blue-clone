@@ -791,3 +791,9 @@ Ruby(20777989) :-Lumi whos here
 Lumi(16008266) :-I can see Harenoir, Ruby and 7 lurkers
 Ruby(20777989) :-Lol nice\n
 Ruby(20777989) :-I wonder if Lumi has coins\n
+Harenoir(11427049) :-she does
+Ruby(20777989) :-Lumi add 1 coin\n
+Ruby(20777989) :-Does she though
+Harenoir(11427049) :-lumi add 98 coins
+Lumi(16008266) :-98 coins added to the fountain, there are now 19120 coins in the fountain, strive for greatness~
+Harenoir(11427049) :-^ there
