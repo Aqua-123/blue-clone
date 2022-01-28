@@ -2482,3 +2482,6 @@ Lumi(16008266) :-Hi, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼! Im afraid they arent 
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-I have proof\n
 Lumi(16008266) :-Hello, Sadix! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-给我钱
+Lumi(16008266) :-Hi, Sadix! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Sadix, dont feel bad, theyll accept one day... hopefully!
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-我会杀死你
