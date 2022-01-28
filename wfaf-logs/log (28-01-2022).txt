@@ -1797,3 +1797,7 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Gashing Sphere(22975867) :-So u will get a link a little down in the... Instructions
 Gashing Sphere(22975867) :-To download the script\n
+S​o​u​L(20327398) :-or do just as the instructions say
+Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
+Gashing Sphere(22975867) :-Well yes\n
+S​o​u​L(20327398) :-says*
