@@ -1253,3 +1253,5 @@ S​o​u​L(20327398) :-pineapple on pizza?
 Somethinglalala(23370112) :-Yes\n
 Harenoir(11427049) :-part of the bet
 Somethinglalala(23370112) :-Lucky u didnt bet\n
+Somethinglalala(23370112) :-I have stuff less in stock\n
+Somethinglalala(23370112) :-And, Ribbit. Did u add my products in there (-_•)
