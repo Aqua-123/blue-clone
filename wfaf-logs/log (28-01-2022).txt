@@ -259,3 +259,5 @@ Lumi(16008266) :-I see Blue, Harenoir, Harry, Cryo, 🤖 Mecha Nurse 💉, Steve
 🖤Sweetie🖤(19271305) :-Ok lumi\n
 Lumi(16008266) :-Hello, Eva! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 🖤Sweetie🖤(19271305) :-Lumi whos here\n
+Lumi(16008266) :-I can see Lumi, Eva, 🖤Sweetie🖤 and 6 lurkers
+🖤Sweetie🖤(19271305) :-Eva say something
