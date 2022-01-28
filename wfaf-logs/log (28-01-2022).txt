@@ -1275,3 +1275,6 @@ S​o​u​L(20327398) :-uhmm?
 Harenoir(11427049) :-hare = rabbit
 Harenoir(11427049) :-aka ribbit
 S​o​u​L(20327398) :-oh
+Somethinglalala(23370112) :-Yes... How did i forget that...
+Harenoir(11427049) :-pun intented? idk
+Harenoir(11427049) :-but it works
