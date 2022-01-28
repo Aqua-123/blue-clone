@@ -1988,3 +1988,6 @@ Gashing Sphere(22975867) :-When will u sleep, Ribbit?
 Gashing Sphere(22975867) :-Annnnd i have a question
 Gashing Sphere(22975867) :-Ribbit
 Gashing Sphere(22975867) :-Ribbittttt
+Gashing Sphere(22975867) :-Rib rib Ribbit
+Gashing Sphere(22975867) :-RIBBIT\n
+Gashing Sphere(22975867) :-RIBBITTTTT
