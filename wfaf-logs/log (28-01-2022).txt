@@ -2729,3 +2729,8 @@ Cryo(22783061) :-yea dont mind small regex problems
 Demogorgon1/cosC gang(23065252) :-Why is she getting lumi id
 Cryo(22783061) :-bad coding
 Demogorgon1/cosC gang(23065252) :-Np bro
+Cryo(22783061) :-blue stats
+Blue(21550262) :-174 have entered wfaf and 12 unique people have joined in the past 0 hours and 35 minutes, and it is Fri, 28 Jan 2022 01:45:52 PM GMT in wfaf
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Demogorgon1/cosC gang(23065252) :-Blue get id of Cryo
+Blue(21550262) :-ID of Cryo is 22783061
