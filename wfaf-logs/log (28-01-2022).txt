@@ -1487,3 +1487,5 @@ Somethinglalala(23370112) :-Hi ribbit
 Lumi(16008266) :-Hi, bi/female/16! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, bi/female/16, dont feel bad, theyll accept one day... hopefully!
 Harenoir(11427049) :-hi somethinglalala
+Somethinglalala(23370112) :-Lol hi\n
+Somethinglalala(23370112) :-Who am I?
