@@ -1560,3 +1560,4 @@ Blue(21550262) :-Youre here because you tried to message someone who didnt accep
 Somethinglalala(23370112) :-Blue?
 Somethinglalala(23370112) :-Ah there\n
 Somethinglalala(23370112) :-Read\n
+Brezzybae<3(23225469) :-but i didnt try to message anyone i jst came here somehow
