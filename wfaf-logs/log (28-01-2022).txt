@@ -784,3 +784,6 @@ Harenoir(11427049) :-idk many details tbh
 Harenoir(11427049) :-only that it should be fixed by now
 Ruby(20777989) :-Unfortunate
 Harenoir(11427049) :-i personally think it was a bluff tbh
+Ruby(20777989) :-It may have been\n
+Ruby(20777989) :-Guess well never know\n
+Harenoir(11427049) :-it do be like that sometimes
