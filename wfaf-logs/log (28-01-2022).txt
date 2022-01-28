@@ -2035,3 +2035,7 @@ Gashing Sphere(22975867) :-Sure u can\n
 Gashing Sphere(22975867) :-Ribbit. What are u doing?
 Harenoir(11427049) :-oh
 Harenoir(11427049) :-btw
+Gashing Sphere(22975867) :-Hmm?
+Harenoir(11427049) :-i said i constantly check the chat
+Harenoir(11427049) :-to see if anyone messaged me
+Gashing Sphere(22975867) :-Ah oki oki\n
