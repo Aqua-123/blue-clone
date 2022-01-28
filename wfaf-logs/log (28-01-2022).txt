@@ -1482,3 +1482,6 @@ Somethinglalala(23370112) :-Mecha whats here\n
 Somethinglalala(23370112) :-Yikes
 Somethinglalala(23370112) :-Mecha whos here
 🤖 Mecha Nurse 💉(20909261) :-I can see Harenoir, Lumi, S\u200bo\u200bu\u200bL, Somethinglalala, bi/female/16. Also 2 people are idle, and there may be lurkers.
+bi/female/16(23410705) :-huh
+Somethinglalala(23370112) :-Hi ribbit
+Lumi(16008266) :-Hi, bi/female/16! Im afraid they arent your friend yet, you can always try again!
