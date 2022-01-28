@@ -1078,3 +1078,9 @@ Harenoir(11427049) :-:p
 Harenoir(11427049) :-after this
 Harenoir(11427049) :-and after i get done some
 Harenoir(11427049) :-unfinished bussiness
+Somethinglalala(23370112) :-There is something that is making me sneeze nonstop...
+Harenoir(11427049) :-ill def be taking a real break
+Somethinglalala(23370112) :-Some sort of stimuli\n
+Cryo(22783061) :-much needed
+Harenoir(11427049) :-B)
+Harenoir(11427049) :-anyways
