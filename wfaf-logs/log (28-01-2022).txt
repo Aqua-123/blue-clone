@@ -1379,3 +1379,7 @@ Somethinglalala(23370112) :-Wont null ever return here or something?
 Harenoir(11427049) :-huh
 Lumi(16008266) :-Hello, Neptune Rhombus! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Harenoir(11427049) :-let me check
+Somethinglalala(23370112) :-Idk why i remembered him\n
+Harenoir(11427049) :-blue get details of 14008355
+Blue(21550262) :-The account with ID 14008355 has the name Null(null) with karma:- -11617 and gender set to f and was created on 2020-08-22 at 23:31:58.190Z
+Harenoir(11427049) :-lmao he gave up
