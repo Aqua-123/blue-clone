@@ -102,3 +102,5 @@ Lumi(16008266) :-I can see Lumi, Omnissiah, Almond cookie and 4 lurkers
 Almond cookie(20199174) :-blue enforce
 Almond cookie(20199174) :-lumi stats?
 Blue(21550262) :-Kindly be nice and keep this family-friendly while you are here, else the wfaf door is always open for you to leave, thanks
+Almond cookie(20199174) :-Hello, mecha
+🤖 Mecha Nurse 💉(20909261) :-Hi Almond cookie!
