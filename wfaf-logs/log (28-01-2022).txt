@@ -2477,3 +2477,4 @@ Eva(21541886) :-Never gonna give you up
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-never gonna give you cheese\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-its for my pet dead rat\n
 Lumi(16008266) :-Hi, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼! Im afraid they arent your friend yet, you can always try again!
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-guys I can speak enchanting table
