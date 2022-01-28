@@ -857,3 +857,7 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Ruby(20777989) :-Back again\n
 Harenoir(11427049) :-wb
+Ruby(20777989) :-Anyway, I think Ill get going\n
+Ruby(20777989) :-Take care\n
+Harenoir(11427049) :-sure sure
+Harenoir(11427049) :-you too
