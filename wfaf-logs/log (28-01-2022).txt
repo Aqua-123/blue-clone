@@ -1351,3 +1351,11 @@ Somethinglalala(23370112) :-And u not weirdo\n
 Somethinglalala(23370112) :-Lol sure then!
 Harenoir(11427049) :-alright then!
 Somethinglalala(23370112) :-Let me get id\n
+Harenoir(11427049) :-blue ban Inventing Wookiee
+Somethinglalala(23370112) :-Me me me\n
+Harenoir(11427049) :-blue get id of Inventing Wookiee
+Blue(21550262) :-ID of Inventing Wookiee is 23411264
+Harenoir(11427049) :-blue ban 23411264
+Blue(21550262) :-Banning 23411264
+Harenoir(11427049) :-there we go!
+Harenoir(11427049) :-woohoo
