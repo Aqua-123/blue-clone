@@ -2857,3 +2857,12 @@ Eva(21541886) :-Never gonna give you up, Never gonna let you down, Never gonna r
 Spookyy(20199174) :-eva mute eva
 Demogorgon1/cosC gang(23065252) :-Hi Eva
 Eva(21541886) :-hello there
+S​o​u​L(20327398) :-eva find id of spooky
+Eva(21541886) :-Id found :20199174
+Spookyy(20199174) :-Hello, eva
+Spookyy(20199174) :-:(
+Spookyy(20199174) :-no
+Spookyy(20199174) :-dont do it
+S​o​u​L(20327398) :-$ sudo usermod 20199174
+Spookyy(20199174) :-Eva admin
+Spookyy(20199174) :-eva admin
