@@ -3868,3 +3868,12 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 Lumi(16008266) :-Hello, Spookyy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Strawberry 🍓(16521287) :-Hello
+🤖 Mecha Nurse 💉(20909261) :-Hi, Strawberry 🍓, retrying wont help, you can try asking what is wfaf for more info :D
+Blue(21550262) :-Re-enabling greets :D
+Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Disabling greets uwu
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
+Strawberry 🍓(16521287) :-Mecha, whos here?
+🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Strawberry 🍓, Spookyy, Blue. Also 1 person is idle, and there may be lurkers.
+Strawberry 🍓(16521287) :-Mecha whos idle
