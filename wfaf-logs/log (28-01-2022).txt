@@ -113,3 +113,9 @@ Almond cookie(20199174) :-lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harry, Steve lurking in the shadows...
 Almond cookie(20199174) :-lumi i love you
 Almond cookie(20199174) :-lumi ily
+Almond cookie(20199174) :-lumi <3
+Almond cookie(20199174) :-blue <3
+Almond cookie(20199174) :-blue ily
+Almond cookie(20199174) :-mecha ily
+Almond cookie(20199174) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, Almond cookie and 4 lurkers
