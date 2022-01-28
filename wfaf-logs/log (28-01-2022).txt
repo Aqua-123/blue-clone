@@ -866,3 +866,6 @@ Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did
 Gashing Sphere(22975867) :--lurks-\n
 Gashing Sphere(22975867) :-Mecha whos here
 🤖 Mecha Nurse 💉(20909261) :-I can see Harenoir, Lumi, Gashing Sphere. Also 4 people are idle, and there may be lurkers.
+Gashing Sphere(22975867) :-Its so awkward lurking when no one is around.
+Harenoir(11427049) :-is it?
+Harenoir(11427049) :-i do it all the time
