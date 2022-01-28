@@ -2078,3 +2078,5 @@ Harenoir(11427049) :-i-
 Gashing Sphere(22975867) :-..?
 Harenoir(11427049) :-hm...
 Harenoir(11427049) :-i should probably let them be
+Gashing Sphere(22975867) :-Eh\n
+Harenoir(11427049) :-if that means i get to sleep, that is
