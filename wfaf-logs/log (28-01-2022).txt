@@ -1076,3 +1076,5 @@ Cryo(22783061) :-now is
 Cryo(22783061) :-cool
 Harenoir(11427049) :-:p
 Harenoir(11427049) :-after this
+Harenoir(11427049) :-and after i get done some
+Harenoir(11427049) :-unfinished bussiness
