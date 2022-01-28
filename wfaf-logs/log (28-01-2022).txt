@@ -969,3 +969,7 @@ Cryo(22783061) :-var i -- 0 ;   <- here
 Harenoir(11427049) :-i know
 Harenoir(11427049) :-but
 Harenoir(11427049) :-where-
+Cryo(22783061) :-for loop
+Cryo(22783061) :-js
+Harenoir(11427049) :-oh that-
+Cryo(22783061) :-t h a t
