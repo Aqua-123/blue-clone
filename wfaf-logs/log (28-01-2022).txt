@@ -1430,3 +1430,4 @@ Eva(21541886) :-Never gonna give you up, Never gonna let you down, Never gonna r
 S​o​u​L(20327398) :-jeez my internet
 S​o​u​L(20327398) :-$ echo userlist.txt
 S​o​u​L(20327398) :-its an alias for whos there
+S​o​u​L(20327398) :-not storing as an actual text file
