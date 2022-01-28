@@ -2214,3 +2214,6 @@ Lumi(16008266) :-Hello, Zen! Welcome to WFAF! - Waiting for a Friend! The place 
 Lumi(16008266) :-Hi, Zen! Im afraid they arent your friend yet, you can always try again!
 Somethinglalala(23370112) :-Blue tldr\n
 Blue(21550262) :-Youre here because you tried to message someone who didnt accept your friend request. We call this chat WFAF, Waiting For A Friend. Lets keep it family-friendly! Enjoy your stay uwu
+Somethinglalala(23370112) :-Zen read this..
+S​o​u​L(20327398) :-what if it goes crazy and keep joining and leaving
+Lumi(16008266) :-Hello, Jay! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
