@@ -1970,3 +1970,5 @@ Somethinglalala(23370112) :-I wont speak of u order me to
 Somethinglalala(23370112) :-\nWHo are u anyways
 Gashing Sphere(22975867) :-Lol u approach me and ask who am I?
 Somethinglalala(23370112) :-Well thats my wish.
+Gashing Sphere(22975867) :-Then leave me alone\n
+Somethinglalala(23370112) :-Ah sure. You will be left alone after all\n
