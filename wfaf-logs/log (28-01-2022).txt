@@ -713,3 +713,10 @@ Demogorgon1/cosC gang(23065252) :-Blue get id of Ruby
 Blue(21550262) :-ID of Ruby is 20777989
 Harenoir(11427049) :-its fine
 Ruby(20777989) :-Hey hey hey stop\n
+Ruby(20777989) :-I better not get slam dunked again
+Gashing Sphere(22975867) :-Ill be back again later.
+Aqua(16986137) :-!uptime
+Blue(21550262) :-Ive been here for 11 hours and 18 minutes
+Lumi(16008266) :-Ive been here for 10 hours and 59 minutes
+Eva(21541886) :-Ive been here for 1 hour(s) 3 minute(s) and 52 seconds.
+🤖 Mecha Nurse 💉(20909261) :-Ive been here for 17 days, 14 hours, 23 minutes.
