@@ -495,3 +495,7 @@ S​o​u​L(20327398) :-. . .
 Demogorgon1/cosC gang(23065252) :-Hi blue
 Blue(21550262) :-Hellosss :D
 S​o​u​L(20327398) :-eva?
+S​o​u​L(20327398) :-eva
+Eva(21541886) :-yo
+S​o​u​L(20327398) :-eva find id of vanillaIce
+Eva(21541886) :-Id found :16689873
