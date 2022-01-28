@@ -1031,3 +1031,4 @@ Harenoir(11427049) :-lumi serve coffee
 Lumi(16008266) :-☕️
 Harenoir(11427049) :-lumi clear userlist
 Lumi(16008266) :-Dropping sticky notes~ o.o
+Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
