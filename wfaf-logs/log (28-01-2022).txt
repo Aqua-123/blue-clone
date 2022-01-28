@@ -2457,3 +2457,4 @@ Almond cookie(20199174) :-lumi whos idle
 Lumi(16008266) :-I can see Lumi, Jupiter Seel, Almond cookie and 5 lurkers
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Entangling Orange, Eva, TinyCath ~ lurking in the shadows...
 🤖 Mecha Nurse 💉(20909261) :-I think TinyCath ~ is idle.
+Jupiter Seel(23413013) :-salut
