@@ -2455,3 +2455,5 @@ Lumi(16008266) :-Hello, Almond cookie! Welcome to WFAF! - Waiting for a Friend! 
 Almond cookie(20199174) :-lumi whos here
 Almond cookie(20199174) :-lumi whos idle
 Lumi(16008266) :-I can see Lumi, Jupiter Seel, Almond cookie and 5 lurkers
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Entangling Orange, Eva, TinyCath ~ lurking in the shadows...
+🤖 Mecha Nurse 💉(20909261) :-I think TinyCath ~ is idle.
