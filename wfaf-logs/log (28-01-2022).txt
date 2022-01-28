@@ -2231,3 +2231,6 @@ Somethinglalala(23370112) :-Yes\n
 Somethinglalala(23370112) :-E is even married i guess\n
 S​o​u​L(20327398) :-E?
 Somethinglalala(23370112) :-I wanted to speak to him lol. But he was busy with Aquarium
+Somethinglalala(23370112) :-He*
+S​o​u​L(20327398) :-oh he
+Somethinglalala(23370112) :-Im facing hangs. I need to reload to get rid of it\n
