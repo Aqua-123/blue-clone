@@ -1594,3 +1594,12 @@ Somethinglalala(23370112) :-Also\n
 Somethinglalala(23370112) :-I forgot something
 Somethinglalala(23370112) :-I am writing a short story\n
 Somethinglalala(23370112) :-And you are one of the character
+Harenoir(11427049) :-who-
+Gashing Sphere(22975867) :-You\n
+Harenoir(11427049) :-me?
+Harenoir(11427049) :-am i?
+Gashing Sphere(22975867) :-And\n
+Gashing Sphere(22975867) :-Crayons\n
+Harenoir(11427049) :-oh cool
+Gashing Sphere(22975867) :-And... Cath and Bubbles\n
+Harenoir(11427049) :-im finally part of something
