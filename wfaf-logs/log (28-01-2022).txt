@@ -3811,3 +3811,4 @@ Lumi(16008266) :-Hello, Conspiring Weedle! Welcome to WFAF! - Waiting for a Frie
 Lumi(16008266) :-Hi, Conspiring Weedle! Im afraid they arent your friend yet, you can always try again!
 Spookyy(20199174) :-bye guys, i have to go now
 Spookyy(20199174) :-byee soull
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
