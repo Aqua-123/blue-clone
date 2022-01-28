@@ -1963,3 +1963,6 @@ Gashing Sphere(22975867) :-Lol finally someone roasted that guy\n
 Gashing Sphere(22975867) :-Now\n
 Gashing Sphere(22975867) :-Shut up\n
 Somethinglalala(23370112) :-U cant shut me up :)
+Somethinglalala(23370112) :-I speak more and more\n
+Gashing Sphere(22975867) :-Speak\n
+Gashing Sphere(22975867) :-What happened, speak?
