@@ -2403,3 +2403,4 @@ Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... ho
 Lumi(16008266) :-Hi, Mars Neimoidian! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Mars Neimoidian, dont feel bad, theyll accept one day... hopefully!
 Mars Neimoidian(23412476) :-hey
+Lumi(16008266) :-Hello, Flashing Dathomirian! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
