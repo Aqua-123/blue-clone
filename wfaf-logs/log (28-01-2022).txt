@@ -1441,3 +1441,7 @@ Harenoir(11427049) :-yea(?)
 Harenoir(11427049) :-why-
 Somethinglalala(23370112) :-MY TEACHER IS SAYING IT IS A BROWSER\n
 Lumi(16008266) :-Hello, Sigma Male! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Sigma Male! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Sigma Male, dont feel bad, theyll accept one day... hopefully!
+Somethinglalala(23370112) :-T T\n
+S​o​u​L(20327398) :-its a browser too
