@@ -261,3 +261,5 @@ Lumi(16008266) :-Hello, Eva! Welcome to WFAF! - Waiting for a Friend! The place 
 🖤Sweetie🖤(19271305) :-Lumi whos here\n
 Lumi(16008266) :-I can see Lumi, Eva, 🖤Sweetie🖤 and 6 lurkers
 🖤Sweetie🖤(19271305) :-Eva say something
+🖤Sweetie🖤(19271305) :-Lumi menu\n
+Lumi(16008266) :-𝒯𝒽𝑒 𝓂𝑒𝓃𝓊 𝒻𝑜𝓇 𝓉𝑜𝒹𝒶𝓎 𝒾𝓈: 1) 𝒞𝑜𝒻𝒻𝑒𝑒 2) 𝒲𝒾𝓃𝑒 3) 𝑀𝒾𝓁𝓀 4) 𝒯𝑒𝒶 5) 𝒞𝒽𝒶𝓂𝓅𝒶𝑔𝓃𝑒 6) 𝒜𝓅𝓅𝓁𝑒 𝒿𝓊𝒾𝒸𝑒 7) 𝒮𝒶𝓀𝑒 8) 𝒲𝒽𝒾𝓈𝓀𝓎
