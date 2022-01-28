@@ -2949,3 +2949,6 @@ Spookyy(20199174) :-wait
 Spookyy(20199174) :-eva admin
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Eva(21541886) :-yo
+Spookyy(20199174) :-eva find id of Omnissiah
+S​o​u​L(20327398) :-ig u r gonna be admin till i restart eva
+Eva(21541886) :-Id found :20909232
