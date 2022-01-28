@@ -2622,3 +2622,7 @@ S​o​u​L(20327398) :-hi demo
 S​o​u​L(20327398) :-$ users
 Eva(21541886) :-These are the people here :Eva\u202d, \u202dSigma Male\u202d, \u202dEntangling Orange\u202d, \u202dDemogorgon1/cosC gang\u202d, \u202dCryo\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking
 Demogorgon1/cosC gang(23065252) :-Hi SouL
+Demogorgon1/cosC gang(23065252) :-Blue joke
+Blue(21550262) :-What did one nut say as he chased another nut?  Im a cashew!
+S​o​u​L(20327398) :-eva whos idle
+Eva(21541886) :-I think these people are idle: Sigma Male\u202d, \u202dEntangling Orange\u202d, \u202dCryo
