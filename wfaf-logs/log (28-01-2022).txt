@@ -812,3 +812,7 @@ Harenoir(11427049) :-not sure if i should
 Ruby(20777989) :-So do I know you by a different name then\n
 Harenoir(11427049) :-yep
 Ruby(20777989) :-Oh I get it, its Teri\n
+Harenoir(11427049) :-duhh
+Ruby(20777989) :-Easy 😌
+Lumi(16008266) :-Personal pizzas all around! Teriyaki has arrived!
+Teriyaki(14496406) :-too easy 😌
