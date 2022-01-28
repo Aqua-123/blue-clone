@@ -952,3 +952,6 @@ Harenoir(11427049) :-but still
 Cryo(22783061) :-n++ in
 Harenoir(11427049) :-same thing
 Cryo(22783061) :-js
+Gashing Sphere(22975867) :-...
+Harenoir(11427049) :-ah yes that
+Gashing Sphere(22975867) :-You both make me question my life.
