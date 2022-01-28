@@ -2637,3 +2637,6 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Cryo(22783061) :-so she doesnt have to fetch it every time
 Demogorgon1/cosC gang(23065252) :-Hi Mecha Nurse
 🤖 Mecha Nurse 💉(20909261) :-Howdy Demogorgon1/cosC gang?
+Demogorgon1/cosC gang(23065252) :-Mecha Nurse menu
+Demogorgon1/cosC gang(23065252) :-no?
+Demogorgon1/cosC gang(23065252) :-Ok
