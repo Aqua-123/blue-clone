@@ -266,3 +266,5 @@ Lumi(16008266) :-𝒯𝒽𝑒 𝓂𝑒𝓃𝓊 𝒻𝑜𝓇 𝓉𝑜𝒹𝒶𝓎
 🖤Sweetie🖤(19271305) :-Limit serve 7
 🖤Sweetie🖤(19271305) :-Lumi serve 7
 Lumi(16008266) :-🍶🍚🍶🍚🍶🍚
+🖤Sweetie🖤(19271305) :-Lumi whos here\n
+Lumi(16008266) :-I can see Lumi, Eva, 🖤Sweetie🖤 and 6 lurkers
