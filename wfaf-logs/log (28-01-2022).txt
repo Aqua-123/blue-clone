@@ -853,3 +853,7 @@ Lumi(16008266) :-I can see Harenoir, Ruby, Lumi and 5 lurkers
 Ruby(20777989) :-Lumi whos lurking\n
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Aqua, Cryo, Eva lurking in the shadows...
 Ruby(20777989) :-Bro how many bots\n
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
+Ruby(20777989) :-Back again\n
+Harenoir(11427049) :-wb
