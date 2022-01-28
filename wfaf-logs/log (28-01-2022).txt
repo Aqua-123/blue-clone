@@ -746,3 +746,7 @@ Lumi(16008266) :-Hello, Chris wherebycom/moon-fall! Welcome to WFAF! - Waiting f
 Demogorgon1/cosC gang(23065252) :-Circle?
 Ruby(20777989) :-No wait Im supposed to say yes thats me
 Ruby(20777989) :-Which one exactly
+Harenoir(11427049) :-the one from opal
+Ruby(20777989) :-Sen?
+Harenoir(11427049) :-no
+Harenoir(11427049) :-zero
