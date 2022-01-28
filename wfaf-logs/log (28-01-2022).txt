@@ -750,3 +750,6 @@ Harenoir(11427049) :-the one from opal
 Ruby(20777989) :-Sen?
 Harenoir(11427049) :-no
 Harenoir(11427049) :-zero
+Lumi(16008266) :-Hello, Katie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Ruby(20777989) :-Oh, Hikaru\n
+Ruby(20777989) :-Yeah idk, we havent been in contact
