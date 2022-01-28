@@ -2324,3 +2324,6 @@ Somethinglalala(23370112) :-Im bored\n
 Blue(21550262) :-Same :)
 Somethinglalala(23370112) :-Lumi serve 4
 Lumi(16008266) :-🍵
+Somethinglalala(23370112) :-Fitness time\n
+Somethinglalala(23370112) :-Lumi serve g\n
+Lumi(16008266) :-🍿🍿🍿🌽
