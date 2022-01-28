@@ -1968,3 +1968,5 @@ Gashing Sphere(22975867) :-Speak\n
 Gashing Sphere(22975867) :-What happened, speak?
 Somethinglalala(23370112) :-I wont speak of u order me to
 Somethinglalala(23370112) :-\nWHo are u anyways
+Gashing Sphere(22975867) :-Lol u approach me and ask who am I?
+Somethinglalala(23370112) :-Well thats my wish.
