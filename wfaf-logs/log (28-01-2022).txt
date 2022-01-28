@@ -1985,3 +1985,6 @@ Eva(21541886) :-Never gonna give you up
 Gashing Sphere(22975867) :-Enjoyed the show?
 Somethinglalala(23370112) :-Never gonna let u down\n
 Gashing Sphere(22975867) :-When will u sleep, Ribbit?
+Gashing Sphere(22975867) :-Annnnd i have a question
+Gashing Sphere(22975867) :-Ribbit
+Gashing Sphere(22975867) :-Ribbittttt
