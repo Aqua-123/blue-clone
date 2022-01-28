@@ -2163,3 +2163,6 @@ Somethinglalala(23370112) :-Halo?
 S​o​u​L(20327398) :-created at:2019-07-24T08:05:29.998Z\ndisplay_name:Jay\nkarma:-15\nusername:gucciluchi
 Lumi(16008266) :-Hi, Zen! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Zen, dont feel bad, theyll accept one day... hopefully!
+Somethinglalala(23370112) :-Thanks for the info.
+Somethinglalala(23370112) :-Hmm\n
+Somethinglalala(23370112) :-2019
