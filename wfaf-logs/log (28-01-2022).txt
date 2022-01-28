@@ -1495,3 +1495,5 @@ Harenoir(11427049) :-duh
 Somethinglalala(23370112) :-Lol\n
 Somethinglalala(23370112) :--with attitude- Say my name with respect.
 Somethinglalala(23370112) :-And honour\n
+Somethinglalala(23370112) :-My is ♪somethinglalala♪
+Harenoir(11427049) :-s o m e t h i n g l a l a l a
