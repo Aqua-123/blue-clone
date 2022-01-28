@@ -1477,3 +1477,8 @@ Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Somethinglalala(23370112) :-Finally!
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Hello, bi/female/16! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Somethinglalala(23370112) :-Mecha whats here\n
+Somethinglalala(23370112) :-Yikes
+Somethinglalala(23370112) :-Mecha whos here
+🤖 Mecha Nurse 💉(20909261) :-I can see Harenoir, Lumi, S\u200bo\u200bu\u200bL, Somethinglalala, bi/female/16. Also 2 people are idle, and there may be lurkers.
