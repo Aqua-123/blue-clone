@@ -1972,3 +1972,5 @@ Gashing Sphere(22975867) :-Lol u approach me and ask who am I?
 Somethinglalala(23370112) :-Well thats my wish.
 Gashing Sphere(22975867) :-Then leave me alone\n
 Somethinglalala(23370112) :-Ah sure. You will be left alone after all\n
+Gashing Sphere(22975867) :-What u gonna do?
+Somethinglalala(23370112) :-Eh i dont need to do anything
