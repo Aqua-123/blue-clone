@@ -935,3 +935,7 @@ Harenoir(11427049) :-on the screen
 Gashing Sphere(22975867) :-T T\n
 Gashing Sphere(22975867) :--existential crises intensifies-
 Blue(21550262) :-n = 0
+Blue(21550262) :-while True: print(n+=1)
+Blue(21550262) :-done
+Gashing Sphere(22975867) :-...?
+Blue(21550262) :-you got numberss
