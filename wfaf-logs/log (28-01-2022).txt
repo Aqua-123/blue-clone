@@ -2223,3 +2223,4 @@ S​o​u​L(20327398) :-or what if it becomes very intelligent and takes over 
 Somethinglalala(23370112) :-Lol that wont happen\n
 Somethinglalala(23370112) :-There are smarty pants like u here. So yeah\n
 S​o​u​L(20327398) :-yea but this is a bug since its joining and leaving twice
+S​o​u​L(20327398) :-lel sure
