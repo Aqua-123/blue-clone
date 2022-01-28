@@ -1838,3 +1838,6 @@ Somethinglalala(23370112) :-ツ
 Somethinglalala(23370112) :-Japanese is perfect for such art lol\n
 Harenoir(11427049) :-does that even mean something in japanese
 Gashing Sphere(22975867) :-Idk\n
+Gashing Sphere(22975867) :-Its a letter\n
+Gashing Sphere(22975867) :-And\n
+Gashing Sphere(22975867) :-Why is there a keyboard called... Colema\n
