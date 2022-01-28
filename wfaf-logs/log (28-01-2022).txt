@@ -75,3 +75,7 @@ Lumi(16008266) :-I can see Lumi, Almond cookie and 4 lurkers
 Almond cookie(20199174) :-lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harry, Steve lurking in the shadows...
 Saturn Ivysaur(23409208) :-hey
+🤖 Mecha Nurse 💉(20909261) :-Welcome, Saturn Ivysaur, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.
+Lumi(16008266) :-Hello, Saturn Ivysaur! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Re-enabling greets :D
+Blue(21550262) :-Disabling greets uwu
