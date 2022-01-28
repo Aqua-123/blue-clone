@@ -826,3 +826,7 @@ Ruby(20777989) :-100000th time?
 Harenoir(11427049) :-nono
 Harenoir(11427049) :-i mean as the chess guy lol
 Ruby(20777989) :-Right
+Harenoir(11427049) :-to be fair that was unexpected
+Harenoir(11427049) :-but still
+Ruby(20777989) :-Gotcha\n
+Harenoir(11427049) :-anyways
