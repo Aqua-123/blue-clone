@@ -2282,3 +2282,4 @@ Somethinglalala(23370112) :-Lol\n
 Somethinglalala(23370112) :-Nurse can give you shots tho, so be careful
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
 Zen(22174111) :-im scared to death of needles and blood
+Somethinglalala(23370112) :-Ah thats something majority are afraid of\n
