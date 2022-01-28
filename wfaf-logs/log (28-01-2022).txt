@@ -2248,3 +2248,8 @@ Somethinglalala(23370112) :-Sure.
 Somethinglalala(23370112) :-Thanks\n
 Somethinglalala(23370112) :-Ill go reload\n
 Somethinglalala(23370112) :-All clear now\n
+Somethinglalala(23370112) :-Hi lumi\n
+Lumi(16008266) :-Hiiiiii!~
+Somethinglalala(23370112) :-Hi blue\n
+Blue(21550262) :-Hellosss :D
+Somethinglalala(23370112) :-Bi mecha\n
