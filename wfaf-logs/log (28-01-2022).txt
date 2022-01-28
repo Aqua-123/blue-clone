@@ -2170,3 +2170,7 @@ S​o​u​L(20327398) :-btw eva do that yet so i gotta implement it
 Somethinglalala(23370112) :-Maybe he is the one.
 Zen(22174111) :-привет
 Somethinglalala(23370112) :-And, u sure can, soul\n
+Somethinglalala(23370112) :-Im sure Eva will be an amazing greeter later\n
+S​o​u​L(20327398) :-whos this dood?
+Zen(22174111) :-right
+Somethinglalala(23370112) :-Lost kid lol\n
