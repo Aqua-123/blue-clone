@@ -1375,3 +1375,7 @@ Somethinglalala(23370112) :-Short and sweet.
 Harenoir(11427049) :-too much text ig
 Harenoir(11427049) :-but still same amount
 Somethinglalala(23370112) :-Lol yes.
+Somethinglalala(23370112) :-Wont null ever return here or something?
+Harenoir(11427049) :-huh
+Lumi(16008266) :-Hello, Neptune Rhombus! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Harenoir(11427049) :-let me check
