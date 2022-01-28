@@ -2176,3 +2176,6 @@ Zen(22174111) :-right
 Somethinglalala(23370112) :-Lost kid lol\n
 Somethinglalala(23370112) :-Blue get id of Zen\n
 Blue(21550262) :-ID of Zen\n is 22174111
+Lumi(16008266) :-Hi, S\u200bo\u200bu\u200bL! Im afraid they arent your friend yet, you can always try again!
+Eva(21541886) :-Never gonna give you up, Never gonna let you down, Never gonna run around and desert you....
+Somethinglalala(23370112) :-He is back from a ban i guess\n
