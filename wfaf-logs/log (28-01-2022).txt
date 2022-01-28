@@ -312,3 +312,5 @@ Lumi(16008266) :-Hi, Lothar (m19)! Im afraid they arent your friend yet, you can
 🖤Sweetie🖤(19271305) :-U want Lothar??
 🖤Sweetie🖤(19271305) :-Lumi whos here\n
 Lumi(16008266) :-I can see Lumi, 🖤Sweetie🖤 and 7 lurkers
+🖤Sweetie🖤(19271305) :-Lumi whos lurking
+Lumi(16008266) :-I see Blue, Harenoir, Harry, Cryo, 🤖 Mecha Nurse 💉, Steve, Eva lurking in the shadows...
