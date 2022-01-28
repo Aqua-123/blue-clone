@@ -176,3 +176,4 @@ Gashing Sphere(22975867) :-Mecha whos here
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Omnissiah, Gashing Sphere. Also 3 people are idle, and there may be lurkers.
 Gashing Sphere(22975867) :-Mecha whos idle
 🤖 Mecha Nurse 💉(20909261) :-I think Aqua, Blue, Cryo are idle.
+Gashing Sphere(22975867) :-Aquarium and Crayons huh\n
