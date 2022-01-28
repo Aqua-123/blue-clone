@@ -1925,3 +1925,7 @@ S​o​u​L(20327398) :-azerty?
 Gashing Sphere(22975867) :-Yea\n
 Gashing Sphere(22975867) :-Qwerty and Azerty\n
 S​o​u​L(20327398) :-why do u use that
+Gashing Sphere(22975867) :-Two main
+Gashing Sphere(22975867) :-Eh its fun
+S​o​u​L(20327398) :-hmm aight
+Gashing Sphere(22975867) :-And its easy too\n
