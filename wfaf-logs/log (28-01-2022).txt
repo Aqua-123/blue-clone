@@ -964,3 +964,8 @@ Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend
 Cryo(22783061) :-for (var i = 0; i <50;i++) realising you use ; instead of , in this was annoying
 Gashing Sphere(22975867) :-Ill speak to myself. Someone with equal intelligence and foolishness\n
 Harenoir(11427049) :-wait where
+Gashing Sphere(22975867) :-And i again failed human verification.
+Cryo(22783061) :-var i -- 0 ;   <- here
+Harenoir(11427049) :-i know
+Harenoir(11427049) :-but
+Harenoir(11427049) :-where-
