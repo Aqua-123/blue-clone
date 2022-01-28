@@ -5,3 +5,5 @@ Bee(18274541) :-Lumi?
 Lumi(16008266) :-I can see Bee, Lumi and 4 lurkers
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Bee. Also 1 person is idle, and there may be lurkers.
 Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
