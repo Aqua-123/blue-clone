@@ -1365,3 +1365,4 @@ Somethinglalala(23370112) :-Idk\n
 Harenoir(11427049) :-blue get details of 23411264
 Blue(21550262) :-The account with ID 23411264 has the name Inventing Wookiee(u9f0edaa979cf6780) with karma:- -37 and gender set to m and was created on 2022-01-28 at 06:36:57.011Z
 Harenoir(11427049) :-there
+Somethinglalala(23370112) :-Ah alright lol\n
