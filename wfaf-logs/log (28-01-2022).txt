@@ -224,3 +224,4 @@ Lumi(16008266) :-Hello, Ivory Cockroach! Welcome to WFAF! - Waiting for a Friend
 Lumi(16008266) :-Hi, Ivory Cockroach! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Ivory Cockroach, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Mars Lolipop! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did grind
