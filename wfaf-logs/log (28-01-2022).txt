@@ -1278,3 +1278,6 @@ S​o​u​L(20327398) :-oh
 Somethinglalala(23370112) :-Yes... How did i forget that...
 Harenoir(11427049) :-pun intented? idk
 Harenoir(11427049) :-but it works
+Somethinglalala(23370112) :-Lol truly it does\n
+S​o​u​L(20327398) :-btw what was your name?
+Somethinglalala(23370112) :-Mine?
