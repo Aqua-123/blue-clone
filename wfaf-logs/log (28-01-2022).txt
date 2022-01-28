@@ -830,3 +830,7 @@ Harenoir(11427049) :-to be fair that was unexpected
 Harenoir(11427049) :-but still
 Ruby(20777989) :-Gotcha\n
 Harenoir(11427049) :-anyways
+Ruby(20777989) :-So what have you been up to anyway\n
+Harenoir(11427049) :-aside from still wasting my time around here
+Harenoir(11427049) :-nothing much
+Harenoir(11427049) :-i need a break tbh
