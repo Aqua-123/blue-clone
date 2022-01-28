@@ -95,3 +95,7 @@ Lumi(16008266) :-I can see Omnissiah, Lumi, Almond cookie and 4 lurkers
 Almond cookie(20199174) :-lumi whos idle
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harry, Steve lurking in the shadows...
 Lumi(16008266) :-Hi, Almond cookie! Im afraid they arent your friend yet, you can always try again!
+Almond cookie(20199174) :-Lumi whos idle
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harry, Steve lurking in the shadows...
+Almond cookie(20199174) :-lumi whos here
+Lumi(16008266) :-I can see Lumi, Omnissiah, Almond cookie and 4 lurkers
