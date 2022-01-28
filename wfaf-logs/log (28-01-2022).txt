@@ -1901,3 +1901,6 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Gashing Sphere(22975867) :-Hi there
 Gashing Sphere(22975867) :-Uhh\n
+Gashing Sphere(22975867) :-Nothing happened
+Gashing Sphere(22975867) :-And when i glide up\n
+Gashing Sphere(22975867) :-It starts glite typing
