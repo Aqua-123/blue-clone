@@ -2322,3 +2322,5 @@ Somethinglalala(23370112) :-You are not alone\n
 Somethinglalala(23370112) :-Ahem\n
 Somethinglalala(23370112) :-Im bored\n
 Blue(21550262) :-Same :)
+Somethinglalala(23370112) :-Lumi serve 4
+Lumi(16008266) :-🍵
