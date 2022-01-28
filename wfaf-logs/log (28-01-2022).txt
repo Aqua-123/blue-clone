@@ -2396,3 +2396,6 @@ Lumi(16008266) :-Hello, Mars Neimoidian! Welcome to WFAF! - Waiting for a Friend
 Mars Neimoidian(23412476) :-hey
 🤖 Mecha Nurse 💉(20909261) :-Welcome, Mars Neimoidian, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.
 Blue(21550262) :-Re-enabling greets :D
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Disabling greets uwu
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
