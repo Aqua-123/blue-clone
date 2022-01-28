@@ -788,3 +788,6 @@ Ruby(20777989) :-It may have been\n
 Ruby(20777989) :-Guess well never know\n
 Harenoir(11427049) :-it do be like that sometimes
 Ruby(20777989) :-Lumi whos here
+Lumi(16008266) :-I can see Harenoir, Ruby and 7 lurkers
+Ruby(20777989) :-Lol nice\n
+Ruby(20777989) :-I wonder if Lumi has coins\n
