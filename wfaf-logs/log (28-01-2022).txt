@@ -1434,3 +1434,6 @@ S​o​u​L(20327398) :-not storing as an actual text file
 Somethinglalala(23370112) :-So... I was answering in my computer class\n
 Somethinglalala(23370112) :-And...
 Somethinglalala(23370112) :-Some random guy sent me a middle finger\n
+Harenoir(11427049) :-tough
+Somethinglalala(23370112) :-And\n
+Somethinglalala(23370112) :-DUCK DUCK GO IS A SEARCH ENGINE RIGHT?!?
