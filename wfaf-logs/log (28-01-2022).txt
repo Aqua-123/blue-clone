@@ -3921,3 +3921,6 @@ Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Strawberry 🍓(16521287) :-!w
 Strawberry 🍓(16521287) :-Lumi whos herr
+Strawberry 🍓(16521287) :-Lumi whos here
+Lumi(16008266) :-I can see Lumi, Strawberry 🍓 and 3 lurkers
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
