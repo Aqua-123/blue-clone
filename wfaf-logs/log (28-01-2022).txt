@@ -273,3 +273,5 @@ Lumi(16008266) :-Hello, Katie! Welcome to WFAF! - Waiting for a Friend! The plac
 Lumi(16008266) :-I see Blue, Harenoir, Harry, Cryo, 🤖 Mecha Nurse 💉, Steve, Eva lurking in the shadows...
 🖤Sweetie🖤(19271305) :-Hi Katie
 🖤Sweetie🖤(19271305) :-Say something if u like
+🖤Sweetie🖤(19271305) :-Hi lumi\n
+Lumi(16008266) :-Hiiiiii!~
