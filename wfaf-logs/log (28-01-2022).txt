@@ -2352,3 +2352,7 @@ Lumi(16008266) :-Greetings cathy cath ~*
 TinyCath ~(19259507) :-Thanks lumi
 Lumi(16008266) :-Youre welcome :D
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
+Aqua(16986137) :-blue ban 23412179
+Blue(21550262) :-Banning 23412179
+🤖 Mecha Nurse 💉(20909261) :-Hi, Aqua, retrying wont help, you can try asking what is wfaf for more info :D
+Blue(21550262) :-Re-enabling greets :D
