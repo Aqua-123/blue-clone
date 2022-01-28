@@ -939,3 +939,7 @@ Blue(21550262) :-while True: print(n+=1)
 Blue(21550262) :-done
 Gashing Sphere(22975867) :-...?
 Blue(21550262) :-you got numberss
+Gashing Sphere(22975867) :-Why do u see them?
+Gashing Sphere(22975867) :-What do they represent?
+Cryo(22783061) :-cause math
+Gashing Sphere(22975867) :-...
