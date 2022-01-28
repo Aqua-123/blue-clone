@@ -109,3 +109,7 @@ Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can al
 Almond cookie(20199174) :-Omnisiah
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Almond cookie! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Almond cookie(20199174) :-lumi whos idle
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harry, Steve lurking in the shadows...
+Almond cookie(20199174) :-lumi i love you
+Almond cookie(20199174) :-lumi ily
