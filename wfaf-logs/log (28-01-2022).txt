@@ -2149,3 +2149,4 @@ S​o​u​L(20327398) :-lemme check
 Somethinglalala(23370112) :-Yea...
 Somethinglalala(23370112) :-...?
 Lumi(16008266) :-Hello, Nick30! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
