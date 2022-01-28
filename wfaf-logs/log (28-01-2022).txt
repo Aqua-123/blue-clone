@@ -72,3 +72,5 @@ Lumi(16008266) :-Hello, Almond cookie! Welcome to WFAF! - Waiting for a Friend! 
 Almond cookie(20199174) :-GRA GRA BOOM
 Almond cookie(20199174) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, Almond cookie and 4 lurkers
+Almond cookie(20199174) :-lumi whos idle
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Harry, Steve lurking in the shadows...
