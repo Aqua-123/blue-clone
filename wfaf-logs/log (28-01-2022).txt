@@ -2458,3 +2458,9 @@ Lumi(16008266) :-I can see Lumi, Jupiter Seel, Almond cookie and 5 lurkers
 Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Entangling Orange, Eva, TinyCath ~ lurking in the shadows...
 🤖 Mecha Nurse 💉(20909261) :-I think TinyCath ~ is idle.
 Jupiter Seel(23413013) :-salut
+Lumi(16008266) :-The river of life bubbles when Aqua comes near~
+🤖 Mecha Nurse 💉(20909261) :-Welcome, Aqua, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.
+Blue(21550262) :-Re-enabling greets :D
+Lumi(16008266) :-Hello, Oliver! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue(21550262) :-Hi, Oliver, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Disabling greets uwu
