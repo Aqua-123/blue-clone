@@ -1844,3 +1844,5 @@ Gashing Sphere(22975867) :-Why is there a keyboard called... Colema\n
 Gashing Sphere(22975867) :-Or whatever
 Gashing Sphere(22975867) :-Colemak\n
 Gashing Sphere(22975867) :-Dayumm\n
+Harenoir(11427049) :-just looked it up
+Harenoir(11427049) :-looks so wrong
