@@ -3943,3 +3943,4 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Lumi(16008266) :-Hello, Persuading Sullustan! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Persuading Sullustan(23414174) :-Hi
 Persuading Sullustan(23414174) :-What hapeend
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
