@@ -2295,3 +2295,5 @@ Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend
 Somethinglalala(23370112) :-Oof\n
 Somethinglalala(23370112) :-My internet gave up for a sec
 Zen(22174111) :-thx for my new wet dreams
+Somethinglalala(23370112) :-Uhhh welcome (???)
+Zen(22174111) :-:)
