@@ -1489,3 +1489,7 @@ Lumi(16008266) :-Hi again, bi/female/16, dont feel bad, theyll accept one day...
 Harenoir(11427049) :-hi somethinglalala
 Somethinglalala(23370112) :-Lol hi\n
 Somethinglalala(23370112) :-Who am I?
+Somethinglalala(23370112) :-Somethinglalala ♪
+Harenoir(11427049) :-youre somethinglalala
+Harenoir(11427049) :-duh
+Somethinglalala(23370112) :-Lol\n
