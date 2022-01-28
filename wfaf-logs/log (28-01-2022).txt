@@ -798,3 +798,8 @@ Harenoir(11427049) :-lumi add 98 coins
 Lumi(16008266) :-98 coins added to the fountain, there are now 19120 coins in the fountain, strive for greatness~
 Harenoir(11427049) :-^ there
 Ruby(20777989) :-My one thought is I can rig this
+Ruby(20777989) :-Lumi add 49 coins\n
+Lumi(16008266) :-49 coins added to the fountain, there are now 19169 coins in the fountain, strive for greatness~
+Ruby(20777989) :-YERRRR\n
+Harenoir(11427049) :-just like back then
+Harenoir(11427049) :-always breaking new records
