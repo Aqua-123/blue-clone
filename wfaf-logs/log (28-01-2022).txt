@@ -3753,3 +3753,4 @@ Earth Lolipop(23414019) :-lumi whos here
 Lumi(16008266) :-I can see Lumi, Earth Lolipop, S\u200bo\u200bu\u200bL and 4 lurkers
 Earth Lolipop(23414019) :-lumi whos lurking
 Lumi(16008266) :-I see Blue, Entangling Orange, Spookyy, Cryo lurking in the shadows...
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
