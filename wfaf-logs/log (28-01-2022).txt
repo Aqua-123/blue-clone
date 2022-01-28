@@ -1035,3 +1035,5 @@ Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend
 Cryo(22783061) :-brb
 Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
+Somethinglalala(23370112) :-Guys. Be ready. You gonna get the stuff in the bet\n
+Lumi(16008266) :-Hello, Xero! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
