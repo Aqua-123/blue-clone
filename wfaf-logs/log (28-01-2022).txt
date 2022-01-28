@@ -2220,3 +2220,6 @@ Lumi(16008266) :-Hello, Jay! Welcome to WFAF! - Waiting for a Friend! The place 
 Somethinglalala(23370112) :-Well that is a possibility, Soul\n
 Somethinglalala(23370112) :-Omnissiah just goes around this entire website and brings data to Mecha i guess\n
 S​o​u​L(20327398) :-or what if it becomes very intelligent and takes over the world
+Somethinglalala(23370112) :-Lol that wont happen\n
+Somethinglalala(23370112) :-There are smarty pants like u here. So yeah\n
+S​o​u​L(20327398) :-yea but this is a bug since its joining and leaving twice
