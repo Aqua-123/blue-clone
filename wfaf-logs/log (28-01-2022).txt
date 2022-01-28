@@ -2005,3 +2005,7 @@ Harenoir(11427049) :-yea?
 Gashing Sphere(22975867) :-How do u find out i message you?
 Gashing Sphere(22975867) :-Like\n
 Gashing Sphere(22975867) :-I just say your name\n
+Gashing Sphere(22975867) :-U are afk\n
+Gashing Sphere(22975867) :-So...
+Gashing Sphere(22975867) :-How?
+Harenoir(11427049) :-oh
