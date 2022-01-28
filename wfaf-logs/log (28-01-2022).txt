@@ -1469,3 +1469,4 @@ Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend
 Somethinglalala(23370112) :-Brr\n
 Somethinglalala(23370112) :-And S\n
 Somethinglalala(23370112) :-Yes*
+Somethinglalala(23370112) :-Ill... Reload. The chats are building up making me hang\n
