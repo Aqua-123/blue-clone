@@ -520,3 +520,4 @@ Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The 
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 🤖 Mecha Nurse 💉(20909261) :-Every life has a measure of sorrow,
 🤖 Mecha Nurse 💉(20909261) :-and sometimes this is what awakens us.
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
