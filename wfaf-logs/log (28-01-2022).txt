@@ -1841,3 +1841,5 @@ Gashing Sphere(22975867) :-Idk\n
 Gashing Sphere(22975867) :-Its a letter\n
 Gashing Sphere(22975867) :-And\n
 Gashing Sphere(22975867) :-Why is there a keyboard called... Colema\n
+Gashing Sphere(22975867) :-Or whatever
+Gashing Sphere(22975867) :-Colemak\n
