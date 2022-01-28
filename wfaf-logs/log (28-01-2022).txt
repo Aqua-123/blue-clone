@@ -731,3 +731,5 @@ Ruby(20777989) :-Nyello\n
 Ruby(20777989) :-Whats good\n
 Demogorgon1/cosC gang(23065252) :-Hi Aqua
 Aqua(16986137) :-Myello
+Aqua(16986137) :-nm man wbuu
+Aqua(16986137) :-hello demo
