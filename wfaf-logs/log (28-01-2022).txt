@@ -2867,3 +2867,11 @@ S​o​u​L(20327398) :-$ sudo usermod 20199174
 Spookyy(20199174) :-Eva admin
 Spookyy(20199174) :-eva admin
 Eva(21541886) :-Admin privilege granted to 20199174
+Spookyy(20199174) :-eva ban 20199174
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Conspiring Weedle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Conspiring Weedle! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Conspiring Weedle, dont feel bad, theyll accept one day... hopefully!
+Demogorgon1/cosC gang(23065252) :-Spooky is now admin
+Spookyy(20199174) :-Yes
+S​o​u​L(20327398) :-eva doesnt ban -_-
