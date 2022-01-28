@@ -805,3 +805,6 @@ Harenoir(11427049) :-just like back then
 Harenoir(11427049) :-always breaking new records
 Ruby(20777989) :-Define back then\n
 Harenoir(11427049) :-last year
+Ruby(20777989) :-You better not drop a 700th time on me\n
+Harenoir(11427049) :-eh-
+Harenoir(11427049) :-i could tbh
