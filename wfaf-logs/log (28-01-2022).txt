@@ -1205,3 +1205,6 @@ Blue(21550262) :-so a visit is due
 Blue(21550262) :-cool
 Somethinglalala(23370112) :--_-
 Blue(21550262) :-wait
+Harenoir(11427049) :-mecha seen 23207460 in *
+Blue(21550262) :-DLEETED???
+Somethinglalala(23370112) :-...
