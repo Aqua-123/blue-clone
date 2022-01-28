@@ -18,3 +18,4 @@ Lumi(16008266) :-I can see Lumi, Almond cookie and 4 lurkers
 Almond cookie(20199174) :-Lumi whos idle
 Lumi(16008266) :-I see Blue, 🤖 Mecha Nurse 💉, Harry, Steve lurking in the shadows...
 Almond cookie(20199174) :-ugh
+Lumi(16008266) :-The river of life bubbles when Aqua comes near~
