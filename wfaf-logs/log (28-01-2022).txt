@@ -885,3 +885,4 @@ Cryo(22783061) :-0.\u200b0
 Gashing Sphere(22975867) :-°•°
 Aqua(16986137) :-O -------- O
 Gashing Sphere(22975867) :-Q_____Q
+Gashing Sphere(22975867) :-Oof\n
