@@ -1132,3 +1132,8 @@ Harenoir(11427049) :-wohoo
 Cryo(22783061) :-for hares 100k
 Cryo(22783061) :-smh
 Cryo(22783061) :-cya
+Harenoir(11427049) :-:)
+Somethinglalala(23370112) :-Who is going\n
+Harenoir(11427049) :-cya
+Somethinglalala(23370112) :-Oh...
+Somethinglalala(23370112) :-Well good night bud\n
