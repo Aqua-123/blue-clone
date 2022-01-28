@@ -943,3 +943,4 @@ Gashing Sphere(22975867) :-Why do u see them?
 Gashing Sphere(22975867) :-What do they represent?
 Cryo(22783061) :-cause math
 Gashing Sphere(22975867) :-...
+Harenoir(11427049) :-n = n +1
