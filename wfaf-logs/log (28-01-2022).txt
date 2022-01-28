@@ -850,3 +850,6 @@ Ruby(20777989) :-Nah hes gone\n
 Harenoir(11427049) :-where-
 Ruby(20777989) :-Lumi whos here\n
 Lumi(16008266) :-I can see Harenoir, Ruby, Lumi and 5 lurkers
+Ruby(20777989) :-Lumi whos lurking\n
+Lumi(16008266) :-I see 🤖 Mecha Nurse 💉, Blue, Aqua, Cryo, Eva lurking in the shadows...
+Ruby(20777989) :-Bro how many bots\n
