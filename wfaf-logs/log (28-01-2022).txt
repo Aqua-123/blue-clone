@@ -897,3 +897,4 @@ Gashing Sphere(22975867) :-He left just now\n
 Gashing Sphere(22975867) :-Lol\n
 Gashing Sphere(22975867) :-Okay. Now Ill lurk myself too. Hmph\n
 Gashing Sphere(22975867) :--lurk mode activated-
+Gashing Sphere(22975867) :--lurk mode deactivated-
