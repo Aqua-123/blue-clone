@@ -846,3 +846,7 @@ Ruby(20777989) :-Appreciated\n
 Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
 Ruby(20777989) :-Simp detected?
+Ruby(20777989) :-Nah hes gone\n
+Harenoir(11427049) :-where-
+Ruby(20777989) :-Lumi whos here\n
+Lumi(16008266) :-I can see Harenoir, Ruby, Lumi and 5 lurkers
