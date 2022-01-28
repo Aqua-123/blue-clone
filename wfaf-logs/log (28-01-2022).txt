@@ -955,3 +955,7 @@ Cryo(22783061) :-js
 Gashing Sphere(22975867) :-...
 Harenoir(11427049) :-ah yes that
 Gashing Sphere(22975867) :-You both make me question my life.
+Cryo(22783061) :-O.\u200bo
+Harenoir(11427049) :-n+= 1 / n = n +1 / n++
+Cryo(22783061) :-o.\u200bO
+Cryo(22783061) :-mhmm
