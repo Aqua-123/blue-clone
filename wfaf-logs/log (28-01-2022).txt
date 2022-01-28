@@ -1470,3 +1470,4 @@ Somethinglalala(23370112) :-Brr\n
 Somethinglalala(23370112) :-And S\n
 Somethinglalala(23370112) :-Yes*
 Somethinglalala(23370112) :-Ill... Reload. The chats are building up making me hang\n
+Somethinglalala(23370112) :-See ya in a minute
