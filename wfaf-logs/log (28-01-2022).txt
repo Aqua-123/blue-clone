@@ -2117,3 +2117,5 @@ Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend
 Gashing Sphere(22975867) :-Eva dab\n
 Eva(21541886) :-ヾ( •_)ゞ
 Gashing Sphere(22975867) :-Good job\n
+Gashing Sphere(22975867) :-Eva whos here
+Eva(21541886) :-These are the people here :Blue\u202d, \u202dCryo\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dAqua\u202d, \u202dEva\u202d, \u202dSigma Male\u202d, \u202dIllustrating Pyramid\u202d, \u202dGashing Sphere\u202d, \u202dSomethinglalala. Maybe some are lurking
