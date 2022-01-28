@@ -961,3 +961,6 @@ Cryo(22783061) :-o.\u200bO
 Cryo(22783061) :-mhmm
 Harenoir(11427049) :-learning that for the first time was beautiful for me
 Lumi(16008266) :-Hello, Somethinglalala! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Cryo(22783061) :-for (var i = 0; i <50;i++) realising you use ; instead of , in this was annoying
+Gashing Sphere(22975867) :-Ill speak to myself. Someone with equal intelligence and foolishness\n
+Harenoir(11427049) :-wait where
