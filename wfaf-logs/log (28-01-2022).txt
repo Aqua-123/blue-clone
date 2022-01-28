@@ -2285,3 +2285,5 @@ Zen(22174111) :-im scared to death of needles and blood
 Somethinglalala(23370112) :-Ah thats something majority are afraid of\n
 Somethinglalala(23370112) :-She wont do anything
 Zen(22174111) :-so its a she
+Somethinglalala(23370112) :-Yes. Nurse. So yea\n
+Somethinglalala(23370112) :-Mecha nurse*
