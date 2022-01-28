@@ -2573,3 +2573,4 @@ Eva(21541886) :-oops, i got disconnected
 Lumi(16008266) :-Hello, Eva! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Venus Pringle(23130149) :-lumi whos here
 Lumi(16008266) :-I can see Eva, Venus Pringle, Lumi and 3 lurkers
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
