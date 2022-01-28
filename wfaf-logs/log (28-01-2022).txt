@@ -1040,3 +1040,9 @@ Lumi(16008266) :-Hello, Xero! Welcome to WFAF! - Waiting for a Friend! The place
 Harenoir(11427049) :-oh boy
 Xero(23315641) :-what is happening
 Xero(23315641) :-im so lost
+Xero(23315641) :-hows it goin sir/maam
+Harenoir(11427049) :-arent we all
+Harenoir(11427049) :-im doing great thx
+Harenoir(11427049) :-hbu
+Xero(23315641) :-right ikr
+Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
