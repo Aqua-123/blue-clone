@@ -2334,3 +2334,5 @@ Somethinglalala(23370112) :-Yay!!
 Somethinglalala(23370112) :-Lumi serve 3
 Lumi(16008266) :-🥛🐄🥛
 Somethinglalala(23370112) :-Heh\n
+Somethinglalala(23370112) :-Blue serve A\n
+Blue(21550262) :-🍪 🥛 🍪
