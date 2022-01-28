@@ -2827,3 +2827,5 @@ Lumi(16008266) :-Hello, Spookyy! Welcome to WFAF! - Waiting for a Friend! The pl
 Lumi(16008266) :-Hi, Spookyy! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Spookyy, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Demogorgon1/cosC gang! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+S​o​u​L(20327398) :-eva find id of S\u200bo\u200bu\u200bL
+Eva(21541886) :-Id found :20327398
