@@ -133,3 +133,9 @@ Blue(21550262) :-Hi, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼, retrying wont help, y
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-who rude\n
 Strawberry 🍓(16521287) :-nurse cant
 Strawberry 🍓(16521287) :-cant you just set a short greet message for omni
+Strawberry 🍓(16521287) :-tele it was a joke, blue greeting me again
+🤖 Mecha Nurse 💉(20909261) :-Hi, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼, retrying wont help, you can try asking what is wfaf for more info :D
+🤖 Mecha Nurse 💉(20909261) :-Hi, Aqua, retrying wont help, you can try asking what is wfaf for more info :D
+Blue(21550262) :-Hi again, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼, try asking what is wfaf for more info :D
+Blue(21550262) :-The river of life bubbles when Aqua comes near~
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-whats a wfaf\n
