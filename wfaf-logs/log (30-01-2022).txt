@@ -37,3 +37,5 @@ Blue(21550262) :-Even lower five ~*
 Aqua(16986137) :-<3
 Blue(21550262) :-<3
 Aqua(16986137) :-~ So ima scream shout let it all out ~
+Aqua(16986137) :-lumi whos here
+Lumi(16008266) :-I can see Blue, Aqua, Lumi
