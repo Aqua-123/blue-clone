@@ -935,3 +935,4 @@ Lumi(16008266) :-Hello, Folding Cockroach! Welcome to WFAF! - Waiting for a Frie
 Blue(21550262) :-Hi, Folding Cockroach, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hi, Folding Cockroach! Im afraid they arent your friend yet, you can always try again!
+Folding Cockroach(23438283) :-cheers
