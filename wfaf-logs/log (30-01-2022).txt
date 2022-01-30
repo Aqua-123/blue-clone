@@ -132,3 +132,4 @@ Strawberry 🍓(16521287) :-nope
 Blue(21550262) :-Hi, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼, retrying wont help, you can try asking what is wfaf for more info :D
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-who rude\n
 Strawberry 🍓(16521287) :-nurse cant
+Strawberry 🍓(16521287) :-cant you just set a short greet message for omni
