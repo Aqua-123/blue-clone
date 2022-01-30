@@ -203,3 +203,4 @@ Blue(21550262) :-Hi again, Emme, try asking what is wfaf for more info :D
 Blue(21550262) :-Hi, Strawberry 🍓, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Strawberry 🍓(16521287) :-Lumi whos here
 Lumi(16008266) :-I can see Blue, Strawberry 🍓, 🤖 Mecha Nurse 💉 and 2 lurkers
+Blue(21550262) :-Hi, Cool, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
