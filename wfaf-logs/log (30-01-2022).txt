@@ -257,3 +257,5 @@ Blue(21550262) :-Hi, Ben, Welcome to WFAF, which stands for Waiting For A Friend
 Blue(21550262) :-Hi, Ben, retrying wont help, you can try asking what is wfaf for more info :D
 Blue(21550262) :-Hi again, Ben, try asking what is wfaf for more info :D
 🤖 Mecha Nurse 💉(20909261) :-Welcome, Omnissiah, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.
+Blue(21550262) :-*Sings ~*
+Blue(21550262) :-la la lalla ~*
