@@ -876,3 +876,5 @@ Lumi(16008266) :-Hi, Transferring Diamond! Im afraid they arent your friend yet,
 Lumi(16008266) :-Hi again, Transferring Diamond, dont feel bad, theyll accept one day... hopefully!
 Transferring Diamond(23436940) :-hi,Lumi
 Lumi(16008266) :-Hello, Earth Cylinder! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Earth Cylinder(23434653) :-Hey
+Earth Cylinder(23434653) :-What happened
