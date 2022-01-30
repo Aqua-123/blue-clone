@@ -857,3 +857,4 @@ Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Hello, Johny rocha! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Johny rocha! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Plum Wombat! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Plum Wombat! Im afraid they arent your friend yet, you can always try again!
