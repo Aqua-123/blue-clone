@@ -863,3 +863,7 @@ Lumi(16008266) :-Hello, Mercury Duck! Welcome to WFAF! - Waiting for a Friend! T
 Lumi(16008266) :-Hi, Mercury Duck! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Mercury Duck, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
+Aqua(16986137) :-hello greeters
+Aqua(16986137) :-Blue uptime
+Blue(21550262) :-Ive been here for 2 hours and 38 minutes
+Aqua(16986137) :-good
