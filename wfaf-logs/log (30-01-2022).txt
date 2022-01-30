@@ -28,3 +28,9 @@ Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
+Aqua(16986137) :-lumi disable greets
+Lumi(16008266) :-Ok, Ill stop greeting people now :D
+Aqua(16986137) :-blue enable greets
+Blue(21550262) :-Okai done ^-^
+Aqua(16986137) :-blue low five
+Blue(21550262) :-Even lower five ~*
