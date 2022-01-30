@@ -906,3 +906,5 @@ Grey Poppadom(23437955) :-wanna play/
 Grey Poppadom(23437955) :-?
 Lumi(16008266) :-Hello, Talking Magnemite! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Fupa! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Fupa(23437992) :-hi
+Lumi(16008266) :-Hi, Fupa! Im afraid they arent your friend yet, you can always try again!
