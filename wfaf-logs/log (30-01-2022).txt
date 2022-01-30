@@ -330,3 +330,4 @@ Aqua(16986137) :-!uptime
 Lumi(16008266) :-Ive been here for only 17 minutes
 Blue(21550262) :-Ive been here for only 18 minutes
 🤖 Mecha Nurse 💉(20909261) :-Ive been here for 20 days, 1 hour, 2 minutes.
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
