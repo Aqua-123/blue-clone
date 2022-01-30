@@ -155,3 +155,4 @@ Blue(21550262) :-The river of life bubbles when Aqua comes near~
 Aqua(16986137) :-lel
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-oh okay\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-thanks
+Blue(21550262) :-The river of life bubbles when Aqua comes near~
