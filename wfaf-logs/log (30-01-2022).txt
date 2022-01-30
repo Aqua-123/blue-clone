@@ -755,3 +755,4 @@ Lumi(16008266) :-Hello, Blue Salad! Welcome to WFAF! - Waiting for a Friend! The
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hello, Lavender Neimoidian! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lavender Neimoidian(23435975) :-hey
+Lumi(16008266) :-Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
