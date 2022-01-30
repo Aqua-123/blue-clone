@@ -41,3 +41,8 @@ Aqua(16986137) :-lumi whos here
 Lumi(16008266) :-I can see Blue, Aqua, Lumi
 Aqua(16986137) :-lumi whos idle
 Lumi(16008266) :-I see no one lurking.
+Aqua(16986137) :-!uptime
+🤖 Mecha Nurse 💉(20909261) :-Ive been here for 19 days, 22 hours, 55 minutes.
+Blue(21550262) :-Ive been here for only 3 minutes
+Lumi(16008266) :-Ive been here for only 55 minutes
+Aqua(16986137) :-mecha seen 22466125
