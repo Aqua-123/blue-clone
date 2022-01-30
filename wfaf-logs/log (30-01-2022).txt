@@ -768,3 +768,4 @@ m21(23434531) :-hi
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Hi, m21! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, m21, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
