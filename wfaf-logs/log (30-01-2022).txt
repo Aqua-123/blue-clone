@@ -58,3 +58,8 @@ Aqua(16986137) :-mecha disable greets
 Aqua(16986137) :-oof
 Blue(21550262) :-The river of life bubbles when Aqua comes near~
 Aqua(16986137) :-blue whos here
+Aqua(16986137) :-that takes a hot min
+Aqua(16986137) :-which it shouldnt
+Blue(21550262) :-I can see Blue, Aqua, Lumi and no lurkers :p
+Aqua(16986137) :-ideally
+Aqua(16986137) :-yep
