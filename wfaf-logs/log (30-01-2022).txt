@@ -752,3 +752,6 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 �
 🤖 Mecha Nurse 💉(20909261) :-Loneliness adds beauty to life.
 Lumi(16008266) :-Hi, Blue Salad! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, Blue Salad! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Hello, Lavender Neimoidian! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lavender Neimoidian(23435975) :-hey
