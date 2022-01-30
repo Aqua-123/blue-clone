@@ -879,3 +879,4 @@ Lumi(16008266) :-Hello, Earth Cylinder! Welcome to WFAF! - Waiting for a Friend!
 Earth Cylinder(23434653) :-Hey
 Earth Cylinder(23434653) :-What happened
 Lumi(16008266) :-Hello, Jupiter Squirrel! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Jupiter Squirrel! Im afraid they arent your friend yet, you can always try again!
