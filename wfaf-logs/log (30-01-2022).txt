@@ -15,3 +15,13 @@ Blue(21550262) :-Hi, its Blue ^-^
 Aqua(16986137) :-great
 Lumi(16008266) :-Our favorite Blue greeter is here!
 Blue(21550262) :-Hi, its Blue ^-^
+Blue(21550262) :-*Sings ~*
+Aqua(16986137) :-!uptime
+Blue(21550262) :-la la lalla ~*
+🤖 Mecha Nurse 💉(20909261) :-Ive been here for 19 days, 22 hours, 52 minutes.
+Blue(21550262) :-I just joined -w-
+Lumi(16008266) :-Hello, Omnissiah! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Ive been here for only 52 minutes
+Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Disabling greets uwu
