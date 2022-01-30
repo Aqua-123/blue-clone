@@ -209,3 +209,4 @@ Cool(11075513) :-hi
 Strawberry 🍓(16521287) :-Hey
 Strawberry 🍓(16521287) :-Ooh, OG cat pic
 Blue(21550262) :-Hi, Cool, retrying wont help, you can try asking what is wfaf for more info :D
+Blue(21550262) :-Hi, ☻, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
