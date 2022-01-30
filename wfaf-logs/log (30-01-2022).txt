@@ -185,3 +185,4 @@ Lumi(16008266) :-I can see Blue, 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼 and 1 lurk
 Blue(21550262) :-Hi, Neptune Moose, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Neptune Moose(23434107) :-Hey
 Blue(21550262) :-Hi, Originating Liquorice, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue(21550262) :-Hi, Lee, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
