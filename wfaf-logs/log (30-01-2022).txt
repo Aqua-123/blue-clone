@@ -392,3 +392,5 @@ Lumi(16008266) :-Hi, Omnissiah! Im afraid they arent your friend yet, you can al
 Lumi(16008266) :-Hello, _han! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 _han(11395223) :-Lumi whos here
 Lumi(16008266) :-I can see _han, Lumi and 1 lurkers
+_han(11395223) :-This shit dead as well
+Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
