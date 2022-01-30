@@ -36,3 +36,4 @@ Aqua(16986137) :-blue low five
 Blue(21550262) :-Even lower five ~*
 Aqua(16986137) :-<3
 Blue(21550262) :-<3
+Aqua(16986137) :-~ So ima scream shout let it all out ~
