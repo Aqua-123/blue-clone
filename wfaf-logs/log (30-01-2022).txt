@@ -261,3 +261,4 @@ Blue(21550262) :-*Sings ~*
 Blue(21550262) :-la la lalla ~*
 Blue(21550262) :-*Sings ~*
 Blue(21550262) :-la la lalla ~*
+Blue(21550262) :-Hi, m19, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
