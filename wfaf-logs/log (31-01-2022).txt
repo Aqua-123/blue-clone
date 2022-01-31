@@ -1063,3 +1063,6 @@ Strawberry 🍓(16521287) :-Had that
 🤖 Mecha Nurse 💉(20909261) :-by default, it binds to localhsot only\n
 Strawberry 🍓(16521287) :-Also, dots are safe before numbers
 🤖 Mecha Nurse 💉(20909261) :-the zero zero stuff should bind it to externally visible ports\n
+🤖 Mecha Nurse 💉(20909261) :-ah drat.\n
+🤖 Mecha Nurse 💉(20909261) :-0.0.0.0 \n
+🤖 Mecha Nurse 💉(20909261) :-indeed\n
