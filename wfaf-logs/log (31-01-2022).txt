@@ -2289,3 +2289,9 @@ hammy (14751444) :- no no
 hammy (14751444) :- im not a bot
 Aqua (16986137) :- you fuckhead
 hammy (14751444) :- hi soul
+S​o​u​L (20327398) :- hi
+hammy (14751444) :- :O
+hammy (14751444) :- *gasps*
+hammy (14751444) :- im dead
+Aqua (16986137) :- good
+S​o​u​L (20327398) :- i should limit the output buffer size
