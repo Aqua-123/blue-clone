@@ -2377,3 +2377,4 @@ Lumi (16008266) :- Hello, Violet Diamond! Welcome to WFAF! - Waiting for a Frien
 Blue (21550262) :- well its read as a string if im not mistaken
 Blue (21550262) :- so ofc it wont save ints
 Blue (21550262) :- just like texts dont
+S​o​u​L (20327398) :- yea noobie mistake
