@@ -2335,3 +2335,9 @@ Aqua (16986137) :- blue mute 14751444
 Blue (21550262) :- Okai Ill ignore user 14751444 0.0
 🤖 Mecha Nurse 💉 (20909261) :- Added hammy to the ignore list.
 Lumi (16008266) :- Hello, Lunar! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+S​o​u​L (20327398) :- $ reload custom greets
+Eva (21541886) :- Custom greets reloaded successfully
+Lumi (16008266) :- Hi, Lunar! Im afraid they arent your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Lunar, dont feel bad, theyll accept one day... hopefully!
+Lumi (16008266) :- Hi, S\u200bo\u200bu\u200bL! Im afraid they arent your friend yet, you can always try again!
+Eva (21541886) :- ᗜ_ᗜ
