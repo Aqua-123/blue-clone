@@ -1141,3 +1141,5 @@ Lumi(16008266) :-Hi, хай! Im afraid they arent your friend yet, you can alway
 Lumi(16008266) :-Hello, MatmatM26! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, MatmatM26! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, John! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+John(22640781) :-hi
+Eva(21541886) :-hello
