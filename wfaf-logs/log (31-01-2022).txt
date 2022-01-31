@@ -2434,3 +2434,5 @@ Conspiring Platypus (23445287) :- hi
 Eva (21541886) :- hello
 Relaxing Salad (23445273) :- hello
 Eva (21541886) :- hi
+Lumi (16008266) :- Hi, Relaxing Salad! Im afraid they arent your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Relaxing Salad, dont feel bad, theyll accept one day... hopefully!
