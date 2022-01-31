@@ -1455,3 +1455,8 @@ Aqua (14267520) :- blue whos idle
 Blue (21550262) :- I can see no lurkers as of now
 Aqua (14267520) :- okay
 Aqua (14267520) :- blue uptime
+Blue (21550262) :- I just joined -w-
+Spookyy (20199174) :- eva mute 23444073
+Aqua (14267520) :- blue get id of blue
+Blue (21550262) :-
+Spookyy (20199174) :- Eva mute 23444073
