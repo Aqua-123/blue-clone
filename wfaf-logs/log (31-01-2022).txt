@@ -1139,3 +1139,4 @@ Blue(21550262) :-I can see no lurkers as of now
 Lumi(16008266) :-Hello, хай! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, хай! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hello, MatmatM26! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, MatmatM26! Im afraid they arent your friend yet, you can always try again!
