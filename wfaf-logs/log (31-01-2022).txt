@@ -3387,3 +3387,5 @@ Aqua (16986137) :- Use Ritsu x Emerald 0.10.0 or newer to see an image instead o
 Aqua (16986137) :- okay it did take it
 Aqua (16986137) :- now hmm
 Lumi (16008266) :- The river of life bubbles when Aqua comes near~
+Aqua (16986137) :- Use Ritsu x Emerald 0.10.0 or newer to see an image instead of this placeholder.\U000e003b\U000e0023\U000e0031\U000e0049\U000e0031\U000e0037\U000e0049\U000e0051\U000e0038\U000e0040\U000e0060\U000e0060
+Aqua (16986137) :- grrr wots the issue now
