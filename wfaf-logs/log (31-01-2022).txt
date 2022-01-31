@@ -1099,3 +1099,5 @@ Strawberry 🍓(16521287) :-perma mute*
 Lumi(16008266) :-Hi, Magnifying Herring! Im afraid they arent your friend yet, you can always try again!
 Strawberry 🍓(16521287) :-\nsome things are still buggy but
 Strawberry 🍓(16521287) :-my code doesnt leave much room :)
+Strawberry 🍓(16521287) :-Cue the moment when I found out that using regex.\u200btest() is stateful
+Strawberry 🍓(16521287) :-haha
