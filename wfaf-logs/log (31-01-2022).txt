@@ -2361,3 +2361,8 @@ Blue (21550262) :- i mostly fuck around with csv and texts
 S​o​u​L (20327398) :- i mean its so similar to the dictionary structure
 Blue (21550262) :- thats fair
 S​o​u​L (20327398) :- ohh
+Blue (21550262) :- hmmm using jsons i could just store multiple values in one file
+Blue (21550262) :- instead of using multiple different ones
+Blue (21550262) :- huh
+Blue (21550262) :- fun
+S​o​u​L (20327398) :- yeah
