@@ -1044,3 +1044,5 @@ Lumi(16008266) :-xel the Wizard has arrived!
 Strawberry 🍓(16521287) :-that might be the issue
 🤖 Mecha Nurse 💉(20909261) :-ooh.. I dont know anything about VSCodium.. it *might* be looking at the same folders as VSCode for compatibility..\n
 Strawberry 🍓(16521287) :-might... who knows
+Strawberry 🍓(16521287) :-But thank you for the reassurance
+Strawberry 🍓(16521287) :-Also, that thing about opening the web server to lan?
