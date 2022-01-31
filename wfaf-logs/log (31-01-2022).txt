@@ -1121,3 +1121,4 @@ Lumi(16008266) :-Hello, Olivia! Welcome to WFAF! - Waiting for a Friend! The pla
 Lumi(16008266) :-Hi, Olivia! Im afraid they arent your friend yet, you can always try again!
 Strawberry 🍓(16521287) :-oof
 Lumi(16008266) :-Hi again, Olivia, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Hello, Fuchsia Snorlax! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
