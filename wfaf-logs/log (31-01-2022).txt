@@ -1146,3 +1146,7 @@ Eva(21541886) :-hello
 Blue(21550262) :-*Sings ~*
 Blue(21550262) :-la la lalla ~*
 Lumi(16008266) :-Hello, Ryan! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Shining Jawa! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, Ryan! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Ryan, dont feel bad, theyll accept one day... hopefully!
+Ryan(3633918) :-hey
