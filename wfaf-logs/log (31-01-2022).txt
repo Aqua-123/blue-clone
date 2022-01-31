@@ -1049,3 +1049,6 @@ Strawberry 🍓(16521287) :-Also, that thing about opening the web server to lan
 Strawberry 🍓(16521287) :-Im encountering an issue which I basically only found mirrored in one stackoverflow comment
 🤖 Mecha Nurse 💉(20909261) :-I might have screwed that up. look at the line in webpack . config . ts that says `allowedHosts: 192 . 168 . * . *,`\n
 Lumi(16008266) :-Hello, Heaving Hornet! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Strawberry 🍓(16521287) :-Doesnt have that bur
+Strawberry 🍓(16521287) :-I remember passing that as a command line option
+🤖 Mecha Nurse 💉(20909261) :-oh wait no, yuo did that\n
