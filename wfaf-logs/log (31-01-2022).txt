@@ -2636,3 +2636,10 @@ Spookyy (20199174) :- eva admin
 Spookyy (20199174) :- Eva admin
 Spookyy (20199174) :- Eva find id of Blue
 Eva (21541886) :- Id found :Blue : 21550262
+Spookyy (20199174) :- blue add 200 coins
+Blue (21550262) :- Woops too many coins, maybe buy me some chocolates instead? :>
+Lumi (16008266) :- Hello, Black Triangle! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Black Triangle (23445701) :- Hi
+Eva (21541886) :- hello
+Spookyy (20199174) :- blue add 100 coins
+Blue (21550262) :- 100 coins added to the fortune well, there are now 20402 coins in the well, wishing good luck to all :D
