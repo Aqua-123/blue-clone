@@ -2378,3 +2378,4 @@ Blue (21550262) :- well its read as a string if im not mistaken
 Blue (21550262) :- so ofc it wont save ints
 Blue (21550262) :- just like texts dont
 S​o​u​L (20327398) :- yea noobie mistake
+S​o​u​L (20327398) :- i thought the json library will automatically take care of it
