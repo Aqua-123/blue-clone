@@ -510,3 +510,6 @@ Harenoir(11427049) :-n i c e
 Harenoir(11427049) :-100
 âShadow∆â(22975867) :-Lol\n
 âShadow∆â(22975867) :-Guess what\n
+Harenoir(11427049) :-what
+âShadow∆â(22975867) :-I can never use Linux in my laptop again
+Harenoir(11427049) :-why not...
