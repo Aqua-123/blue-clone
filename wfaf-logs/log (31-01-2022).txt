@@ -3496,3 +3496,6 @@ Saturn Cube (23447471) :- <:
 Blue (21550262) :- :>
 Spookyy (20199174) :- blue what is Saturn Cube id
 Saturn Cube (23447471) :- Blue get id of Spookyy
+Blue (21550262) :- ID of Spookyy is 20199174
+Spookyy (20199174) :- i forgot how to do it
+Lumi (16008266) :- The river of life bubbles when Aqua comes near~
