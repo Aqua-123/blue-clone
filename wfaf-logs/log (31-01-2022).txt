@@ -667,3 +667,5 @@ Lumi(16008266) :-Hello, Borednupforfun! Welcome to WFAF! - Waiting for a Friend!
 âShadow∆â(22975867) :-I asked my first friend on disc to give me my Id\n
 âShadow∆â(22975867) :-Cause i didnt know mine\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-tag not id\n
+âShadow∆â(22975867) :-Whatever
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-i can get your discord id\n\n
