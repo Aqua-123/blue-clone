@@ -1418,3 +1418,8 @@ Aqua (14267520) :- blue get id of bleu
 Blue (21550262) :- Im sorry I havent seen anyone with the name bleu here
 Aqua (14267520) :- blue get id of blue
 Blue (21550262) :-
+Aqua (14267520) :- erm
+Aqua (14267520) :- UM
+Aqua (14267520) :- blue get id of aqua
+Blue (21550262) :-
+Aqua (14267520) :- welp
