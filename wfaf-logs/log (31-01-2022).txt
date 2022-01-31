@@ -1406,3 +1406,10 @@ Aqua (14267520) :- ofc
 Aqua (14267520) :- blue uptime
 Aqua (14267520) :- rewriting code breaks a lot of things
 Aqua (14267520) :- ;-;
+Aqua (14267520) :- lumi whos here
+Lumi (16008266) :- I can see Blue, Aqua, Lumi and 3 lurkers
+Aqua (14267520) :- lumi whos idle
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉, Initiating Square, Eva lurking in the shadows...
+Aqua (14267520) :- cool
+Aqua (14267520) :- blue get id of Initiating Square
+Blue (21550262) :- Im sorry I havent seen anyone with the name Initiating Square here
