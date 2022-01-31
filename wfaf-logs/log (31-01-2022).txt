@@ -672,3 +672,7 @@ Lumi(16008266) :-Hello, Borednupforfun! Welcome to WFAF! - Waiting for a Friend!
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-wait did you mean tag or id
 âShadow∆â(22975867) :-Tag\n
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-\ntag is the 4 numbers\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-yourname#1234
+âShadow∆â(22975867) :-Oh.
+âShadow∆â(22975867) :-;-;
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-id is a long string of numbers
