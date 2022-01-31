@@ -2371,3 +2371,4 @@ Blue (21550262) :- thanks
 S​o​u​L (20327398) :- lel
 S​o​u​L (20327398) :- yw
 Lumi (16008266) :- Hello, Uranus Sphere! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+S​o​u​L (20327398) :- i mean it took me so long to figure out json doesnt support integers as key values
