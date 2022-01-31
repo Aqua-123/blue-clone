@@ -618,3 +618,5 @@ Harenoir(11427049) :-seems that way
 âShadow∆â(22975867) :-Sometimes Gashing Sphere
 âShadow∆â(22975867) :-Otherwise
 âShadow∆â(22975867) :-Rn who i am\n
+Harenoir(11427049) :-youre âShadow∆â on my screen
+âShadow∆â(22975867) :-Yes\n
