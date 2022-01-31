@@ -1403,3 +1403,4 @@ Aqua (14267520) :- blue whos idle
 Blue (21550262) :- I can see  lurking
 Aqua (14267520) :- uh
 Aqua (14267520) :- ofc
+Aqua (14267520) :- blue uptime
