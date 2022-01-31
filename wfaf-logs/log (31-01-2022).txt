@@ -731,3 +731,4 @@ Lumi(16008266) :-Hi, Robbing Bellsprout! Im afraid they arent your friend yet, y
 Lumi(16008266) :-Hi again, Robbing Bellsprout, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Stranger ♂! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Stranger ♂! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Stranger ♂, dont feel bad, theyll accept one day... hopefully!
