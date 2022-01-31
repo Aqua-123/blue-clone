@@ -770,3 +770,4 @@ Lumi(16008266) :-Hi again, Green Gnu, dont feel bad, theyll accept one day... ho
 Lumi(16008266) :-Hello, John! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 John(22640781) :-hi
 Lumi(16008266) :-Hello, Orange Krabby! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, Eva! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
