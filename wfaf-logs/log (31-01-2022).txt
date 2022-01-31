@@ -1795,3 +1795,5 @@ Aqua (16986137) :- blue enable greets
 Blue (21550262) :- Okay done ^-^
 Aqua (16986137) :- atua
 Spookyy (20199174) :- Yes?
+Aqua (16986137) :- rejoin me fella
+Spookyy (20199174) :- Got it
