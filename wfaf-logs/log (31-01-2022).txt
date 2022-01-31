@@ -1052,3 +1052,6 @@ Lumi(16008266) :-Hello, Heaving Hornet! Welcome to WFAF! - Waiting for a Friend!
 Strawberry 🍓(16521287) :-Doesnt have that bur
 Strawberry 🍓(16521287) :-I remember passing that as a command line option
 🤖 Mecha Nurse 💉(20909261) :-oh wait no, yuo did that\n
+🤖 Mecha Nurse 💉(20909261) :-ok, Ill have to read some docs\n
+Strawberry 🍓(16521287) :-Yeah
+Strawberry 🍓(16521287) :-Theres little docs
