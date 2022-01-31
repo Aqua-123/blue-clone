@@ -52,3 +52,4 @@ Lumi(16008266) :-Hello, Gmale! Welcome to WFAF! - Waiting for a Friend! The plac
 Gmale(23175285) :-hi
 Lumi(16008266) :-Hi, Gmale! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Gmale, dont feel bad, theyll accept one day... hopefully!
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
