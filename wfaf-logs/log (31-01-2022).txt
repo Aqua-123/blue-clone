@@ -748,3 +748,4 @@ Blue(21550262) :-*Sings ~*
 Blue(21550262) :-*Sings ~*
 Blue(21550262) :-la la lalla ~*
 Lumi(16008266) :-Hello, Mars Ewok! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Mars Ewok(23441057) :-hi
