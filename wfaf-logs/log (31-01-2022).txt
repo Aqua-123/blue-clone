@@ -586,3 +586,8 @@ Harenoir(11427049) :-sorta
 Harenoir(11427049) :-(unless you count lua as a language)
 Harenoir(11427049) :-which in that case, would be 3
 âShadow∆â(22975867) :-Nice...
+âShadow∆â(22975867) :-I know 0 fully...
+Harenoir(11427049) :-damn
+âShadow∆â(22975867) :-;-;
+Harenoir(11427049) :-i mean
+âShadow∆â(22975867) :-I struggle at remembering
