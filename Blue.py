@@ -20,7 +20,7 @@ from websocket import create_connection
 from vars import *
 
 # Restarts the current program.
-def restart_program(): return execl(executiable, executable, * argv)
+def restart_program(): return execl(executable, executable, * argv)
 name = " "
 starttime = t
 
@@ -565,6 +565,6 @@ while running == True:
 						matching(whos_here_res, message)
 					if id in admin: admin_func(message, id, True)
 					elif id in mod: admin_func(message, id, False)
-	except:
+	except ValueError:
 		send_message(unknown_error)
 		restart_program()
