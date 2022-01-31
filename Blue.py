@@ -515,6 +515,7 @@ def check_singing():
 	if (len_main + len_idle) <= 4 and random.randint(0, 1000000) % 9387 == 0: Thread(target=singing).start()
 
 def clocking():
+	global reset_clock,greet_timeout,start
 	if reset_clock == 500: greet_timeout, reset_clock = {}, 0
 	if timer() - start >= 20 and os.stat("chatlogs.txt").st_size != 0:
 		push_logs()
