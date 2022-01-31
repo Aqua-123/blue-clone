@@ -3565,3 +3565,4 @@ Spookyy (20199174) :- blue add 100 coins
 Blue (21550262) :- 100 coins added to the fortune well, there are now 20502 coins in the well, wishing good luck to all :D
 Spookyy (20199174) :- blue add 99 coins
 Blue (21550262) :- 99 coins added to the fortune well, there are now 20601 coins in the well, wishing good luck to all :D
+Lumi (16008266) :- The river of life bubbles when Aqua comes near~
