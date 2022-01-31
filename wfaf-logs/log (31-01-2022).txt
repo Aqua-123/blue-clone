@@ -3547,3 +3547,10 @@ Harenoir (11427049) :- np
 Spookyy (20199174) :- :D
 Aqua (16986137) :- can someone paste the placeholder text
 Spookyy (20199174) :- Use Ritsu x Emerald 0.10.0 or newer to see an image instead of this placeholder.\U000e0032\U000e0036\U000e0055\U000e0041\U000e0039\U000e0056\U000e0034\U000e005a\U000e0028\U000e0025\U000e0041\U000e0051\U000e002c\U000e0023\U000e0035\U000e0029\U000e003c\U000e0046\U000e003c\U000e0060
+Lumi (16008266) :- Hi, uk guy! Im afraid they arent your friend yet, you can always try again!
+Aqua (16986137) :- yea
+Harenoir (11427049) :- hmm...
+Aqua (16986137) :- renders fine
+Harenoir (11427049) :- Use Ritsu x Emerald 0.\u200b10.\u200b0 or newer to see an image instead of this placeholder.\U000e0032\U000e0036\U000e0055\U000e0041\U000e0039\U000e0056\U000e0034\U000e005a\U000e0028\U000e0026\U000e0029\U000e002a\U000e0034\U000e0045\U000e0049\U000e0058\U000e0035\U000e0044\U000e005c\U000e0060
+Aqua (16986137) :- teri wanna see?
+Harenoir (11427049) :- it worked?
