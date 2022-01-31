@@ -2590,3 +2590,5 @@ S​o​u​L (20327398) :- lumi whos here
 Lumi (16008266) :- I can see S\u200bo\u200bu\u200bL, Eva, Lumi and 4 lurkers
 S​o​u​L (20327398) :- lumi whos lurking
 Lumi (16008266) :- I see Cece, Indicating Moose, Blue, 🤖 Mecha Nurse 💉 lurking in the shadows...
+S​o​u​L (20327398) :- $ users
+Eva (21541886) :- These are the people here :Eva\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dBlue\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking.
