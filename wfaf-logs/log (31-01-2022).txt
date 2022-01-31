@@ -1357,3 +1357,4 @@ Aqua (16986137) :- lumi whos here
 Lumi (16008266) :- I can see Blue, Eva, Lumi, Aqua, 🤖 Mecha Nurse 💉
 Aqua (16986137) :- lumi whos idle
 Lumi (16008266) :- I see no one lurking.
+Lumi (16008266) :- Welcome lovely person <3
