@@ -771,3 +771,4 @@ Lumi(16008266) :-Hello, John! Welcome to WFAF! - Waiting for a Friend! The place
 John(22640781) :-hi
 Lumi(16008266) :-Hello, Orange Krabby! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Eva! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hello, хай! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
