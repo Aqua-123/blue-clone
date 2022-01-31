@@ -737,3 +737,7 @@ Lumi(16008266) :-Hi, Uranus Mon Calamari! Im afraid they arent your friend yet, 
 Uranus Mon Calamari(23440710) :-yo
 Lumi(16008266) :-Hi again, Uranus Mon Calamari, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hello, Uranus Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Uranus Cube(23440199) :-hi
+Lumi(16008266) :-Hi, Uranus Cube! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hi again, Uranus Cube, dont feel bad, theyll accept one day... hopefully!
+Uranus Cube(23440199) :-hi
