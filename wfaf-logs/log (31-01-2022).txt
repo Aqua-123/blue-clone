@@ -700,3 +700,4 @@ Lumi(16008266) :-The earth shalt tremr at which hour the sphere rolls to the did
 Lumi(16008266) :-Hello, Pepe! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hello, Shipman! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Shipman(23399673) :-how are you?
+Lumi(16008266) :-Hello, Commenting Kaminoan! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
