@@ -781,3 +781,8 @@ Polluting Kaminoan(23441293) :-Mecha whos here\n
 Polluting Kaminoan(23441293) :-Mecha whos here\n
 🤖 Mecha Nurse 💉(20909261) :-I can see Lumi, Polluting Kaminoan. Also 1 person is idle, and there may be lurkers.
 Polluting Kaminoan(23441293) :-Who is idle\n
+Polluting Kaminoan(23441293) :-Mecha whos idle\n
+🤖 Mecha Nurse 💉(20909261) :-I think Eva is idle.
+Polluting Kaminoan(23441293) :-Hi\n
+Polluting Kaminoan(23441293) :-Hello\n
+Polluting Kaminoan(23441293) :-Hmm\n
