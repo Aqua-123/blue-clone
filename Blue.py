@@ -23,6 +23,8 @@ from vars import *
 def restart_program(): return execl(executable, executable, * argv)
 name = " "
 starttime = t
+file = open(chatlog_file, "w")
+file.close()
 
 def reconnect():
 	while connection:
