@@ -1144,3 +1144,4 @@ Lumi(16008266) :-Hello, John! Welcome to WFAF! - Waiting for a Friend! The place
 John(22640781) :-hi
 Eva(21541886) :-hello
 Blue(21550262) :-*Sings ~*
+Blue(21550262) :-la la lalla ~*
