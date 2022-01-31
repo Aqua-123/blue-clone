@@ -2401,3 +2401,7 @@ Indicating Moose (23444361) :- um
 S​o​u​L (20327398) :- hmmn
 S​o​u​L (20327398) :- ?*
 Lumi (16008266) :- Hi, Indicating Moose! Im afraid they arent your friend yet, you can always try again!
+Indicating Moose (23444361) :- hey
+S​o​u​L (20327398) :- hi?
+Indicating Moose (23444361) :- i couldnt find you
+S​o​u​L (20327398) :- me?
