@@ -688,3 +688,4 @@ Lumi(16008266) :-Hello, Shooting Strawberry! Welcome to WFAF! - Waiting for a Fr
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-you do\n
 Lumi(16008266) :-Hi, Shooting Strawberry! Im afraid they arent your friend yet, you can always try again!
 âShadow∆â(22975867) :-Oh.
+âShadow∆â(22975867) :-*anonymous mode on*
