@@ -643,3 +643,6 @@ Harenoir(11427049) :-i wasnt aware it was there
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-shadow do you have fishcord\n
 âShadow∆â(22975867) :-Lol ig that issue is open on git\n
 âShadow∆â(22975867) :-And\n
+âShadow∆â(22975867) :-Whats fishcord?
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-discord
+âShadow∆â(22975867) :-Ah yes\n
