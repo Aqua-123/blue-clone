@@ -1037,3 +1037,7 @@ Strawberry 🍓(16521287) :-all the files we had to disable prettier in
 Strawberry 🍓(16521287) :-So that it would stop conflicting in vscode
 🤖 Mecha Nurse 💉(20909261) :-right that should be fixed. Aqua had mucked the VScode settings under .vscode/settings.json\n
 Strawberry 🍓(16521287) :-Well, I dont know about that
+Strawberry 🍓(16521287) :-Oh?
+🤖 Mecha Nurse 💉(20909261) :-re-enable prettier, itll be prettier now.\n
+Strawberry 🍓(16521287) :-I use VSCodium so
+Lumi(16008266) :-xel the Wizard has arrived!
