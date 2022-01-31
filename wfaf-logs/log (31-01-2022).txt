@@ -591,3 +591,4 @@ Harenoir(11427049) :-damn
 âShadow∆â(22975867) :-;-;
 Harenoir(11427049) :-i mean
 âShadow∆â(22975867) :-I struggle at remembering
+Harenoir(11427049) :-i only ever got in contact with js and python... and i dont even understand them fully either
