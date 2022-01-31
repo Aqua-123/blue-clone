@@ -143,3 +143,5 @@ Jupiter Sullustan(23438919) :-u there?
 Lumi(16008266) :-Hi, Jupiter Sullustan! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Hi again, Jupiter Sullustan, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hi, Ziggy! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
