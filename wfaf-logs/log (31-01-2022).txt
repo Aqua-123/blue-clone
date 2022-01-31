@@ -1137,3 +1137,4 @@ Blue(21550262) :-I can see Aqua, 🤖 Mecha Nurse 💉, Lumi, Blue, Eva and no l
 Aqua(16986137) :-Blue whos idle
 Blue(21550262) :-I can see no lurkers as of now
 Lumi(16008266) :-Hello, хай! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi(16008266) :-Hi, хай! Im afraid they arent your friend yet, you can always try again!
