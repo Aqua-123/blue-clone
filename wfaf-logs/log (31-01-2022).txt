@@ -759,3 +759,5 @@ Lumi(16008266) :-I can see Grading Diglett, Lumi and 2 lurkers
 Lumi(16008266) :-Hello, Uranus Mon Calamari! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Grading Diglett(23441104) :-Lumi whos idle\n
 Lumi(16008266) :-I see Blue, 🤖 Mecha Nurse 💉 lurking in the shadows...
+Blue(21550262) :-*Sings ~*
+Blue(21550262) :-la la lalla ~*
