@@ -3499,3 +3499,11 @@ Saturn Cube (23447471) :- Blue get id of Spookyy
 Blue (21550262) :- ID of Spookyy is 20199174
 Spookyy (20199174) :- i forgot how to do it
 Lumi (16008266) :- The river of life bubbles when Aqua comes near~
+Aqua (16986137) :- blue get id of saturn cube
+Spookyy (20199174) :- Blue get id of saturn Cube
+Blue (21550262) :- ID of saturn cube is 23447471
+Blue (21550262) :- ID of saturn Cube is 23447471
+Aqua (16986137) :- blue mute 23447471
+Blue (21550262) :- Okai Ill ignore user 23447471 0.0
+🤖 Mecha Nurse 💉 (20909261) :- Added Saturn Cube to the ignore list.
+Spookyy (20199174) :- :)
