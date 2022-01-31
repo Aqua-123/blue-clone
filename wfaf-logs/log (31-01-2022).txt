@@ -117,3 +117,4 @@ Ziggy(99114) :-sry didnt mean to disconnect :(
 Blue(21550262) :-Hi, Ziggy, retrying wont help, you can try asking what is wfaf for more info :D
 Blue(21550262) :-Hi again, Ziggy, try asking what is wfaf for more info :D
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Blue(21550262) :-Disabling greets uwu
