@@ -1628,3 +1628,7 @@ Aqua (14267520) :- i-
 Aqua (14267520) :- your bbg is sleeping
 Spookyy (20199174) :- ohh ok
 Aqua (14267520) :- mhm
+Aqua (14267520) :- i was planning to add a feature
+Aqua (14267520) :- on blue
+Spookyy (20199174) :- what feature?
+Aqua (14267520) :- to like save messages for people
