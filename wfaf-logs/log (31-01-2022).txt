@@ -2379,3 +2379,4 @@ Blue (21550262) :- so ofc it wont save ints
 Blue (21550262) :- just like texts dont
 S​o​u​L (20327398) :- yea noobie mistake
 S​o​u​L (20327398) :- i thought the json library will automatically take care of it
+S​o​u​L (20327398) :- so i just opened the file and gave it to json so blindly and put it inside a try catch block
