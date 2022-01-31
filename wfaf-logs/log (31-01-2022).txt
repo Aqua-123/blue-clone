@@ -460,3 +460,7 @@ Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 âShadow∆â(22975867) :-Blegggh
 âShadow∆â(22975867) :-Did u say anything?
 Harenoir(11427049) :-not really
+âShadow∆â(22975867) :-Not Really?
+Harenoir(11427049) :-i just said yeah
+Harenoir(11427049) :-thats all
+âShadow∆â(22975867) :-Oh oki.
