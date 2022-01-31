@@ -114,7 +114,8 @@ custom_greet_id = {
   "21842289": "As dusk appears, darkness takes over the sky... before the last trace of light is gone",
   "11427049": "Personal pizzas all around! Harenoir has arisen from the void!",
   "16008266": "The most radiant & shining greeter has arrived! <3",
-  "22975867":"The earth shalt trem'r at which hour the sphere rolls to the did grind "
+  "22975867":"The earth shalt trem'r at which hour the sphere rolls to the did grind ",
+  "20199174" : "Your personal babygirl has entered the chat :wink:"
   }
 
 # Response list for im bored phrase
@@ -162,6 +163,7 @@ quote = re.compile(r"""blue (tell me a )?quote(\\n)*\s*$""", re.I)
 uwu = re.compile(r"""(uwu\s*)|(blue cultural reset(\\n)*\s*$)""", re.I)
 jok = re.compile(r"""blue (tell me a )?joke(\\n)*\s*$""", re.I)
 no = re.compile(r"""blue (no|enforce)(\\n)*\s*$""", re.I)
+eyes = re.compile(r"""o.o(\\n)*\s*$""", re.I)
 dni = re.compile(r"""blue (dni|do not interact)(\\n)*\s*$""", re.I)
 bored = re.compile(r"""(blue )?im bored(\\n)*\s*$""", re.I)
 dying = re.compile(r"""(blue )?im dying(\\n)*\s*$""", re.I)
@@ -244,6 +246,7 @@ no_r = (
   "Kindly be nice and keep this family-friendly while you are here, "
   "else the wfaf door is always open for you to leave, thanks"
 )
+eyes_r = "0.0"
 dni_r = "We are not interested, thanks no thanks"
 ily_r = "I love you even moreeee"
 low_five_r = "Even lower five ~*"
@@ -285,7 +288,8 @@ response_dict = {
   cookiess: cookies_r,
   ppizza: pineapple_pizza_r,
   jok : jok_r,
-  quote: jok_r
+  quote: jok_r,
+  eyes:eyes_r
 }
 
 #List containing vars of admin command matches
