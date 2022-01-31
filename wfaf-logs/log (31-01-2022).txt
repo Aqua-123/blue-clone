@@ -791,3 +791,13 @@ Eva(21541886) :-hi
 Polluting Kaminoan(23441293) :-Ah there\n
 Polluting Kaminoan(23441293) :-Took a while\n
 Polluting Kaminoan(23441293) :-If u are here... Where is SouL?
+Lumi(16008266) :-Hello, Strawberry 🍓! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Polluting Kaminoan(23441293) :-Hi\n
+Strawberry 🍓(16521287) :-Lumi whos here
+Lumi(16008266) :-I can see Polluting Kaminoan, Eva, Strawberry 🍓, 🤖 Mecha Nurse 💉, Lumi and 1 lurkers
+Strawberry 🍓(16521287) :-Hello
+Eva(21541886) :-hello
+Strawberry 🍓(16521287) :-Lumi whos lurking
+Lumi(16008266) :-I see Blue lurking in the shadows...
+Eva(21541886) :-hi
+Strawberry 🍓(16521287) :-Eva I swear
