@@ -289,3 +289,5 @@ Lumi(16008266) :-Personal pizzas all around! Harenoir has arisen from the void!
 Blue(21550262) :-Disabling greets uwu
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 🤖 Mecha Nurse 💉(20909261) :-Sometimes youve got to be able to listen to yourself
+🤖 Mecha Nurse 💉(20909261) :-and be okay with no one else understanding.
+Lumi(16008266) :-Hi again, Omnissiah, dont feel bad, theyll accept one day... hopefully!
