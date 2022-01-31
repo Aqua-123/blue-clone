@@ -1873,3 +1873,4 @@ Blue (21550262) :- Hi, S\u200bo\u200bu\u200bL, retrying wont help, you can try a
 Eva (21541886) :- Never gonna give you up, Never gonna let you down, Never gonna run around and desert you....
 S​o​u​L (20327398) :- $ reload custom greets
 Eva (21541886) :- I Couldnt reload custom greets
+S​o​u​L (20327398) :- *sighs*
