@@ -499,3 +499,4 @@ Harenoir(11427049) :-hmm...
 âShadow∆â(22975867) :-Null needs a good teacher.
 Harenoir(11427049) :-i havent gone to opal in a while
 âShadow∆â(22975867) :-Ah i tried going there for the second time today. Just to observe all its elements
+Harenoir(11427049) :-i heard its still in development
