@@ -1657,3 +1657,4 @@ Spookyy (20199174) :- hammy has a feature
 𝒷𝓊𝒷𝒷𝓁𝑒𝓈 (22466125) :- *i was talking abt the leaving msg on blue-*
 Spookyy (20199174) :- smh
 Spookyy (20199174) :- oh
+Aqua (14267520) :- i still have to figure out how to exactly implement it
