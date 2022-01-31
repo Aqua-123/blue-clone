@@ -514,3 +514,4 @@ Harenoir(11427049) :-what
 âShadow∆â(22975867) :-I can never use Linux in my laptop again
 Harenoir(11427049) :-why not...
 âShadow∆â(22975867) :-Well... One, i cant use a Virtual Machine cause the RAM is too less. Two, my mom uses it too, she is only familiar with Windows and she wont let me do anything else.
+Harenoir(11427049) :-ahh
