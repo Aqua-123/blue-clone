@@ -1712,3 +1712,5 @@ Lumi (16008266) :- Hello, Spookyy! Welcome to WFAF! - Waiting for a Friend! The 
 Blue (21550262) :- lumi disable greets
 Spookyy (20199174) :- What did i miss?
 Blue (21550262) :- idk which account has admin now
+Spookyy (20199174) :- lumi whos here
+Lumi (16008266) :- I can see Aqua, Blue, Spookyy, Lumi and 3 lurkers
