@@ -2601,3 +2601,7 @@ S​o​u​L (20327398) :- !uptime
 Blue (21550262) :- Ive been here for 1 hours and 41 minutes
 🤖 Mecha Nurse 💉 (20909261) :- Ive been here for 23 hours, 26 minutes.
 Eva (21541886) :- Ive been here for 1 hour(s) 11 minute(s) and 29 seconds.
+S​o​u​L (20327398) :- $ uptime
+Eva (21541886) :- Ive been here for 1 hour(s) 11 minute(s) and 51 seconds.
+S​o​u​L (20327398) :- $ users
+Eva (21541886) :- These are the people here :Eva\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dBlue\u202d, \u202dS\u200bo\u200bu\u200bL. Maybe some are lurking.
