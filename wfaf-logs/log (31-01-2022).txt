@@ -1389,3 +1389,4 @@ Blue (21550262) :- *Sings ~*
 Blue (21550262) :- la la lalla ~*
 Lumi (16008266) :- Hello, Keeping Impala! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi (16008266) :- Hello, Limping Cube! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi (16008266) :- Hello, Savoring Cylinder! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
