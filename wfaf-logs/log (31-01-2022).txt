@@ -295,3 +295,4 @@ Lumi(16008266) :-Hello, Black Kakuna! Welcome to WFAF! - Waiting for a Friend! T
 Black Kakuna(23439475) :-hey
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
