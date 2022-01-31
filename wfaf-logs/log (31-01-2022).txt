@@ -3566,3 +3566,6 @@ Blue (21550262) :- 100 coins added to the fortune well, there are now 20502 coin
 Spookyy (20199174) :- blue add 99 coins
 Blue (21550262) :- 99 coins added to the fortune well, there are now 20601 coins in the well, wishing good luck to all :D
 Lumi (16008266) :- The river of life bubbles when Aqua comes near~
+Aqua (16986137) :- Use Ritsu x Emerald 0.10.0 or newer to see an image instead of this placeholder.\U000e0032\U000e0036\U000e0055\U000e0041\U000e0039\U000e0056\U000e0034\U000e005a\U000e0028\U000e0027\U000e0049\U000e0034\U000e0038\U000e0037\U000e0031\U000e0051\U000e002d\U000e0023\U000e0038\U000e0060
+Aqua (16986137) :- s
+Aqua (16986137) :- whyy
