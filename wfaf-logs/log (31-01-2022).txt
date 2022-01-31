@@ -1035,3 +1035,5 @@ Strawberry 🍓(16521287) :-Oh and
 Strawberry 🍓(16521287) :-all the files we had to disable prettier in
 🤖 Mecha Nurse 💉(20909261) :-maybe it was when you create a new .d.ts file. it wont use it until you restart the build\n
 Strawberry 🍓(16521287) :-So that it would stop conflicting in vscode
+🤖 Mecha Nurse 💉(20909261) :-right that should be fixed. Aqua had mucked the VScode settings under .vscode/settings.json\n
+Strawberry 🍓(16521287) :-Well, I dont know about that
