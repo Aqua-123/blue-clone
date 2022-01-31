@@ -389,7 +389,6 @@ greet_check= [
   check6
 ]
 
-save_message = re.compile(r"""blue save message for ([0-9]+):-\s*("?[^""]+"?)\\n)*\s*""", re.I)
 #Some Strings
 
 #Links
