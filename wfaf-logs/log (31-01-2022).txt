@@ -669,3 +669,6 @@ Lumi(16008266) :-Hello, Borednupforfun! Welcome to WFAF! - Waiting for a Friend!
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-tag not id\n
 âShadow∆â(22975867) :-Whatever
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-i can get your discord id\n\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-wait did you mean tag or id
+âShadow∆â(22975867) :-Tag\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-\ntag is the 4 numbers\n
