@@ -2354,3 +2354,5 @@ Lumi (16008266) :- Hello, Violet Diamond! Welcome to WFAF! - Waiting for a Frien
 S​o​u​L (20327398) :- its easy to work with in python
 Blue (21550262) :- really?
 Blue (21550262) :- ive never tried
+S​o​u​L (20327398) :- yup
+Blue (21550262) :- hmm
