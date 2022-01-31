@@ -1179,3 +1179,8 @@ Aqua(16986137) :-great
 Lumi (16008266) :- Our favorite Blue greeter is here!
 Blue (21550262) :- Hi, its Blue ^-^
 Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Aqua (16986137) :- blue uptime
+Blue (21550262) :- I just joined -w-
