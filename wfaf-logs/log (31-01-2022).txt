@@ -2628,3 +2628,7 @@ Spookyy (20199174) :- Eva whos here
 Eva (21541886) :- These are the people here :Eva\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202dBlue\u202d, \u202dSpookyy. Maybe some are lurking.
 Spookyy (20199174) :- Eva whos idle
 Eva (21541886) :- I think these people are idle: 🤖 Mecha Nurse 💉\u202d, \u202dBlue
+Spookyy (20199174) :- Eva whos lurking
+Eva (21541886) :- I think these people are idle: 🤖 Mecha Nurse 💉\u202d, \u202dBlue
+Spookyy (20199174) :- blue enable greetings
+Spookyy (20199174) :- Blue enable greets
