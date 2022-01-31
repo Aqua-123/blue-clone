@@ -1031,3 +1031,7 @@ Eva(21541886) :-Ɛ>
 lex(13434296) :-byy shadee
 🤖 Mecha Nurse 💉(20909261) :-ah hmm. I remember something about this. it matters if you want to commit error-free code.\n
 Strawberry 🍓(16521287) :-Oh and
+🤖 Mecha Nurse 💉(20909261) :-but I dont remember the exact condition that makes it fail to update\n
+Strawberry 🍓(16521287) :-all the files we had to disable prettier in
+🤖 Mecha Nurse 💉(20909261) :-maybe it was when you create a new .d.ts file. it wont use it until you restart the build\n
+Strawberry 🍓(16521287) :-So that it would stop conflicting in vscode
