@@ -1080,3 +1080,5 @@ Strawberry 🍓(16521287) :-got it
 servent2sex(3142963) :-hello
 Eva(21541886) :-hi
 Strawberry 🍓(16521287) :-m:thumb_up:
+servent2sex(3142963) :-something up
+🤖 Mecha Nurse 💉(20909261) :-plausible text fallback too\n
