@@ -1126,3 +1126,9 @@ Lumi(16008266) :-Hi, Fuchsia Snorlax! Im afraid they arent your friend yet, you 
 Lumi(16008266) :-Hi again, Fuchsia Snorlax, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-The river of life bubbles when Aqua comes near~
 Aqua(16986137) :-!uptime
+Blue(21550262) :-Ive been here for 4 hours and 25 minutes
+Lumi(16008266) :-Ive been here for 4 hours and 25 minutes
+Eva(21541886) :-Ive been here for 0 hour(s) 54 minute(s) and 43 seconds.
+🤖 Mecha Nurse 💉(20909261) :-Ive been here for 12 hours.
+Aqua(16986137) :-Hmm recent restart
+Aqua(16986137) :-Nice
