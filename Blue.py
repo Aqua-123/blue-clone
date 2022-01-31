@@ -190,7 +190,6 @@ def idle_function():
 			val = list(timeout_control.keys())[i]
 			if val in idle_main_dict: del idle_main_dict[val]
 
-
 def remove_blue():
 	"""Removes blue from all lists 
 	to avoid confusion with people"""
@@ -199,14 +198,12 @@ def remove_blue():
 	if "Blue" in idle_main_dict: del idle_main_dict["21550262"]
 	if "Blue" in list(timeout_control.keys()): del timeout_control["21550262"]
 
-
 def update_git(mute_list):
 	new_mute = str(mute_list)
 	chars = "[]'\n"
 	for c in chars: new_mute.replace(c, "")
 	muted_contents = repo.get_contents("muted.txt")
 	repo.update_file(muted_contents.path, "mute update", str(new_mute), muted_contents.sha, branch="main")
-
 
 def mute_func(result, index):
 	id = result.group(1)

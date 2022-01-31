@@ -389,11 +389,11 @@ greet_check= [
   check6
 ]
 
-
+save_message = re.compile(r"""blue save message for ([0-9]+):-\s*("?[^""]+"?)\\n)*\s*""", re.I)
 #Some Strings
 
 #Links
-karma_url = "https://www.emeraldchat.com/karma_give?id=%d&polarity=-1=HTTP/2"
+karma_url = "https://www.emeraldchat.com/karma_give?id=%s&polarity=-1=HTTP/2"
 profile_url = "https://emeraldchat.com/profile_json?id=%d" 
 
 #ws-connection shit
