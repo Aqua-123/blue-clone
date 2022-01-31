@@ -2366,3 +2366,5 @@ Blue (21550262) :- instead of using multiple different ones
 Blue (21550262) :- huh
 Blue (21550262) :- fun
 S​o​u​L (20327398) :- yeah
+Blue (21550262) :- you tell me this after i spent a night rewriting the whole code
+Blue (21550262) :- thanks
