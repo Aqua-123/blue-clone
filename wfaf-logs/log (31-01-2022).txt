@@ -1135,3 +1135,4 @@ Aqua(16986137) :-Nice
 Aqua(16986137) :-Blue whos here
 Blue(21550262) :-I can see Aqua, 🤖 Mecha Nurse 💉, Lumi, Blue, Eva and no lurkers :p
 Aqua(16986137) :-Blue whos idle
+Blue(21550262) :-I can see no lurkers as of now
