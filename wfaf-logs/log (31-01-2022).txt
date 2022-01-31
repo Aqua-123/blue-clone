@@ -1221,3 +1221,4 @@ Lumi (16008266) :- The river of life bubbles when Aqua comes near~
 Aqua (16986137) :- blue ban 23442338
 Blue (21550262) :- Banning 23442338
 Lumi (16008266) :- Hello, r ! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+r  (23349399) :- heyy
