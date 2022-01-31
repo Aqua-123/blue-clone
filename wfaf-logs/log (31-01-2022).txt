@@ -1066,3 +1066,4 @@ Strawberry 🍓(16521287) :-Also, dots are safe before numbers
 🤖 Mecha Nurse 💉(20909261) :-ah drat.\n
 🤖 Mecha Nurse 💉(20909261) :-0.0.0.0 \n
 🤖 Mecha Nurse 💉(20909261) :-indeed\n
+Strawberry 🍓(16521287) :-funnily enough RxE is showing .d.\u200bts as a link
