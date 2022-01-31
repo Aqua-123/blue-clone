@@ -639,3 +639,7 @@ Lumi(16008266) :-I can see Harenoir, Lumi, âShadow∆â, 𝓣𝓮𝓵𝓮𝓽�
 Harenoir(11427049) :-is just that-
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-hi\n
 Harenoir(11427049) :-i dont have that issue in my side
+Harenoir(11427049) :-i wasnt aware it was there
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-shadow do you have fishcord\n
+âShadow∆â(22975867) :-Lol ig that issue is open on git\n
+âShadow∆â(22975867) :-And\n
