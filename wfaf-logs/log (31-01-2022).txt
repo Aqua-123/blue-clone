@@ -123,3 +123,10 @@ Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots ðŸ’‰ ðŸ’
 Blue(21550262) :-*Sings ~*
 Blue(21550262) :-la la lalla ~*
 Harenoir(11427049) :-lumi whos here
+Lumi(16008266) :-I can see Harenoir and 4 lurkers
+Harenoir(11427049) :-lumi whos idle
+Lumi(16008266) :-I see Blue, Limping Cube, Ziggy lurking in the shadows...
+Harenoir(11427049) :-lumi clear userlist
+Lumi(16008266) :-Dropping sticky notes~ o.o
+Harenoir(11427049) :-blue clear userlist
+Blue(21550262) :-List went -poof-
