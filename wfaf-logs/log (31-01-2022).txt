@@ -1709,3 +1709,6 @@ Lumi (16008266) :- Our favorite Blue greeter is here!
 Blue (21550262) :- Hi, its Blue ^-^
 Blue (21550262) :- Disabling greets uwu
 Lumi (16008266) :- Hello, Spookyy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Blue (21550262) :- lumi disable greets
+Spookyy (20199174) :- What did i miss?
+Blue (21550262) :- idk which account has admin now
