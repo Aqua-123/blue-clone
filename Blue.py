@@ -314,7 +314,7 @@ def stop_stalking(id):
 	else: send_message(already_not_stalking%id)
  
 def admin_func_init(i, id , isadmin, result):
-    global greet_status, running, name, starttime, aichatstate
+	global greet_status, running, name, starttime, aichatstate
 	if i == 0:
 		greet_status = True
 		send_message(done)
