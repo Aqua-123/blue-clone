@@ -1241,3 +1241,6 @@ Lumi (16008266) :- Hello, Neptune Rhombus! Welcome to WFAF! - Waiting for a Frie
 Lumi (16008266) :- The river of life bubbles when Aqua comes near~
 Aqua (16986137) :- blue ban 2
 Blue (21550262) :- Banning 2
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
