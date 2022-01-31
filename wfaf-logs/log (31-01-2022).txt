@@ -1901,3 +1901,4 @@ S​o​u​L (20327398) :- $ reload custom greets
 Eva (21541886) :- I couldnt reload custom greets
 Blue (21550262) :- Hi, Eva, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
 Blue (21550262) :- Hi, Persuading Sphere, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasnt accepted/declined your friend request, Enjoy your stay :D
+Blue (21550262) :- Hi, Eva, retrying wont help, you can try asking what is wfaf for more info :D
