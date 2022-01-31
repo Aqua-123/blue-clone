@@ -414,7 +414,7 @@ clear_list = "List went -poof-"
 
 just_joined = "I just joined -w-"
 here_for_one_min = "I've been here for just a minute"
-here_for_x_mins = "I've been here for only %d minutes"
+here_for_x_mins = "I've been here for only %s minutes"
 here_for_hours_and_mins = "I've been here for %s hours and %d minutes"
 memory_loss = "Just had some memory loss x-x"
 restarting = "Okai, restarting...."
