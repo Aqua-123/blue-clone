@@ -1070,3 +1070,8 @@ Strawberry 🍓(16521287) :-funnily enough RxE is showing .d.\u200bts as a link
 🤖 Mecha Nurse 💉(20909261) :-oh, new logic to match urls in text?\n
 Strawberry 🍓(16521287) :-anyways, you cant tell whats safe and whats not by posting it
 Strawberry 🍓(16521287) :-yes
+Strawberry 🍓(16521287) :-also inserts ZWSP
+🤖 Mecha Nurse 💉(20909261) :-oh nice\n
+Strawberry 🍓(16521287) :-we also match material icons
+Strawberry 🍓(16521287) :-and name mentions
+🤖 Mecha Nurse 💉(20909261) :-Im on a console right now, so no fanciness for me\n
