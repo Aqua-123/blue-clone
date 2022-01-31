@@ -1102,3 +1102,4 @@ Strawberry 🍓(16521287) :-my code doesnt leave much room :)
 Strawberry 🍓(16521287) :-Cue the moment when I found out that using regex.\u200btest() is stateful
 Strawberry 🍓(16521287) :-haha
 🤖 Mecha Nurse 💉(20909261) :-oof. yes, everybody suffers through that once\n
+🤖 Mecha Nurse 💉(20909261) :-bad design imo, but whatever\n
