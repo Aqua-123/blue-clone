@@ -1132,3 +1132,6 @@ Eva(21541886) :-Ive been here for 0 hour(s) 54 minute(s) and 43 seconds.
 🤖 Mecha Nurse 💉(20909261) :-Ive been here for 12 hours.
 Aqua(16986137) :-Hmm recent restart
 Aqua(16986137) :-Nice
+Aqua(16986137) :-Blue whos here
+Blue(21550262) :-I can see Aqua, 🤖 Mecha Nurse 💉, Lumi, Blue, Eva and no lurkers :p
+Aqua(16986137) :-Blue whos idle
