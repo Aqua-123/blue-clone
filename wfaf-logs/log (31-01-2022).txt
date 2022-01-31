@@ -2381,3 +2381,5 @@ S​o​u​L (20327398) :- yea noobie mistake
 S​o​u​L (20327398) :- i thought the json library will automatically take care of it
 S​o​u​L (20327398) :- so i just opened the file and gave it to json so blindly and put it inside a try catch block
 Blue (21550262) :- right
+Blue (21550262) :- i should use try catches more
+Blue (21550262) :- they are useful
