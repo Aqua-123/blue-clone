@@ -2358,3 +2358,4 @@ S​o​u​L (20327398) :- yup
 Blue (21550262) :- hmm
 Blue (21550262) :- ig i should
 Blue (21550262) :- i mostly fuck around with csv and texts
+S​o​u​L (20327398) :- i mean its so similar to the dictionary structure
