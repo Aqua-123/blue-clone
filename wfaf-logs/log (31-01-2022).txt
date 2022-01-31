@@ -2383,3 +2383,5 @@ S​o​u​L (20327398) :- so i just opened the file and gave it to json so bli
 Blue (21550262) :- right
 Blue (21550262) :- i should use try catches more
 Blue (21550262) :- they are useful
+Blue (21550262) :- but i always forget they exist
+S​o​u​L (20327398) :- lel
