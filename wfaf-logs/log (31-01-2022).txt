@@ -1353,3 +1353,7 @@ Aqua (16986137) :- there
 Aqua (16986137) :- blue uptime
 Blue (21550262) :- I just joined -w-
 Aqua (16986137) :- huh
+Aqua (16986137) :- lumi whos here
+Lumi (16008266) :- I can see Blue, Eva, Lumi, Aqua, 🤖 Mecha Nurse 💉
+Aqua (16986137) :- lumi whos idle
+Lumi (16008266) :- I see no one lurking.
