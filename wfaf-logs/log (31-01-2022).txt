@@ -2345,3 +2345,6 @@ S​o​u​L (20327398) :- finally
 Blue (21550262) :- making custom greets hot-reloadable?
 S​o​u​L (20327398) :- yup
 Blue (21550262) :- ah nice
+S​o​u​L (20327398) :- turns out json doesnt support integers as key values
+Blue (21550262) :- just save em in a csv and load em from there?
+Blue (21550262) :- if you are using python
