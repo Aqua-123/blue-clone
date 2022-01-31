@@ -753,3 +753,4 @@ Lumi(16008266) :-Hello, Magenta Marowak! Welcome to WFAF! - Waiting for a Friend
 Magenta Marowak(23440896) :-hey
 Lumi(16008266) :-Hello, Magenta Marowak! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
 Lumi(16008266) :-Hi, Magenta Marowak! Im afraid they arent your friend yet, you can always try again!
+Lumi(16008266) :-Hello, Grading Diglett! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
