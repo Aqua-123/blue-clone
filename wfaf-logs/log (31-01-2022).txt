@@ -2644,3 +2644,4 @@ Eva (21541886) :- hello
 Spookyy (20199174) :- blue add 100 coins
 Blue (21550262) :- 100 coins added to the fortune well, there are now 20402 coins in the well, wishing good luck to all :D
 Lumi (16008266) :- Hello, Spookyy! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Eva (21541886) :- Is it just me or did it get spooky in here?
