@@ -1056,3 +1056,6 @@ Strawberry 🍓(16521287) :-I remember passing that as a command line option
 Strawberry 🍓(16521287) :-Yeah
 Strawberry 🍓(16521287) :-Theres little docs
 Strawberry 🍓(16521287) :-You can run it on LAN IP and have it work fine locally but other devices just wont come through
+Strawberry 🍓(16521287) :-Theres something about the settings being changed
+🤖 Mecha Nurse 💉(20909261) :-got it. add a setting like `host: 0 . 0 . 0 . 0,`\n
+Strawberry 🍓(16521287) :-Because of a.. DNS binding attack or whatnot
