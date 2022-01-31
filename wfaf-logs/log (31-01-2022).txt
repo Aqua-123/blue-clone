@@ -497,3 +497,4 @@ Harenoir(11427049) :-that is true
 âShadow∆â(22975867) :-NEVER\n
 Harenoir(11427049) :-hmm...
 âShadow∆â(22975867) :-Null needs a good teacher.
+Harenoir(11427049) :-i havent gone to opal in a while
