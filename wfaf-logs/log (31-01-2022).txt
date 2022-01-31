@@ -101,3 +101,4 @@ Lumi(16008266) :-Hello, Ziggy! Welcome to WFAF! - Waiting for a Friend! The plac
 Lumi(16008266) :-Hi again, Ziggy, dont feel bad, theyll accept one day... hopefully!
 Lumi(16008266) :-Hi, Ziggy! Im afraid they arent your friend yet, you can always try again!
 Lumi(16008266) :-Mecha nurse is here, everyone get ready for your shots 💉 💊
+🤖 Mecha Nurse 💉(20909261) :-Hi, Ziggy, retrying wont help, you can try asking what is wfaf for more info :D
