@@ -3059,3 +3059,6 @@ Lumi (16008266) :- Hi again, LosAngelesTattooArtist, dont feel bad, theyll accep
 Strawberry 🍓 (16521287) :- Maybe you wanted to help
 LosAngelesTattooArtist (16065884) :- hi
 Eva (21541886) :- hello
+Strawberry 🍓 (16521287) :- But the person expected to be doing something on their own
+LosAngelesTattooArtist (16065884) :- hi eva
+Eva (21541886) :- hello there
