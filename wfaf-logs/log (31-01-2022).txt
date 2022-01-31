@@ -3368,3 +3368,5 @@ Aqua (16986137) :- Use Ritsu x Emerald 0.10.0 or newer to see an image instead o
 Aqua (16986137) :- aha
 Aqua (16986137) :- cool cool cool cool cool
 Lumi (16008266) :- Hello, Vanessa! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi (16008266) :- Hi, Vanessa! Im afraid they arent your friend yet, you can always try again!
+Vanessa (23446892) :- hi
