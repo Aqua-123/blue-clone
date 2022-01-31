@@ -1008,3 +1008,8 @@ Strawberry 🍓(16521287) :-And yes it needs to be reinstalled
 Strawberry 🍓(16521287) :-Its just that .. the dev server updates the build when you change the code
 Strawberry 🍓(16521287) :-Except it doesnt reparse d.\u200bts
 🤖 Mecha Nurse 💉(20909261) :-changing the .d.ts should never change the built code, I think. its only used to emit errors and annoy us, tbh.\n
+lex(13434296) :-aww shadee nyuuu ill miss u agen; - ;
+Strawberry 🍓(16521287) :-Also, I have had no luck opening the dev server to lan
+lex(13434296) :-I dos not have disc
+lex(13434296) :-ikik im sooper unhip
+Strawberry 🍓(16521287) :-Well it emits errors
