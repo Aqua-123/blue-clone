@@ -2343,3 +2343,5 @@ Lumi (16008266) :- Hi, S\u200bo\u200bu\u200bL! Im afraid they arent your friend 
 Eva (21541886) :- ᗜ_ᗜ
 S​o​u​L (20327398) :- finally
 Blue (21550262) :- making custom greets hot-reloadable?
+S​o​u​L (20327398) :- yup
+Blue (21550262) :- ah nice
