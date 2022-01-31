@@ -168,8 +168,8 @@ def fix_message(messages):
 	"""Fixes syntactical problems with incomming 
 	messages and removes any unwanted chars"""
 	chars = ('"[]‘')
-	for c in chars: message = message.replace(c, "")
-	return (message.replace("'", '').replace("\n", "").strip())
+	for c in chars: messages = messages.replace(c, "")
+	return (messages.replace("'", '').replace("\n", "").strip())
 
 
 def idle_function():
@@ -558,7 +558,7 @@ while running == True:
 					# if aichatstate == True:
 					#   result = ai.match(message)
 					#  if result: Thread(target=chat, args=(message,)).start()
-					Thread(target=check_greeters, args=(b["messages"], id,)).start()
+					Thread(target=check_greeters, args=(message, id,)).start()
 					Thread(target=log_chats,args=(message,id,)).start()
 					if id not in mute_list:
 						coins_feelings(message, id)

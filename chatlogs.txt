@@ -1,15 +1,3 @@
-Blue(21550262) :-Hi, its Blue ^-^
-Lumi(16008266) :-Our favorite Blue greeter is here!
-Blue(21550262) :-Hi, its Blue ^-^
-Blue(21550262) :-Hi, its Blue ^-^
-Lumi(16008266) :-Our favorite Blue greeter is here!
-Blue(21550262) :-Hi, its Blue ^-^
-Cryo(22783061) :-blue send love to me
-Cryo(22783061) :-okay that worked
-Cryo(22783061) :-why didnt she send
-Blue(21550262) :-Hi, its Blue ^-^
-Lumi(16008266) :-Our favorite Blue greeter is here!
-Blue(21550262) :-Hi, its Blue ^-^
-Lumi(16008266) :-Our favorite Blue greeter is here!
-Blue(21550262) :-Hi, its Blue ^-^
-Aqua(16986137) :-great
+Aqua (16986137) :- hmm
+Aqua (16986137) :- well well see ig
+Aqua (16986137) :- she could crash a lot

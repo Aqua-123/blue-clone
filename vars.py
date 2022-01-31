@@ -439,7 +439,7 @@ sending_pats = "Sending pats to %s *pat pat*"
 sending_hugs = "Sending hugs to %s (੭｡╹▿╹｡)੭ *intense telekinetic noises*"
 sending_bonks = "*bonks %s with a baseball bat~*"
 
-message_log_text = "%s (%d) :- %s"
+message_log_text = "%s (%s) :- %s"
 
 blue_greet = "Our favorite Blue greeter is here!"
 
