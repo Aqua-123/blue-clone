@@ -34,7 +34,8 @@ admin = [
   "22716229",
   "22783061",
   "11427049",
-  "21550262"
+  "21550262",
+  "14267520"
 ]
 
 mod = [
@@ -73,6 +74,7 @@ idle_main = set()  # Idle list
 idle_main_dict = {} # Idle list dictionary
 stats_list = {}  # Unique number of people joined stats
 id_list = set() #ID list 
+whos_here_r = []
 stats = []  # Total people joined stats
 greet_timeout = {}  # Control number of greets and timeout
 timeout_control = {}  # Control dict for list switch timeout

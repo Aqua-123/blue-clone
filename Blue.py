@@ -127,15 +127,16 @@ def threaded_adding(id):
 	r = requests.get(profile_url%id, cookies=cookies)
 	r = json.loads(r.text)
 	whos_here_r.append(r["user"]["display_name"])
-
+	print(whos_here_r)
 def reply_whos_here():
-	whos_here_r = []
+	global whos_here_r
 	for i in list_main_dict.keys():threads.append(Thread(target=threaded_adding, args=(i,)))
 	for t in threads: t.start()
 	for t in threads: t.join()
 	threads.clear()
 	idle_len = len(idle_main_dict.keys())
 	whos_here_r = str(whos_here_r)
+	print(whos_here_r)
 	if idle_len== 0:response = whos_here_response_no_lurkers%whos_here_r
 	elif idle_len > 0:
 		if idle_len == 1:response = whos_here_response_gen1%whos_here_r
@@ -143,13 +144,12 @@ def reply_whos_here():
 	send_message(fix_message(response))
  
 def replying_whos_idle():
-	whos_here_res = []
 	for i in idle_main_dict.keys(): threads.append(Thread(target=threaded_adding, args=(i,)))
 	for t in threads: t.start()
 	for t in threads: t.join()
 	threads.clear()
 	if len(idle_main_dict.keys()) == 0: response = whos_lurking_none
-	elif len(idle_main_dict.keys()) > 0:response = whos_lurking_gen%str(whos_here_res)
+	elif len(idle_main_dict.keys()) > 0:response = whos_lurking_gen%str(whos_here_r)
 	send_message(fix_message(response))
  
 def matching(dictname, message):
@@ -410,7 +410,7 @@ def send_feelings(index, id, result):
 			reg = re.compile(r"" + re_m + "\\n*", re.I)
 			result = reg.search(name)
 			if result is not None: 
-				id_response%(name,list(stats_list.keys())[l.index(re_m)])
+				response = id_response%(name,list(stats_list.keys())[l.index(re_m)])
 				break
 			else: n += 1
 		if n == len(stats_list.values()): response = not_seen%name
