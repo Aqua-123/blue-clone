@@ -527,3 +527,4 @@ Harenoir(11427049) :-technically, but... well
 âShadow∆â(22975867) :-Not powerful enough
 Harenoir(11427049) :-still got some limitations
 âShadow∆â(22975867) :-If i rooted it, i could even use Metasploit
+âShadow∆â(22975867) :-I had a brief look\n
