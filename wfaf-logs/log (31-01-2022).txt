@@ -680,3 +680,5 @@ Lumi(16008266) :-Hello, Borednupforfun! Welcome to WFAF! - Waiting for a Friend!
 𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-whats your name and tag\n
 âShadow∆â(22975867) :-With that number thing\n
 âShadow∆â(22975867) :-Lemme see those old messages. Brb\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-do you at least have your id\n
+𝓣𝓮𝓵𝓮𝓽𝓪𝓫𝓲𝓼(19255802) :-e\n
