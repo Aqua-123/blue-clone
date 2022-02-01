@@ -1052,3 +1052,5 @@ Lumi (16008266) :- Hello, S\u200bo\u200bu\u200bL! Welcome to WFAF! - Waiting for
 Lumi (16008266) :- The earth shalt tremr at which hour the sphere rolls to the did grind
 S​o​u​L (20327398) :- i wouldve just reinstalled it
 Gashing Sphere (22975867) :- Eh its fun to fight\n
+S​o​u​L (20327398) :- is the server lagging?
+Gashing Sphere (22975867) :- Yup\n
