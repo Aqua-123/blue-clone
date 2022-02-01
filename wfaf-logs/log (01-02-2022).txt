@@ -1013,3 +1013,4 @@ Gashing Sphere (22975867) :- Not in Chrome Extension
 Ruby (20777989) :- So how’s it used then
 Ruby (20777989) :- Or installed, rather
 Gashing Sphere (22975867) :- Its basically a Userscripts
+Gashing Sphere (22975867) :- So u need something like Tampermonkey to install\n
