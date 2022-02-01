@@ -999,3 +999,8 @@ Gashing Sphere (22975867) :- See?
 Ruby (20777989) :- So am I allowed to ask what RxE is now
 S​o​u​L (20327398) :- afk
 Gashing Sphere (22975867) :- RxE is an Extension for this place\n
+Gashing Sphere (22975867) :- Gives u themes and a few other stuff\n
+Ruby (20777989) :- And it does..?
+Ruby (20777989) :- Neat
+Ruby (20777989) :- Chrome extension I assume
+S​o​u​L (20327398) :- yk sometimes the gc crashes?
