@@ -1010,3 +1010,6 @@ Gashing Sphere (22975867) :- And\n
 Gashing Sphere (22975867) :- No\n
 S​o​u​L (20327398) :- rxe takes care of it and lets u use gc
 Gashing Sphere (22975867) :- Not in Chrome Extension
+Ruby (20777989) :- So how’s it used then
+Ruby (20777989) :- Or installed, rather
+Gashing Sphere (22975867) :- Its basically a Userscripts
