@@ -1314,3 +1314,8 @@ Lumi (16008266) :- Ive been here for 12 hours and 0 minutes
 🤖 Mecha Nurse 💉 (20909261) :- Ive been here for 1 day, 16 hours, 53 minutes.
 Eva (21541886) :- Ive been here for 3 hour(s) 49 minute(s) and 44 seconds.
 Aqua (16986137) :- blue get details of 1
+Aqua (16986137) :- blue get details of 5
+Blue (21550262) :- The account with ID 1 has the name EVE-E  (#evee) with karma 2106 and gender set to Not Specified and was created on 2016-07-17 at 11:06:00.125Z
+Blue (21550262) :-
+Aqua (16986137) :- eme dying
+δροοκγγ (20199174) :- i know
