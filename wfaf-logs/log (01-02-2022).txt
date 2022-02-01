@@ -1410,3 +1410,4 @@ Lumi (16008266) :- Hello, Mercury Pyramid! Welcome to WFAF! - Waiting for a Frie
 Mercury Pyramid (23452493) :- hey where you go
 Mercury Pyramid (23452493) :- come back
 Lumi (16008266) :- Hello, Lavender Hippopotamus! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~
+Lumi (16008266) :- Hi, Lavender Hippopotamus! Im afraid they arent your friend yet, you can always try again!
