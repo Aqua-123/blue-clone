@@ -240,3 +240,8 @@ Smothering Dog (23448326) :- Hi Blue
 Smothering Dog (23448326) :- Blue
 Smothering Dog (23448326) :- Blue hi
 Lumi (16008266) :- Hi, Smothering Dog! Im afraid they arent your friend yet, you can always try again!
+Smothering Dog (23448326) :- Lumi whos here
+Lumi (16008266) :- I can see Smothering Dog, Lumi and 2 lurkers
+Smothering Dog (23448326) :- Lumi whos lurking
+Lumi (16008266) :- I see WHERE ARE YOU LINNNNNN, Blue lurking in the shadows...
+Smothering Dog (23448326) :- Hey blue
