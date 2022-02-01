@@ -1167,3 +1167,6 @@ Eva (21541886) :- These are the people here :Eva\u202d, \u202dTinyCath ~\u202d, 
 S​o​u​L (20327398) :- $ find id of TinyCath
 Eva (21541886) :- Id found :TinyCath ~ : 19259507
 S​o​u​L (20327398) :- $ reload custom greets
+Eva (21541886) :- Custom greets reloaded successfully
+S​o​u​L (20327398) :- $ idle
+Eva (21541886) :- I think these people are idle: TinyCath ~\u202d, \u202d🤖 Mecha Nurse 💉\u202d, \u202d𝒷𝓊𝒷𝒷𝓁𝑒𝓈
