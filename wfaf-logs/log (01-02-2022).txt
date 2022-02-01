@@ -1455,3 +1455,9 @@ Spookyy (20199174) :- blue get id of Aqua
 Blue (21550262) :- ID of Aqua is 16986137
 Spookyy (20199174) :- blue get details of 10240183
 Blue (21550262) :-
+Spookyy (20199174) :- -_-
+Aqua (16986137) :- blue get details of 10240183
+Blue (21550262) :- The account with ID 10240183 has the name Sentencing Wookiee (#ud4622eb45d371040) with karma 0 and gender set to m and was created on 2020-02-15 at 04:59:52.513Z
+Aqua (16986137) :- huh
+Eva (21541886) :- ᗜ_ᗜ
+Aqua (16986137) :- atua try
