@@ -1323,3 +1323,10 @@ Lumi (16008266) :- Hello, Sniffing Tentacool! Welcome to WFAF! - Waiting for a F
 Sniffing Tentacool (23452298) :- hi
 Eva (21541886) :- hello
 Sniffing Tentacool (23452298) :- how are you?
+Sniffing Tentacool (23452298) :- m or f?
+Sniffing Tentacool (23452298) :- \n
+Sniffing Tentacool (23452298) :- \n
+Sniffing Tentacool (23452298) :- \n
+Sniffing Tentacool (23452298) :- \n
+Sniffing Tentacool (23452298) :- \n
+Sniffing Tentacool (23452298) :- \n
