@@ -1306,3 +1306,11 @@ Lumi (16008266) :- I can see Lumi, Eva, δροοκγγ and 4 lurkers
 Lumi (16008266) :- I see Lilli, Blue, S\u200bo\u200bu\u200bL lurking in the shadows...
 δροοκγγ (20199174) :- lumi whos idle
 Lumi (16008266) :- The river of life bubbles when Aqua comes near~
+Aqua (16986137) :- lumi uptime
+Lumi (16008266) :- Ive been here for 12 hours and 0 minutes
+Aqua (16986137) :- !uptime
+Blue (21550262) :- Ive been here for 1 hours and 24 minutes
+Lumi (16008266) :- Ive been here for 12 hours and 0 minutes
+🤖 Mecha Nurse 💉 (20909261) :- Ive been here for 1 day, 16 hours, 53 minutes.
+Eva (21541886) :- Ive been here for 3 hour(s) 49 minute(s) and 44 seconds.
+Aqua (16986137) :- blue get details of 1
