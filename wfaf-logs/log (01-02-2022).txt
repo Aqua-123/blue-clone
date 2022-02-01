@@ -973,3 +973,6 @@ Gashing Sphere (22975867) :- Do what\n
 Gashing Sphere (22975867) :- Cook food?
 S​o​u​L (20327398) :- install rxe?
 Gashing Sphere (22975867) :- Oh\n
+Ruby (20777989) :- That’s for you to determine
+Ruby (20777989) :- Lumi whos here
+Lumi (16008266) :- I can see Gashing Sphere, Ruby, Lumi, S\u200bo\u200bu\u200bL and 4 lurkers
