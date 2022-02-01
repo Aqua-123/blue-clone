@@ -1250,3 +1250,4 @@ Lumi (16008266) :- Hello, Waylaying Gyarados! Welcome to WFAF! - Waiting for a F
 Lumi (16008266) :- Hi, Waylaying Gyarados! Im afraid they arent your friend yet, you can always try again!
 Waylaying Gyarados (23452000) :- hi
 Eva (21541886) :- hello
+Waylaying Gyarados (23452000) :- wonna play?
