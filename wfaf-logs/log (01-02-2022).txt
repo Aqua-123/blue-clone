@@ -1451,3 +1451,7 @@ Aqua (16986137) :- blue get details of 11427049
 Blue (21550262) :- The account with ID 11427049 has the name Harenoir (#forensicwaifu) with karma 118020 and gender set to uwu and was created on 2020-05-03 at 05:58:59.674Z
 Aqua (16986137) :- this man
 Aqua (16986137) :- ffs
+Spookyy (20199174) :- blue get id of Aqua
+Blue (21550262) :- ID of Aqua is 16986137
+Spookyy (20199174) :- blue get details of 10240183
+Blue (21550262) :-
