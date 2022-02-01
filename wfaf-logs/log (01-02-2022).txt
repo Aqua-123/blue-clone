@@ -1438,3 +1438,4 @@ Spookyy (20199174) :- Nurse seen blue
 🤖 Mecha Nurse 💉 (20909261) :- I last saw Blue (#blue3748) 884869 in WFAF 65 days, 15 hours, 52 minutes ago.
 Spookyy (20199174) :- Nurse seen Crime
 🤖 Mecha Nurse 💉 (20909261) :- I dont remember seeing Crime around.
+Aqua (16986137) :- !uptime
