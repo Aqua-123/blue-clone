@@ -1349,3 +1349,6 @@ Lumi (16008266) :- Hello, s a l m o n ! Welcome to WFAF! - Waiting for a Friend!
 s a l m o n  (23403065) :- hey lumi
 Lumi (16008266) :- Hi, s a l m o n ! Im afraid they arent your friend yet, you can always try again!
 Lumi (16008266) :- Hi again, s a l m o n , dont feel bad, theyll accept one day... hopefully!
+Blue (21550262) :- Hi, its Blue ^-^
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Disabling greets uwu
