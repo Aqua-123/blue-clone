@@ -1461,3 +1461,10 @@ Blue (21550262) :- The account with ID 10240183 has the name Sentencing Wookiee 
 Aqua (16986137) :- huh
 Eva (21541886) :- ᗜ_ᗜ
 Aqua (16986137) :- atua try
+Spookyy (20199174) :- blue get details of 10240183
+Aqua (16986137) :- oh wait you arent an admin
+Aqua (16986137) :- thats why
+Aqua (16986137) :- yeap
+Spookyy (20199174) :- :(
+Blue (21550262) :-
+Aqua (16986137) :- idk why she is responding with a blank tho
