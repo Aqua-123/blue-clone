@@ -1058,3 +1058,5 @@ Gashing Sphere (22975867) :- Wait\n
 Gashing Sphere (22975867) :- No\n
 S​o​u​L (20327398) :- mine disconnected for a sec
 Gashing Sphere (22975867) :- I am lagging
+Gashing Sphere (22975867) :- I got dum internet
+S​o​u​L (20327398) :- we on the same internet then lel
