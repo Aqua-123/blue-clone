@@ -1,19 +1,20 @@
 import datetime
 import re
-import time
+#import time
 from datetime import date, datetime
+from spwd import getspnam
 
-from github import Github
+#from github import Github
 
 main_cookie = "user_id=MjE1NTAyNjI%3D--53715d8c0d5a37453895fbf751e8bc4f9056f2fe"
 #Getting info from github shiz 
-user = "Aqua-123"
-passw = "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"
-g = Github(passw)
-repo = g.get_user().get_repo("blue-clone")
-coins_contents = repo.get_contents("coins.txt")
-muted_contents = repo.get_contents("muted.txt")
-mute_list = muted_contents.decoded_content.decode().strip().split(",")
+#user = "Aqua-123"
+#passw = "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"
+#g = Github(passw)
+#repo = g.get_user().get_repo("blue-clone")
+#coins_contents = repo.get_contents("coins.txt")
+#muted_contents = repo.get_contents("muted.txt")
+#mute_list = muted_contents.decoded_content.decode().strip().split(",")
 
 # main connecting request json
 connect_json = {
@@ -21,37 +22,19 @@ connect_json = {
   "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":null}"
 }
   
+connect_json_blue = {"command":"subscribe","identifier":"{\"channel\":\"RoomChannel\",\"room_id\":\"blueyblue\"}"}
 threads = [] # List of threads 
 running = True  # Main while loop control variable
 response_kill = False  # Handles response enabling and disabling
 greet_status = True  # Handles enabling and disabling greetings
 connection = True  # Control checking of connection timeout
-admin = [
-  "18695559",
-  "16986137",
-  "16521287",  # Admin ids
-  "22466125",
-  "22716229",
-  "22783061",
-  "11427049",
-  "21550262",
-  "14267520"
-]
-
-mod = [
-  "14496406",
-  "21847694",
-  "20327398",  # Mod ids
-  "20909209",
-  "21964175"
-]
-
+alt_unverse_toggle = False
 forbiden_chars = [
   "\u202e",
   "'",     #Forbidden chars to be removed 
   '"',
   "’",
-  "'"
+  "'",
 ]
 
 bracs = [
@@ -59,15 +42,6 @@ bracs = [
   "}"
 ]
 
-fallback_check = [
-	"20909261",
-	"16008266"
-]
-
-greet_exempt = [
-	"20909261",
-	"20909232"
-]
 list_main = set()  # Main list
 list_main_dict = {} # Main list dictionary 
 idle_main = set()  # Idle list
@@ -78,45 +52,19 @@ whos_here_r = [] #whos here blank list
 stats = []  # Total people joined stats
 greet_timeout = {}  # Control number of greets and timeout
 timeout_control = {}  # Control dict for list switch timeout
+spam_timeout = {}  # Control dict for spam control
 banned = set() #banned list
 stalking_log = {} #the name suggests
 whohere_t = 0  # timestamp for whos here
 reset_clock = 0  # reset greet timeout
-starttime = time.time()  # Script start timestamp
+starttime = datetime.now()  # Script start timestamp
 t = datetime.now()  # Current date time
 today = date.today()
 greet_status = True
 aichatstate = False
+spam_check_toggle = True
 cookies = {"_prototype_app_session": "OHVTZXhlYmpOUStPbU1KNTFaVUVlM1c0cktnYnN1MWN4eFN1akxwMElZWjRiZVNSSGVOUWZwajJ1V1NFMytrbm9tL3NFTE9rQk9HZnJLWUJsNTlXM0JOWG9hZE9yZjNmamkyM29Pd0JqU01YZVlpWkd2WlhBR3hVZGJHbGRtRG5HemtvL29xZm9kVExlODJSKzNiV1YxcHV2TUY1c0RPQXRUbkluelhJbmdPekZXcWUzZzNldnFPK1ZjRkhMN0xLa3A2WDkxemtvaTlDemZmTkJvT0RlUzJhczBkYnJBR3dVbEQyTWtIN3l4TT0tLUxQeW9UcHZtdUJWbEVjQXMwRmYxUnc9PQ%3D%3D--83ddb608f55747654feca4873dff6895e55b263e"}
-# Custom greets
-custom_greet_id = {
-  "16986137": "The river of life bubbles when Aqua comes near~ ",
-  "21550262": "Hi, its Blue ^-^",
-  "21388579": "Sir This recruit tactically acquired the fig bars sir~",
-  "20835136": "Testing, testing, Wan, two, three! ",
-  "291734": "Here comes our favorite magical frog! 🐸 ~~.*~",
-  "14751444": "Hamtaro, the karmic wonder, has arrived ·ᴗ·",
-  "18695559": "Your friendly neighbourhood Saturn is here! *~~.",
-  "18274541": "A buzzy Bee enters the hive! 🐝 ~~.*~",
-  "18491422": "Shhhh... The one and only drama queen cat is here *meow* ",
-  "18560513": "SCP-1689 would make for a lot of ... Chipz. ~*",
-  "17248098": "The darker the night, the brighter the stars... ~*",
-  "20909209": "A dude? B dude? what dude? which dude? what is A? what is dude? who am i? what is wfaf..... x-x",
-  "19422865": "Twi, the cute pony is here ~*",
-  "17979714": "Your local simp (Bri) is here ~*",
-  "14648841": "こんにちはねこちゃん",
-  "17364255": "Coming hot out of the oven, it's 𝖕𝖎𝖊! 🥧 *~~.",
-  "21848509": "Megumin, the arch-wizard magically appears out of thin air 🧙",
-  "19259507": "Greetings cathy cath ~*",
-  "20073491": "Greetings, your highness *bows*",
-  "20909261": "Mecha nurse is here, everyone get ready for your shots 💉 💊 ",
-  "22466125": "Welcome lovely person <3",
-  "21842289": "As dusk appears, darkness takes over the sky... before the last trace of light is gone",
-  "11427049": "Personal pizzas all around! Harenoir has arisen from the void!",
-  "16008266": "The most radiant & shining greeter has arrived! <3",
-  "22975867":"The earth shalt trem'r at which hour the sphere rolls to the did grind ",
-  "20199174" : "Your personal babygirl has entered the chat :wink:"
-  }
+
 
 # Response list for im bored phrase
 im_bored_list = [
@@ -163,7 +111,7 @@ quote = re.compile(r"""blue (tell me a )?quote(\\n)*\s*$""", re.I)
 uwu = re.compile(r"""(uwu\s*)|(blue cultural reset(\\n)*\s*$)""", re.I)
 jok = re.compile(r"""blue (tell me a )?joke(\\n)*\s*$""", re.I)
 no = re.compile(r"""blue (no|enforce)(\\n)*\s*$""", re.I)
-eyes = re.compile(r"""o.o(\\n)*\s*$""", re.I)
+eyes = re.compile(r"""o.(\u200b)?o(\\n)*\s*$""")
 dni = re.compile(r"""blue (dni|do not interact)(\\n)*\s*$""", re.I)
 bored = re.compile(r"""(blue )?im bored(\\n)*\s*$""", re.I)
 dying = re.compile(r"""(blue )?im dying(\\n)*\s*$""", re.I)
@@ -186,15 +134,25 @@ mutereg = re.compile(r"""blue mute ([^""]+)(\\n)*\s*""", re.I)
 unmutereg = re.compile(r"""blue unmute [^""]+(\\n)*\s*""", re.I)
 enableai = re.compile(r"""blue enable chat-ai(\\n)*\s*""", re.I)
 disableai = re.compile(r"""blue disable chat-ai(\\n)*\s*""", re.I)
-refresh_data = re.compile(r"""blue reload data(\\n)*\s*""", re.I)
-refresh_messages =  re.compile(r"""blue reload message data(\\n)*\s*""", re.I)
-
+setgreet = re.compile(r"""blue set greet for ([0-9]+)\s*(:-)?\s*([^""]+)(\\n)*\s*""", re.I)
+getgreet = re.compile(r"""blue get greet of ([0-9]+)(\\n)*\s*""", re.I)
+removegreet = re.compile(r"""blue remove greet of ([0-9]+)(\\n)*\s*""", re.I)
 
 stalk = re.compile(r"""(blue start stalking )([0-9]+)(\\n)*\s*""", re.I)
 stop_stalk = re.compile(r"""(blue stop stalking )([0-9]+)(\\n)*\s*""", re.I)
 get_stalk = re.compile(r"""blue get stalklist(\\n)*\s*""", re.I)
 ban = re.compile(r"""blue ban ([0-9]+)(\\n)*\s*""", re.I)
+refresh_data = re.compile(r"""blue reload data(\\n)*\s*""", re.I)
+refresh_messages =  re.compile(r"""blue reload message data(\\n)*\s*""", re.I)
+seen_reg = re.compile(r"""blue seen ([^""]+)|([0-9]+)(\\n)*\s*""", re.I)
 
+addlandmine = re.compile(r"""blue add landmine ([^""]+)(\\n)*\s*""", re.I)
+removelandmine = re.compile(r"""blue remove landmine ([^""]+)(\\n)*\s*""", re.I)
+getlandmine = re.compile(r"""blue get landmine list(\\n)*\s*""", re.I)
+
+spamtoggle = re.compile(r"""blue spam toggle(\\n)*\s*""", re.I)
+getspamstatus = re.compile(r"""blue spam status(\\n)*\s*""", re.I)
+altuni = re.compile(r"""blue (alt|alternate) universe(\\n)*\s*""", re.I)
 ai = re.compile(r""">[^""]+(\\n)*\s*""", re.I)
 # Menu Items
 coffee = re.compile(r"""blue serve (coffee|1|caffee)(\\n)*\s*$""", re.I)
@@ -205,12 +163,16 @@ ppizza = re.compile(r"""blue serve (pineapple pizza|b)(\\n)*\s*$""", re.I)
 
 #feelings regex
 coins = re.compile(r"""blue add ([0-9]+)( [^""]+)? coins(\\n)*\s*""", re.I)
-hug = re.compile(r"""blue send hug(s)? to ([^""]+)(\\n)*\s*""", re.I)
+hug = re.compile(r"""blue (send )?hug(s)? (to )?([^""]+)(\\n)*\s*""", re.I)
 pat = re.compile(r"""blue send pats to ([^""]+)(\\n)*\s*""", re.I)
 loves = re.compile(r"""blue send love to ([^""]+)(\\n)*\s*""", re.I)
 bonk = re.compile(r"""blue bonk ([^""]+)(\\n)*\s*""", re.I)
 get_id = re.compile(r"""(blue )(fetch|get)( id of )([^""]+)(\\n)*\s*""", re.I)
 get_karma = re.compile(r"""blue (fetch|get) details of ([^""]+)(\\n)*\s*""", re.I)
+mod = re.compile(r"""blue (mod|demod) ([0-9]+)(\\n)*\s*""", re.I)
+
+save_message = re.compile(r"""blue save message for ([0-9]+)\s*(:-)?\s*([^""]+)(\\n)*\s*""", re.I)
+save_message_r = "Okay message saved for user %s" 
 # Mene replies
 coffee_r = "☕"
 milk_r = "🥛"
@@ -292,7 +254,8 @@ response_dict = {
   ppizza: pineapple_pizza_r,
   jok : jok_r,
   quote: jok_r,
-  eyes:eyes_r
+  eyes:eyes_r,
+  save_message: save_message_r,
 }
 
 #List containing vars of admin command matches
@@ -318,7 +281,18 @@ admin_commands = [
   get_stalk,
   enableai,
   disableai,
-  
+  mod,
+  refresh_data,
+  refresh_messages,
+  setgreet,
+  getgreet,
+  removegreet,
+  addlandmine,
+  removelandmine,
+  getlandmine,
+  altuni,
+  spamtoggle,
+  getspamstatus
 ]
 
 #Menu list with images
@@ -337,7 +311,8 @@ coinsandfeelings = [
   hug,
   bonk,
   get_id,
-  get_karma
+  get_karma,
+  seen_reg
 ]
 
 
@@ -368,21 +343,21 @@ cookiejar= [
   "vH6ZN8uWaQnzR1F4g-OqzQ,MjE5MzM4MzY%3D--4dc0f4f6312e47d9dfe1f0e191d3674aff55c6c2",
   "qxdqE3U53gkgBXYkpdCQmg,MjE5MzM4NDQ%3D--d9d8471a6d1ef4fde09021e9b09d12194e79c94e",
   "c2eszxaU-fUZl7ZirU2kpQ,MjE5MzM4NTQ%3D--48025eebe0849cb1927ae648d0b25c253473d81a",
-  "eKWJZKuBFUqK8OTFQPqB2Q,MjE5MzM4NjM%3D--1c685045691d613a650ebf375482268f731d43f7",
-  "XhLuDkaYH8kAm7R2KG8Pbg,MjE5MzM4NzI%3D--bd7765eb2c2cf9131b6f6a5e8b60fd8bc3afcc7c",
-  "ShVeHeP3DkGoKjhwFyqhuQ,MjE5MzM4ODI%3D--6702e861e5f6a92680add55a9a84160bd38a3dfa",
-  "X8LCHmlNnlcCMsatzf2k7A,MjE5MzM4OTk%3D--07539bb53cfd0a2b2b268e391b81f37d05b4e1f1",
-  "C0eQwOTd5WSJGMk1sHkaGA,MjE5MzM5MTA%3D--3bbdec9856cd24e9f21a9d11ccb95aeb457e1fad",
-  "Eu7ZpPJ3Tpr_PFAl9dPAZg,MjE5MzM5MjA%3D--6830d44ef2d66d4c97fb4a296856280fce2f0d86",
-  "a-JBW9TihxpIbQlkg6A7Aw,MjE5MzM5Mjg%3D--07472d182ba153be5179562b1907fc2c7a863bea",
-  "Kn7RX-nHCuOeNkWbrcUuxw,MjE5MzM5MzQ%3D--5964e91497f859b80bd604f9442525ac6b9ff52f",
-  "Q5xg8ySgcc8jC_NZIap-FQ,MjE5MzM5NDg%3D--3e9c6523d9e1d4bfb2ade428ac4081769c7405a9",
-  "HiV7ZBBCe5rWRKvZ-z_nsQ,MjE5MzM5NTg%3D--dce19aa5e45553c6eea57b8fec85236c916a719d",
-  "f7s1C2KU_KibOgbRholSRQ,MjE5MzM5NjU%3D--3d2cc01c0eae1761ca3a3bdbdba43359cdf3227a",
-  "R-msa0hvlVvI_YT4OPNs1A,MjE5MzM5NzA%3D--1108fad75234ed9811072f09d944c6ff2057fa4d",
-  "NSsmftg-q3bJtt_bqkMfmQ,MjE5MzM5ODM%3D--f5967bb49452e11bdec6c05020c7dcc0ae622a3d",
-  "bLYhibkpw5Ryi_uP94WO7w,MjE5MzQwMDQ%3D--15986d86145d4343082463cd90cc947cd1bece19",
-  "5MvA5aDeV73f8ple9U5IDQ,MjE5MzQwMTQ%3D--fdc25e39782a302b6953917e9b225fc6cf6c3b64"
+  #"eKWJZKuBFUqK8OTFQPqB2Q,MjE5MzM4NjM%3D--1c685045691d613a650ebf375482268f731d43f7",
+  #"XhLuDkaYH8kAm7R2KG8Pbg,MjE5MzM4NzI%3D--bd7765eb2c2cf9131b6f6a5e8b60fd8bc3afcc7c",
+  #"ShVeHeP3DkGoKjhwFyqhuQ,MjE5MzM4ODI%3D--6702e861e5f6a92680add55a9a84160bd38a3dfa",
+  #"X8LCHmlNnlcCMsatzf2k7A,MjE5MzM4OTk%3D--07539bb53cfd0a2b2b268e391b81f37d05b4e1f1",
+  #"C0eQwOTd5WSJGMk1sHkaGA,MjE5MzM5MTA%3D--3bbdec9856cd24e9f21a9d11ccb95aeb457e1fad"
+  #"Eu7ZpPJ3Tpr_PFAl9dPAZg,MjE5MzM5MjA%3D--6830d44ef2d66d4c97fb4a296856280fce2f0d86",
+  #"a-JBW9TihxpIbQlkg6A7Aw,MjE5MzM5Mjg%3D--07472d182ba153be5179562b1907fc2c7a863bea",
+  #"Kn7RX-nHCuOeNkWbrcUuxw,MjE5MzM5MzQ%3D--5964e91497f859b80bd604f9442525ac6b9ff52f",
+  #"Q5xg8ySgcc8jC_NZIap-FQ,MjE5MzM5NDg%3D--3e9c6523d9e1d4bfb2ade428ac4081769c7405a9",
+  #"HiV7ZBBCe5rWRKvZ-z_nsQ,MjE5MzM5NTg%3D--dce19aa5e45553c6eea57b8fec85236c916a719d",
+  #"f7s1C2KU_KibOgbRholSRQ,MjE5MzM5NjU%3D--3d2cc01c0eae1761ca3a3bdbdba43359cdf3227a",
+  #"R-msa0hvlVvI_YT4OPNs1A,MjE5MzM5NzA%3D--1108fad75234ed9811072f09d944c6ff2057fa4d",
+  #"NSsmftg-q3bJtt_bqkMfmQ,MjE5MzM5ODM%3D--f5967bb49452e11bdec6c05020c7dcc0ae622a3d",
+  #"bLYhibkpw5Ryi_uP94WO7w,MjE5MzQwMDQ%3D--15986d86145d4343082463cd90cc947cd1bece19",
+  #"5MvA5aDeV73f8ple9U5IDQ,MjE5MzQwMTQ%3D--fdc25e39782a302b6953917e9b225fc6cf6c3b64"
 ]
 check1 = re.compile(r"""Welcome, [^""]+, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who you've sent a friend request to and they haven't accepted your request.\s*""")
 check2 = re.compile(r"""Hi, [^""]+, retrying won't help, you can try asking 'what is wfaf' for more info :D\s*""")
@@ -395,7 +370,7 @@ greet_check= [
   check2,
   check3,
   check4,
-  check5,
+  check5, 
   check6
 ]
 
@@ -472,7 +447,7 @@ chatlog_file = "chatlogs.txt"
 
 Greet_1 = "Hi, %s, retrying won't help, you can try asking 'what is wfaf' for more info :D"
 Greet_2 = "Hi again, %s, try asking 'what is wfaf' for more info :D "
-Greet_general = "Hi, %s, Welcome to WFAF, which stands for Waiting For A Friend, to which you were sent when you tried texting someone who hasn't accepted/declined your friend request, Enjoy your stay :D "
+Greet_general = "Hi, %s, welcome to Waiting For A Friend. You're here because you tried texting someone who's not your friend yet, enjoy your stay :D"
 
 whos_here_response_no_lurkers = "I can see %s and no lurkers at the moment ~*"
 whos_here_response_gen1 = "I can see %s and 1 person lurking ~*"
@@ -481,3 +456,23 @@ whos_here_response_gen2 = "I can see %s and %d peeps lurking ~*"
 whos_lurking_none = "I can see no lurkers as of now"
 whos_lurking_gen = "I can see %s lurking"
 id_response = "ID of %s is %s"
+
+already_mod = "Id %s is already a moderator"
+mod_response = "Id %s is now a moderator"
+
+demod_response = "Id %s is no longer a moderator"
+not_mod = "Id %s is not a moderator"
+
+greet_set = "Greet of %s set to %s"
+greet_updated = "Greet of %s updated to %s"
+greet_response = "Greet of %s is %s"
+greet_not_set = "Greet of %s is not set"
+greet_removed = "Greet of %s removed"
+
+landmine_added = "Landmine added for word %s"
+landmine_removed = "Landmine removed for word %s"
+landmine_already_added = "Landmine already exists for word %s"
+landmine_not_present = "Landmine not present for word %s"
+
+spam_check_on = "Spam check is now on"
+spam_check_off = "Spam check is now off"
