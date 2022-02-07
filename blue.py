@@ -9,7 +9,15 @@ from sys import argv, executable
 from threading import Thread
 from time import gmtime, perf_counter, sleep, strftime
 from timeit import default_timer as timer
-from tokenize import String
+from weakref import ref
+
+from imgurpython import ImgurClient
+from imgurpython.helpers.error import ImgurClientError,ImgurClientRateLimitError
+from simple_image_download import simple_image_download as simp
+
+response = simp.simple_image_download
+
+#from unidecode import unidecode
 
 import requests
 #import emojis
@@ -17,56 +25,69 @@ import websocket
 
 from var import *
 
-with open('data.json', 'r') as f:
-    data = json.load(f)
-with open('messages.json', 'r') as f:
-    saved_messages = json.load(f)
-with open('seen.json', 'r') as f:
-    seen_data = json.load(f)
+client_id = '887b16bbc4ae6a7'
+client_secret = '4c6b97527a8ede18e1b3e4d2b1b85b3fcf2fcb03'
+client = ImgurClient(client_id, client_secret)
 
+with open('data.json', 'r') as f:
+    data = json.loads(f.read())
+with open('messages.json', 'r') as f:
+    saved_messages = json.loads(f.read())
+with open('seen.json', 'r') as f:
+    seen_data = json.loads(f.read())
+with open('image_cache.json', 'r') as f:
+    image_cache = json.loads(f.read())
+
+
+#util
 def restart_program():
+    update_seen_json()
     """Restarts the current program.
     Note: this function does not return. Any cleanup action (like
     saving data) must be done before calling this function."""
-    python = executable
-    execl(python, python, *argv)
+    execl(executable, executable, *argv)
 
+#util
 def update_data_json():
     global data
     with open('data.json', 'w') as f:
         json.dump(data, f)
     with open('data.json', 'r') as f:
-        data = json.load(f)
+        data = json.loads(f.read())
 
+#util
 def refresh_data():
     global data
     with open('data.json', 'r') as f:
-        data = json.load(f)
+        data = json.loads(f.read())
 
+#util
 def refresh_messages():
     global saved_messages
     with open('messages.json', 'r') as f:
-        saved_messages= json.load(f)
+        saved_messages= json.loads(f.read())
 
+#util
 def refresh_seen():
     global seen_data
     with open('seen.json', 'r') as f:
-        seen_data = json.load(f)
+        seen_data = json.loads(f.read())
 
+#util
 def update_messages_json():
     global saved_messages
     with open('messages.json', 'w') as f:
         json.dump(saved_messages, f)
     with open('messages.json', 'r') as f:
-        saved_messages = json.load(f)
+        saved_messages = json.loads(f.read())
 
+#util
 def update_seen_json():
     global seen_data
     with open('seen.json', 'w') as f:
         json.dump(seen_data, f)
-    with open('seen.json', 'r') as f:
-        seen_data = json.load(f)
 
+#util
 def update_seen(name,id,username):
     time_stamp = strftime("%Y-%m-%d %H:%M:%S", gmtime())
     id = int(id) 
@@ -81,19 +102,34 @@ def update_seen(name,id,username):
         seen_data[id]["time"] = time_stamp
     update_seen_json()
 
+def update_image_cache():
+    global image_cache
+    with open('image_cache.json', 'w') as f:
+        json.dump(image_cache, f)
+
+def refresh_image_cache():
+    global image_cache
+    with open('image_cache.json', 'r') as f:
+        image_cache = json.loads(f.read())
+
+    
+#util
 def fix_name(name):
     for chars in forbiden_chars:
         name.replace(chars, '')
     return name
 
-def fix_message(messages):
+#util
+def fix_message(message):
     chars = ('"[]‘')
     for c in chars:
-        messages = messages.replace(c, "")
+        message = message.replace(c, "")
     for c in forbiden_chars:
-        messages = messages.replace(c, "")
-    return messages
+        message = message.replace(c, "")
+    message.replace(".", ".").replace(".",".​")
+    return message
 
+#connection
 def send_message(content):
     message = {
         "command": "message",
@@ -105,60 +141,72 @@ def send_message(content):
     else:
         ws.send(json.dumps(message))
 
+def send_seen(id):
+    r = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
+    name = seen_data[id]["name"]
+    date = seen_data[id]["time"].split(" ")[0]
+    month = date.split("-")[1]
+    day = date.split("-")[2]
+    deltatime = datetime.strptime(r, "%a, %d %b %Y %I:%M:%S %p %Z") - datetime.strptime(seen_data[id]["time"], "%Y-%m-%d %H:%M:%S")
+    if deltatime.days == 0:
+        send_message("%s was last seen today %s hours and %s mins ago in WFAF" % (name, deltatime.seconds//3600, deltatime.seconds//60%60))
+    elif deltatime.days == 1:
+        send_message("%s was last seen yesterday %s hours and %s mins ago in WFAF" % (name, deltatime.seconds//3600, deltatime.seconds//60%60))
+    else:
+        send_message("%s was last seen on %s %s %s hours and %s mins ago in WFAF" % (name, day, month, deltatime.seconds//3600, deltatime.seconds//60%60))
+
 def get_seen(result):
     string = result.group(1)
     if string.isnumeric():
         id = string
         if id in seen_data:
-            name = seen_data[id]["name"]
-            username = seen_data[id]["username"]
-            time = seen_data[id]["time"].split(" ")[1]
-            date = seen_data[id]["time"].split(" ")[0]
-            month = date.split("-")[1]
-            day = date.split("-")[2]
-            if month == strftime("%m", gmtime()):
-                if day == strftime("%d", gmtime()):
-                    send_message("Last seen %s today at %s (wrt gmt)" % (name, time))
-                else:
-                    send_message("Last seen %s on %s at %s (wrt gmt)" % (name, day, time))
-            else:
-                send_message("Last seen %s on %s at %s (wrt gmt)" % (name, date, time))
+            send_seen(id)
         else:
             send_message("I dont remember seeing user with ID %s" % str(id))
     else:
         string = string.replace("#", "")
-        seen = True
+        n = 0
+        possibles = {}
         for id in seen_data:
             name = seen_data[id]["name"]
             username = seen_data[id]["username"]
             regex1 = re.compile(r'%s' % fix_name(string), re.IGNORECASE)    
             if regex1.search(name) or regex1.search(username):
-                time = seen_data[id]["time"].split(" ")[1]
-                date = seen_data[id]["time"].split(" ")[0]
-                month = date.split("-")[1]
-                day = date.split("-")[2]
-                if month == strftime("%m", gmtime()):
-                    if day == strftime("%d", gmtime()):
-                        send_message("Last seen %s today at %s (wrt gmt)" % (name, time))
-                    else:
-                        send_message("Last seen %s on %s at %s (wrt gmt)" % (name, day, time))
+                possibles[id] = name
+            else: n += 1
+        for id in data["nickname"]:
+            for nickname in data["nickname"][id]:
+                regex2 = re.compile(string, re.IGNORECASE)
+                n+=1
+                if regex2.search(nickname):
+                    possibles[id] = nickname
                 else:
-                    send_message("Last seen %s on %s at %s (wrt gmt)" % (name, date, time))
-                seen = True
-                break
-            else:
-                seen = False
-        if seen is False:
-            send_message("I dont remember anyone with that name, tho I may have missed them :3")
+                    pass
+        total = len(seen_data) 
+        for id in data["nickname"]:
+            total+=len(data["nickname"][id])
+        if len(possibles) == 1:
+            send_seen(list(possibles.keys())[0])
+        elif n == total :
+            send_message("I dont remember seeing user with name %s" % string)
+        else:
+            send_message("I have seen the following users with the name %s :- %s. Specify the ID correspnding to their name and ask 'Blue seen ID'"% (string, fix_message(str(possibles)).replace("{", "").replace("}", "")))
 
 def greet_text(count, name):
-    if count == 1:
-        return Greet_1 % name
-    elif count == 2:
-        return Greet_2 % name
-    elif count == 3:
-        return Greet_general % name
-
+    if shorten_greet_toggle is False:
+        if count == 1:
+            return Greet_1 % name
+        elif count == 2:
+            return Greet_2 % name
+        elif count == 3:
+            return Greet_general % name
+    else:
+        if count == 1:
+            return Greet_1_short % name
+        elif count == 2:
+            return Greet_2_short % name
+        elif count == 3:
+            return Greet_general_short % name
 
 def send_greet(name):
     if name in greet_timeout:
@@ -216,6 +264,8 @@ def greet(action, result, greet):
         if greet_status is True and greet is True and id not in data["greet_exempt"]:
             if str(id) in data["custom_greet"]:
                 send_message(data["custom_greet"][id])
+            elif str(id) in data["knight"]:
+                send_message("Greetings %s ~*" % name)
             else:
                 send_greet(name)
         update_seen(name,id,username)
@@ -282,13 +332,20 @@ def reply_whos_idle():
 
 def saving_messages(name, result):
     global saved_messages
-    id = result.group(1)
-    if id in saved_messages:
-        saved_messages[id].append(name + ":- " + result.group(3))
+    String = result.group(1).rstrip()
+    if String.isnumeric():
+        id = String
     else:
-        saved_messages[id] = [name + ":- " + result.group(3)]
-    update_messages_json()
-    send_message(save_message_r%id)
+        id = return_id(String)
+    if id is not False:
+        if id in saved_messages:
+            saved_messages[id].append(name + ":- " + result.group(2))
+        else:
+            saved_messages[id] = [name + ":- " + result.group(2)]
+        update_messages_json()
+        send_message(save_message_r%String)
+    else:
+        send_message(not_seen % String)
 
 """def get_food_emoji(food):
     #food = result.group(1)
@@ -300,11 +357,15 @@ def saving_messages(name, result):
             print(emoji)
         except AttributeError:
             try:
+                emojilist = []
                 emoji = emojis.db.get_emojis_by_tag(food)
-                emoji = emoji.next().emoji
-                print(emoji)
-            except AttributeError:
+                for i in emoji:
+                    emojilist.append(i)
+                print(emojilist[0].emoji)
+            except AttributeError :
                 #send_message(food_not_found)
+                print("Food not found")
+            except IndexError:
                 print("Food not found")
     elif l > 1:
         result = ""
@@ -316,10 +377,15 @@ def saving_messages(name, result):
                 result += emoji
             except AttributeError:
                 try:
+                    emojilist = []
                     emoji = emojis.db.get_emojis_by_tag(i)
-                    emoji = emoji.next().emoji
-                    result += emoji
-                except AttributeError:
+                    for i in emoji:
+                        emojilist.append(i)
+                    result += emojilist[0].emoji
+                except AttributeError :
+                    allfound = False
+                    pass
+                except IndexError:
                     allfound = False
                     pass
         if allfound:
@@ -458,7 +524,7 @@ def stalker(id, time_now):
             text = logging_text % (str(time), name, karma, username, gender)
             file = open(filename,"a")
             file.write(text)      
-            file.close()      
+            file.close()
         elif r.status_code == 404 or r is None:
             send_message(stopping_logging % id)
             break
@@ -488,13 +554,12 @@ def respond_uptime():
         elif (int(sr[1])+0) == 1:
             send_message(here_for_one_min)
         else:
-            send_message(here_for_x_mins % str(sr[1]))
+            send_message(here_for_x_mins % str(int(sr[1])+0) )
     else:
-        send_message(here_for_hours_and_mins % (str(sr[0]), str(sr[1])))
+        send_message(here_for_hours_and_mins % (str(sr[0]), str(int(sr[1]) + 0)))
 
 
 def send_stats():
-
     sr = str(datetime.now() - starttime).split(":")
     r = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
     response = stats_response % (len(stats), len(stats_list),sr[0],sr[1],str(r))
@@ -612,6 +677,115 @@ def get_spam_check_status():
     else:
         send_message(spam_check_off)
 
+def return_id(string):
+    n = 0
+    for id in seen_data:
+        name = seen_data[id]["name"]
+        username = seen_data[id]["username"]
+        regex1 = re.compile(string, re.IGNORECASE)
+        n+=1
+        if regex1.search(name) or regex1.search(username):
+            return(id)
+            break
+        else: 
+            pass
+    if n == len(seen_data):
+        for id in data["nickname"]:
+            for nickanme in data["nickname"][id]:
+                regex2 = re.compile(string, re.IGNORECASE)
+                n+=1
+                if regex2.search(nickanme):
+                    return(id)
+                    break
+                else:
+                    pass
+    total = len(seen_data) 
+    for id in data["nickname"]:
+        total+=len(data["nickname"][id])
+    if n == total:
+        return(False)
+
+def make_knight(result):
+    name = result.group(1)
+    if name.isnumeric():
+        id = name
+        if id not in data["knight"]:
+            data["knight"].append(id)
+            update_data_json()
+            send_message(knight_added % name)
+        else:
+            send_message(knight_already_added % name)
+    else:
+        id = return_id(name)
+        if id is False:
+            send_message(not_seen % name)
+        else:
+            if id not in data["knight"]:
+                data["knight"].append(id)
+                update_data_json()
+                send_message(knight_added % name)
+            else:
+                send_message(knight_already_added % name)
+
+def remove_knight(result):
+    name = result.group(1)
+    if name.isnumeric():
+        id = name
+        if id in data["knight"]:
+            data["knight"].remove(id)
+            update_data_json()
+            send_message(knight_removed % name)
+        else:
+            send_message(knight_not_added % name)
+    else:
+        id = return_id(name)
+        if id is False:
+            send_message(not_seen % name)
+        else:
+            if id in data["knight"]:
+                data["knight"].remove(id)
+                update_data_json()
+                send_message(knight_removed % name)
+            else:
+                send_message(knight_not_added % name)
+
+def toggle_shortened_greet():
+    global shorten_greet_toggle
+    if shorten_greet_toggle is False:
+        shorten_greet_toggle = True
+        send_message(shortened_greet_on)
+    else:
+        shorten_greet_toggle = False
+        send_message(shortened_greet_off)
+
+def save_nickname(result):
+    name = result.group(1)
+    nickname = result.group(2)
+    if name.isnumeric():
+        id = name
+        if id not in data["nickname"]:
+            data["nickname"][id] = [nickname]
+            update_data_json()
+            send_message(nickname_added % (nickname, name))
+        else:
+            data["nickname"][id].append(nickname)
+            update_data_json()
+            send_message(nickname_updated % (nickname , name))
+    else:
+        id = return_id(name)
+        if id is False:
+            send_message(not_seen % name)
+        else:
+            if id not in data["nickname"]:
+                data["nickname"][id] = [nickname]
+                update_data_json()
+                send_message(nickname_added % (nickname, name))
+            else:
+                data["nickname"][id].append(nickname)
+                update_data_json()
+                send_message(nickname_updated % (nickname, name))
+
+
 def admin_function_init(i, id , isadmin, result):
     global greet_status, running, name, starttime, aichatstate,greet_timeout, data
     if i == 0:
@@ -701,7 +875,14 @@ def admin_function_init(i, id , isadmin, result):
         toggle_spam_check()
     elif i == 32 and isadmin:
         get_spam_check_status()
-    
+    elif i == 33 and isadmin:
+        make_knight(result)
+    elif i == 34 and isadmin:
+        remove_knight(result)
+    elif i == 35 and isadmin:
+        toggle_shortened_greet()
+    elif i == 36 and isadmin:
+        save_nickname(result)
 
 def admin_func(message, id , isadmin):
     for i in range(len(admin_commands)):
@@ -709,6 +890,52 @@ def admin_func(message, id , isadmin):
         if result:
             admin_function_init(i, id, isadmin, result) 
             
+def image_upload(query,urly):
+    global client
+    found = False
+    if query in image_cache:
+        return image_cache[query][1]
+    for i in image_cache:
+        if image_cache[i][0] == urly:
+            found = True
+            print(image_cache[i][1])
+            return image_cache[i][1]
+            break
+            
+    if found is False:
+        image = client.upload_from_url(urly)
+        link = image["link"].replace("https://","")
+        formattedlink = "Image: " + link
+        image_cache[query] = [urly,formattedlink]
+        update_image_cache()
+        refresh_image_cache()
+        return formattedlink
+
+def processing(query,url):
+    """if query in image_cache:
+        return image_upload(image_cache[query])
+    elif url in image_cache.values():
+        return image_upload(url)
+    else:
+        image_cache[query] = url
+        update_image_cache()
+        refresh_image_cache()"""
+    return image_upload(query,url)
+
+def get_image_link(query):
+    url =  response().urls(query, 6)
+    try:
+        return image_upload(query,url[-1])
+    except ImgurClientError:
+        send_message("Sorry I couldn't find %s" % query)
+        pass
+    except ImgurClientRateLimitError:
+        send_message("Sorry the rate limit of 50 pics per hour has been exceeded, please wait for a couple of mins before retrying")
+        pass
+def send_pic(query):
+    send_message(fix_message(get_image_link(query)))
+
+
 def coin_handling(result):
     global data
     num = result.group(1)
@@ -729,32 +956,11 @@ def coin_handling(result):
 
 def get_id(result):
     String = result.group(4) 
-    n = 0
-    for id in seen_data:
-        name = seen_data[id]["name"]
-        username = seen_data[id]["username"]
-        regex1 = re.compile(String, re.IGNORECASE)
-        n+=1
-        if regex1.search(name) or regex1.search(username):
-            send_message(id_response % (name, id))
-            break
-        else: 
-            pass
-            if n == len(seen_data):
-                send_message(not_seen % String)
-    """l = list(stats_list.values())
-    n = 0
-    for re_m in l:
-        reg = re.compile(r"" + re_m + "\\n*", re.I)
-        result = reg.search(name)
-        if result is not None:
-            response = id_response % (name, list(stats_list.keys())[l.index(re_m)])
-            break
-        else:
-            n += 1
-    if n == len(stats_list.values()):
-        response = not_seen % name 
-    send_message(response)"""
+    id = return_id(String)
+    if id is False:
+        send_message(not_seen % String)
+    else:
+        send_message(id_response % (String,id))
 
 """def get_id(result):
     name = result.group(4)
@@ -803,6 +1009,9 @@ def send_feelings(index, id, result):
         get_details(result)   
     elif index == 7:
         get_seen(result)
+    elif index == 8:
+        query = result.group(1)
+        Thread(target=send_pic, args=(query,)).start()
 
 def dis_en_greets(id):
     global greet_status
@@ -897,6 +1106,25 @@ def spam_checker():
             if id not in banned:
                 thread(id)
                 break
+
+'''def repeated_words_appender(id,message):
+    global repeated_msg
+    if id in repeated_msg:
+        repeated_msg[id].append(message)
+    else:
+        repeated_msg[id] = [message]
+
+def repetition_spam_control():
+    global repeated_msg
+    for id in repeated_msg:
+        if len(repeated_msg[id]) >= 3 and repeated_msg[id][-1] == repeated_msg[id][-3]:
+            warned.add(id)
+            send_message(repeated_message_warning % id )
+        elif len(repeated_msg[id]) >= 5 and repeated_msg[id][-1] == repeated_msg[id][-5]:
+            if id not in banned and id in warned:
+                thread(id)
+                break'''
+
 while True:
     try:
         websocket.enableTrace(False)
@@ -905,16 +1133,17 @@ while True:
         ws.send(json.dumps(connect_json))
         ws.send(json.dumps(connect_json_blue))
         while running is True:
+            update_seen_json()
             t_start = perf_counter() #start time
             reset_clock = reset_clock + 1 
             result = ws.recv() #receive message
             result = json.loads(result)
-            remove_blue()
+            remove_blue() 
             idle_function()
             clocking()
-            check_singing() 
+            check_singing()
             whos_here_r = whos_idle_r = []
-            whos_here_res = {
+            whos_here_res = { 
                 whos_here: whos_here_r,
                 whos_idle: whos_idle_r,
                 bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
@@ -945,6 +1174,7 @@ while True:
                         admin_func(message, id, True)
                     elif id in data["mod"]:
                         admin_func(message, id, False)
-    except:
+    except Exception as e:
+        print("Hello young boi an error occurred :- %s" %e)        
         sleep(5)
         pass
