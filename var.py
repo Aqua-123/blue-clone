@@ -1,29 +1,20 @@
 import datetime
 import re
-#import time
+import json
 from datetime import date, datetime
-from spwd import getspnam
+with open("config.json", "r") as f:
+  config = json.loads(f.read())
 
-#from github import Github
-
-main_cookie = "user_id=MjE1NTAyNjI%3D--53715d8c0d5a37453895fbf751e8bc4f9056f2fe"
-
-
-#Getting info from github shiz 
-#user = "Aqua-123"
-#passw = "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"
-#g = Github(passw)
-#repo = g.get_user().get_repo("blue-clone")
-#coins_contents = repo.get_contents("coins.txt")
-#muted_contents = repo.get_contents("muted.txt")
-#mute_list = muted_contents.decoded_content.decode().strip().split(",")
+main_cookie = "user_id=" + config["main_cookie"]
+client_id = config["imgur_client_id"]
+client_secret = config["imgur_client_secret"]
 
 # main connecting request json
 connect_json = {
   "command": "subscribe",  # Main connecting request json
   "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":null}"
 }
-  
+
 connect_json_blue= {"command":"subscribe","identifier":"{\"channel\":\"RoomChannel\",\"room_id\":\"blueyblue\"}"}
 threads = [] # List of threads 
 running = True  # Main while loop control variable
@@ -37,6 +28,7 @@ forbiden_chars = [
   "'",     #Forbidden chars to be removed 
   '"',
   "’",
+  "\u202e",
   "'",
 ]
 
@@ -47,7 +39,6 @@ bracs = [
 
 list_main = set()  # Main list
 list_main_dict = {} # Main list dictionary 
-idle_main = set()  # Idle list
 warned = set()  # Warned list
 idle_main_dict = {} # Idle list dictionary
 stats_list = {}  # Unique number of people joined stats
@@ -68,7 +59,7 @@ today = date.today()
 greet_status = True
 aichatstate = False
 spam_check_toggle = True
-cookies = {"_prototype_app_session": "OHVTZXhlYmpOUStPbU1KNTFaVUVlM1c0cktnYnN1MWN4eFN1akxwMElZWjRiZVNSSGVOUWZwajJ1V1NFMytrbm9tL3NFTE9rQk9HZnJLWUJsNTlXM0JOWG9hZE9yZjNmamkyM29Pd0JqU01YZVlpWkd2WlhBR3hVZGJHbGRtRG5HemtvL29xZm9kVExlODJSKzNiV1YxcHV2TUY1c0RPQXRUbkluelhJbmdPekZXcWUzZzNldnFPK1ZjRkhMN0xLa3A2WDkxemtvaTlDemZmTkJvT0RlUzJhczBkYnJBR3dVbEQyTWtIN3l4TT0tLUxQeW9UcHZtdUJWbEVjQXMwRmYxUnc9PQ%3D%3D--83ddb608f55747654feca4873dff6895e55b263e"}
+cookies = {"_prototype_app_session": config["prototype_cookie"]}
 
 
 # Response list for im bored phrase
@@ -135,7 +126,7 @@ ily = re.compile(r"""blue (ily)|(i love you)(\\n)*\s*""", re.I)
 love = re.compile(r"""blue gift love(\\n)*\s*$""", re.I)
 dice = re.compile(r"""blue roll a dice(\\n)*\s*$""", re.I)
 mutereg = re.compile(r"""blue mute ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
-unmutereg = re.compile(r"""blue unmute [a-z0-9\W ]+(\\n)*\s*""", re.I)
+unmutereg = re.compile(r"""blue unmute ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 enableai = re.compile(r"""blue enable chat-ai(\\n)*\s*""", re.I)
 disableai = re.compile(r"""blue disable chat-ai(\\n)*\s*""", re.I)
 setgreet = re.compile(r"""blue set greet for ([0-9]+)\s*(:-)?\s*([a-z0-9\W ]+)(\\n)*\s*""", re.I)
@@ -148,7 +139,7 @@ get_stalk = re.compile(r"""blue get stalklist(\\n)*\s*""", re.I)
 ban = re.compile(r"""blue ban ([0-9]+) for ([a-z ]+)(\\n)*\s*""", re.I)
 refresh_data = re.compile(r"""blue reload data(\\n)*\s*""", re.I)
 refresh_messages =  re.compile(r"""blue reload message data(\\n)*\s*""", re.I)
-seen_reg = re.compile(r"""blue seen ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+seen_reg = re.compile(r"""blue seen ([^""]+)(\\n)*\s*""", re.I)
 
 addlandmine = re.compile(r"""blue add landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 removelandmine = re.compile(r"""blue remove landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
@@ -162,8 +153,10 @@ makeknight = re.compile(r"""blue make ([a-z0-9\W ]+|me) a knight(\\n)*\s*""", re
 removeknight = re.compile(r"""blue remove ([a-z0-9\W ]+|me) from knighthood(\\n)*\s*""", re.I)
 toggleshortgreet = re.compile(r"""blue toggle short greets(\\n)*\s*""", re.I)
 
-savenickname = re.compile(r"""blue save nickname for ([a-z0-9\W ]+|[0-9]+) as ([a-z0-9\w ]+)(\\n)*\s*""", re.I)
+savenickname = re.compile(r"""blue save nickname for ([^""]+) as ([a-z0-9\w ]+)(\\n)*\s*""", re.I)
 ai = re.compile(r""">[a-z0-9\W ]+(\\n)*\s*""", re.I)
+
+consoleinput = re.compile(r""">([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 # Menu Items
 coffee = re.compile(r"""blue serve (coffee|1|caffee)(\\n)*\s*$""", re.I)
 milk = re.compile(r"""blue serve (milk|2)(\\n)*\s*$""", re.I)
@@ -186,8 +179,9 @@ help_greetings = re.compile(r"""blue help greetings(\\n)*\s*""", re.I)
 help_general = re.compile(r"""blue help general responses(\\n)*\s*""", re.I)
 help_sending = re.compile(r"""blue help sending (feelings|messages|feelings/messages)(\\n)*\s*""", re.I)
 help_admin = re.compile(r"""blue help admin commands(\\n)*\s*""", re.I)
-save_message = re.compile(r"""blue save message for ([a-z0-9 ]+) ?:?-? ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+save_message = re.compile(r"""blue save ?a? message for ([^""]+) :- ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 serve = re.compile(r"""blue serve ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+getmeme = re.compile(r"""blue meme(\\n)*\s*""", re.I)
 save_message_r = "Okay message saved for user %s" 
 # Mene replies
 coffee_r = "☕"
@@ -285,8 +279,6 @@ response_dict = {
   pats: pats_r,
   hugs2: hug_r,
   party: party_r,
-  #menu: menu_r,
-  #magic_menu: magic_menu_r,
   smile_rev: smile_rev_r,
   heart: heart_r,
   uwu: uwu_r,
@@ -296,11 +288,6 @@ response_dict = {
   dying: dying_r,
   love: love_r,
   low_five: low_five_r,
-  #coffee: coffee_r,
-  #milk: milk_r,
-  #water: water_r,
-  #cookiess: cookies_r,
-  #ppizza: pineapple_pizza_r,
   jok : jok_r,
   quote: jok_r,
   eyes:eyes_r,
@@ -312,6 +299,7 @@ help_general : help_general_response,
 help_sending : help_sending_feelings,
 help_admin : help_admin_commands,
 help_greetings : help_greetings_response"""
+
 #List containing vars of admin command matches
 admin_commands = [
   enable_greets,
@@ -371,7 +359,8 @@ coinsandfeelings = [
   get_id,
   get_karma,
   seen_reg,
-  serve
+  serve,
+  getmeme
 ]
 
 
@@ -401,29 +390,16 @@ cookiejar= [
   "7woyqOmFoEKjLuni2udZOg,MjE5MzM4Mjk%3D--342c28a1b657dd8fccc2781399070f7873a8f34f",
   "vH6ZN8uWaQnzR1F4g-OqzQ,MjE5MzM4MzY%3D--4dc0f4f6312e47d9dfe1f0e191d3674aff55c6c2",
   "qxdqE3U53gkgBXYkpdCQmg,MjE5MzM4NDQ%3D--d9d8471a6d1ef4fde09021e9b09d12194e79c94e",
-  "c2eszxaU-fUZl7ZirU2kpQ,MjE5MzM4NTQ%3D--48025eebe0849cb1927ae648d0b25c253473d81a",
-  #"eKWJZKuBFUqK8OTFQPqB2Q,MjE5MzM4NjM%3D--1c685045691d613a650ebf375482268f731d43f7",
-  #"XhLuDkaYH8kAm7R2KG8Pbg,MjE5MzM4NzI%3D--bd7765eb2c2cf9131b6f6a5e8b60fd8bc3afcc7c",
-  #"ShVeHeP3DkGoKjhwFyqhuQ,MjE5MzM4ODI%3D--6702e861e5f6a92680add55a9a84160bd38a3dfa",
-  #"X8LCHmlNnlcCMsatzf2k7A,MjE5MzM4OTk%3D--07539bb53cfd0a2b2b268e391b81f37d05b4e1f1",
-  #"C0eQwOTd5WSJGMk1sHkaGA,MjE5MzM5MTA%3D--3bbdec9856cd24e9f21a9d11ccb95aeb457e1fad"
-  #"Eu7ZpPJ3Tpr_PFAl9dPAZg,MjE5MzM5MjA%3D--6830d44ef2d66d4c97fb4a296856280fce2f0d86",
-  #"a-JBW9TihxpIbQlkg6A7Aw,MjE5MzM5Mjg%3D--07472d182ba153be5179562b1907fc2c7a863bea",
-  #"Kn7RX-nHCuOeNkWbrcUuxw,MjE5MzM5MzQ%3D--5964e91497f859b80bd604f9442525ac6b9ff52f",
-  #"Q5xg8ySgcc8jC_NZIap-FQ,MjE5MzM5NDg%3D--3e9c6523d9e1d4bfb2ade428ac4081769c7405a9",
-  #"HiV7ZBBCe5rWRKvZ-z_nsQ,MjE5MzM5NTg%3D--dce19aa5e45553c6eea57b8fec85236c916a719d",
-  #"f7s1C2KU_KibOgbRholSRQ,MjE5MzM5NjU%3D--3d2cc01c0eae1761ca3a3bdbdba43359cdf3227a",
-  #"R-msa0hvlVvI_YT4OPNs1A,MjE5MzM5NzA%3D--1108fad75234ed9811072f09d944c6ff2057fa4d",
-  #"NSsmftg-q3bJtt_bqkMfmQ,MjE5MzM5ODM%3D--f5967bb49452e11bdec6c05020c7dcc0ae622a3d",
-  #"bLYhibkpw5Ryi_uP94WO7w,MjE5MzQwMDQ%3D--15986d86145d4343082463cd90cc947cd1bece19",
-  #"5MvA5aDeV73f8ple9U5IDQ,MjE5MzQwMTQ%3D--fdc25e39782a302b6953917e9b225fc6cf6c3b64"
+  "c2eszxaU-fUZl7ZirU2kpQ,MjE5MzM4NTQ%3D--48025eebe0849cb1927ae648d0b25c253473d81a"
 ]
-check1 = re.compile(r"""Welcome, [a-z0-9\W ]+, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who you've sent a friend request to and they haven't accepted your request.\s*""")
-check2 = re.compile(r"""Hi, [a-z0-9\W ]+, retrying won't help, you can try asking 'what is wfaf' for more info :D\s*""")
-check3 = re.compile(r"""Hi again, [a-z0-9\W ]+, try asking 'what is wfaf' for more info :D\s*""")
-check4 = re.compile(r"""Hello, [a-z0-9\W ]+! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~\s*""")
-check5 = re.compile(r"""Hi, [a-z0-9\W ]+! I'm afraid they aren't your friend yet, you can always try again!\s*""")
-check6 = re.compile(r"""Hi again, [a-z0-9\W ]+, don't feel bad, they'll accept one day... hopefully!\s*""")
+
+check1 = re.compile(r"""Welcome, [^""]+, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who you've sent a friend request to and they haven't accepted your request.\s*""")
+check2 = re.compile(r"""Hi, [^""]+, retrying won't help, you can try asking 'what is wfaf' for more info :D\s*""")
+check3 = re.compile(r"""Hi again, [^""]+, try asking 'what is wfaf' for more info :D\s*""")
+check4 = re.compile(r"""Hello, [^""]+! Welcome to WFAF! - Waiting for a Friend! The place where your dreams used to come true~\s*""")
+check5 = re.compile(r"""Hi, [^""]+! I'm afraid they aren't your friend yet, you can always try again!\s*""")
+check6 = re.compile(r"""Hi again, [^""]+, don't feel bad, they'll accept one day... hopefully!\s*""")
+
 greet_check= [
   check1,
   check2,
