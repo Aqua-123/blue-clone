@@ -1,8 +1,8 @@
-from feelings import *
+from src.feelings import *
 from var import *
 from threading import Thread
-from last_seen import *
-from image_upload import *
+from src.last_seen import *
+from src.image_upload import *
 
 def send_feelings(index, id, result,console):
     global data

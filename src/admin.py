@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from timeit import default_timer as timer
 from threading import Thread
-from data_handing import *
+from src.data_handing import *
 
 def downvote(cookie, id):
     requests.get(karma_url % id, cookies=cookie)

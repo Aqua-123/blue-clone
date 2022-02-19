@@ -1,7 +1,7 @@
 from blue import image_cache, response 
 from imgurpython.helpers.error import (ImgurClientError,
                                        ImgurClientRateLimitError)
-from data_handing import *
+from src.data_handing import *
 import requests
 
 def image_upload(query,urly):

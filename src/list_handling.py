@@ -2,7 +2,7 @@ from var import *
 import requests
 import json
 from threading import Thread
-from utils import fix_message
+from src.utils import fix_message
 
 def list_removal(id):
     global list_main_dict, timeout_control, idle_main_dict

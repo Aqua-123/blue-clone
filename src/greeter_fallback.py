@@ -1,4 +1,4 @@
-from ws import send_message
+from src.ws import send_message
 from var import *
 
 def dis_en_greets(id):

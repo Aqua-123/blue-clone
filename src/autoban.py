@@ -1,5 +1,5 @@
 from blue import data 
-from admin import thread
+from src.admin import thread
 from time import perf_counter
 from var import *
 def landmine_checker(message,id):

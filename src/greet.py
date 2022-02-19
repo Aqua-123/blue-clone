@@ -1,9 +1,9 @@
 from var import *
-from ws import send_message
+from src.ws import send_message
 from time import perf_counter
-from data_handing import *
-from utils import fix_name
-from list_handling import list_removal
+from src.data_handing import *
+from src.utils import fix_name
+from src.list_handling import list_removal
 
 def greet_text(count, name):
     if shorten_greet_toggle is False:
@@ -36,7 +36,7 @@ def send_greet(name):
         greet_timeout[name] = "1"
 
 def greet(action, result, greet, b):
-    global data,saved_messages
+    global data,saved_messages, list_main_dict, idle_main_dict, timeout_control, stats_list
     if (action in b) and ("user" in b) and "display_name" in b["user"]:
         name = fix_name(b["user"]["display_name"])
         username = b["user"]["username"]

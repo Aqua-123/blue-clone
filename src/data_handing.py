@@ -1,8 +1,8 @@
 import json
 from time import gmtime, strftime, sleep
-from ws import send_message
+from src.ws import send_message
 from var import *
-from utils import fix_message, return_id
+from src.utils import fix_message, return_id
 
 def refresh_data():
     global data

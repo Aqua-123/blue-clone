@@ -2,12 +2,29 @@ import datetime
 import re
 import json
 from datetime import date, datetime
+from imgurpython import ImgurClient
+from simple_image_download import simple_image_download as simp
+import websocket
 with open("config.json", "r") as f:
   config = json.loads(f.read())
 
-main_cookie = "user_id=" + config["main_cookie"]
+main_cookie = config["main_cookie"]
 client_id = config["imgur_client_id"]
 client_secret = config["imgur_client_secret"]
+
+response = simp.simple_image_download
+
+client = ImgurClient(client_id, client_secret)
+
+with open('data.json', 'r') as f:
+    data = json.loads(f.read())
+with open('messages.json', 'r') as f:
+    saved_messages = json.loads(f.read())
+with open('seen.json', 'r') as f:
+    seen_data = json.loads(f.read())
+with open('image_cache.json', 'r') as f:
+    image_cache = json.loads(f.read())
+
 
 # main connecting request json
 connect_json = {
@@ -527,4 +544,3 @@ Greet_general_short = "Hi, %s, welcome to WFAF ~*"
 
 nickname_added = "Nickname %s added for %s"
 nickname_updated = "Nickname %s updated for %s"
-

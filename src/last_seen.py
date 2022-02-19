@@ -1,9 +1,9 @@
 
 from var import *
 from blue import seen_data, data
-from data_handing import refresh_seen
+from src.data_handing import refresh_seen
 from time import strftime, gmtime
-from utils import fix_message, fix_name
+from src.utils import fix_message, fix_name
 
 def send_seen(id):
     refresh_seen()

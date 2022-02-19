@@ -1,16 +1,15 @@
-from ws import *
-from list_handling import *
-from funzies import *
-from data_handing import *
+from src.ws import *
+from src.list_handling import *
+from src.funzies import *
+from src.data_handing import *
 
-def matching(name,dictname, message, console):
-    global whos_here_res
+def matching(name,dictname, message, console, dict):
     keys = list(dictname.keys())
     for i in range(len(keys)):
         re_m = keys[i]
         result = re_m.match(message)
         if result:
-            if dictname == whos_here_res:
+            if dict == True:
                 if re_m == whos_here:
                     response = reply_whos_here()
                 elif re_m == whos_idle:
@@ -21,7 +20,7 @@ def matching(name,dictname, message, console):
                     print("Console:-%s"%response)
                 else:
                     send_message(response)
-            elif dictname == response_dict:
+            elif dict == False:
                 if re_m == jok:
                     if console is True:
                         print("Console:- %s"%get_jokes())
@@ -39,5 +38,6 @@ def matching(name,dictname, message, console):
                     if console:
                         print("Console:- %s" %list(dictname.values())[i])
                     else:
+                        print(dictname.values())
                         send_message(list(dictname.values())[i])
             break

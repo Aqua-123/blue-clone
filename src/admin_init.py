@@ -1,9 +1,9 @@
-from admin import *
+from src.admin import *
 from var import *
-from utils import restart_program
+from src.utils import restart_program
 
 def admin_function_init(i, id , isadmin, result):
-    global greet_status, running, name, starttime, aichatstate,greet_timeout, data
+    global greet_status, running, name, starttime, aichatstate, greet_timeout, data
     if i == 0:
         greet_status = True 
         response = done
@@ -65,7 +65,7 @@ def admin_function_init(i, id , isadmin, result):
     elif i == 20:
         aichatstate = False
         response = done
-    elif i == 21 and id == "16986137":
+    elif i == 21 and id == "0":
         response = mod_demod(result)
     elif i == 22:
         refresh_data()
@@ -102,12 +102,13 @@ def admin_function_init(i, id , isadmin, result):
         response = save_nickname(result)
     if int(id) != 0:
         send_message(response)
-    else:
-        print("Admin Command: " + response)
+    else: 
+        if response:
+            print("Admin Command: " + response)
 
 def admin_func(message, id , isadmin):
+    global greet_status, running, name, starttime, aichatstate,greet_timeout, data
     for i in range(len(admin_commands)):
         result = admin_commands[i].match(message)
         if result:
             admin_function_init(i, id, isadmin, result) 
-            

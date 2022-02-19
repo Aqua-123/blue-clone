@@ -1,4 +1,4 @@
-from data_handing import *
+from src.data_handing import *
 from var import *
 from os import execl
 from sys import argv, executable

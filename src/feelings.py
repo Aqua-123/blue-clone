@@ -1,6 +1,6 @@
 from blue import image_cache
 from var import *
-from data_handing import *
+from src.data_handing import *
 import requests
 
 def image_upload(query,urly):

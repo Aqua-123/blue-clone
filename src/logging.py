@@ -1,6 +1,6 @@
 from pathlib import Path
 from var import *
-from utils import fix_message, fix_name
+from src.utils import fix_message, fix_name
 from time import strftime, gmtime, sleep
 def log_chats(message, user_id, user):
     date = datetime.today().strftime('%d-%m-%Y')
@@ -69,6 +69,7 @@ def thread_function():
             cl()
             while True:
                 result = ws.recv() #receive message
+                
                 result = json.loads(result)
                 if ("identifier" in result) and ("message" in result):
                     denty = result["identifier"]

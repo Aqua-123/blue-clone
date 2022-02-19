@@ -1,6 +1,6 @@
 from var import *
 import requests
-from ws import send_message
+from src.ws import send_message
 from time import sleep
 import json
 import random
