@@ -17,7 +17,7 @@ response = simp.simple_image_download
 client = ImgurClient(client_id, client_secret)
 
 with open('data.json', 'r') as f:
-    data = json.loads(f.read())
+    DATA = json.loads(f.read())
 with open('messages.json', 'r') as f:
     saved_messages = json.loads(f.read())
 with open('seen.json', 'r') as f:
@@ -38,8 +38,8 @@ running = True  # Main while loop control variable
 response_kill = False  # Handles response enabling and disabling
 greet_status = True  # Handles enabling and disabling greetings
 connection = True  # Control checking of connection timeout
-alt_unverse_toggle = False
-shorten_greet_toggle = False # Handles enabling and disabling shortened greetings
+ALT_UNIVERSE_TOGGLE = False
+SHORTEN_GREET_TOGGLE = False # Handles enabling and disabling shortened greetings
 forbiden_chars = [
   "\u202e",
   #"'",     #Forbidden chars to be removed 
@@ -55,29 +55,29 @@ bracs = [
 ]
 
 list_main = set()  # Main list
-list_main_dict = {} # Main list dictionary 
+MAIN_DICT = {} # Main list dictionary 
 warned = set()  # Warned list
-idle_main_dict = {} # Idle list dictionary
+IDLE_DICT = {} # Idle list dictionary
 stats_list = {}  # Unique number of people joined stats
 id_list = set() #ID list 
 whos_here_r = [] #whos here blank list
 stats = []  # Total people joined stats
-greet_timeout = {}  # Control number of greets and timeout
-timeout_control = {}  # Control dict for list switch timeout
+GREET_TIMEOUT = {}  # Control number of greets and timeout
+TIMEOUT_CONTROL = {}  # Control dict for list switch timeout
 spam_timeout = {}  # Control dict for spam control
 repeated_msg = {}  # Control dict for repeated messages
 banned = set() #banned list
 stalking_log = {} #the name suggests
 whohere_t = 0  # timestamp for whos here
-reset_clock = 0  # reset greet timeout
+RESET_CLOCK = 0  # reset greet timeout
 starttime = datetime.now()  # Script start timestamp
 t = datetime.now()  # Current date time
 today = date.today()
 greet_status = True
 aichatstate = False
-spam_check_toggle = True
+SPAM_CHECK_TOGGLE = True
 cookies = {"_prototype_app_session": config["prototype_cookie"]}
-
+IMAGE_CACHE = {}
 
 # Response list for im bored phrase
 im_bored_list = [
@@ -135,10 +135,10 @@ uptime1 = re.compile(r"""(blue uptime)|(!uptime)(\\n)*\s*$""", re.I)
 clear_memory = re.compile(r"""blue clear memory(\\n)*\s*$""", re.I)
 stats1 = re.compile(r"""(blue stats)|(blue tell me the stats)(\\n)*\s*$""", re.I)
 get_mute = re.compile(r"""(blue get mutelist)|(blue fetch mutelist)(\\n)*\s*$""", re.I)
-get_timeout_control = re.compile(r"""blue (get|fetch) timeout_control(\\n)*\s*$""", re.I)
+get_timeout_control = re.compile(r"""blue (get|fetch) TIMEOUT_CONTROL(\\n)*\s*$""", re.I)
 get_admin_list = re.compile(r"""blue (get|fetch) admin_list(\\n)*\s*$""", re.I)
 restart_s = re.compile(r"""((blue|blew) restart|reset)(\\n)*\s*$""", re.I)
-hide = re.compile(r"""blue help me hide(\\n)*\s*$""", re.I)
+hideregex = re.compile(r"""blue help me hide(\\n)*\s*$""", re.I)
 ily = re.compile(r"""blue (ily)|(i love you)(\\n)*\s*""", re.I)
 love = re.compile(r"""blue gift love(\\n)*\s*$""", re.I)
 dice = re.compile(r"""blue roll a dice(\\n)*\s*$""", re.I)
@@ -328,7 +328,7 @@ admin_commands = [
   get_mute,
   get_timeout_control,
   restart_s,
-  hide,
+  hideregex,
   ily,
   mutereg,
   unmutereg,
