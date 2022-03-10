@@ -1,10 +1,10 @@
+"""All static and dynamic variables used in the program."""
 import datetime
 import re
 import json
-from datetime import date, datetime
+from datetime import datetime
 from imgurpython import ImgurClient
 from simple_image_download import simple_image_download as simp
-import websocket
 with open("config.json", "r") as f:
   config = json.loads(f.read())
 
@@ -14,14 +14,14 @@ client_secret = config["imgur_client_secret"]
 
 response = simp.simple_image_download
 
-client = ImgurClient(client_id, client_secret)
+CLIENT = ImgurClient(client_id, client_secret)
 
 with open('data.json', 'r') as f:
     DATA = json.loads(f.read())
 with open('messages.json', 'r') as f:
-    saved_messages = json.loads(f.read())
+    SAVED_MESSAGES = json.loads(f.read())
 with open('seen.json', 'r') as f:
-    seen_data = json.loads(f.read())
+    SEEN_DATA = json.loads(f.read())
 with open('image_cache.json', 'r') as f:
     image_cache = json.loads(f.read())
 
@@ -32,12 +32,11 @@ connect_json = {
   "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":null}"
 }
 
-connect_json_blue= {"command":"subscribe","identifier":"{\"channel\":\"RoomChannel\",\"room_id\":\"blueyblue\"}"}
+connect_json_blue= {"command":"subscribe",
+  "identifier":"{\"channel\":\"RoomChannel\",\"room_id\":\"blueyblue\"}"}
 threads = [] # List of threads 
-running = True  # Main while loop control variable
-response_kill = False  # Handles response enabling and disabling
-greet_status = True  # Handles enabling and disabling greetings
-connection = True  # Control checking of connection timeout
+RUNNING = True  # Main while loop control variable
+GREET_STATUS = True  # Handles enabling and disabling greetings
 ALT_UNIVERSE_TOGGLE = False
 SHORTEN_GREET_TOGGLE = False # Handles enabling and disabling shortened greetings
 forbiden_chars = [
@@ -54,26 +53,18 @@ bracs = [
   "}"
 ]
 
-list_main = set()  # Main list
 MAIN_DICT = {} # Main list dictionary 
-warned = set()  # Warned list
 IDLE_DICT = {} # Idle list dictionary
-stats_list = {}  # Unique number of people joined stats
-id_list = set() #ID list 
-whos_here_r = [] #whos here blank list
+STATS_LIST = {}  # Unique number of people joined stats
 stats = []  # Total people joined stats
 GREET_TIMEOUT = {}  # Control number of greets and timeout
 TIMEOUT_CONTROL = {}  # Control dict for list switch timeout
-spam_timeout = {}  # Control dict for spam control
-repeated_msg = {}  # Control dict for repeated messages
+SPAM_TIMEOUT = {}  # Control dict for spam control
 banned = set() #banned list
-stalking_log = {} #the name suggests
-whohere_t = 0  # timestamp for whos here
+STALKING_LOG = {} #the name suggests
 RESET_CLOCK = 0  # reset greet timeout
-starttime = datetime.now()  # Script start timestamp
+STARTTIME = datetime.now()  # Script start timestamp
 t = datetime.now()  # Current date time
-today = date.today()
-greet_status = True
 aichatstate = False
 SPAM_CHECK_TOGGLE = True
 cookies = {"_prototype_app_session": config["prototype_cookie"]}
@@ -436,7 +427,7 @@ greet_check= [
   check2,
   check3,
   check4,
-  check5, 
+  check5,
   check6
 ]
 

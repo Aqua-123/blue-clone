@@ -1,3 +1,4 @@
+# pylint: disable-all
 from var import *
 from sys import argv, executable
 from os import execl
@@ -21,3 +22,7 @@ def restart_program():
     Note: this function does not return. Any cleanup action (like
     saving data) must be done before calling this function."""
     execl(executable, executable, *argv)
+
+def format_out_list(input_list):
+    return ", ".join(input_list)
+
