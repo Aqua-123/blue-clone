@@ -1,14 +1,12 @@
 {
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "python.linting.flake8Enabled": false,
-    "python.pythonPath": "/home/aqua/anaconda3/bin/python",
-    "python.linting.banditEnabled": false,
-    "files.watcherExclude": {
-        "**/.git/objects/**": true,
-        "**/node_modules/**": true,
-        "**/stalker-logs/**": true,
-        "**/__pycache__/**": true,
-        "**/wfaf-logs/**": true,
-    } 
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": false,
+  "python.pythonPath": "/home/aqua/anaconda3/bin/python",
+  "files.exclude": {
+    "**/.git/objects/**": true,
+    "**/node_modules/**": true,
+    "**/stalker-logs/**": true,
+    "**/__pycache__/**": true,
+    "**/wfaf-logs/**": true
+  }
 }

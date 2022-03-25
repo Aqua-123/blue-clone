@@ -30,6 +30,7 @@ starttime = t
 file = open(chatlog_file, "w")
 file.close()
 
+
 def reconnect():
     while connection:
         websocket.enableTrace(False)
@@ -46,6 +47,7 @@ def reconnect():
 def fix_name(name):
     for chars in forbiden_chars:
         return name.replace(chars, "")
+
 
 def send_message(content):
     """Function for sending messages
@@ -387,7 +389,7 @@ def stop_stalking(id):
         send_message(already_not_stalking % id)
 
 
-def admin_func_init(i, id, isadmin, result,admin_id):
+def admin_func_init(i, id, isadmin, result, admin_id):
     global greet_status, running, name, starttime, aichatstate
     if i == 0:
         greet_status = True
@@ -697,3 +699,72 @@ while running == True:
     except ValueError:
         send_message(unknown_error)
         restart_program()
+
+
+def send_seen(id_inp):
+    refresh_seen()
+    print(send_seen_db(id_inp))
+    current_time = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
+    name_inp = SEEN_DATA[id_inp]["name"]
+    username = SEEN_DATA[id_inp]["username"]
+    lastseen_list = {}
+    for key in SEEN_DATA[id_inp]["channel_name"]:
+        lastseen_list[SEEN_DATA[id_inp]["channel_name"][key]] = key
+    inputdate = max(lastseen_list)
+    channel_name = lastseen_list[inputdate]
+    if "WFAF" in SEEN_DATA[id_inp]["channel_name"]:
+        inputdate = SEEN_DATA[id_inp]["channel_name"]["WFAF"].split(" ")[0]
+        deltatime = datetime.strptime(current_time, "%a, %d %b %Y %I:%M:%S %p %Z") - datetime.strptime(
+            SEEN_DATA[id_inp]["channel_name"]["WFAF"], "%Y-%m-%d %H:%M:%S")
+        match deltatime.days:
+            case 0: date_string = "today"
+            case 1: date_string = "yesterday"
+            case _: date_string = "on " + inputdate.split("-")[1] + "/" + inputdate.split("-")[2]
+        if deltatime.seconds//3600 == 0:
+            if deltatime.seconds//60 % 60 == 0:
+                response_wfaf = "%s (#%s) was last seen %s a couple moments ago in WFAF" % (
+                    name_inp, username, date_string)
+            else:
+                response_wfaf = "%s (#%s) was last seen %s %s mins ago in WFAF" % (
+                    name_inp, username, date_string, deltatime.seconds//60 % 60)
+        else:
+            response_wfaf = "%s (#%s) was last seen %s %s hours and %s mins ago in WFAF" % (
+                name_inp, username, date_string, deltatime.seconds//3600, deltatime.seconds//60 % 60)
+        if channel_name == "WFAF":
+            return response_wfaf
+        # Code-block for when top find channel is not wfaf
+        date_channel = SEEN_DATA[id_inp]["channel_name"][channel_name].split(" ")[
+            0]
+        deltatime_channel = datetime.strptime(current_time, "%a, %d %b %Y %I:%M:%S %p %Z") - datetime.strptime(
+            SEEN_DATA[id_inp]["channel_name"][channel_name], "%Y-%m-%d %H:%M:%S")
+        match deltatime_channel.days:
+            case 0: date_string_channel = "today"
+            case 1: date_string_channel = "yesterday"
+            case _: date_string_channel = "on " + date_channel.split("-")[2] + " " + datetime.strptime(date_channel.split("-")[1], "%m").strftime("%b")
+        if deltatime_channel.seconds//3600 == 0:
+            if deltatime_channel.seconds//60 % 60 == 0:
+                response_channel = " but was more recently seen %s just now in %s" % (
+                    date_string_channel, channel_name)
+            else:
+                response_channel = " but was more recently seen %s %s mins ago in %s" % (
+                    date_string_channel, deltatime_channel.seconds//60 % 60, channel_name)
+        else:
+            response_channel = " but was more recently seen %s %s hours and %s mins ago in %s" % (
+                date_string_channel, deltatime_channel.seconds//3600, deltatime_channel.seconds//60 % 60, channel_name)
+        return response_wfaf + response_channel
+
+    # Code-block for when name_inp is not found in wfaf
+    deltatime = datetime.strptime(
+        current_time, "%a, %d %b %Y %I:%M:%S %p %Z") - datetime.strptime(inputdate, "%Y-%m-%d %H:%M:%S")
+    date_channel = SEEN_DATA[id_inp]["channel_name"][channel_name].split(" ")[
+        0]
+    secs = deltatime.seconds//60 % 60
+    match deltatime.days:
+        case 0: date_string = "today"
+        case 1: date_string = "yesterday"
+        case _: date_string = "on " + date_channel.split("-")[2] + " " + datetime.strptime(date_channel.split("-")[1], "%m").strftime("%b") + ","
+    broiler_response = "I dont remember seeing %s (#%s) in WFAF but they were last seen " % (
+        name_inp, username)
+    if deltatime.seconds//3600 == 0:
+        return broiler_response + "%s %s mins ago in %s" % (date_string, secs, channel_name)
+    return broiler_response + "%s %s hours and %s mins ago in %s" % (date_string, deltatime.seconds//3600, secs, channel_name)

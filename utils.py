@@ -26,3 +26,5 @@ def restart_program():
 def format_out_list(input_list):
     return ", ".join(input_list)
 
+def curly_replace(text):
+    return text.replace("{","").replace("}","")

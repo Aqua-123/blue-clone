@@ -1,0 +1,905 @@
+Lumi (16008266) :- Hello, Venus Pizza! Welcome to the place where your dreams used to come true!~
+Venus Pizza (23949011) :- Hey\n
+Gashing Sphere (22975867) :- Hi\n
+Venus Pizza (23949011) :- Why you left\n
+Gashing Sphere (22975867) :- Timepass
+Venus Pizza (23949011) :- I am scared for a minute\n
+Gashing Sphere (22975867) :- How sad\n
+Venus Pizza (23949011) :- Oops .​ Sorry if you felt that in a wrong way\n
+Venus Pizza (23949011) :- Sorry for asking that\n
+Gashing Sphere (22975867) :- Nah absolutely fine.​
+Venus Pizza (23949011) :- I thought you were not fine with that\n
+Gashing Sphere (22975867) :- Before, yes\n
+Venus Pizza (23949011) :- Then i felt oh god why did I do that\n
+Gashing Sphere (22975867) :- I even forgot what u asked\n
+Gashing Sphere (22975867) :- What did u ask again?
+Venus Pizza (23949011) :- Asked for any other thing\nWhere we can chat\n
+Gashing Sphere (22975867) :- Ah yea right.​
+Venus Pizza (23949011) :- Like snap\n
+Gashing Sphere (22975867) :- I don't have socials :x\n\n
+Venus Pizza (23949011) :- I don't believe that but it's fine\n
+Gashing Sphere (22975867) :- Heh\n
+Gashing Sphere (22975867) :- This is awkward
+Venus Pizza (23949011) :- I jus dont want to miss you\n
+Venus Pizza (23949011) :- I feel you are so interesting\n
+Venus Pizza (23949011) :- That's why I asked you
+Venus Pizza (23949011) :- Dont mind 
+Lumi (16008266) :- Hello, Saturn Icecream! Welcome to the place where your dreams used to come true!~
+Gashing Sphere (22975867) :- Interested in what?
+Venus Pizza (23949011) :- Talking
+Gashing Sphere (22975867) :- Oh.​ I speak to all hoomans\n
+Gashing Sphere (22975867) :- Don't i, Ribbit?
+Venus Pizza (23949011) :- You said we can share our pain right\n
+Venus Pizza (23949011) :- What do you have now\n
+Gashing Sphere (22975867) :- I could.​.​.​ But not so soon.​
+Venus Pizza (23949011) :- I saw some pain in those texts\n
+Gashing Sphere (22975867) :- Eh.​ I don't say my pain out to strangers\n
+Venus Pizza (23949011) :- Ok no problem
+Gashing Sphere (22975867) :- Hmm
+Gashing Sphere (22975867) :- Ribbit? U there.​
+Harenoir (11427049) :- ofc
+Venus Pizza (23949011) :- I don't know you.​ Maybe I can't see\n
+Venus Pizza (23949011) :- You\n
+Gashing Sphere (22975867) :- Perhaps u can't, my friend.​
+Venus Pizza (23949011) :- So you can share
+Venus Pizza (23949011) :- I will listen to you\n
+Lumi (16008266) :- Hello, \u200f\u200f\u200e \u200e! Welcome to the place where your dreams used to come true!~
+Gashing Sphere (22975867) :- Well.​.​.​ As of now.​ My only pain is I'm not getting my C++ code right.​
+Venus Pizza (23949011) :- If i can i will console you\n
+Gashing Sphere (22975867) :- Yea i need a console\n
+Venus Pizza (23949011) :- Oops\n
+Gashing Sphere (22975867) :- 0.​0
+Venus Pizza (23949011) :- Try learning In a different way\n
+Gashing Sphere (22975867) :- Trying.​
+Venus Pizza (23949011) :- Try to learn in a different perspective 
+Gashing Sphere (22975867) :- Even too help from some specialist.​
+Venus Pizza (23949011) :- Dont listen to your teachers\n
+Gashing Sphere (22975867) :- I.​.​.​ Never listened\n
+Venus Pizza (23949011) :- Learn with interest you will get it\n
+Gashing Sphere (22975867) :- Explains why i fail.​
+Gashing Sphere (22975867) :- I am interested.​ But i am getting nowhere
+Venus Pizza (23949011) :- Where you got struck\n
+Gashing Sphere (22975867) :- .​.​.​
+Venus Pizza (23949011) :- What\n
+Gashing Sphere (22975867) :- If it is struck, down my legs.​ If it is stuck, the ending of the code.​
+Venus Pizza (23949011) :- I will try to help\n
+Gashing Sphere (22975867) :- Sure :D\n
+Gashing Sphere (22975867) :- I'll copy paste the code.​
+Gashing Sphere (22975867) :- #include<iostream>\n#include<conio.​h>\n#include<cstdlib>\n#include<ctime>\n\nusing namespace std;\n\nint main(void)\n\n{\n    srand(time(0));\n    char name14;\n    int number, guess, guessestaken;\n    \n    number = (rand() % 20) + 1;\n    \n    for(guessestaken=0; guessestaken<5; guessestaken++)\n       \n       guessestaken = guessestaken +1;\n\n    cout<<Whats your name?<<endl;\n\n    cin>>name;\n    \n    cout<<Well, <<name<<, I am thinking of a number between 1 and 20.​<<endl;\n    \n    cout<<Take a guess.​<<endl;\n    \n    cin>>guess;\n    \n    for(guessestaken=0; guessestaken<5; guessestaken++)\n        \n       if\n           (guess>number)\n               {cout<<Go lower!<<endl;\n            cin>>guess;\n        }\n          else\n        \n       if\n           (guess<number)\n                {cout<<Go h
+Gashing Sphere (22975867) :- There.​
+Venus Pizza (23949011) :- I don't know the code in c++
+Gashing Sphere (22975867) :- .​.​.​
+Gashing Sphere (22975867) :- Then how can u help me, my friend?
+Venus Pizza (23949011) :- I know coding\n
+Gashing Sphere (22975867) :- Then help me with the logic, ig\n
+Gashing Sphere (22975867) :- Which language do u do?
+Venus Pizza (23949011) :- Java\n
+Gashing Sphere (22975867) :- Nice.​
+Venus Pizza (23949011) :- What you have to get\n
+Venus Pizza (23949011) :- What is the task\n
+Gashing Sphere (22975867) :- I just want to get the end output after 6 incorrect inputs\n
+‏‏‎ ‎ (14267520) :- 0.​0
+Gashing Sphere (22975867) :- Shhh\n
+‏‏‎ ‎ (14267520) :- i tried compiling and it worked fine
+‏‏‎ ‎ (14267520) :- atleast what i had sent
+Gashing Sphere (22975867) :- SHHHHHH\n
+‏‏‎ ‎ (14267520) :- oh 
+‏‏‎ ‎ (14267520) :- okie
+Gashing Sphere (22975867) :- SSSSHHHHHHHHH *becomes a snake*
+Harenoir (11427049) :- o.​o
+Blue (21550262) :- 0.​\u200b0
+Gashing Sphere (22975867) :- I'm sure he is understood by now.​
+Gashing Sphere (22975867) :- And, code compiled.​ But did u see the image i sent?
+‏‏‎ ‎ (14267520) :- nope
+‏‏‎ ‎ (14267520) :- i just came back 
+Gashing Sphere (22975867) :- I'll send it again.​
+Blue (21550262) :- sure
+Gashing Sphere (22975867) :- Image\U000e003c\U000e0047\U000e0041\U000e0045\U000e002b\U000e0036\U000e0045\U000e004d\U000e0039\U000e0057\U000e0035\U000e0052\U000e002e\U000e0040\U000e0060\U000e0060\U000e0034\U000e0044\U000e003d\U000e0035\U000e002e\U000e0023\U000e0039\U000e0034\U000e002c\U000e0050\U000e0060\U000e0060 Â· Can't see it? Get RxE 0.​11.​0+: github%2Ecom/Ritsu-Projects/Public-Releases/
+Gashing Sphere (22975867) :- Find the logical error.​
+Lumi (16008266) :- Hi, \u200f\u200f\u200e \u200e! I'm afraid they aren't your friend yet, you can always try again!
+‏‏‎ ‎ (14267520) :- firefox crashed 
+‏‏‎ ‎ (14267520) :- again please
+‏‏‎ ‎ (14267520) :- UnU
+Gashing Sphere (22975867) :- Oof.​
+Harenoir (11427049) :- oof
+Gashing Sphere (22975867) :- Image\U000e003c\U000e0047\U000e0041\U000e0045\U000e002b\U000e0036\U000e0045\U000e004d\U000e0039\U000e0057\U000e0035\U000e0052\U000e002e\U000e0040\U000e0060\U000e0060\U000e0030\U000e0035\U000e0049\U000e0058\U000e0031\U000e0047\U000e002d\U000e0028\U000e002c\U000e0020\U000e0060\U000e0060 Â· Can't see it? Get RxE 0.​11.​0+: github%2Ecom/Ritsu-Projects/Public-Releases/
+Gashing Sphere (22975867) :- There.​.​.​
+Gashing Sphere (22975867) :- NOT again.​
+Gashing Sphere (22975867) :- Wait\n
+‏‏‎ ‎ (14267520) :- eh it should the greater than and less than signs 
+Gashing Sphere (22975867) :- Oh shi-\n
+Gashing Sphere (22975867) :- Yo.​ If that guy checks the link, he can see my name\n
+Gashing Sphere (22975867) :- DOO SOMETHING
+‏‏‎ ‎ (14267520) :- no ones here
+‏‏‎ ‎ (14267520) :- i think
+Harenoir (11427049) :- what link
+Gashing Sphere (22975867) :- He left?
+Gashing Sphere (22975867) :- Lumi who's idle
+Lumi (16008266) :- I see Aubz, 🤖 Mecha Nurse 💉 lurking in the shadows.​.​.​
+Gashing Sphere (22975867) :- Lumi who's here
+Lumi (16008266) :- List of users currently here: Harenoir, \u200f\u200f\u200e \u200e, Lumi, Blue, Gashing Sphere and 2 lurkers
+Gashing Sphere (22975867) :- Oh he left\n
+Gashing Sphere (22975867) :- But.​.​
+Gashing Sphere (22975867) :- AUBZZZ\n
+Gashing Sphere (22975867) :- OH FRICK\n
+‏‏‎ ‎ (14267520) :- oof
+‏‏‎ ‎ (14267520) :- dont stress it 
+Harenoir (11427049) :- bad time for refreshing ig
+‏‏‎ ‎ (14267520) :- wait 
+‏‏‎ ‎ (14267520) :- image is 
+‏‏‎ ‎ (14267520) :- encoded 
+‏‏‎ ‎ (14267520) :- its not a link
+‏‏‎ ‎ (14267520) :- yeah
+‏‏‎ ‎ (14267520) :- its ivis chars 
+Gashing Sphere (22975867) :- Eh?
+‏‏‎ ‎ (14267520) :- they wont be able to decode it 
+‏‏‎ ‎ (14267520) :- i just checked in blue's logs
+Harenoir (11427049) :- oh.​.​.​ oh!
+Gashing Sphere (22975867) :- If i come with a temp and put the image, i see a clear link\n
+Harenoir (11427049) :- now i get it
+‏‏‎ ‎ (14267520) :- \\U000e003c\\U000e0047\\U000e0041\\U000e0045\\U000e002b\\U000e0036\\U000e0045\\U000e004d\\U000e0039\\U000e0057\\U000e0035\\U000e0052\\U000e002e\\U000e0040\\U000e0060\\U000e0060\\U000e0030\\U000e0035\\U000e0049\\U000e0058\\U000e0031\\U000e0047\\U000e002d\\U000e0028\\U000e002c\\U000e0020\\U000e0060\\U000e0060 
+‏‏‎ ‎ (14267520) :- something like that
+‏‏‎ ‎ (14267520) :- is what it looks like
+Gashing Sphere (22975867) :- Wow.​
+Gashing Sphere (22975867) :- Lemme try with a temp in here\n
+‏‏‎ ‎ (14267520) :- sure
+Lumi (16008266) :- Hello, Ivory Cube! Welcome to the place where your dreams used to come true!~
+Ivory Cube (23949215) :- Yea.​
+Ivory Cube (23949215) :- Lessgo
+‏‏‎ ‎ (14267520) :- 0-0
+Gashing Sphere (22975867) :- Image\U000e003c\U000e0047\U000e0041\U000e0045\U000e002b\U000e0036\U000e0045\U000e004d\U000e0039\U000e0057\U000e0035\U000e0052\U000e002e\U000e0040\U000e0060\U000e0060\U000e002e\U000e0026\U000e0045\U000e0033\U000e0032\U000e0034\U000e0039\U000e002e\U000e0031\U000e0030\U000e0060\U000e0060 Â· Can't see it? Get RxE 0.​11.​0+: github%2Ecom/Ritsu-Projects/Public-Releases/
+Ivory Cube (23949215) :- Huh\n
+Ivory Cube (23949215) :- Corrupt image or something?
+‏‏‎ ‎ (14267520) :- hm?
+‏‏‎ ‎ (14267520) :- nope
+‏‏‎ ‎ (14267520) :- fine just fine
+Gashing Sphere (22975867) :- There is.​.​.​ Nothing even for me\n
+Harenoir (11427049) :- i can see it too
+Gashing Sphere (22975867) :- It's like i put a blank message\n
+‏‏‎ ‎ (14267520) :- did you click on that dustbin icon
+‏‏‎ ‎ (14267520) :- that turns red 
+Gashing Sphere (22975867) :- Image\U000e003c\U000e0047\U000e0041\U000e0045\U000e002b\U000e0036\U000e0045\U000e004d\U000e0039\U000e0057\U000e0035\U000e0052\U000e002e\U000e0040\U000e0060\U000e0060\U000e003a\U000e0043\U000e002d\U000e002b\U000e003a\U000e0054\U000e005d\U000e0021\U000e003a\U000e0030\U000e0060\U000e0060
+Gashing Sphere (22975867) :- I see this one\n
+Gashing Sphere (22975867) :- Aqua.​
+Ivory Cube (23949215) :- And nope\n
+Ivory Cube (23949215) :- Great!
+‏‏‎ ‎ (14267520) :- 0-0
+Ivory Cube (23949215) :- Oh\n
+‏‏‎ ‎ (14267520) :- neat
+Ivory Cube (23949215) :- WAIT I REMEMBER
+‏‏‎ ‎ (14267520) :- 0.​0
+Ivory Cube (23949215) :- I TURNED ON HIDE FROM NON RXE USERS\n
+‏‏‎ ‎ (14267520) :- ah
+‏‏‎ ‎ (14267520) :- makes sense
+Gashing Sphere (22975867) :- Peace.​.​.​
+‏‏‎ ‎ (14267520) :- neat
+Gashing Sphere (22975867) :- Fr massive peace.​
+‏‏‎ ‎ (14267520) :- i can still decode whenever i want using logs 
+‏‏‎ ‎ (14267520) :- xd
+Gashing Sphere (22975867) :- It's not like I'll send private pics here\n
+‏‏‎ ‎ (14267520) :- ofc ofc ofc ofc
+Harenoir (11427049) :- right
+Gashing Sphere (22975867) :- Like photo of me eating noodles or something
+‏‏‎ ‎ (14267520) :- ofcofcofcofcofcofcofcofcofcofcofcofc
+Gashing Sphere (22975867) :- I read that as cof cof cof.​ Like u coughing
+‏‏‎ ‎ (14267520) :- yuH
+Gashing Sphere (22975867) :- .​.​.​
+Gashing Sphere (22975867) :- U alright?
+‏‏‎ ‎ (14267520) :- also yeah
+Gashing Sphere (22975867) :- Oki.​
+Gashing Sphere (22975867) :- Just asked.​
+Ivory Cube (23949215) :- So can I leaveee?
+‏‏‎ ‎ (14267520) :- yeah shoo
+Ivory Cube (23949215) :- Hmph.​ Good bye to no one here\n
+‏‏‎ ‎ (14267520) :- !uptime
+Lumi (16008266) :- I've been up for 14 hours and 11 minutes
+Blue (21550262) :- I've been here for 2 hours
+🤖 Mecha Nurse 💉 (20909261) :- I've been here for 13 days, 23 hours, 23 minutes.​
+‏‏‎ ‎ (14267520) :- yay no mins
+Gashing Sphere (22975867) :- Huh\n
+Gashing Sphere (22975867) :- Put seconds and milliseconds
+‏‏‎ ‎ (14267520) :- no-
+Harenoir (11427049) :- and also the current date
+Gashing Sphere (22975867) :- Put nanoseconds then\n
+‏‏‎ ‎ (14267520) :- blue stats
+Blue (21550262) :- 0 people have entered WFAF and 22 unique peple have joined in the past 2 hours and 27 minutes, and it is Wed, 23 Mar 2022 06:52:58 PM GMT in WFAF 
+‏‏‎ ‎ (14267520) :- thats your date
+‏‏‎ ‎ (14267520) :- im not fixing the 0 people
+‏‏‎ ‎ (14267520) :- no
+Harenoir (11427049) :- yeah but those are stats
+Harenoir (11427049) :- add another one for uptime
+‏‏‎ ‎ (14267520) :- uh
+‏‏‎ ‎ (14267520) :- why
+Gashing Sphere (22975867) :- Do it like for Linux\n
+Harenoir (11427049) :- ¯\\_(ツ)_/¯
+‏‏‎ ‎ (14267520) :- i dont even wanna open the code-
+Gashing Sphere (22975867) :- Blue date and date will be displayed\n
+‏‏‎ ‎ (14267520) :- huh
+Gashing Sphere (22975867) :- Heh\n
+‏‏‎ ‎ (14267520) :- teri you have the code 
+Harenoir (11427049) :- i actually tried that for thea once
+‏‏‎ ‎ (14267520) :- do it please uwuwuwu
+Harenoir (11427049) :- failed miserabily
+Harenoir (11427049) :- wait what-
+Gashing Sphere (22975867) :- Understandable
+‏‏‎ ‎ (14267520) :- UnU
+Gashing Sphere (22975867) :- Fr put the number guessing game.​
+‏‏‎ ‎ (14267520) :- oh yeah that i can 
+Harenoir (11427049) :- it'll take me several months just to figure out something you can do in minutes
+Gashing Sphere (22975867) :- And use the code I sent, if possible.​ I'd like to do a contribution UwU\n
+‏‏‎ ‎ (14267520) :- sure sureee
+Gashing Sphere (22975867) :- I take years.​ 
+Gashing Sphere (22975867) :- U take months\n
+Harenoir (11427049) :- damn
+‏‏‎ ‎ (14267520) :- ill do it when ill get the motivation 
+Gashing Sphere (22975867) :- Dotty takes minutes\n
+‏‏‎ ‎ (14267520) :- which could be 
+‏‏‎ ‎ (14267520) :- months 
+Gashing Sphere (22975867) :- Someone take hourssss\n
+Gashing Sphere (22975867) :- Nah.​ Once u get free, u will automatically do it\n
+Harenoir (11427049) :- lmao
+Gashing Sphere (22975867) :- Now i better sleep.​ I got classes tomorrow.​
+Gashing Sphere (22975867) :- But I'll stay for some more time.​
+Gashing Sphere (22975867) :- Kinda rare to have all of u here.​ 
+‏‏‎ ‎ (14267520) :- i was almost asleep 
+Harenoir (11427049) :- i should be sleeping rn
+‏‏‎ ‎ (14267520) :- then jaz texted 
+‏‏‎ ‎ (14267520) :- and yeah 
+‏‏‎ ‎ (14267520) :- now we are here
+Gashing Sphere (22975867) :- Ribbit.​ Sleep\n
+Harenoir (11427049) :- just waking up still
+Harenoir (11427049) :- also no
+Harenoir (11427049) :- it's almost 2 pm
+‏‏‎ ‎ (14267520) :- was more expecting the Nu smh
+Harenoir (11427049) :- sun still in the sky
+Gashing Sphere (22975867) :- Heh.​ I can try ordering tho.​
+‏‏‎ ‎ (14267520) :- but that works 
+Harenoir (11427049) :- lol.​.​.​.​
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Gashing Sphere (22975867) :- Mu dumb my head\n
+Gashing Sphere (22975867) :- Why what happened?
+‏‏‎ ‎ (14267520) :- idk she recieved a blank json from the server
+Gashing Sphere (22975867) :- .​.​.​
+Gashing Sphere (22975867) :- Sus\n
+Gashing Sphere (22975867) :- That's actually pretty sus\n
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+‏‏‎ ‎ (14267520) :- aubz 
+‏‏‎ ‎ (14267520) :- i dont like 
+‏‏‎ ‎ (14267520) :- random 
+‏‏‎ ‎ (14267520) :- frs
+‏‏‎ ‎ (14267520) :- shoo
+Gashing Sphere (22975867) :- I know Aubz\n
+Aubz (23949059) :- :(
+Gashing Sphere (22975867) :- Yea this guy\n
+Aubz (23949059) :- My pfp is an onion 
+Lumi (16008266) :- Hello, Neptune Circle! Welcome to the place where your dreams used to come true!~
+‏‏‎ ‎ (14267520) :- blue get id of aubz
+Lumi (16008266) :- Our favorite Blue greeter is here!
+‏‏‎ ‎ (14267520) :- meh 
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Gashing Sphere (22975867) :- Blue left\n
+Neptune Circle (23949333) :- hello
+Aubz (23949059) :- She*
+Gashing Sphere (22975867) :- Oh yea my bad\n
+Aubz (23949059) :- Np
+‏‏‎ ‎ (14267520) :- aubz in wfaf
+‏‏‎ ‎ (14267520) :- nah
+‏‏‎ ‎ (14267520) :- hell nah
+Harenoir (11427049) :- mhmm
+Gashing Sphere (22975867) :- .​.​.​
+Harenoir (11427049) :- even i have to agree
+Gashing Sphere (22975867) :- What did she do?
+Gashing Sphere (22975867) :- Ate your Chocolate?
+‏‏‎ ‎ (14267520) :- i know people of eme a bit too well
+Gashing Sphere (22975867) :- Seemingly
+Harenoir (11427049) :- good luck i don't
+‏‏‎ ‎ (14267520) :- thats not aubz 
+Gashing Sphere (22975867) :- Oh\n
+‏‏‎ ‎ (14267520) :- and guess who else has been using names of random eme users
+Harenoir (11427049) :- can someone do it already
+Aubz (23949059) :- Shut up aqua
+Aubz (23949059) :- :,(
+Gashing Sphere (22975867) :- Eww gene
+Aubz (23949059) :- ily all
+Aubz (23949059) :- <3
+Blue (21550262) :- <3
+‏‏‎ ‎ (14267520) :- sayonara
+Gashing Sphere (22975867) :- Left? Or banned?
+‏‏‎ ‎ (14267520) :- left on speculation 
+Gashing Sphere (22975867) :- .​.​.​?
+Gashing Sphere (22975867) :- Meh anyways
+Lumi (16008266) :- Hello, Hatching Fish Fingers! Welcome to the place where your dreams used to come true!~
+Gashing Sphere (22975867) :- Lumi who's here
+Lumi (16008266) :- List of users currently here: Harenoir, \u200f\u200f\u200e \u200e, Hatching Fish Fingers, Lumi, Blue, Gashing Sphere and 2 lurkers
+Gashing Sphere (22975867) :- Lumi who's idle
+Lumi (16008266) :- I see Neptune Circle, 🤖 Mecha Nurse 💉 lurking in the shadows.​.​.​
+‏‏‎ ‎ (14267520) :- blue get id of aubz
+Lumi (16008266) :- Our favorite Blue greeter is here!
+‏‏‎ ‎ (14267520) :- argh
+Gashing Sphere (22975867) :- Bulu\n
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+‏‏‎ ‎ (14267520) :- blue get id of aubz
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+‏‏‎ ‎ (14267520) :- blue get id of aubz
+Blue (21550262) :- ID of Aubz is 23949059
+‏‏‎ ‎ (14267520) :- that was quick 
+‏‏‎ ‎ (14267520) :- the response was slow but meh 
+‏‏‎ ‎ (14267520) :- she live fetched the name 
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+‏‏‎ ‎ (14267520) :- ooo 
+Blue (21550262) :- 0.​\u200b0
+‏‏‎ ‎ (14267520) :- very nice
+Gashing Sphere (22975867) :- Cowsay started working for me again
+‏‏‎ ‎ (14267520) :- aey
+Harenoir (11427049) :- really nice
+Gashing Sphere (22975867) :- Ye lol\n
+Gashing Sphere (22975867) :- Lemme try toilet now\n
+‏‏‎ ‎ (14267520) :- Public service announcement:- kindly report any bugs you come across specifically in the seen and get id type of command, thanks ^^ 
+Harenoir (11427049) :- sure thing
+‏‏‎ ‎ (14267520) :- i should go hit the sack i have my physics practical tomorrow
+‏‏‎ ‎ (14267520) :- gunayyt 
+Gashing Sphere (22975867) :- Oh\n
+Harenoir (11427049) :- mhmmm
+Harenoir (11427049) :- goodnight!
+Gashing Sphere (22975867) :- I have computer practical
+Gashing Sphere (22975867) :- Goodnight bud!
+Lumi (16008266) :- Greetings Strawberry🍓!! ^^
+Strawberry 🍓 ⟨RxE⟩ (16521287) :- ^^
+Lumi (16008266) :- Hi, Neptune Circle! I'm afraid they aren't your friend yet, you can always try again!
+Gashing Sphere (22975867) :- Hi\n
+Harenoir (11427049) :- hi
+Gashing Sphere (22975867) :- Hello\n
+Harenoir (11427049) :- hello
+Gashing Sphere (22975867) :- Yo\n
+Harenoir (11427049) :- hai
+Gashing Sphere (22975867) :- Hoi\n
+Gashing Sphere (22975867) :- Aha! I won\n
+Harenoir (11427049) :- don't you need to sleep too?
+Harenoir (11427049) :- (i like when roles are inverted)
+Gashing Sphere (22975867) :- .​.​.​
+Gashing Sphere (22975867) :- Nu\n
+Harenoir (11427049) :- right
+Gashing Sphere (22975867) :- Image\U000e003c\U000e0047\U000e0041\U000e0045\U000e002b\U000e0036\U000e0045\U000e004d\U000e0039\U000e0057\U000e0035\U000e0052\U000e002e\U000e0040\U000e0060\U000e0060\U000e0036\U000e0047\U000e002d\U000e0036\U000e0035\U000e0036\U000e0040\U000e0053\U000e0033\U000e0030\U000e0060\U000e0060
+Gashing Sphere (22975867) :- TOILET WORKS TOO\n
+Harenoir (11427049) :- very colorful
+Gashing Sphere (22975867) :- I MADE AQUA IN RAINBOW FILTER USING TOILET UWU\n
+Harenoir (11427049) :- uwu
+Blue (21550262) :- UwU
+Gashing Sphere (22975867) :- Next is Harenoir in Metal filter.​
+Harenoir (11427049) :- damn
+Gashing Sphere (22975867) :- Image\U000e003c\U000e0047\U000e0041\U000e0045\U000e002b\U000e0036\U000e0045\U000e004d\U000e0039\U000e0057\U000e0035\U000e0052\U000e002e\U000e0040\U000e0060\U000e0060\U000e0031\U000e0034\U000e002d\U000e0043\U000e0033\U000e0026\U000e0051\U000e0037\U000e0039\U000e0040\U000e0060\U000e0060
+Gashing Sphere (22975867) :- Yay\n
+Harenoir (11427049) :- huh
+Gashing Sphere (22975867) :- Heh\n
+Gashing Sphere (22975867) :- U want rainbow too\n?
+Harenoir (11427049) :- sometimes i wonder if i should switch to having a blue name
+Hatching Fish Fingers (23949354) :- Hi
+Harenoir (11427049) :- blue/cyan/whatever
+Hatching Fish Fingers (23949354) :- Blue is nice color!
+Harenoir (11427049) :- lumi ban 23949354
+Lumi (16008266) :- Banning 23949354
+Harenoir (11427049) :- shut up
+Gashing Sphere (22975867) :- Lmao\n
+Gashing Sphere (22975867) :- Blue will.​.​.​ Make u look.​.​.​ Like a good guy\n
+Harenoir (11427049) :- still
+Lumi (16008266) :- Hello, Uranus Shellder! Welcome to the place where your dreams used to come true!~
+Gashing Sphere (22975867) :- Now u are deadly
+Harenoir (11427049) :- yeah i know
+Gashing Sphere (22975867) :- There he is again
+Gashing Sphere (22975867) :- New temp\n
+Harenoir (11427049) :- hmm
+Gashing Sphere (22975867) :- *sigh*
+Harenoir (11427049) :- in any case
+Harenoir (11427049) :- i'm staying with red
+Harenoir (11427049) :- fits character
+Gashing Sphere (22975867) :- Lol sure\n
+Gashing Sphere (22975867) :- Lumi who's idle
+Lumi (16008266) :- I see Blue, 🤖 Mecha Nurse 💉 lurking in the shadows.​.​.​
+Gashing Sphere (22975867) :- Lumi who's here
+Lumi (16008266) :- List of users currently here: Harenoir, Uranus Shellder, Lumi, Gashing Sphere and 2 lurkers
+Gashing Sphere (22975867) :- Hmm my other temp left\n
+Harenoir (11427049) :- lumi get id of Uranus Shellder
+Lumi (16008266) :- The id of Uranus Shellder is 23949433
+Harenoir (11427049) :- lumi ban 23949433
+Lumi (16008266) :- Banning 23949433
+Gashing Sphere (22975867) :- All calm\n
+Harenoir (11427049) :- hm
+Gashing Sphere (22975867) :- Ig i will leave now.​
+Harenoir (11427049) :- y'all having to sleep while
+Lumi (16008266) :- Hello, Mr daddy! Welcome to the place where your dreams used to come true!~
+Harenoir (11427049) :- i have a whole day ahead
+Gashing Sphere (22975867) :- Yea.​.​.​.​
+Gashing Sphere (22975867) :- Well, me going then.​
+Harenoir (11427049) :- alright
+Lumi (16008266) :- Hi, Mr daddy! I'm afraid they aren't your friend yet, you can always try again!
+Gashing Sphere (22975867) :- Have a great day, Ribbit\n
+Gashing Sphere (22975867) :- Take care
+Harenoir (11427049) :- and you sleep well
+Gashing Sphere (22975867) :- Remind mr.​ Dot to put my code ONLY\n
+Harenoir (11427049) :- sure thing
+Gashing Sphere (22975867) :- For guessing game
+Mr daddy (23949462) :- Goodnight Gashing 
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Gashing Sphere (22975867) :- Who are you?
+Harenoir (11427049) :- lumi ban 23949462
+Lumi (16008266) :- Banning 23949462
+Harenoir (11427049) :- bye sphere
+Gashing Sphere (22975867) :- Heh\n
+Gashing Sphere (22975867) :- Thanks.​.​
+Gashing Sphere (22975867) :- Bubyeeee again
+Gashing Sphere (22975867) :- *poof*
+Harenoir (11427049) :- byebye
+Lumi (16008266) :- Hello, Surmising Pringle! Welcome to the place where your dreams used to come true!~
+Surmising Pringle (23949494) :- Anyways
+Surmising Pringle (23949494) :- how r u all doing?
+Surmising Pringle (23949494) :- Doing well?
+Harenoir (11427049) :- lumi ban 23949494
+Lumi (16008266) :- Banning 23949494
+Harenoir (11427049) :- !uptime
+Lumi (16008266) :- I've been up for 14 hours and 45 minutes
+Blue (21550262) :- I've been here for only 18 minutes
+🤖 Mecha Nurse 💉 (20909261) :- I've been here for 13 days, 23 hours, 56 minutes.​
+Harenoir (11427049) :- lumi who's here
+Lumi (16008266) :- List of users currently here: Harenoir, Lumi, 🤖 Mecha Nurse 💉, Blue
+Harenoir (11427049) :- lumi who's idle
+Lumi (16008266) :- He's always lurking.​
+Harenoir (11427049) :- blue who's idle
+Blue (21550262) :- I can see no lurkers as of now
+Harenoir (11427049) :- mecha who's idle
+🤖 Mecha Nurse 💉 (20909261) :- I don't see anybody idle.​
+Lumi (16008266) :- Hello, Alain! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Alain! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Decaying Arcanine! Welcome to the place where your dreams used to come true!~
+Decaying Arcanine (23949614) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Decaying Arcanine, Lumi and 3 lurkers
+Decaying Arcanine (23949614) :- lumi whos idle
+Lumi (16008266) :- I see Harenoir, 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+Decaying Arcanine (23949614) :- Hey teri
+Harenoir (11427049) :- lumi ban 23949614
+Lumi (16008266) :- Banning 23949614
+🤖 Mecha Nurse 💉 (20909261) :- Two possibilities exist:
+🤖 Mecha Nurse 💉 (20909261) :- either we are alone in the Universe or we are not.​
+🤖 Mecha Nurse 💉 (20909261) :- Both are equally terrifying.​
+Harenoir (11427049) :- istg mecha
+Harenoir (11427049) :- that's anticlimatic
+Lumi (16008266) :- Hello, Encroaching Cylinder! Welcome to the place where your dreams used to come true!~
+Encroaching Cylinder (23949708) :- why that harsh teri
+Encroaching Cylinder (23949708) :- I just said hi to u
+Harenoir (11427049) :- lumi ban 23949708
+Lumi (16008266) :- Banning 23949708
+Lumi (16008266) :- Hello, Violet Fearow! Welcome to the place where your dreams used to come true!~
+Violet Fearow (23949740) :- suck ur mum teri u fucking loser\nget a life instead of being here 24/7 & thinking ur some shit\nur literally a grown ass man
+Harenoir (11427049) :- lumi ban 23949740
+Lumi (16008266) :- Banning 23949740
+Lumi (16008266) :- Hello, Jupiter Articuno! Welcome to the place where your dreams used to come true!~
+Jupiter Articuno (23949754) :- tried to ban me again? lmfao.​ such a loser you are
+Jupiter Articuno (23949754) :- get a life
+Jupiter Articuno (23949754) :- fr
+Harenoir (11427049) :- lumi ban 23949754
+Lumi (16008266) :- Banning 23949754
+Lumi (16008266) :- Hello, Jupiter Venomoth! Welcome to the place where your dreams used to come true!~
+Jupiter Venomoth (23949767) :- go work hard & retire ur parents instead of wasting ur time here 24/7.​ I feel so bad for ur parents fr
+Harenoir (11427049) :- lumi ban 23949767
+Lumi (16008266) :- Banning 23949767
+Lumi (16008266) :- Hello, Befalling Diamond! Welcome to the place where your dreams used to come true!~
+Befalling Diamond (23949782) :- loserrrrrrrr
+Befalling Diamond (23949782) :- lmfaooo
+Harenoir (11427049) :- lumi ban 23949782
+Lumi (16008266) :- Banning 23949782
+Lumi (16008266) :- Your local simp (Bri) is here ~*
+Lumi (16008266) :- Hello, Ash <3! Welcome to the place where your dreams used to come true!~
+Ash <3 (23949800) :- wha-
+Ash <3 (23949800) :- whats this
+Lumi (16008266) :- Hi, Ash <3! I'm afraid they aren't your friend yet, you can always try again!
+Ash <3 (23949800) :- WTF
+Ash <3 (23949800) :- lumi who are you
+Harenoir (11427049) :- lumi ban 23949800
+Lumi (16008266) :- Banning 23949800
+Lumi (16008266) :- Hello, Sky Blue Raticate! Welcome to the place where your dreams used to come true!~
+Sky Blue Raticate (23949832) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, Sky Blue Raticate and 3 lurkers
+Sky Blue Raticate (23949832) :- Empty as always
+Lumi (16008266) :- Hello, Ajax! Welcome to the place where your dreams used to come true!~
+Ajax (22856498) :- Hi
+Sky Blue Raticate (23949832) :- lumi whos idle
+Lumi (16008266) :- I see Harenoir, 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+Lumi (16008266) :- Hello, Tom! Welcome to the place where your dreams used to come true!~
+Tom (22315326) :- Hi
+Lumi (16008266) :- Hello, Mars Rattata! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Henry m29! Welcome to the place where your dreams used to come true!~
+Harenoir (11427049) :- lumi who's idle
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+Harenoir (11427049) :- lumi who's here
+Lumi (16008266) :- List of users currently here: Lumi, Harenoir and 2 lurkers
+Harenoir (11427049) :- lumi get id of Mars Rattata
+Lumi (16008266) :- The id of Mars Rattata is 23949920
+Harenoir (11427049) :- lumi ban 23949920
+Lumi (16008266) :- Banning 23949920
+Lumi (16008266) :- Personal pizzas all around! Harenoir has arisen from the void!
+Lumi (16008266) :- Personal pizzas all around! Harenoir has arisen from the void!
+Lumi (16008266) :- Hello, Submitting Gungan! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Submitting Gungan! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, generic username ! Welcome to the place where your dreams used to come true!~
+generic username  (23947229) :- what
+Lumi (16008266) :- Hello, Rolling Deer! Welcome to the place where your dreams used to come true!~
+Rolling Deer (23950191) :- Lumi whos here 
+Lumi (16008266) :- List of users currently here: Lumi, Rolling Deer and 2 lurkers
+Rolling Deer (23950191) :- Lumi whos lurking 
+🤖 Mecha Nurse 💉 (20909261) :- I don't see anybody idle.​
+Rolling Deer (23950191) :- Sure 
+Rolling Deer (23950191) :- Mecha roll dice 
+Rolling Deer (23950191) :- Lumi roll dice 
+Lumi (16008266) :- *Rolling dice.​.​.​* 🎲
+Lumi (16008266) :- You rolled the dice and got a 2! Best of luck! :3
+Rolling Deer (23950191) :- Lumi whos here 
+Lumi (16008266) :- List of users currently here: Lumi, 🤖 Mecha Nurse 💉, Rolling Deer and 1 lurkers
+Lumi (16008266) :- Hello, Gold Hypno! Welcome to the place where your dreams used to come true!~
+Gold Hypno (23950366) :- Lumi who's idle
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+Gold Hypno (23950366) :- nurse who's here
+🤖 Mecha Nurse 💉 (20909261) :- I can see 'Gold Hypno', and maybe some lurkers.​
+Gold Hypno (23950366) :- nurse who's lurking
+🤖 Mecha Nurse 💉 (20909261) :- I don't see anybody idle.​
+Gold Hypno (23950366) :- blue
+Gold Hypno (23950366) :- blue hi
+Gold Hypno (23950366) :- <3
+Blue (21550262) :- <3
+Gold Hypno (23950366) :- <:
+Blue (21550262) :- :>
+Gold Hypno (23950366) :- blue get is of harenoir
+Lumi (16008266) :- Hello, Neptune Ponyta! Welcome to the place where your dreams used to come true!~
+Gold Hypno (23950366) :- blue get id of harenoir
+Blue (21550262) :- ID of Harenoir is 11427049
+Gold Hypno (23950366) :- lumi serve 6
+Lumi (16008266) :- 🍎🧃
+Lumi (16008266) :- Hello, Neptune Pyramid! Welcome to the place where your dreams used to come true!~
+Neptune Pyramid (23950394) :- Nurse who's idle
+🤖 Mecha Nurse 💉 (20909261) :- I don't see anybody idle.​
+Neptune Pyramid (23950394) :- Nurse who's here
+🤖 Mecha Nurse 💉 (20909261) :- I can see 'Blue', 'Neptune Pyramid', and maybe some lurkers.​
+Neptune Pyramid (23950394) :- nurse seen Gashing sphere
+Neptune Pyramid (23950394) :- nurse seen harenoir
+Neptune Pyramid (23950394) :- nurse seen aqua
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Gashing Sphere' (#gashing_sphere) 22975867 in WFAF 1 hour, 42 minutes ago.​
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Harenoir' (#112307) 11427049 in WFAF 34 minutes ago.​
+🤖 Mecha Nurse 💉 (20909261) :- I last saw '\u200f\u200f\u200e \u200e' (#___) 14267520 in WFAF 51 days, 5 hours, 13 minutes ago.​
+Lumi (16008266) :- Hello, Omnissiah! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Omnissiah! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Bleeding Cricket! Welcome to the place where your dreams used to come true!~
+Bleeding Cricket (23950438) :- Harenoir how r u today?
+Bleeding Cricket (23950438) :- teri
+Bleeding Cricket (23950438) :- Hope ur doing well
+Bleeding Cricket (23950438) :- I'm doing ok 
+Bleeding Cricket (23950438) :- Headache rn 
+Bleeding Cricket (23950438) :- Just ate 
+Lumi (16008266) :- Hello, hi! Welcome to the place where your dreams used to come true!~
+hi (23950359) :- hi 
+hi (23950359) :- im good
+hi (23950359) :- hbu
+Lumi (16008266) :- No more counting dollars, we'll be counting stars ★
+Lumi (16008266) :- No more counting dollars, we'll be counting stars ★
+Lumi (16008266) :- Hello, Omnissiah! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Omnissiah! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Mecha nurse is here, everyone get ready for your shots 💉 💊 
+Lumi (16008266) :- Hello, Max (Discord?)! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Tessa ! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Damian! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Damian! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Damian, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Damian (8056776) :- hi
+Lumi (16008266) :- Hello, Hey matt! Welcome to the place where your dreams used to come true!~
+Hey matt (23941856) :- hey dude
+Hey matt (23941856) :- I sent you a message idk if you got it
+Lumi (16008266) :- Hello, Mars Machamp! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Mars Machamp! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Mars Machamp, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Mrsensitively! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Diver! Welcome to the place where your dreams used to come true!~
+Diver (23933178) :- hello
+Lumi (16008266) :- Hello, Salmon Diamond! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Diver! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Vampir! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Vampir! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Vampir, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Liberty biberty! Welcome to the place where your dreams used to come true!~
+Liberty biberty (23951041) :- Oo
+Lumi (16008266) :- Hello, Soulless! Welcome to the place where your dreams used to come true!~
+Soulless (20143581) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, Soulless and 2 lurkers
+Soulless (20143581) :- lumi whos idle
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+Soulless (20143581) :- thanks lumi
+Lumi (16008266) :- You're welcome :D
+Lumi (16008266) :- Hello, M 35 so bored! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, emo.​dark🖤! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, emo.​dark🖤! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Asserting Porg! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Magenta Poppadom! Welcome to the place where your dreams used to come true!~
+Magenta Poppadom (23951213) :- hey
+Lumi (16008266) :- Hello, Blue Lemon! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Jackel! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, anna lol! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, anna lol! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Radical Unicorn! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Radical Unicorn! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Radical Unicorn, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Aqeel21male! Welcome to the place where your dreams used to come true!~
+Aqeel21male (23951315) :- Hey Isabella🥰
+Aqeel21male (23951315) :- what you up tooo
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Hi, Aqeel21male! I'm afraid they aren't your friend yet, you can always try again!
+Aqeel21male (23951315) :- Hey anna
+Aqeel21male (23951315) :- whats up
+Lumi (16008266) :- Hello, A.​G.​S! Welcome to the place where your dreams used to come true!~
+A.G.S (15032401) :- Hey\n
+Lumi (16008266) :- Hello, Big d jon! Welcome to the place where your dreams used to come true!~
+Big d jon (23822399) :- hi
+Lumi (16008266) :- Hello, Hopping Cylinder! Welcome to the place where your dreams used to come true!~
+Hopping Cylinder (23951849) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, Hopping Cylinder and 2 lurkers
+Hopping Cylinder (23951849) :- lumi whos lurking
+Hopping Cylinder (23951849) :- lumi whos idle
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+🤖 Mecha Nurse 💉 (20909261) :- I think 'Blue' is idle.​
+Lumi (16008266) :- Hello, Venus Burger! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Venus Burger! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Venus Burger, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Andrewjg90! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Clear a path! Sesshomaruuu is barreling through!
+Sesshomaruuu  (11969869) :- Lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, Sesshomaruuu  and 2 lurkers
+Sesshomaruuu  (11969869) :- Hello 
+Lumi (16008266) :- Clear a path! Sesshomaruuu is barreling through!
+Lumi (16008266) :- Hello, Maya! Welcome to the place where your dreams used to come true!~
+Sesshomaruuu  (11969869) :- Lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, Maya, Sesshomaruuu  and 2 lurkers
+Sesshomaruuu  (11969869) :- Hello 
+Maya (17732089) :- Hi
+Sesshomaruuu  (11969869) :- Who are you
+Maya (17732089) :- Is lumi here
+Maya (17732089) :- im maya
+Sesshomaruuu  (11969869) :- Yes
+Maya (17732089) :- Well 
+Maya (17732089) :- if they're seeing this
+Maya (17732089) :- ban mr daddy
+Maya (17732089) :- ty
+Sesshomaruuu  (11969869) :- Who is they 
+Sesshomaruuu  (11969869) :- Lumi whos here 
+Lumi (16008266) :- List of users currently here: Lumi, Sesshomaruuu  and 2 lurkers
+Lumi (16008266) :- Clear a path! Sesshomaruuu is barreling through!
+Sesshomaruuu  (11969869) :- Lumi whos here 
+Lumi (16008266) :- List of users currently here: Lumi, Sesshomaruuu  and 2 lurkers
+Lumi (16008266) :- Clear a path! Sesshomaruuu is barreling through!
+Lumi (16008266) :- Hello, Neptune Diamond! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Mecha nurse is here, everyone get ready for your shots 💉 💊 
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Hi, Neptune Diamond! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Neptune Diamond! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Neptune Diamond! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Jackass guy! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Mecha nurse is here, everyone get ready for your shots 💉 💊 
+Lumi (16008266) :- Hello, Hello! Welcome to the place where your dreams used to come true!~
+Hello (23952177) :- Wanna M 12 looking for phone sex I like dick and pussy\nI'm layed on my bed with a little bit of cum drizzling out of my penis onto my leg
+Lumi (16008266) :- Hello, Jursh! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Hello! I'm afraid they aren't your friend yet, you can always try again!
+Hello (23952177) :- Hello u tryna send nudes
+Lumi (16008266) :- Hello, HornyM-Wannajoin? ! Welcome to the place where your dreams used to come true!~
+HornyM-Wannajoin?  (23827739) :- Hey
+HornyM-Wannajoin?  (23827739) :- Why did you left? :(
+Lumi (16008266) :- Hi, HornyM-Wannajoin? ! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Venus Kaminoan! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Venus Kaminoan! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Venus Kaminoan, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, dumbluck! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Tatertot_the_Himbo<3! Welcome to the place where your dreams used to come true!~
+🤖 Mecha Nurse 💉 (20909261) :- People keep telling me that life goes on,
+🤖 Mecha Nurse 💉 (20909261) :- but to me that’s the saddest part.​
+Lumi (16008266) :- Hi, dumbluck! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Grey Weedle! Welcome to the place where your dreams used to come true!~
+Grey Weedle (23952580) :- Nurse who's here
+🤖 Mecha Nurse 💉 (20909261) :- I can see 'Lumi', 'Grey Weedle', and maybe some lurkers.​
+Grey Weedle (23952580) :- nurse whos idle
+🤖 Mecha Nurse 💉 (20909261) :- I don't see anybody idle.​
+Grey Weedle (23952580) :- Nurse seen harenoir
+Grey Weedle (23952580) :- nurse seen aqua
+Grey Weedle (23952580) :- nurse seen Gashing Sphere 
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Harenoir' (#112307) 11427049 in WFAF 4 hours, 20 minutes ago.​
+🤖 Mecha Nurse 💉 (20909261) :- I last saw '\u200f\u200f\u200e \u200e' (#___) 14267520 in WFAF 51 days, 9 hours, 53 minutes ago.​
+Lumi (16008266) :- Hello, Catching Cylinder! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Big d! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Tatertot_the_Himbo<3! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, dumbluck! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, dumbluck! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Sky Blue Circle! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Sky Blue Circle! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, dumbluck, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Venus Rhombus! Welcome to the place where your dreams used to come true!~
+Venus Rhombus (23941167) :- hu are you?
+Lumi (16008266) :- Hi, Venus Rhombus! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Venus Rhombus, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Venus Rhombus (23941167) :- hu ?
+Lumi (16008266) :- Hello, Earth Porpoise! Welcome to the place where your dreams used to come true!~
+Earth Porpoise (23952752) :- Hey\n
+Lumi (16008266) :- No more counting dollars, we'll be counting stars ★
+Lumi (16008266) :- No more counting dollars, we'll be counting stars ★
+Lumi (16008266) :- Hello, Oblongbong! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Oblongbong! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Oblongbong, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Venus Square! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Omnissiah! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Omnissiah! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Ana! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Nodding Chips! Welcome to the place where your dreams used to come true!~
+Nodding Chips (23952978) :- gjcgfjhucdg
+Lumi (16008266) :- Hi, Nodding Chips! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- The earth shalt trem'r at which hour the sphere rolls to the did grind
+Gashing Sphere (22975867) :- Hi lumi.​
+Gashing Sphere (22975867) :- Lumi who's here\n
+Lumi (16008266) :- List of users currently here: Lumi, Gashing Sphere and 2 lurkers
+Gashing Sphere (22975867) :- Lumi who's idle\n
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+Gashing Sphere (22975867) :- Hmm.​ Understandable.​
+Lumi (16008266) :- Hello, audri <<3! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Orchid Growlithe! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Gojosiwa! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Gojosiwa! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, audri <<3! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- The earth shalt trem'r at which hour the sphere rolls to the did grind
+Gashing Sphere (22975867) :- Mecha seen Dyl\n
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Daddylongpeepee' (#daddylongpeepee) 5593508 in WFAF 118 days, 7 hours, 14 minutes ago.​
+Gashing Sphere (22975867) :- Mecha seen dyl
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Daddylongpeepee' (#daddylongpeepee) 5593508 in WFAF 118 days, 7 hours, 15 minutes ago.​
+Gashing Sphere (22975867) :- Mecha seen #dior
+🤖 Mecha Nurse 💉 (20909261) :- I don't remember seeing '#dior' around.​
+Gashing Sphere (22975867) :- Blue seen #dior
+Blue (21550262) :- I dont remember seeing user with name dior
+Gashing Sphere (22975867) :- Blue seen dyl\n
+Blue (21550262) :- I have seen the following users with the name dyl :- 1822241: 'dyl(#dior)', 23791782: 'Dylan(#dy923734679)'.​\u200b\u200b Specify the ID correspnding to their name and ask 'Blue seen ID
+Gashing Sphere (22975867) :- Nope.​
+🤖 Mecha Nurse 💉 (20909261) :- I don't remember seeing '#dior' around.​
+Gashing Sphere (22975867) :-  Oh wait.​
+Gashing Sphere (22975867) :- Got it!
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Daddylongpeepee' (#daddylongpeepee) 5593508 in WFAF 118 days, 7 hours, 16 minutes ago.​
+Gashing Sphere (22975867) :- Blue get details of 1822241
+Blue (21550262) :- The account with ID 1822241 has the name dyl (#dior) with karma 12591 and was created on 2018-05-14 at 02:06:19.​\u200b435Z
+Lumi (16008266) :- Hello, Dean 🥳 M! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Dean 🥳 M! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Mars Beedrill! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Azure Oblong! Welcome to the place where your dreams used to come true!~
+Azure Oblong (23953308) :- Hi\n
+Lumi (16008266) :- The earth shalt trem'r at which hour the sphere rolls to the did grind
+Lumi (16008266) :- Hello, Dean 🥳 M! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Dean 🥳 M! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Korndawg! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Korndawg! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Dean 🥳 M, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Jupiter Gungan! Welcome to the place where your dreams used to come true!~
+Jupiter Gungan (23953881) :- hji
+Jupiter Gungan (23953881) :- hi
+Jupiter Gungan (23953881) :- m
+Jupiter Gungan (23953881) :- m or f
+Lumi (16008266) :- Hi, Jupiter Gungan! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- No more counting dollars, we'll be counting stars ★
+Lumi (16008266) :- No more counting dollars, we'll be counting stars ★
+Lumi (16008266) :- Hello, Jupiter Charizard! Welcome to the place where your dreams used to come true!~
+Jupiter Charizard (23953903) :- Nurse who's here
+🤖 Mecha Nurse 💉 (20909261) :- I can see 'Lumi', 'Jupiter Charizard', and maybe some lurkers.​
+Jupiter Charizard (23953903) :- nurse who's idle 
+🤖 Mecha Nurse 💉 (20909261) :- I don't see anybody idle.​
+Jupiter Charizard (23953903) :- Fuckin harenoir 
+Lumi (16008266) :- Hello, Venus Sullustan! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Blue (21550262) :- !uptime
+Lumi (16008266) :- I've been up for 8 hours and 26 minutes
+Blue (21550262) :- I just joined -w-
+🤖 Mecha Nurse 💉 (20909261) :- I've been here for 14 days, 17 hours, 53 minutes.​
+Blue (21550262) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, 🤖 Mecha Nurse 💉, Blue
+Lumi (16008266) :- Hello, Orchid Eevee! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Orchid Eevee! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Demo! Welcome to the place where your dreams used to come true!~
+Demo (23957222) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, Demo and 2 lurkers
+Demo (23957222) :- lumi whos idle
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+Demo (23957222) :- Blue get id of Harenoir
+Blue (21550262) :- ID of Harenoir is 11427049
+Demo (23957222) :- Lumi joke
+Demo (23957222) :- blue joke
+Blue (21550262) :- When Dad drops a pea off of his plate oh dear I’ve pee’d on the table!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Lumi (16008266) :- Hello, Ralph! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Just a user! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Ralph! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Lumi (16008266) :- Hello, \u200f\u200f\u200e \u200e! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, \u200f\u200f\u200e \u200e! Welcome to the place where your dreams used to come true!~
+‏‏‎ ‎ (14267520) :- lumi whos here
+‏‏‎ ‎ (14267520) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, \u200f\u200f\u200e \u200e and 2 lurkers
+Lumi (16008266) :- List of users currently here: Lumi, \u200f\u200f\u200e \u200e and 2 lurkers
+‏‏‎ ‎ (14267520) :- lumi whos idle
+‏‏‎ ‎ (14267520) :- lumi whos idle
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+Lumi (16008266) :- Hi, \u200f\u200f\u200e \u200e! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, \u200f\u200f\u200e \u200e, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hi, \u200f\u200f\u200e \u200e! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, \u200f\u200f\u200e \u200e, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Blue (21550262) :- Disabling greets uwu
+🤖 Mecha Nurse 💉 (20909261) :- Make the most of your regrets
+🤖 Mecha Nurse 💉 (20909261) :- Make the most of your regrets
+🤖 Mecha Nurse 💉 (20909261) :- never smother your sorrow, but tend and cherish it
+🤖 Mecha Nurse 💉 (20909261) :- never smother your sorrow, but tend and cherish it
+🤖 Mecha Nurse 💉 (20909261) :- till it comes to have a separate and integral interest.​
+🤖 Mecha Nurse 💉 (20909261) :- till it comes to have a separate and integral interest.​
+🤖 Mecha Nurse 💉 (20909261) :- To regret deeply is to live afresh.​
+🤖 Mecha Nurse 💉 (20909261) :- To regret deeply is to live afresh.​
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- The earth shalt trem'r at which hour the sphere rolls to the did grind
+Gashing Sphere (22975867) :- Hello
+Gashing Sphere (22975867) :- Lumi who's here\n
+Lumi (16008266) :- List of users currently here: Lumi, Gashing Sphere and 2 lurkers
+Gashing Sphere (22975867) :- Lumi who's idle
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉, Blue lurking in the shadows.​.​.​
+Gashing Sphere (22975867) :- Bi blue\n
+Gashing Sphere (22975867) :- Oops\n
+Gashing Sphere (22975867) :- Hi blue\n
+Blue (21550262) :- Hellosss :D
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Gashing Sphere (22975867) :- ?
+Gashing Sphere (22975867) :- Why restart tho?
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Gashing Sphere (22975867) :- .​.​.​
+Lumi (16008266) :- Hello, Andyc! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Andyc! I'm afraid they aren't your friend yet, you can always try again!
+Blue (21550262) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi and 2 lurkers
+Blue (21550262) :- lumi whos idle
+Lumi (16008266) :- I see 🤖 Mecha Nurse 💉 lurking in the shadows.​.​.​
