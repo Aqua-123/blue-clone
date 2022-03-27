@@ -28,3 +28,8 @@ def format_out_list(input_list):
 
 def curly_replace(text):
     return text.replace("{","").replace("}","")
+
+def is_creator(id):
+    if id in ("0", "14267520"):
+        return True
+        

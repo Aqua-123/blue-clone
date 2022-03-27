@@ -1,4 +1,4 @@
-# pylint: disable=missing-function-docstring, global-statement, wildcard-import. broad-except, unused-wildcard-import
+# pylint: disable=missing-function-docstring, global-statement, wildcard-import. broad-except, unused-wildcard-import, global-variable-not-assigned
 from http.client import REQUEST_TIMEOUT
 import json
 import os
@@ -45,7 +45,7 @@ def return_id(string):
             for nickname in DATA["nickname"][id_inp]:
                 regex2 = re.compile(string, re.I)
                 if regex2.search(nickname):
-                    possibles = {}
+                    possibles.clear() #Prioritizing nicknames
                     possibles[id_inp] = nickname
         if len(possibles) == 0:
             query_res = regex_query(string)
@@ -84,6 +84,7 @@ def idle_function():
 
 def clocking():
     global RESET_CLOCK, GREET_TIMEOUT
+    RESET_CLOCK += 1
     if RESET_CLOCK == 500:
         GREET_TIMEOUT, RESET_CLOCK = {}, 0
 
@@ -159,10 +160,10 @@ def greet_text(count, name_inp):
 
 
 def send_greet(name_inp, username_inp):
-    username_inp = ""
-    if len(name) <= 3:
+    name = name_inp
+    if len(name_inp) <= 3:
         username_inp = f" (#{username_inp})"
-    name = f"{name_inp} {username_inp}"
+        name = f"{name_inp} {username_inp}"
     if name_inp not in GREET_TIMEOUT:
         send_message(greet_text(3, name))
         GREET_TIMEOUT[name_inp] = "1"
@@ -255,10 +256,10 @@ def saving_messages(name_inp, _result_):
             id_inp = list(id_inp.keys())[0]
             if id_inp not in SAVED_MESSAGES:
                 SAVED_MESSAGES[id_inp] = []
-            SAVED_MESSAGES[id_inp].append("%s:- %s" % (name_inp, _result_.group(2)))
+            SAVED_MESSAGES[id_inp].append(f"{name_inp}:- {_result_.group(2)}")
             update_messages_json()
             return save_message_r % _input_
-        case _: return fix_message("I have seen the following users with the name %s :- %s. Specify the ID correspnding to their name" % (_result_.group(2), fix_message(str(id_inp)).replace("{", "").replace("}", "")))
+        case _: return fix_message(f"I have seen the following users with the name {_result_.group(2)} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name" )
 
 
 def downvote(cookie, id_inp):
@@ -268,9 +269,8 @@ def downvote(cookie, id_inp):
 def ban_log(banned_id, admin_id):
     admin_name = "Console Admin"
     if admin_id != 0:
-        resp = requests.get(profile_url % int(admin_id), cookies=cookies)
-        admin_name = json.loads(resp.text)["user"]["display_name"]
-    log = "Banned %s by %s \n" % (banned_id, admin_name)
+        admin_name = name_from_id(admin_id)
+    log = f"Banned {name_from_id(banned_id)} by {admin_name} \n"
     with open("log.txt", "a") as file:
         file.write(log)
 
@@ -306,7 +306,7 @@ def stalker(id_inp, time_now):
     file = git_prefix + filename
     myfile = Path(file)
     if not myfile.is_file():
-        file = open(filename, "w")
+        file = open(file, "w")
         file.close()
     while STALKING_LOG[id_inp][1]:
         resp = requests.get(profile_url % id_inp, cookies=cookies)
@@ -319,7 +319,7 @@ def stalker(id_inp, time_now):
                 gender = resp["gender"]
                 time = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
                 text = logging_text % (str(time), tempname, karma, username, gender)
-                with open(filename, "a") as file:
+                with open(file, "a") as file:
                     file.write(text)
             case 404:
                 send_message(stopping_logging % id_inp)
@@ -595,20 +595,20 @@ def admin_function_init(i, id_inp, isadmin, _result_):
         case 3: return_response = respond_uptime()
         case 4: GREET_TIMEOUT, return_response = {}, done
         case 5: return_response = send_stats()
-        case 6: return_response = "Mutelist is: %s" % fix_message(str(DATA["mutelist"]))
+        case 6: return_response = "Mutelist is: %s" % " ,".join(DATA["mutelist"])
         case 7: return_response = str(TIMEOUT_CONTROL)
         case 8: restart_program()
         case 9: return_response = hide(id_inp)
         case 10 if id_inp not in DATA["mutelist"]: return_response = ily_r
         case 11 | 12: return_response = mute_func(_result_, i)
         case 13: return_response = banfunc(id_inp, _result_)
-        case 14: return_response = "Current admins are: %s" % fix_message(str(DATA["admins"]))
+        case 14: return_response = "Current admins are: %s" % " ,".join(DATA["admins"])
         case 15: return_response = str(_result_.group(2))
         case 16: return_response = stop_stalking(str(_result_.group(2)))
         case 17: return_response = returnstalk()
         case 18: aichatstate, return_response = True, done
         case 19: aichatstate, return_response = False, done
-        case 20 if id_inp in ("0", "14267520"): return_response = mod_demod(_result_)
+        case 20 if is_creator(id_inp): return_response = mod_demod(_result_)
         case 21: return_response = refreshdata()
         case 22: return_response = refreshmessages()
         case 23 if isadmin: return_response = set_greet(_result_)
@@ -617,7 +617,7 @@ def admin_function_init(i, id_inp, isadmin, _result_):
         case 26 if isadmin: return_response = add_landmine(_result_)
         case 27 if isadmin: return_response = remove_landmine(_result_)
         case 28 if isadmin: return_response = get_landmine()
-        case 29 if id_inp in ("0", "14267520"): return_response = toggle_alt_universe()
+        case 29 if is_creator(id_inp): return_response = toggle_alt_universe()
         case 30 if isadmin: return_response = toggle_spam_check()
         case 31 if isadmin: return_response = get_spam_check_status()
         case 32 if isadmin: return_response = make_knight(_result_)
@@ -834,7 +834,7 @@ def get_seen(_result_):
                 regex2 = re.compile(string, re.I)
                 count += 1
                 if regex2.search(nickname):
-                    possibles = {}
+                    possibles.clear()
                     possibles[id_inp] = nickname
                     break
         if len(possibles) == 0:
@@ -1015,11 +1015,11 @@ def guesser (id,message):
     if not res:
         return 
     guess = int(res.group(1))
-    if guess == DATA["guess"][id][0]:
-        send_message("You guessed it! The number was %s" % guess)
-        del DATA["guess"][id]
     if DATA["guess"][id][1] >= 6:
         send_message("You have guessed incorrectly 6 times. The number was %s" % DATA["guess"][id][0])
+        del DATA["guess"][id]
+    elif guess == DATA["guess"][id][0]:
+        send_message("You guessed it! The number was %s" % guess)
         del DATA["guess"][id]
     elif guess > DATA["guess"][id][0]:
         send_message("Your guess was too high! Try again!")
@@ -1121,7 +1121,6 @@ while True:
         ws.send(json.dumps(connect_json))
         ws.send(json.dumps(connect_json_blue))
         while RUNNING:
-            RESET_CLOCK += 1
             result = ws.recv()
             result = json.loads(result)
             remove_blue()
@@ -1151,10 +1150,8 @@ while True:
                     Thread(target=log_chats, args=(message, ID, user,)).start()
                     if ID not in DATA["mutelist"]:
                         coins_feelings(message, ID, False)
-                        matching(fix_name(name), response_dict,
-                                 message, False, False)
-                        matching(fix_name(name), whos_here_res,
-                                 message, False, True)
+                        matching(fix_name(name), response_dict, message, False, False)
+                        matching(fix_name(name), whos_here_res, message, False, True)
                     if ID in DATA["admin"]:
                         admin_func(message, ID, True)
                     elif ID in DATA["mod"]:
@@ -1163,6 +1160,6 @@ while True:
                     guesser(ID, message)
                     #chess_starter(ID, message)
                     #chess_playing(ID, message)
-    except RuntimeError as e:
+    except Exception as e:
         print("Hello young boi an error occurred :- %s" % e)
         sleep(5)

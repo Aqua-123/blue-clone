@@ -14,7 +14,6 @@ def cl():
     websocket.enableTrace(False)
     ws = websocket.WebSocket()
     ws.connect("wss://www.emeraldchat.com/cable", cookie="user_id=MjExNzQ2MDg%3D--a4763efe1b8631066fdee681d54eec7ba278ca9e",subprotocols=["actioncable-v1-json", "actioncable-unsupported"],origin="https://www.emeraldchat.com",header={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"}, timeout = 1000000  )
-    print(ws.recv())
     for i in range (0,len(list_id)):
         n = list_id[i]
         connect(n)
