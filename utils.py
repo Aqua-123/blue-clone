@@ -2,7 +2,9 @@
 from var import *
 from sys import argv, executable
 from os import execl
-
+from cairosvg import svg2png
+import chess
+import os
 def fix_message(message):
     chars = ('"[]‘')
     for c in chars:
@@ -33,3 +35,24 @@ def is_creator(id):
     if id in ("0", "14267520"):
         return True
         
+def image_to_link(image):
+    link = image["link"].replace("https://", "")
+    link = "Image: " + link
+    return link
+
+def return_datestring(deltatimedays,date_channel):
+    match deltatimedays:
+        case 0: return "today"
+        case 1: return "yesterday"
+        case _: return  "on " + date_channel.split("-")[2] + " " + datetime.strptime(date_channel.split("-")[1], "%m").strftime("%b") + ","
+
+def board_to_svg(board):
+    return chess.svg.board(board)
+
+def svg_to_png(svg):
+    return svg2png(bytestring=svg,write_to='output.png')
+
+def chess_imgur():
+    link = CLIENT.upload_from_path("output.png")
+    os.remove("output.png")
+    return link

@@ -104,7 +104,7 @@ dab = re.compile(r"""blue dab(\\n)*\s*$""", re.I)
 hate_myself1 = re.compile(
     r"""(blue )?(i hate myself)|(no one likes me)(\\n)*\s*$""", re.I)
 thanks = re.compile(
-    r"""(thanks|thx|thenks|thonks|thank you blue)|(blue thanks|thx|thenks|thonks|thank you)(\\n)*\s*""", re.I)
+    r"""((thanks|thx|thenks|thonks|thank you) blue)|(blue (thanks|thx|thenks|thonks|thank you))(\\n)*\s*""", re.I)
 smile = re.compile(r""":>(\\n)*\s*""", re.I)
 smile_rev = re.compile(r"""<:(\\n)*\s*$""", re.I)
 kill = re.compile(r"""blue (kill|shoot|murder) me(\\n)*\s*$""", re.I)
@@ -485,6 +485,7 @@ clear_list = "List went -poof-"
 just_joined = "I just joined -w-"
 here_for_one_min = "I've been here for just a minute"
 here_for_x_mins = "I've been here for only %s minutes"
+here_for_an_hour = "I've been here for an hour"
 here_for_hours_and_mins = "I've been here for %s hours"
 memory_loss = "Just had some memory loss x-x"
 restarting = "Okai, restarting...."

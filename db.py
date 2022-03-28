@@ -29,6 +29,10 @@ def regex_query(name):
     cursor.execute(
         f"""SELECT DISTINCT * FROM users WHERE name REGEXP '^{name}' GROUP BY ID""")
     result = cursor.fetchall()
+    if len(result) == 0:
+        cursor.execute(
+        f"""SELECT DISTINCT * FROM users WHERE username REGEXP '^{name}' GROUP BY ID""")
+        result = cursor.fetchall()
     db.close()
     print(result)
     return result
@@ -45,12 +49,13 @@ def get_id(id):
 def return_name(id):
     db = connect_db()
     cursor = db.cursor()
-    cursor.execute(f"""SELECT name FROM users WHERE id = {id}""")
+    cursor.execute(f"""SELECT name, username FROM users WHERE id = {id}""")
     result = cursor.fetchall()
     db.close()
-    if len(result[0][1]) >= 3:
-        return result[0][1]
-    return f"{result[0][1]} (#{result[0][2]})"
+    #print(result)
+    if len(result[0][0]) >= 3:
+        return result[0][0]
+    return f"{result[0][0]} (#{result[0][1]})"
 
 def get_last_record_id(id, only_wfaf):
     db = connect_db()
