@@ -155,10 +155,8 @@ refresh_data = re.compile(r"""blue reload data(\\n)*\s*""", re.I)
 refresh_messages = re.compile(r"""blue reload message data(\\n)*\s*""", re.I)
 seen_reg = re.compile(r"""blue seen ([^\\]+)(\\n)*\s*""", re.I)
 
-addlandmine = re.compile(
-    r"""blue add landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
-removelandmine = re.compile(
-    r"""blue remove landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+addlandmine = re.compile(r"""blue add landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+removelandmine = re.compile(r"""blue remove landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 getlandmine = re.compile(r"""blue get landmine list(\\n)*\s*""", re.I)
 
 spamtoggle = re.compile(r"""blue spam toggle(\\n)*\s*""", re.I)

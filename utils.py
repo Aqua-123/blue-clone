@@ -2,6 +2,7 @@
 from var import *
 from sys import argv, executable
 from os import execl
+from time import gmtime, perf_counter, sleep, strftime
 from cairosvg import svg2png
 import chess
 import os
@@ -56,3 +57,6 @@ def chess_imgur():
     link = CLIENT.upload_from_path("output.png")
     os.remove("output.png")
     return link
+
+def return_deltatime(timestamp, current_time=strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())):
+    return datetime.strptime(current_time, "%a, %d %b %Y %I:%M:%S %p %Z") - datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S")

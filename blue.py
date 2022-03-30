@@ -1,5 +1,4 @@
 # pylint: disable=missing-function-docstring, global-statement, wildcard-import. broad-except, unused-wildcard-import, global-variable-not-assigned
-from http.client import REQUEST_TIMEOUT
 import json
 import random
 from pathlib import Path
@@ -43,16 +42,14 @@ def return_id(string):
             for nickname in DATA["nickname"][id_inp]:
                 regex2 = re.compile(string, re.I)
                 if regex2.search(nickname):
-                    possibles.clear() #Prioritizing nicknames
-                    possibles[id_inp] = nickname
-        if len(possibles) == 0:
-            query_res = regex_query(string)
-            if len(query_res) == 1:
-                return query_res[0][0]
-            if len(query_res) > 1:
-                possibles = {}
-                for i in query_res:
-                    possibles[i[0]] = f"{i[1]}(#{str(i[2])})"
+                    return id_inp
+        query_res = regex_query(string)
+        if len(query_res) == 1:
+            return query_res[0][0]
+        if len(query_res) > 1:
+            possibles.clear()
+            for i in query_res:
+                possibles[i[0]] = f"{i[1]}(#{str(i[2])})"
         return possibles
     except Exception as e:
         print(e)
@@ -373,7 +370,7 @@ def mod_demod(_result_):
         update_data_json()
         return mod_response % mod_id
     if _result_.group(1) == "demod":
-        if mod_id not in DATA["mod"] or mod_id not in DATA["admin"]:
+        if mod_id not in DATA["mod"] and mod_id not in DATA["admin"]:
             return not_mod % mod_id
         if mod_id in DATA["admin"]:
             DATA["admin"].remove(mod_id)
@@ -621,11 +618,11 @@ def admin_function_init(i, id_inp, isadmin, _result_):
         case 35 if isadmin: return_response = save_nickname(_result_)
         case _: return_response = False
     if return_response:
-        if int(id_inp) != 0: send_message(return_response)
-        else: print(f"Admin Command: {return_response}")
+        send_message(return_response) if int(id_inp) != 0 else print(f"Admin Command: {return_response}")
 
 
 def admin_func(inputmessage, id_inp, isadmin):
+    if not isadmin and id_inp not in DATA["mod"]:  return
     for i, command in enumerate(admin_commands):
         res = command.match(inputmessage)
         if res:
@@ -695,8 +692,7 @@ def get_meme():
 def send_seen_db(id_inp):
     query_res = get_last_record_id(id_inp, False)
     channel_name = query_res[4]
-    current_time = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
-    deltatime = datetime.strptime(current_time, "%a, %d %b %Y %I:%M:%S %p %Z") - datetime.strptime(query_res[-1], "%Y-%m-%d %H:%M:%S")
+    deltatime = return_deltatime(query_res[-1])
     inputdate = query_res[-1]
     name, user = query_res[1], query_res[2]
     date_string = return_datestring(deltatime.days,inputdate)
@@ -719,7 +715,7 @@ def send_seen_db(id_inp):
         if deltatime.seconds//60 % 60 == 0:
             return broiler_response + f"a couple moments ago in {channel_name}" 
         return broiler_response + f"{date_string} {secs} mins ago in {channel_name}" 
-    deltatime_wfaf = datetime.strptime(current_time, "%a, %d %b %Y %I:%M:%S %p %Z") - datetime.strptime(res[-1], "%Y-%m-%d %H:%M:%S")
+    deltatime_wfaf = return_deltatime(res[-1])
     inputdate = query_res[-1]
     date_string = return_datestring(deltatime_wfaf.days,inputdate)
     re = f"{name} (#{user}) was last seen {date_string} {deltatime_wfaf.seconds//3600} hours ago "
@@ -752,21 +748,24 @@ def whos_here_appending(id_inp):
         r = json.loads(r.text)
         name_inp = r["user"]["display_name"]
         if len(name_inp) <= 3:
-            name_inp = "%s (#%s)" % (r["user"]["display_name"], r["user"]["username"])
+            name_inp = "%s (#%s)" % (name_inp, r["user"]["username"])
     except Exception:
         name_inp = return_name(id_inp)
     finally:
         WHOS_HERE_RESPONSE.append(name_inp)
 
-
-def reply_whos_here():
-    global WHOS_HERE_RESPONSE
-    for i in MAIN_DICT:
+def dict_thread_starter(dict):
+    threads = []
+    for i in dict:
         threads.append(Thread(target=whos_here_appending, args=(i,)))
     for i in threads:
         i.start()
     for i in threads:
         i.join()
+
+def reply_whos_here():
+    global WHOS_HERE_RESPONSE
+    dict_thread_starter(MAIN_DICT)
     threads.clear()
     idle_len = len(IDLE_DICT)
     match idle_len:
@@ -778,16 +777,8 @@ def reply_whos_here():
 
 def reply_whos_idle():
     global WHOS_HERE_RESPONSE
-    for i in IDLE_DICT:
-        threads.append(Thread(target=whos_here_appending, args=(i,)))
-    for i in threads:
-        i.start()
-    for i in threads:
-        i.join()
-    threads.clear()
-    if len(IDLE_DICT) == 0:
-        return fix_message(whos_lurking_none)
-    return fix_message(whos_lurking_gen % format_out_list(WHOS_HERE_RESPONSE))
+    dict_thread_starter(IDLE_DICT)
+    return fix_message(whos_lurking_none) if len(IDLE_DICT) == 0 else fix_message(whos_lurking_gen % format_out_list(WHOS_HERE_RESPONSE))
 
 
 def name_from_id(id_inp):
@@ -836,9 +827,7 @@ def coin_handling(_result_):
         return too_many_coins
     DATA["coins"] = coin_add + DATA["coins"]
     update_data_json()
-    if num == "1":
-        return adding_one_coin % (coin_add, DATA["coins"])
-    return adding_coins % (coin_add, DATA["coins"])
+    return (adding_one_coin if num == "1" else adding_coins) % (coin_add, DATA["coins"])
 
 
 def getid(_result_):
@@ -875,6 +864,7 @@ def get_quote(console):
         send_message(content)
         sleep(0.2)
         send_message(author)
+    return
 
 
 def singing():
@@ -920,8 +910,7 @@ def send_feelings(index, id_inp, _result_, console):
         case 5 if id_inp in DATA["admin"] or console: resp = getid(_result_)
         case 6 if id_inp in DATA["admin"] or console: resp = get_details(_result_)
         case 7: resp = get_seen(_result_)
-        case 8: Thread(target=send_pic, args=(input_name, False)).start()
-        case 9: Thread(target=send_pic, args=(input_name, True)).start()
+        case 8|9: Thread(target=send_pic, args=(input_name, False if index == 8 else True)).start()
     return resp
 
 
@@ -1012,24 +1001,22 @@ def chess_starter(id, message):
         return
     if len (DATA["chess"]) != 0:
         send_message("You already have a game started, try playing chess !")
-    else:
-        vs_player = chess_game.match(message).group(1)
-        board = chess.Board()
-        print(board)
-        DATA["chess"][str(board)] = [id, vs_player] 
-        formattedlink = get_board_pic()
-        update_data_json()
-        send_message("Match started between %s and %s" % (name_from_id(id), name_from_id(vs_player)))
-        send_message("Use syntax /chess <move>")
-        send_message(formattedlink)
+        return
+    vs_player = chess_game.match(message).group(1)
+    board = chess.Board()
+    print(board)
+    DATA["chess"][str(board)] = [id, vs_player] 
+    formattedlink = get_board_pic()
+    update_data_json()
+    send_message("Match started between %s and %s" % (name_from_id(id), name_from_id(vs_player)))
+    send_message("Use syntax /chess <move>")
+    send_message(formattedlink)
 
 
 def chess_playing(id, message):
     global board
-    if len(DATA["chess"]) == 0:
-        return 
-    if not (chess_game_status and id in list(DATA["chess"].values())[0]):
-        return
+    if len(DATA["chess"]) == 0: return 
+    if not (chess_game_status and id in list(DATA["chess"].values())[0]): return
     if chess_reset.match(message):
         board = chess.Board()
         old_ids = list(DATA["chess"].values())[0]
@@ -1044,30 +1031,19 @@ def chess_playing(id, message):
         
 def matching(name_inp, dictname, input_text, console, dict_bool):
     def consolecheck(content):
-        if console:
-            print("Console:- %s" % content)
-        else:
-            send_message(content)
+        print(f"Console:- {content}") if console else send_message(content)
     for re_m in dictname:
         inputres = re_m.match(input_text)
-        if not inputres:
-            continue
+        if not inputres: continue
+        resp = dictname[re_m]
         if dict_bool:
-            if re_m == whos_here:
-                resp = reply_whos_here()
-            elif re_m == whos_idle:
-                resp = reply_whos_idle()
+            if re_m == whos_here: resp = reply_whos_here()
+            elif re_m == whos_idle: resp = reply_whos_idle()
         else: 
-            if re_m == jok:
-                resp = get_jokes()
-            elif re_m == quote:
-                get_quote(console)
-            elif re_m == save_message:
-                resp = saving_messages(name_inp, inputres)
-            else:
-                resp = dictname[re_m]
-        if resp:
-            consolecheck(resp)
+            if re_m == jok: resp = get_jokes()
+            elif re_m == quote: resp = get_quote(console)
+            elif re_m == save_message: resp = saving_messages(name_inp, inputres)
+        if resp: consolecheck(resp)
         break
 
 
@@ -1094,32 +1070,31 @@ while True:
                 bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
                 dice: dice_statement % random.randint(1, 6)
             }
-            if ("identifier" in result) and ("message" in result):
-                b = result["message"]
-                greet("user_connected", "add", True, b)
-                greet("typing", "add", False, b)
-                greet("user_disconnected", "remove", False, b)
-                greet("messages", "add", False, b)
-                if "messages" in b and "user" in b:
-                    user = b["user"]
-                    ID = str(user["id"])
-                    name = fix_name(user["display_name"])
-                    message = fix_message(str(b["messages"])).strip("'")
-                    print(f"{name} ({ID}) :- {message}")
-                    Thread(target=check_greeters, args=(message, ID,)).start()
-                    Thread(target=log_chats, args=(message, ID, user,)).start()
-                    if ID not in DATA["mutelist"]:
-                        coins_feelings(message, ID, False)
-                        matching(fix_name(name), response_dict, message, False, False)
-                        matching(fix_name(name), whos_here_res, message, False, True)
-                    if ID in DATA["admin"]:
-                        admin_func(message, ID, True)
-                    elif ID in DATA["mod"]:
-                        admin_func(message, ID, False)
-                    guessing_starter(ID, message)
-                    guesser(ID, message)
-                    #chess_starter(ID, message)
-                    #chess_playing(ID, message)
+            if not (("identifier" in result) and ("message" in result)):
+                continue
+            b = result["message"]
+            greet("user_connected", "add", True, b)
+            greet("typing", "add", False, b)
+            greet("user_disconnected", "remove", False, b)
+            greet("messages", "add", False, b)
+            if not ("messages" in b and "user" in b):
+                continue
+            user = b["user"]
+            ID = str(user["id"])
+            name = fix_name(user["display_name"])
+            message = fix_message(str(b["messages"])).strip("'")
+            print(f"{name} ({ID}) :- {message}")
+            Thread(target=check_greeters, args=(message, ID,)).start()
+            Thread(target=log_chats, args=(message, ID, user,)).start()
+            admin_func(message, ID, True if ID in DATA["admin"] else False)
+            guessing_starter(ID, message)
+            guesser(ID, message)
+            if ID in DATA["mutelist"]: continue
+            coins_feelings(message, ID, False)
+            matching(fix_name(name), response_dict, message, False, False)
+            matching(fix_name(name), whos_here_res, message, False, True)
+            #chess_starter(ID, message)
+            #chess_playing(ID, message)
     except Exception as e:
         print("Hello young boi an error occurred :- %s" % e)
         sleep(5)
