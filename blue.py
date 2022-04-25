@@ -6,11 +6,11 @@ from threading import Thread
 from time import gmtime, perf_counter, sleep, strftime
 from timeit import default_timer as timer
 
-import chess
-import chess.svg
 import requests
 import websocket
-from imgurpython.helpers.error import (ImgurClientError, ImgurClientRateLimitError)
+from cleverbotfree import Cleverbot
+from imgurpython.helpers.error import (ImgurClientError,
+                                       ImgurClientRateLimitError)
 
 from db import db_update, get_last_record_id, regex_query, return_name
 from gc_logging import *
@@ -369,15 +369,14 @@ def mod_demod(_result_):
         DATA["mod"].append(mod_id)
         update_data_json()
         return mod_response % mod_id
-    if _result_.group(1) == "demod":
-        if mod_id not in DATA["mod"] and mod_id not in DATA["admin"]:
-            return not_mod % mod_id
-        if mod_id in DATA["admin"]:
-            DATA["admin"].remove(mod_id)
-        if mod_id in DATA["mod"]:
-            DATA["mod"].remove(mod_id)
-        update_data_json()
-        return demod_response % mod_id
+    if mod_id not in DATA["mod"] and mod_id not in DATA["admin"]:
+        return not_mod % mod_id
+    if mod_id in DATA["admin"]:
+        DATA["admin"].remove(mod_id)
+    if mod_id in DATA["mod"]:
+        DATA["mod"].remove(mod_id)
+    update_data_json()
+    return demod_response % mod_id
 
 
 def clear_lists():
@@ -486,7 +485,7 @@ def make_knight(_result_):
         DATA["knight"].append(id_inp)
         update_data_json()
         return knight_added % name_inp
-    return fix_message(f"I have seen the following users with the name {name_inp} :- {curly_replace(str(id_inp))}. Specify the id_inp correspnding to their name")
+    return fix_message(f"I have seen the following users with the name {name_inp} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
 
 
 def remove_knight(_result_):
@@ -577,6 +576,14 @@ def returnstalk():
         return stalking_following % fix_message(str(STALKING_LOG.keys()))
     return stalking_no_one
 
+def toggle_insult_func(_result_):
+    global insult_control
+    action = _result_.group(1)
+    if action == "enable":
+        insult_control = True
+        return done
+    insult_control = False
+    return done
 
 def admin_function_init(i, id_inp, isadmin, _result_):
     global GREET_STATUS, RUNNING, name, STARTTIME, aichatstate, GREET_TIMEOUT, DATA
@@ -616,6 +623,7 @@ def admin_function_init(i, id_inp, isadmin, _result_):
         case 33 if isadmin: return_response = remove_knight(_result_)
         case 34 if isadmin: return_response = toggle_shortened_greet()
         case 35 if isadmin: return_response = save_nickname(_result_)
+        case 36: return_response = toggle_insult_func(_result_)
         case _: return_response = False
     if return_response:
         send_message(return_response) if int(id_inp) != 0 else print(f"Admin Command: {return_response}")
@@ -667,9 +675,9 @@ refresh_image_cache()
 
 
 def get_image_link(query, meme):
-    url = response().urls(query, 6)
     try:
         if meme: return get_meme()
+        url = response().urls(query, 6)
         return image_upload(query, url[-1])
     except ImgurClientError:
         return f"Sorry I couldn't find {query}"
@@ -692,8 +700,8 @@ def get_meme():
 def send_seen_db(id_inp):
     query_res = get_last_record_id(id_inp, False)
     channel_name = query_res[4]
-    deltatime = return_deltatime(query_res[-1])
     inputdate = query_res[-1]
+    deltatime = return_deltatime(inputdate)
     name, user = query_res[1], query_res[2]
     date_string = return_datestring(deltatime.days,inputdate)
     resp = f"{date_string} {deltatime.seconds//3600} hours ago "
@@ -711,12 +719,11 @@ def send_seen_db(id_inp):
         date_string = return_datestring(deltatime.days,date_channel)
         broiler_response = f"I dont remember seeing {name} (#{user}) in WFAF but they were last seen "
         if deltatime.seconds//3600 != 0:
-            return broiler_response + f"{date_string} {deltatime.seconds//3600} hours ago %s"
+            return broiler_response + f"{date_string} {deltatime.seconds//3600} hours ago in {channel_name}"
         if deltatime.seconds//60 % 60 == 0:
             return broiler_response + f"a couple moments ago in {channel_name}" 
         return broiler_response + f"{date_string} {secs} mins ago in {channel_name}" 
     deltatime_wfaf = return_deltatime(res[-1])
-    inputdate = query_res[-1]
     date_string = return_datestring(deltatime_wfaf.days,inputdate)
     re = f"{name} (#{user}) was last seen {date_string} {deltatime_wfaf.seconds//3600} hours ago "
     if deltatime_wfaf.seconds//3600 == 0:
@@ -782,10 +789,13 @@ def reply_whos_idle():
 
 
 def name_from_id(id_inp):
-    resp = requests.get(profile_url % int(id_inp), cookies=cookies)
-    resp = json.loads(resp.text)
-    name = resp["user"]["display_name"]
-    return name
+    try:
+        resp = requests.get(profile_url % int(id_inp), cookies=cookies)
+        resp = json.loads(resp.text)
+        name = resp["user"]["display_name"]
+    except:
+        name = return_name(id_inp) #fallback when everything is idiotic 
+    finally: return name
 
 
 def get_seen(_result_):
@@ -814,7 +824,7 @@ def get_seen(_result_):
                 return fix_message(f"I dont remember seeing user with name {string}")
         if len(possibles) == 0:
             return fix_message(f"I dont remember seeing user with name {string}")
-        return fix_message(f"I have seen the following users with the name {string} :- {curly_replace(str(possibles))}. Specify the ID correspnding to their name and ask 'Blue seen ID'" % (string, curly_replace(str(possibles))))
+        return fix_message(f"I have seen the following users with the name {string} :- {curly_replace(str(possibles))}. Specify the ID correspnding to their name and ask 'Blue seen ID'" )
     except Exception as e:
         return fix_message(f"I dont remember seeing {name_from_id(string)} around")
 
@@ -823,9 +833,8 @@ def coin_handling(_result_):
     global DATA
     num = _result_.group(1)
     coin_add = int(num) + 0
-    if coin_add > 100 :
-        return too_many_coins
-    DATA["coins"] = coin_add + DATA["coins"]
+    if coin_add > 100 : return too_many_coins
+    DATA["coins"] += coin_add
     update_data_json()
     return (adding_one_coin if num == "1" else adding_coins) % (coin_add, DATA["coins"])
 
@@ -898,6 +907,15 @@ def get_details(_result_):
         case _: return "Unknown condition reached"
 
 
+def get_insult(res):
+    if not insult_control: return 
+    name = res.group(1)
+    r = requests.get(insult_url)
+    r = json.loads(r.text)
+    r = r["insult"]
+    return f"{name}, {r}"
+
+
 def send_feelings(index, id_inp, _result_, console):
     global DATA
     input_name = _result_.group(1)
@@ -911,21 +929,23 @@ def send_feelings(index, id_inp, _result_, console):
         case 6 if id_inp in DATA["admin"] or console: resp = get_details(_result_)
         case 7: resp = get_seen(_result_)
         case 8|9: Thread(target=send_pic, args=(input_name, False if index == 8 else True)).start()
+        case 10: resp = get_insult(_result_)
     return resp
 
 
 def coins_feelings(input_message, id_inp, console):
     for reg_m in coinsandfeelings:
         _result_ = reg_m.match(input_message)
-        if  _result_:
-            index = coinsandfeelings.index(reg_m)
-            resp = send_feelings(index, id_inp, _result_, True)
-            if index == 0:
-                resp = coin_handling(_result_)
-            if resp and resp != "":
-                if console: print(f"Console:- {resp}")
-                else: send_message(resp)
-            return
+        if not _result_:
+            continue
+        index = coinsandfeelings.index(reg_m)
+        resp = send_feelings(index, id_inp, _result_, True)
+        if index == 0:
+            resp = coin_handling(_result_)
+        if resp and resp != "":
+            if console: print(f"Console:- {resp}")
+            else: send_message(resp)
+        return
 
 
 
@@ -939,8 +959,8 @@ def console_init():
             send_message(content)
         else:
             whoshere = {
-                whos_here: WHOS_HERE_RESPONSE,
-                whos_idle: WHOS_HERE_RESPONSE,
+                whos_here: [],
+                whos_idle: [],
                 bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
                 dice: dice_statement % random.randint(1, 6)
             }
@@ -973,7 +993,7 @@ def guesser (id,message):
     if not res:
         return 
     guess = int(res.group(1))
-    if DATA["guess"][id][1] >= 5:
+    if DATA["guess"][id][1] > 5:
         send_message("You have guessed incorrectly 6 times. The number was %s" % DATA["guess"][id][0])
         del DATA["guess"][id]
     elif guess == DATA["guess"][id][0]:
@@ -988,47 +1008,6 @@ def guesser (id,message):
     update_data_json()
 
 
-def get_board_pic():
-    print(board)
-    svg_to_png(board_to_svg(board))
-    image = chess_imgur()
-    return image_to_link(image)
-
-
-def chess_starter(id, message):
-    global board
-    if not (chess_game.match(message) and chess_game_status):
-        return
-    if len (DATA["chess"]) != 0:
-        send_message("You already have a game started, try playing chess !")
-        return
-    vs_player = chess_game.match(message).group(1)
-    board = chess.Board()
-    print(board)
-    DATA["chess"][str(board)] = [id, vs_player] 
-    formattedlink = get_board_pic()
-    update_data_json()
-    send_message("Match started between %s and %s" % (name_from_id(id), name_from_id(vs_player)))
-    send_message("Use syntax /chess <move>")
-    send_message(formattedlink)
-
-
-def chess_playing(id, message):
-    global board
-    if len(DATA["chess"]) == 0: return 
-    if not (chess_game_status and id in list(DATA["chess"].values())[0]): return
-    if chess_reset.match(message):
-        board = chess.Board()
-        old_ids = list(DATA["chess"].values())[0]
-        send_message("Match reset between %s and %s" % (name_from_id(old_ids[0]), name_from_id(old_ids[1])))
-        update_data_json()
-        return
-    if chess_get_board.match(message):
-        formattedlink = get_board_pic()
-        send_message(formattedlink)
-        return
-
-        
 def matching(name_inp, dictname, input_text, console, dict_bool):
     def consolecheck(content):
         print(f"Console:- {content}") if console else send_message(content)
@@ -1046,6 +1025,19 @@ def matching(name_inp, dictname, input_text, console, dict_bool):
         if resp: consolecheck(resp)
         break
 
+@Cleverbot.connect
+def chat(bot, user_input):
+    return bot.single_exchange(user_input)
+
+def ai_handler(message):
+    if not aichatstate:
+        return
+    res = ai.match(message)
+    if res:
+        bot = chat(res.group(1))
+        if bot == "":
+            bot = "I don't know what you mean"
+        send_message(bot)
 
 Thread(target=console_input).start()
 Thread(target=thread_function).start()
@@ -1093,8 +1085,7 @@ while True:
             coins_feelings(message, ID, False)
             matching(fix_name(name), response_dict, message, False, False)
             matching(fix_name(name), whos_here_res, message, False, True)
-            #chess_starter(ID, message)
-            #chess_playing(ID, message)
+            Thread(target=ai_handler, args=(message,)).start()
     except Exception as e:
         print("Hello young boi an error occurred :- %s" % e)
         sleep(5)

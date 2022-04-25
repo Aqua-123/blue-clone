@@ -2,7 +2,7 @@
 from var import *
 from sys import argv, executable
 from os import execl
-from time import gmtime, perf_counter, sleep, strftime
+from time import gmtime, strftime
 from cairosvg import svg2png
 import chess
 import os
@@ -21,9 +21,6 @@ def fix_name(name):
     return name
 
 def restart_program():
-    """Restarts the current program.
-    Note: this function does not return. Any cleanup action (like
-    saving data) must be done before calling this function."""
     execl(executable, executable, *argv)
 
 def format_out_list(input_list):
@@ -42,10 +39,9 @@ def image_to_link(image):
     return link
 
 def return_datestring(deltatimedays,date_channel):
-    match deltatimedays:
-        case 0: return "today"
-        case 1: return "yesterday"
-        case _: return  "on " + date_channel.split("-")[2] + " " + datetime.strptime(date_channel.split("-")[1], "%m").strftime("%b") + ","
+    if deltatimedays == 0: return "today"
+    elif deltatimedays == 1: return "yesterday"
+    return  "on " + date_channel.split("-")[2].split(" ")[0] + " " + datetime.strptime(date_channel.split("-")[1], "%m").strftime("%b") + ","
 
 def board_to_svg(board):
     return chess.svg.board(board)
@@ -58,5 +54,6 @@ def chess_imgur():
     os.remove("output.png")
     return link
 
-def return_deltatime(timestamp, current_time=strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())):
+def return_deltatime(timestamp):
+    current_time=strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
     return datetime.strptime(current_time, "%a, %d %b %Y %I:%M:%S %p %Z") - datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S")

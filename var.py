@@ -4,10 +4,11 @@ import re
 import json
 from datetime import datetime
 from imgurpython import ImgurClient
+
 from simple_image_download import simple_image_download as simp
 with open("config.json", "r") as f:
     config = json.loads(f.read())
-
+    
 main_cookie = config["main_cookie"]
 client_id = config["imgur_client_id"]
 client_secret = config["imgur_client_secret"]
@@ -41,6 +42,7 @@ ALT_UNIVERSE_TOGGLE = False
 SHORTEN_GREET_TOGGLE = False  # Handles enabling and disabling shortened greetings
 guessing_game_status = True
 chess_game_status = True
+insult_control = True
 forbiden_chars = [
     "\u202e",
     # "'",     #Forbidden chars to be removed
@@ -168,18 +170,17 @@ makeknight = re.compile(
 removeknight = re.compile(
     r"""blue remove ([a-z0-9\W ]+|me) from knighthood(\\n)*\s*""", re.I)
 toggleshortgreet = re.compile(r"""blue toggle short greets(\\n)*\s*""", re.I)
+toggle_insult = re.compile(r"""blue (enable|disable) insults(\\n)*\s*""", re.I)
 
-savenickname = re.compile(
-    r"""blue save nickname for ([^""]+) as ([a-z0-9\w ]+)(\\n)*\s*""", re.I)
-ai = re.compile(r""">[a-z0-9\W ]+(\\n)*\s*""", re.I)
+savenickname = re.compile(r"""blue save nickname for ([^""]+) as ([a-z0-9\w ]+)(\\n)*\s*""", re.I)
+ai = re.compile(r""">([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 
 consoleinput = re.compile(r""">([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 # Menu Items
 coffee = re.compile(r"""blue serve (coffee|1|caffee)(\\n)*\s*$""", re.I)
 milk = re.compile(r"""blue serve (milk|2)(\\n)*\s*$""", re.I)
 water = re.compile(r"""blue serve (water|3)(\\n)*\s*$""", re.I)
-cookiess = re.compile(
-    r"""blue serve (cookies and milk|a|cookies n milk)(\\n)*\s*$""", re.I)
+cookiess = re.compile(r"""blue serve (cookies and milk|a|cookies n milk)(\\n)*\s*$""", re.I)
 ppizza = re.compile(r"""blue serve (pineapple pizza|b)(\\n)*\s*$""", re.I)
 
 # feelings regex
@@ -209,6 +210,9 @@ guessing = re.compile(r"""([0-9]+)(\\n)*\s*""", re.I)
 chess_game = re.compile(r"""blue start chess game against ([0-9]+)(\\n)*\s*""", re.I)
 chess_reset = re.compile(r"""!chess reset(\\n)*\s*""", re.I)
 chess_get_board = re.compile(r"""!chess get board(\\n)*\s*""", re.I)
+
+#insult 
+insult = re.compile(r"""blue insult ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 save_message_r = "Okay message saved for user %s"
 # Mene replies
 coffee_r = "☕"
@@ -364,7 +368,8 @@ admin_commands = [
     makeknight,
     removeknight,
     toggleshortgreet,
-    savenickname
+    savenickname,
+    toggle_insult
 ]
 
 # Menu list with images
@@ -386,7 +391,8 @@ coinsandfeelings = [
     get_karma,
     seen_reg,
     serve,
-    getmeme
+    getmeme,
+    insult
 ]
 
 
@@ -462,6 +468,8 @@ greet_check = [
 karma_url = "https://www.emeraldchat.com/karma_give?id=%s&polarity=-1=HTTP/2"
 profile_url = "https://emeraldchat.com/profile_json?id=%d"
 jokes_url = "https://icanhazdadjoke.com/slack"
+insult_url = "https://evilinsult.com/generate_insult.php?lang=en&type=json"
+ai_url = "https://api.udit.tk/api/chatbot?message=%s&gender=female&name=blue"
 
 # ws-connection shit
 ws_url = "wss://www.emeraldchat.com/cable"

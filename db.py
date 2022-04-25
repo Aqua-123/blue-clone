@@ -1,6 +1,4 @@
 import mysql.connector
-
-
 def connect_db():
     return mysql.connector.connect(
         host='localhost',
@@ -10,7 +8,14 @@ def connect_db():
         charset='utf8mb4'
     )
 
-
+def query_runner(query):
+    db = connect_db()
+    cursor = db.cursor()
+    cursor.execute(query)
+    result = cursor.fetchall()
+    db.close()
+    return result
+    
 def db_update(id, name, username, message, room, action, timestamp):
     if not message:
         message = 'None'
@@ -24,51 +29,36 @@ def db_update(id, name, username, message, room, action, timestamp):
 
 
 def regex_query(name):
-    db = connect_db()
-    cursor = db.cursor()
-    cursor.execute(
-        f"""SELECT DISTINCT * FROM users WHERE name REGEXP '^{name}' GROUP BY ID""")
-    result = cursor.fetchall()
+    query = f"""SELECT DISTINCT * FROM users WHERE name REGEXP '^{name}' GROUP BY ID"""
+    result = query_runner(query)
     if len(result) == 0:
-        cursor.execute(
-        f"""SELECT DISTINCT * FROM users WHERE username REGEXP '^{name}' GROUP BY ID""")
-        result = cursor.fetchall()
-    db.close()
-    print(result)
+        query = f"""SELECT DISTINCT * FROM users WHERE username REGEXP '^{name}' GROUP BY ID"""
+        result = query_runner(query)
     return result
 
 
 def get_id(id):
-    db = connect_db()
-    cursor = db.cursor()
-    cursor.execute("""SELECT * FROM users WHERE id = '""" + id + """'""")
-    result = cursor.fetchall()
-    db.close()
-    return result
+    query = "SELECT * FROM users WHERE id = '" + id + "'"
+    return query_runner(query)
 
 def return_name(id):
-    db = connect_db()
-    cursor = db.cursor()
-    cursor.execute(f"""SELECT name, username FROM users WHERE id = {id}""")
-    result = cursor.fetchall()
-    db.close()
-    #print(result)
+    query = f"""SELECT name, username FROM users WHERE id = {id}"""
+    result = query_runner(query)
     if len(result[0][0]) >= 3:
         return result[0][0]
     return f"{result[0][0]} (#{result[0][1]})"
 
 def get_last_record_id(id, only_wfaf):
-    db = connect_db()
-    cursor = db.cursor()
     if only_wfaf:
-        cursor.execute(
-            f"""SELECT * FROM users where id = {id} and room = 'WFAF' ORDER BY timestamp DESC LIMIT 1""")
+        query =  f"""SELECT * FROM users where id = {id} and room = 'WFAF' ORDER BY timestamp DESC LIMIT 1"""
     else:
-        cursor.execute(
-            f"""SELECT * FROM users where id = {id} ORDER BY timestamp DESC LIMIT 1""")
-    result = cursor.fetchall()
-    db.close()
+        query = f"""SELECT * FROM users where id = {id} ORDER BY timestamp DESC LIMIT 1"""
+    result = query_runner(query)
     try:
         return result[0]
     except:
         return None
+
+def get_all_messages():
+    query = """SELECT message FROM users where message != 'None' ORDER BY room"""
+    return query_runner(query)
