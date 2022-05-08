@@ -7,6 +7,8 @@
     "**/node_modules/**": true,
     "**/stalker-logs/**": true,
     "**/__pycache__/**": true,
-    "**/wfaf-logs/**": true
+    "**/wfaf-logs/**": true,
+    "database.sqlite4": true,
+    
   }
 }
