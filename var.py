@@ -8,7 +8,7 @@ from imgurpython import ImgurClient
 from simple_image_download import simple_image_download as simp
 with open("config.json", "r") as f:
     config = json.loads(f.read())
-    
+
 main_cookie = config["main_cookie"]
 client_id = config["imgur_client_id"]
 client_secret = config["imgur_client_secret"]
@@ -24,17 +24,47 @@ with open('messages.json', 'r') as f:
 with open('image_cache.json', 'r') as f:
     image_cache = json.loads(f.read())
 
-
 # main connecting request json
 connect_json = {
     "command": "subscribe",  # Main connecting request json
     "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":null}"
 }
-channel_dict = {'48': 'ice squad ❄️', '56': 'noodle squad 🍜 ', '33': 'roleplaying', '39': 'moon squad 🌑', '38': 'sun squad ☀️', '40': 'conspiracy squad 👽', '34': 'VIP ⭐', '51': 'banana squad 🍌', '58': 'sushi squad 🍣', '57': 'pizza squad 🍕', '41': 'film squad 🍿', '54': 'dragon squad 🐉️', '37': 'pie squad 🥧', '53': 'magic squad 🔮️',
-                '43': 'cake squad 🍰', '42': 'love squad 💘', '49': 'strawberry squad 🍓', '55': 'royal squad 👑', '59': 'bomb squad 💣', '44': 'earth squad 🌎', '46': 'water squad 💧', '36': 'brain squad 🧠', '60': 'owl squad 🦉', '52': 'cosmic squad 🌌', '32': 'general', '50': 'apple squad 🍎', '47': 'lightning squad ⚡', '35': 'air squad 🌪️', '45': 'fire squad 🔥'}
+channel_dict = {
+    '48': 'ice squad ❄️',
+    '56': 'noodle squad 🍜 ',
+    '33': 'roleplaying',
+    '39': 'moon squad 🌑',
+    '38': 'sun squad ☀️',
+    '40': 'conspiracy squad 👽',
+    '34': 'VIP ⭐',
+    '51': 'banana squad 🍌',
+    '58': 'sushi squad 🍣',
+    '57': 'pizza squad 🍕',
+    '41': 'film squad 🍿',
+    '54': 'dragon squad 🐉️',
+    '37': 'pie squad 🥧',
+    '53': 'magic squad 🔮️',
+    '43': 'cake squad 🍰',
+    '42': 'love squad 💘',
+    '49': 'strawberry squad 🍓',
+    '55': 'royal squad 👑',
+    '59': 'bomb squad 💣',
+    '44': 'earth squad 🌎',
+    '46': 'water squad 💧',
+    '36': 'brain squad 🧠',
+    '60': 'owl squad 🦉',
+    '52': 'cosmic squad 🌌',
+    '32': 'general',
+    '50': 'apple squad 🍎',
+    '47': 'lightning squad ⚡',
+    '35': 'air squad 🌪️',
+    '45': 'fire squad 🔥'
+}
 
-connect_json_blue = {"command": "subscribe",
-                     "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":\"blueyblue\"}"}
+connect_json_blue = {
+    "command": "subscribe",
+    "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":\"blueyblue\"}"
+}
 threads = []  # List of threads
 RUNNING = True  # Main while loop control variable
 GREET_STATUS = True  # Handles enabling and disabling greetings
@@ -90,14 +120,15 @@ im_bored_list = [
     "Ive heard star gazing is lovely, give that a try",
 ]
 
-
 # All matching strings
 hey1 = re.compile(r"""hi blue(\\n)*\s*$""", re.I)
 howdy = re.compile(r"""howdy Blue\??\s*$""", re.I)
 whos_here = re.compile(
-    r"""blue (who'?’?s here\??)|(das crazy\??)|(who is all here)|(who all are t?here\??)|(blue where the hoes at\??)(\\n)*\s*$""", re.I)
+    r"""blue (who'?’?s here\??)|(das crazy\??)|(who is all here)|(who all are t?here\??)|(blue where the hoes at\??)(\\n)*\s*$""",
+    re.I)
 whos_idle = re.compile(
-    r"""blue (who'?’?s idle|lurking)|(who is all idle|lurking)\??(\\n)*\s*$""", re.I)
+    r"""blue (who'?’?s idle|lurking)|(who is all idle|lurking)\??(\\n)*\s*$""",
+    re.I)
 tldr = re.compile(
     r"""(blue (wfaf|tldr)|(where are we))|(what is wfaf)(\\n)*\s*$""", re.I)
 high_five = re.compile(r"""(blue )?(high five)(\\n)*\s*$""", re.I)
@@ -106,7 +137,8 @@ dab = re.compile(r"""blue dab(\\n)*\s*$""", re.I)
 hate_myself1 = re.compile(
     r"""(blue )?(i hate myself)|(no one likes me)(\\n)*\s*$""", re.I)
 thanks = re.compile(
-    r"""((thanks|thx|thenks|thonks|thank you) blue)|(blue (thanks|thx|thenks|thonks|thank you))(\\n)*\s*""", re.I)
+    r"""((thanks|thx|thenks|thonks|thank you) blue)|(blue (thanks|thx|thenks|thonks|thank you))(\\n)*\s*""",
+    re.I)
 smile = re.compile(r""":>(\\n)*\s*""", re.I)
 smile_rev = re.compile(r"""<:(\\n)*\s*$""", re.I)
 kill = re.compile(r"""blue (kill|shoot|murder) me(\\n)*\s*$""", re.I)
@@ -133,7 +165,8 @@ uptime1 = re.compile(r"""(blue uptime)|(!uptime)(\\n)*\s*$""", re.I)
 clear_memory = re.compile(r"""blue clear memory(\\n)*\s*$""", re.I)
 stats1 = re.compile(r"""(blue (tell me the)? stats)(\\n)*\s*$""", re.I)
 get_mute = re.compile(r"""(blue get|fetch mutelist)(\\n)*\s*$""", re.I)
-get_timeout_control = re.compile(r"""blue (get|fetch) TIMEOUT_CONTROL(\\n)*\s*$""", re.I)
+get_timeout_control = re.compile(
+    r"""blue (get|fetch) TIMEOUT_CONTROL(\\n)*\s*$""", re.I)
 get_admin_list = re.compile(r"""blue (get|fetch) admin_list(\\n)*\s*$""", re.I)
 restart_s = re.compile(r"""((blue|blew) restart|reset)(\\n)*\s*$""", re.I)
 hideregex = re.compile(r"""blue help me hide(\\n)*\s*$""", re.I)
@@ -158,21 +191,23 @@ refresh_messages = re.compile(r"""blue reload message data(\\n)*\s*""", re.I)
 seen_reg = re.compile(r"""blue seen ([^\\]+)(\\n)*\s*""", re.I)
 
 addlandmine = re.compile(r"""blue add landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
-removelandmine = re.compile(r"""blue remove landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+removelandmine = re.compile(r"""blue remove landmine ([a-z0-9\W ]+)(\\n)*\s*""",
+                            re.I)
 getlandmine = re.compile(r"""blue get landmine list(\\n)*\s*""", re.I)
 
 spamtoggle = re.compile(r"""blue spam toggle(\\n)*\s*""", re.I)
 getspamstatus = re.compile(r"""blue spam status(\\n)*\s*""", re.I)
 altuni = re.compile(r"""blue (alt|alternate) universe(\\n)*\s*""", re.I)
 
-makeknight = re.compile(
-    r"""blue make ([a-z0-9\W ]+|me) a knight(\\n)*\s*""", re.I)
+makeknight = re.compile(r"""blue make ([a-z0-9\W ]+|me) a knight(\\n)*\s*""",
+                        re.I)
 removeknight = re.compile(
     r"""blue remove ([a-z0-9\W ]+|me) from knighthood(\\n)*\s*""", re.I)
 toggleshortgreet = re.compile(r"""blue toggle short greets(\\n)*\s*""", re.I)
 toggle_insult = re.compile(r"""blue (enable|disable) insults(\\n)*\s*""", re.I)
 
-savenickname = re.compile(r"""blue save nickname for ([^""]+) as ([a-z0-9\w ]+)(\\n)*\s*""", re.I)
+savenickname = re.compile(
+    r"""blue save nickname for ([^""]+) as ([a-z0-9\w ]+)(\\n)*\s*""", re.I)
 ai = re.compile(r""">([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 
 consoleinput = re.compile(r""">([a-z0-9\W ]+)(\\n)*\s*""", re.I)
@@ -180,26 +215,28 @@ consoleinput = re.compile(r""">([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 coffee = re.compile(r"""blue serve (coffee|1|caffee)(\\n)*\s*$""", re.I)
 milk = re.compile(r"""blue serve (milk|2)(\\n)*\s*$""", re.I)
 water = re.compile(r"""blue serve (water|3)(\\n)*\s*$""", re.I)
-cookiess = re.compile(r"""blue serve (cookies and milk|a|cookies n milk)(\\n)*\s*$""", re.I)
+cookiess = re.compile(
+    r"""blue serve (cookies and milk|a|cookies n milk)(\\n)*\s*$""", re.I)
 ppizza = re.compile(r"""blue serve (pineapple pizza|b)(\\n)*\s*$""", re.I)
 
 # feelings regex
 coins = re.compile(r"""blue add ([0-9]+)([a-z0-9\W ]*) coins(\\n)*\s*""", re.I)
-hug = re.compile(
-    r"""blue (send )?hug(s)? (to )?([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+hug = re.compile(r"""blue (send )?hug(s)? (to )?([a-z0-9\W ]+)(\\n)*\s*""",
+                 re.I)
 pat = re.compile(r"""blue send pats to ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 loves = re.compile(r"""blue send love to ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 bonk = re.compile(r"""blue bonk ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 get_id = re.compile(r"""(blue )(fetch|get)( id of )([^\\]+)(\\n)*\s*""", re.I)
-get_karma = re.compile(
-    r"""blue (fetch|get) details of ([0-9]+)(\\n)*\s*""", re.I)
+get_karma = re.compile(r"""blue (fetch|get) details of ([0-9]+)(\\n)*\s*""",
+                       re.I)
 mod = re.compile(r"""blue (mod|demod) ([0-9]+)(\\n)*\s*""", re.I)
 
 help = re.compile(r"""blue help(\\n)*\s*""", re.I)
 help_greetings = re.compile(r"""blue help greetings(\\n)*\s*""", re.I)
 help_general = re.compile(r"""blue help general responses(\\n)*\s*""", re.I)
 help_sending = re.compile(
-    r"""blue help sending (feelings|messages|feelings/messages)(\\n)*\s*""", re.I)
+    r"""blue help sending (feelings|messages|feelings/messages)(\\n)*\s*""",
+    re.I)
 help_admin = re.compile(r"""blue help admin commands(\\n)*\s*""", re.I)
 save_message = re.compile(
     r"""blue save ?a? message for ([^""]+) :- ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
@@ -207,11 +244,12 @@ serve = re.compile(r"""blue serve ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 getmeme = re.compile(r"""blue meme(\\n)*\s*""", re.I)
 guessing_game = re.compile(r"""blue start guessing game(\\n)*\s*""", re.I)
 guessing = re.compile(r"""([0-9]+)(\\n)*\s*""", re.I)
-chess_game = re.compile(r"""blue start chess game against ([0-9]+)(\\n)*\s*""", re.I)
+chess_game = re.compile(r"""blue start chess game against ([0-9]+)(\\n)*\s*""",
+                        re.I)
 chess_reset = re.compile(r"""!chess reset(\\n)*\s*""", re.I)
 chess_get_board = re.compile(r"""!chess get board(\\n)*\s*""", re.I)
 
-#insult 
+#insult
 insult = re.compile(r"""blue insult ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 save_message_r = "Okay message saved for user %s"
 # Mene replies
@@ -221,15 +259,13 @@ water_r = "🥤"
 cookies_r = "🍪 🥛 🍪"
 pineapple_pizza_r = "🍍 + 🍕"
 
-
 # Other replies
 tldr_r = (
     "You're here because you tried to message someone who didn't accept your friend request."
     " We call this chat WFAF,"
     " Waiting For A Friend."
     " Let's keep it family-friendly!"
-    " Enjoy your stay uwu"
-)
+    " Enjoy your stay uwu")
 high_five_r = "High five ~*"
 dab_r = "ヽ( •_)ᕗ"
 hate_myself_r = "I like you, have a cupcake 🧁 ^-^"
@@ -248,29 +284,24 @@ heart_r = "<3"
 dying_r = "Nothing new, now go work smh"
 uwu_r = "UwU"
 howdy_r = "hewwos"
-no_r = (
-    "Kindly be nice and keep this family-friendly while you are here, "
-    "else the wfaf door is always open for you to leave, thanks"
-)
+no_r = ("Kindly be nice and keep this family-friendly while you are here, "
+        "else the wfaf door is always open for you to leave, thanks")
 eyes_r = "0.0"
 dni_r = "We are not interested, thanks no thanks"
 ily_r = "I love you even moreeee"
 low_five_r = "Even lower five ~*"
-love_r = (
-    "Hey wonderful person, "
-    "you are amazing and deserve everything you desire and love."
-    " Hope the best for you."
-    " You have all my love and wishes."
-    " Much love ~ blue :>"
-)
+love_r = ("Hey wonderful person, "
+          "you are amazing and deserve everything you desire and love."
+          " Hope the best for you."
+          " You have all my love and wishes."
+          " Much love ~ blue :>")
 jok_r = "placeholder"
 
 help_response = (
     "From the following modules pick one and say blue help (module name) \n"
     "1. General Responses\n"
     "2. Sending Feelings/Messages\n"
-    "3. Admin Commands (admin only)\n"
-)
+    "3. Admin Commands (admin only)\n")
 
 help_greetings_response = "This modules greets people when they enter the chatroom, the greets for someone ae decided on the basis of the state of short-greet toggle and is any custom greet for the person is present ~*"
 help_general_response = (
@@ -279,23 +310,21 @@ help_general_response = (
     "2. Blue whos here/idle\\n"
     "3. Blue save message for name/id :- message\\n"
     "4. Blue help\n (Get back to the original help message)\\n"
-    "The last one you can use to save a message for a person and it will be delivered to them when they enter wfaf next time ^-^ ~*")
+    "The last one you can use to save a message for a person and it will be delivered to them when they enter wfaf next time ^-^ ~*"
+)
 help_sending_feelings = (
     "This modules contains commands to send feelings/messages to people, such as :- ~*"
     "1. Blue send love to name\n"
     "2. Blue send hugs to name/Blue hug name\n"
     "3. Blue send pats to name/Blue pat name\n"
-    "4. Blue bonk name\n"
-)
+    "4. Blue bonk name\n")
 help_admin_commands = (
     "This modules contains commands to perform admin actions, such as :- ~*"
     "1) Blue stats (Gets stats of entries done while blue was online)\n"
     "2) Blue enable/disable greets\n"
     "3) Blue uptime\n"
     "4) Blue mute/unmute ID\n"
-    "5) Blue toggle short greets\n"
-)
-
+    "5) Blue toggle short greets\n")
 
 # response and string match dictionary
 response_dict = {
@@ -323,7 +352,6 @@ response_dict = {
     quote: jok_r,
     eyes: eyes_r,
     save_message: save_message_r
-
 }
 """help : help_response,
 help_general : help_general_response,
@@ -333,68 +361,33 @@ help_greetings : help_greetings_response"""
 
 # List containing vars of admin command matches
 admin_commands = [
-    enable_greets,
-    self_destruct,
-    clear_userlist,
-    uptime1,
-    clear_memory,
-    stats1,
-    get_mute,
-    get_timeout_control,
-    restart_s,
-    hideregex,
-    ily,
-    mutereg,
-    unmutereg,
-    ban,
-    get_admin_list,
-    stalk,
-    stop_stalk,
-    get_stalk,
-    enableai,
-    disableai,
-    mod,
-    refresh_data,
-    refresh_messages,
-    setgreet,
-    getgreet,
-    removegreet,
-    addlandmine,
-    removelandmine,
-    getlandmine,
-    altuni,
-    spamtoggle,
-    getspamstatus,
-    makeknight,
-    removeknight,
-    toggleshortgreet,
-    savenickname,
+    enable_greets, self_destruct, clear_userlist, uptime1, clear_memory, stats1,
+    get_mute, get_timeout_control, restart_s, hideregex, ily, mutereg,
+    unmutereg, ban, get_admin_list, stalk, stop_stalk, get_stalk, enableai,
+    disableai, mod, refresh_data, refresh_messages, setgreet, getgreet,
+    removegreet, addlandmine, removelandmine, getlandmine, altuni, spamtoggle,
+    getspamstatus, makeknight, removeknight, toggleshortgreet, savenickname,
     toggle_insult
 ]
 
 # Menu list with images
 dict_serve = {
-    "coffee": "Image: [aW1hZ2UvOTc4NDI1NC9jb2ZmZWUuanBn]",
-    "milk": "Image: [aW1hZ2UvOTc4NDI1Mi9taWxrLmpwZWc=]",
-    "water": "Image: [aW1hZ2UvOTc4NDI1My93YXRlci5qcGc=]",
-    "doritos": "Image: [aW1hZ2UvOTc4NDI2OC9pbWFnZXMuanBlZw==]",
-    "pineapple pizza": "Image: [aW1hZ2UvOTc4NDI3Ni9pc3RvY2stNTM3NjQwNzEwLmpwZw==]"
+    "coffee":
+        "Image: [aW1hZ2UvOTc4NDI1NC9jb2ZmZWUuanBn]",
+    "milk":
+        "Image: [aW1hZ2UvOTc4NDI1Mi9taWxrLmpwZWc=]",
+    "water":
+        "Image: [aW1hZ2UvOTc4NDI1My93YXRlci5qcGc=]",
+    "doritos":
+        "Image: [aW1hZ2UvOTc4NDI2OC9pbWFnZXMuanBlZw==]",
+    "pineapple pizza":
+        "Image: [aW1hZ2UvOTc4NDI3Ni9pc3RvY2stNTM3NjQwNzEwLmpwZw==]"
 }
 
 coinsandfeelings = [
-    coins,
-    loves,
-    pat,
-    hug,
-    bonk,
-    get_id,
-    get_karma,
-    seen_reg,
-    serve,
-    getmeme,
+    coins, loves, pat, hug, bonk, get_id, get_karma, seen_reg, serve, getmeme,
     insult
 ]
-
 
 cookiejar = [
     "TEN4OVZDZWsrT2ExOVcxQ1pUdmZkc2xtYUVjV2dMK2JBeFB3YkJsRzY0cGFTTmdhL3lIZEEyOWpGRnR0djhXVjNXRGZNRDNtQnczUFZ2NzVPMmREVU44Rmo3clNVR2N5SVhCWStSNzlsWFk2TkVzOFdEbkR4Y1BmMkkvQSttWFRETkNkdGhHaDJZTmR5Qmc3a09FNFFuaHoybVNJell3SDdGM1JQUk5yZCtLbmVMT0ZUVkZzYWxxSTg0SWtoSnJkVmcyL05DQlBwZG5XQ0I3TWxQbzdRdEtLdmszaVR6OVpOSVFZdWFmaXJLRT0tLW5CMXZtWlhpN2xJYnVEY0lBR2xMT2c9PQ%3D%3D--2e94ff98e2180cfac2d585d7b7973cf9dceaa4c2",
@@ -437,30 +430,26 @@ cookiejar = [
     "dWIxTUo4eU93QTl6aWRnL084SGd6d0REWWdTdXJxUGtPTitaQU9rNWVvV01GcTE1VFAwZHIzVUw1c0d6OTg0dW1PZFZ4TmRiQVJBdTdOUmVDV2J1WjZ3ZU95VWhINWdWa1N0cGlieTgwTlh6R20vVThxejc1SG9TUWl1MUtEcWp5VlpaSUFOSWhyakFsMERKaEppOGVreklGMUdBb0ZDZEJJQmd0YXBQaENxUTlqeXZHK2lVa0N3ZG1GWXk1UzRJK21YcEtnOWR3cDVTWXJybkdsT3BmSGxNRklDb2lJSDJtQkh2a0R6K0xSMD0tLThZTzlQR1V1TUxwQ1p1YThTMzVRZUE9PQ%3D%3D--8096447e5f486861df27621bf291fa6a594bdf44",
     "eXp6cngxYXU0VkdsUDZFU3FZS0YwSTA4TW44WWVQTVB4ak9uWE9rbTlPQjRMSHNob1FndnlvTmJ3K1BYQmY0ZFkzS1dqVmR3dElVYmQ1bVRSTFJXL1VDYUNPYmsrU1FCcmYzVWRjMXBWYnVNQ1hPWDFLWWR2djNVMVVmOTdKbUxHaWd3WDdYV3RWR3pFM2FBdmh0eHFMNk9JZGVQWmZYWlhXK1ZuaEQ1Z3lqV0xpeFcxaWdKMWd1OE55Mkd3ZFFvZGlBZnVwSTVlU01JZk12Qkg0VFVoamluNmJ5a1drU1lSRE13dXhHNm45VT0tLXRMd2hXTTlsTnpiV1EyTVRSUVNNV0E9PQ%3D%3D--520c8ad282645df83d2541850dda78c00cd1f8f8",
     "djNDd3BJT2k1TmJ5ZTcvb20wM2JsZW5MNTVxdXRoMW0xV0FFTitsbVIvMmpMRFdscFV3RUphc2ZEYldpUXR5L0FIb2grby9seFJydVYzaTJKN2JRdzFBSlpTdW1nM3NIYW5KQ2toYTJMNU1BNTErMTdqMHJBSzNtV3dEQ0FiV3BPU3o0bzBGMlhqM3NEbEJyWmJLd2ZxK0dzUEFjN2dQZ3ZZSytycEtNcmorMVcxbTFJYmFodmlYVjAvTldMTklVTnAvaG03K0J0T2V2a1RFMHVQaGU2TVNJSkZNN3dnQk5YdTc3SHF4UmlwMD0tLU9jQXhLK25xVWY0QVJqUE9MaFVQRVE9PQ%3D%3D--5ba91d3993d698cbbbabfc1359125ed2e3130718"
-
 ]
 
 check1 = re.compile(
-    r"""Welcome, [^""]+, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request.""")
+    r"""Welcome, [^""]+, to WFAF - Waiting For A Friend. This is a family-friendly group chat you get sent to when you try to message someone who youve sent a friend request to and they havent accepted your request."""
+)
 check2 = re.compile(
-    r"""Hi, [^""]+, retrying wont help, you can try asking what is wfaf for more info :D""")
+    r"""Hi, [^""]+, retrying wont help, you can try asking what is wfaf for more info :D"""
+)
 check3 = re.compile(
     r"""Hi again, [^\\]+, try asking what is wfaf for more info :D""")
 check4 = re.compile(
-    r"""Hello, [^""]+! Welcome to the place where your dreams used to come true!~""")
+    r"""Hello, [^""]+! Welcome to the place where your dreams used to come true!~"""
+)
 check5 = re.compile(
-    r"""Hi, [^""]+! Im afraid they arent your friend yet, you can always try again!""")
+    r"""Hi, [^""]+! Im afraid they arent your friend yet, you can always try again!"""
+)
 check6 = re.compile(
     r"""Hi again, [^""]+, dont feel bad, theyll accept one day... hopefully!""")
 
-greet_check = [
-    check1,
-    check2,
-    check3,
-    check4,
-    check5,
-    check6
-]
+greet_check = [check1, check2, check3, check4, check5, check6]
 
 # Some Strings
 
