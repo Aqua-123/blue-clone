@@ -48,13 +48,12 @@ def image_to_link(image):
 
 
 def return_datestring(deltatimedays, date_channel):
+
     if deltatimedays == 0:
-        return "today"
+        return ""
     elif deltatimedays == 1:
-        return "yesterday"
-    return "on " + date_channel.split(
-        "-")[2].split(" ")[0] + " " + datetime.strptime(
-            date_channel.split("-")[1], "%m").strftime("%b") + ","
+        return "a day and "
+    return "{} days and ".format(deltatimedays)
 
 
 def board_to_svg(board):
