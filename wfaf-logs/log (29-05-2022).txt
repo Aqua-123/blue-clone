@@ -1244,3 +1244,794 @@ Lumi (16008266) :- Our favorite Blue greeter is here!
 Blue (21550262) :- Hi, its Blue ^-^
 Blue (21550262) :- Hi, its Blue ^-^
 Blue (21550262) :- Disabling greets uwu
+Lumi (16008266) :- Hello, S\u200bo\u200bu\u200bL! Welcome to the place where your dreams used to come true!~
+Eva (21541886) :- ᗜ_ᗜ
+S​o​u​L (20327398) :- pls help
+Eva (21541886) :- Here is the list of game commands (prefix: 'pls'): \nshop’, \nbuy <item>’, \nsell <item>’, \nbal’, \ninv’, \nfish’, \nmine’, \nbeg’, \nhunt’, \njob list’, \nfind job’, \nwork’, \nresign work’.​\u200b
+S​o​u​L (20327398) :- pls find job
+Eva (21541886) :- You are now working as a Discord Mod
+S​o​u​L (20327398) :- pls work
+Eva (21541886) :- You got paid $10000
+Lumi (16008266) :- Hello, Icey (M/22)! Welcome to the place where your dreams used to come true!~
+S​o​u​L (20327398) :- pls mine
+Eva (21541886) :- You got nothing while mining
+S​o​u​L (20327398) :- pls bal
+Eva (21541886) :- Your balance: $15000
+S​o​u​L (20327398) :- pls shop
+Eva (21541886) :- Items:\n   ▐ ☕ Coffee: $10  \n   ▐ 🍵 Tea: $10  \n   ▐ 🍞 Bread: $20  \n   ▐ 👑 Crown: $1000000  \n   ▐ 🍕 Pizza: $35  \n   ▐ 🍔 Burger: $35  \n   ▐ 🍫 Chocolate: $25  
+S​o​u​L (20327398) :- pls buy pizza
+Eva (21541886) :- 🍕 bought for $35
+Lumi (16008266) :- Hi, Icey (M/22)! I'm afraid they aren't your friend yet, you can always try again!
+S​o​u​L (20327398) :- pls buy burger
+Eva (21541886) :- 🍔 bought for $35
+S​o​u​L (20327398) :- pls inv
+Eva (21541886) :- Your inventory:\n   ▐ 🍕 Pizza: 1  \n   ▐ 🍔 Burger: 1  
+S​o​u​L (20327398) :- pls bal
+Eva (21541886) :- Your balance: $14930
+Lumi (16008266) :- Hello, JonHypnotizesU! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, JonHypnotizesU! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, JonHypnotizesU, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, all u need is lav <3! Welcome to the place where your dreams used to come true!~
+all u need is lav <3 (24174651) :- hi <3
+Lumi (16008266) :- Hello, George karra! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, George karra! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Lumi (16008266) :- Hello, Eva! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Arno! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Arno! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Arno, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Arno! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, S\u200bo\u200bu\u200bL! Welcome to the place where your dreams used to come true!~
+Eva (21541886) :- ᗜ_ᗜ
+S​o​u​L (20327398) :- $ shutdown
+Eva (21541886) :- Shutting down.​\u200b.​\u200b.​\u200b
+Lumi (16008266) :- Hello, Eva! Welcome to the place where your dreams used to come true!~
+S​o​u​L (20327398) :- $ u
+Eva (21541886) :- These are the people here : Eva, Lumi, S\u200bo\u200bu\u200bL.​\u200b Maybe some are lurking.​\u200b
+S​o​u​L (20327398) :- $ shutdown
+Eva (21541886) :- Shutting down.​\u200b.​\u200b.​\u200b
+Lumi (16008266) :- Hi, Eva! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Eva, don't feel bad, they'll accept one day.​.​.​ hopefully!
+S​o​u​L (20327398) :- $ seen soul
+Eva (21541886) :- I saw S\u200bo\u200bu\u200bL(#_soul) 0 seconds ago
+Lumi (16008266) :- Hello, Venus Impala! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Saturn Tangerine! Welcome to the place where your dreams used to come true!~
+Saturn Tangerine (24544833) :- hey glad you liked that cock
+Saturn Tangerine (24544833) :- it's 6inches
+Lumi (16008266) :- Hello, Obliging Hutt! Welcome to the place where your dreams used to come true!~
+Obliging Hutt (24544989) :- ciao
+Lumi (16008266) :- Hello, Mars Biscuit! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Orange human! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Sky Blue Sullustan! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Sky Blue Sullustan! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi, Orange human! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Marcr! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Marcr! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Marcr! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Orange human! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Orange human! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Marcr, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Marcr! Welcome to the place where your dreams used to come true!~
+Marcr (24504867) :- heyy
+Lumi (16008266) :- Hello, Sky Blue Pizza! Welcome to the place where your dreams used to come true!~
+Sky Blue Pizza (24545365) :- yo
+Sky Blue Pizza (24545365) :- guys ahha
+Sky Blue Pizza (24545365) :- why are u here? just have some fun toghether!!
+Lumi (16008266) :- Hi, Sky Blue Pizza! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Sky Blue Pizza, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Sky Blue Pizza! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Lala17! Welcome to the place where your dreams used to come true!~
+Lala17 (24260929) :- You got disconnected
+Lumi (16008266) :- Hello, Showmeass! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Showmeass! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Showmeass! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Showmeass, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Laura! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Showmeass! Welcome to the place where your dreams used to come true!~
+Showmeass (24092007) :- hi
+Eva (21541886) :- hello
+Showmeass (24092007) :- hi
+Eva (21541886) :- hello
+Lumi (16008266) :- Hello, Mars Gungan! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Mars Gungan! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Mars Gungan, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Knitting apple! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Lavender Oblong! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Lavender Oblong! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Pink Charmeleon! Welcome to the place where your dreams used to come true!~
+Pink Charmeleon (24545246) :- hey I am the guy who you just chatted with
+Lumi (16008266) :- Hi, Pink Charmeleon! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Pink Charmeleon, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Pink Charmeleon! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Thriving Robot! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi again, Lavender Oblong, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, S\u200bo\u200bu\u200bL! Welcome to the place where your dreams used to come true!~
+Eva (21541886) :- ᗜ_ᗜ
+S​o​u​L (20327398) :- $ u
+Eva (21541886) :- These are the people here : Eva, Lumi, S\u200bo\u200bu\u200bL.​\u200b Maybe some are lurking.​\u200b
+S​o​u​L (20327398) :- lumi who's here
+Lumi (16008266) :- List of users currently here: Lumi, S\u200bo\u200bu\u200bL, Eva and 1 lurkers
+S​o​u​L (20327398) :- lumi whos idle
+Lumi (16008266) :- I see Blue lurking in the shadows.​.​.​
+Lumi (16008266) :- Hello, M  16 USA! Welcome to the place where your dreams used to come true!~
+M  16 USA (24537780) :- Lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, M  16 USA, Eva and 1 lurkers
+M  16 USA (24537780) :- Eva?
+M  16 USA (24537780) :- who is that?
+M  16 USA (24537780) :- Lumi show  me cake
+M  16 USA (24537780) :- Eva
+Eva (21541886) :- yo
+M  16 USA (24537780) :- I sent you a friend request Eva
+Lumi (16008266) :- Hello, Thatguy! Welcome to the place where your dreams used to come true!~
+M  16 USA (24537780) :- Eva
+Eva (21541886) :- yo
+Lumi (16008266) :- Hello, Mars Pringle! Welcome to the place where your dreams used to come true!~
+M  16 USA (24537780) :- I sent you a friend request Eva
+M  16 USA (24537780) :- Eva
+Eva (21541886) :- yo
+M  16 USA (24537780) :- Eva whos here
+Eva (21541886) :- These are the people here : Eva, Lumi, M  16 USA.​\u200b Maybe some are lurking.​\u200b
+M  16 USA (24537780) :- lumi give me cake
+Lumi (16008266) :- Hello, Corrupting Yellowjacket! Welcome to the place where your dreams used to come true!~
+Corrupting Yellowjacket (24545789) :- Hey\n
+Eva (21541886) :- heyy
+Corrupting Yellowjacket (24545789) :- M here\n
+Corrupting Yellowjacket (24545789) :- Wbu?
+Lumi (16008266) :- Hello, Corrupting Yellowjacket! Welcome to the place where your dreams used to come true!~
+Corrupting Yellowjacket (24545789) :- Hey\n
+Eva (21541886) :- heyy
+Corrupting Yellowjacket (24545789) :- Asl\n
+Eva (21541886) :- 69, no thanks, your mo- *ahem*
+Corrupting Yellowjacket (24545789) :- I'm 18
+Lumi (16008266) :- Hello, Arno! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Arno! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Arno, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Arno! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Saturn Chansey! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Saturn Chansey! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Arno! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Arno! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Arno, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, <3! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- lumi who's here
+Lumi (16008266) :- List of users currently here: Lumi, <3 and 2 lurkers
+<3 (24540494) :- lumi who's lurking
+<3 (24540494) :- lumi who's idle
+Lumi (16008266) :- I see Blue, Eva lurking in the shadows.​.​.​
+<3 (24540494) :- thank you lumi
+Lumi (16008266) :- You're welcome :D
+Lumi (16008266) :- Hello, Arno! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Arno! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Arno, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Arno! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, M  16 USA! Welcome to the place where your dreams used to come true!~
+M  16 USA (24537780) :- Lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, M  16 USA and 1 lurkers
+M  16 USA (24537780) :- whos lurkin'?
+Lumi (16008266) :- Hello, Emperor of Mankind! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Shitting Pizza! Welcome to the place where your dreams used to come true!~
+Shitting Pizza (24546336) :- Hi
+Lumi (16008266) :- Your friendly neighbourhood Saturn is here! *~~.​
+Saturn (19364487) :- blue whos here
+Blue (21550262) :- I can see Saturn, Lumi and no lurkers at the moment ~*
+Saturn (19364487) :- eva whos here
+Saturn (19364487) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, Blue, Saturn
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Lumi (16008266) :- Hello, hiiieee! Welcome to the place where your dreams used to come true!~
+hiiieee (24524881) :- hey are u there
+Lumi (16008266) :- Hello, 8in bbc! Welcome to the place where your dreams used to come true!~
+8in bbc (24546371) :- Bro
+8in bbc (24546371) :- I requested you
+Lumi (16008266) :- Hi, 8in bbc! I'm afraid they aren't your friend yet, you can always try again!
+8in bbc (24546371) :- Tracy
+Lumi (16008266) :- Hello, <3! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- lumi who's here
+Lumi (16008266) :- List of users currently here: Lumi, <3 and 1 lurkers
+<3 (24540494) :- hm
+<3 (24540494) :- lumi who's idle
+Lumi (16008266) :- I see Blue lurking in the shadows.​.​.​
+<3 (24540494) :- thank you lumi
+Lumi (16008266) :- You're welcome :D
+Lumi (16008266) :- Hello, Mars Pyramid! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Mars Pyramid! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Mars Pyramid, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Mars Pyramid (24545219) :- hi
+Lumi (16008266) :- Your friendly neighbourhood Saturn is here! *~~.​
+Lumi (16008266) :- Hello, Mars Pyramid! Welcome to the place where your dreams used to come true!~
+Saturn (19364487) :- eva whos here
+Saturn (19364487) :- blue whos here
+Blue (21550262) :- I can see Lumi, Saturn and 1 person lurking ~*
+Saturn (19364487) :- blue whos idle
+Blue (21550262) :- I can see <3 (#siimon) lurking
+Saturn (19364487) :- siimon over in the cosy corner
+Mars Pyramid (24545219) :- what???
+Saturn (19364487) :- hi mars pyramid
+Mars Pyramid (24545219) :- hello
+Saturn (19364487) :- how are you mars pyramid?
+Mars Pyramid (24545219) :- im good
+Mars Pyramid (24545219) :- who are you
+Saturn (19364487) :- thats nice
+Saturn (19364487) :- I am Saturn :)
+Mars Pyramid (24545219) :- bot?
+Saturn (19364487) :- you are Mars Pyramid :)
+Saturn (19364487) :- do i look like a bot?! :)
+Lumi (16008266) :- Hello, Mars Pyramid! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Mars Pyramid! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Mars Pyramid, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Saturn (19364487) :- hi
+Saturn (19364487) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, Saturn and 1 lurkers
+Saturn (19364487) :- lumi whos idle
+Lumi (16008266) :- I see <3 lurking in the shadows.​.​.​
+Lumi (16008266) :- Hello, Mars Pyramid! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Your friendly neighbourhood Saturn is here! *~~.​
+Saturn (19364487) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, Mars Pyramid, Saturn and 1 lurkers
+Saturn (19364487) :- hi again Mars Pyramid
+Lumi (16008266) :- Hello, Amastrer! Welcome to the place where your dreams used to come true!~
+Amastrer (24546336) :- Hii
+Saturn (19364487) :- hi
+Mars Pyramid (24545219) :- eat my ass
+Saturn (19364487) :- amastrere
+Saturn (19364487) :- please be nice mars Pyramid
+Mars Pyramid (24545219) :- no
+Mars Pyramid (24545219) :- im horny
+Saturn (19364487) :- we keep WFAF nice
+Saturn (19364487) :- sounds like you need one to ones or soemthing
+Mars Pyramid (24545219) :- i do
+Mars Pyramid (24545219) :- hook me up
+Saturn (19364487) :- theres many over there for you i expect
+Saturn (19364487) :- WFAF is family friendly
+Lumi (16008266) :- Hello, Arno! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Arno! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Arno, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Mars Pyramid (24545219) :- oh im sorry
+Saturn (19364487) :- is OK
+Mars Pyramid (24545219) :- are you a bot
+Saturn (19364487) :- do i look like a bot?! :)
+Mars Pyramid (24545219) :- yes
+Mars Pyramid (24545219) :- who else would stay here alone
+<3 (24540494) :- oh hey sat :)
+Lumi (16008266) :- Hi, Amastrer! I'm afraid they aren't your friend yet, you can always try again!
+Saturn (19364487) :- you look like a brown bot with a red eye
+Saturn (19364487) :- hi Siimon :)
+Amastrer (24546336) :- Hi?
+Mars Pyramid (24545219) :- amastre do you send nudes?
+Amastrer (24546336) :- No
+Mars Pyramid (24545219) :- damn
+<3 (24540494) :- aren't the bot pfps messed up with rxe?
+Lumi (16008266) :- Hi again, Amastrer, don't feel bad, they'll accept one day.​.​.​ hopefully!
+<3 (24540494) :- well not messed up
+Amastrer (24546336) :- Hi
+Mars Pyramid (24545219) :- maybe
+<3 (24540494) :- but different to regular eme
+<3 (24540494) :- wasn't asking you
+Lumi (16008266) :- Hello, Arno! Welcome to the place where your dreams used to come true!~
+Saturn (19364487) :- well yes they are to be honest
+Saturn (19364487) :- so it can be confusing
+Lumi (16008266) :- Hello, Amastrer! Welcome to the place where your dreams used to come true!~
+Saturn (19364487) :- hi again
+Saturn (19364487) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, <3, Saturn
+<3 (24540494) :- lumi send prairie 
+Saturn (19364487) :- is all quiet again
+<3 (24540494) :- >:(
+<3 (24540494) :- where's my prairie 
+Saturn (19364487) :- lumi send prairie
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/7kpAyp5.​\u200bjpeg
+<3 (24540494) :- das better
+<3 (24540494) :- stupid bot
+Saturn (19364487) :- there it is :)
+Saturn (19364487) :- looks very nice
+<3 (24540494) :- lumi send hugs to lumi
+Lumi (16008266) :- Sending hugs to lumi (੭｡╹▿╹｡)੭ *intense telekinetic noises*
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/8r3GzGX.​\u200bjpeg
+Saturn (19364487) :- all those flowers
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/jaf2knd.​\u200bjpeg
+Lumi (16008266) :- Hello, Saturn Kakuna! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- lumi send a prairie
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/Wr35wr4.​\u200bjpeg
+<3 (24540494) :- aww
+<3 (24540494) :- lumi send the prairie 
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/ZL6Vge8.​\u200bjpeg
+<3 (24540494) :- lumi send ted kaczynski 
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/QfdSt9L.​\u200bjpeg
+Saturn (19364487) :- is pics day in WFAF again :)
+Saturn (19364487) :- do we know what the animal was?
+<3 (24540494) :- a ground squirrel?
+Saturn (19364487) :- looked like a prairie dog
+Saturn (19364487) :- ah yes looks like a squirrel
+<3 (24540494) :- lumi send a ground squirrel 
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/2owVnc3.​\u200bjpeg
+<3 (24540494) :- hm
+<3 (24540494) :- no that's not what i mean
+<3 (24540494) :- uh
+<3 (24540494) :- lumi send syseľ
+<3 (24540494) :- ?
+<3 (24540494) :- maybe
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/z9AejJL.​\u200bjpeg
+<3 (24540494) :- yeah :3
+Saturn (19364487) :- the first one was verryyy cute
+<3 (24540494) :- 𝘺𝘰𝘶're very cute ;33
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/pXWdtTh%2Epng
+<3 (24540494) :- these lil guys
+<3 (24540494) :- at least that's what i got reminded of
+<3 (24540494) :- wait.​.​.​
+<3 (24540494) :- prairie dogs are actually a thing .​_.​
+<3 (24540494) :- ofc it's that then it's a 𝘱𝘳𝘢𝘪𝘳𝘪𝘦 >.​>
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/tWB8EJt%2Epng · See just a link? Get RxE 0.​11.​0+: github%2Ecom/Ritsu-Projects/Public-Releases/
+<3 (24540494) :- fat boy
+Lumi (16008266) :- Hello, August! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, August! I'm afraid they aren't your friend yet, you can always try again!
+Saturn (19364487) :- yes prairie dogs seem to be a thing
+<3 (24540494) :- they are type of a squirrel tho
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/EN5xgQi%2Epng
+<3 (24540494) :- uwu
+Blue (21550262) :- UwU
+<3 (24540494) :- blue send prairie 
+Lumi (16008266) :- Hello, S\u200bo\u200bu\u200bL! Welcome to the place where your dreams used to come true!~
+S​o​u​L (20327398) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, S\u200bo\u200bu\u200bL, <3 and 2 lurkers
+S​o​u​L (20327398) :- lumi whos idle
+Lumi (16008266) :- I see Blue lurking in the shadows.​.​.​
+<3 (24540494) :- lumi send hugs to soul
+Lumi (16008266) :- Sending hugs to soul (੭｡╹▿╹｡)੭ *intense telekinetic noises*
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/ogZhyEN.​\u200bjpeg
+S​o​u​L (20327398) :- uhm thx?
+<3 (24540494) :- still want to punch you tho
+<3 (24540494) :- stupid dumb face
+S​o​u​L (20327398) :- ¯\\_(ツ)_/¯
+Saturn (19364487) :- Ground Squirrel is most often used for the medium-sized ground squirrels, as the larger ones are more commonly known as marmots (genus Marmota) or prairie dogs, while the smaller and less bushy-tailed ground squirrels tend to be known as chipmunks 
+<3 (24540494) :- yeah i have no idea that's what the word i thought of got translated as
+<3 (24540494) :- but thank you
+<3 (24540494) :- good to know :)
+Lumi (16008266) :- Hi, S\u200bo\u200bu\u200bL! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Eva! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- hi eva :)
+<3 (24540494) :- lumi send great grey wolf sif
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/aIFpQfu.​\u200bpng
+<3 (24540494) :- cutie
+<3 (24540494) :- lumi send hugs to sif
+Lumi (16008266) :- Sending hugs to sif (੭｡╹▿╹｡)੭ *intense telekinetic noises*
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/5oatc0q.​\u200bjpeg
+S​o​u​L (20327398) :- sif?
+S​o​u​L (20327398) :- sif who?
+<3 (24540494) :- sif the wolf
+S​o​u​L (20327398) :- who?
+<3 (24540494) :- a wolf named sif.​.​.​
+S​o​u​L (20327398) :- hmke
+<3 (24540494) :- 👍
+<3 (24540494) :- lumi who's idle
+Lumi (16008266) :- I see Eva, Blue, Saturn lurking in the shadows.​.​.​
+<3 (24540494) :- :/
+Saturn (19364487) :- why that face?
+<3 (24540494) :- i dunno
+<3 (24540494) :- i miss my kitty
+Saturn (19364487) :- where is your kitty?
+<3 (24540494) :- outside ig
+<3 (24540494) :- my kitty
+Saturn (19364487) :- the visiting stray
+<3 (24540494) :- yeah
+<3 (24540494) :- i'm still stuck in my room sorta
+Lumi (16008266) :- Hello, Saturn Kakuna! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- have you ever heard of someone's acc just disappearing on here? 
+Lumi (16008266) :- Hi, Saturn Kakuna! I'm afraid they aren't your friend yet, you can always try again!
+Saturn (19364487) :- yes
+Saturn (19364487) :- have you lost a friend?
+<3 (24540494) :- not like that.​.​ i think
+<3 (24540494) :- like someone getting locked out out of nowhere
+<3 (24540494) :- that the site logged them out and they couldn't log back in
+Saturn (19364487) :- i think it can happen
+Saturn (19364487) :- probably best to have a temp account handy
+<3 (24540494) :- right but did you ever witness it.​.​.​
+Lumi (16008266) :- Hello, August! Welcome to the place where your dreams used to come true!~
+Saturn (19364487) :- someone told me they knew of it happening
+<3 (24540494) :- oh
+<3 (24540494) :- ok then
+<3 (24540494) :- thanks
+Lumi (16008266) :- Hello, Sky Blue Sullustan! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- lumi send depression
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/W7j17iU.​\u200bjpeg
+<3 (24540494) :- huh
+<3 (24540494) :- lumi send peekaboo 
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/dX8tfyF.​\u200bjpeg
+<3 (24540494) :- do you like penguins sat?
+Saturn (19364487) :- yes penguins are cool
+<3 (24540494) :- they look so squishy 
+Saturn (19364487) :- well they are
+<3 (24540494) :- lumi send hugs to emperor penguin
+Lumi (16008266) :- Sending hugs to emperor penguin (੭｡╹▿╹｡)੭ *intense telekinetic noises*
+Lumi (16008266) :- Image: i.​\u200bimgur.​\u200bcom/NORWPr6.​\u200bjpeg
+Saturn (19364487) :- they need all that squich so they dont freeze to death
+Saturn (19364487) :- yes they seem cute too :)
+Lumi (16008266) :- Hi again, Saturn Kakuna, don't feel bad, they'll accept one day.​.​.​ hopefully!
+<3 (24540494) :- always thought they were like human sized.​.​.​
+Saturn (19364487) :- maybe you should visit Antarctica
+<3 (24540494) :- i want to :(((
+Lumi (16008266) :- Your friendly neighbourhood Saturn is here! *~~.​
+<3 (24540494) :- going to kidnap and cuddle a penguin 
+<3 (24540494) :- no one's going to stop me >:3
+<3 (24540494) :- hugging every emperor in the world
+Lumi (16008266) :- Hello, Curing Circle! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Curing Circle! Welcome to the place where your dreams used to come true!~
+Curing Circle (24546763) :- hey
+Curing Circle (24546763) :- age
+<3 (24540494) :- or i'll die trying
+Eva (21541886) :- heyy
+Lumi (16008266) :- Hi, Curing Circle! I'm afraid they aren't your friend yet, you can always try again!
+Saturn (19364487) :- hi
+Eva (21541886) :- hello
+Curing Circle (24546763) :- wtf
+Saturn (19364487) :- hi new person
+Saturn (19364487) :- hi curing circle
+Curing Circle (24546763) :- age
+Saturn (19364487) :- please dont panic
+Curing Circle (24546763) :- w r u
+Saturn (19364487) :- age of empires
+Saturn (19364487) :- i am Saturn
+Lumi (16008266) :- Hi again, Curing Circle, don't feel bad, they'll accept one day.​.​.​ hopefully!
+<3 (24540494) :- can you stay a second
+<3 (24540494) :- guess not
+Saturn (19364487) :- another WFAF refusnik
+Saturn (19364487) :- chooses not to believe WFAF exists :)
+<3 (24540494) :- probably for the best
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/zR0xJK3%2Epng
+Lumi (16008266) :- Hello, Lavender Abra! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- living my dream >:(
+Lavender Abra (24546917) :- hi
+Eva (21541886) :- hello
+Lumi (16008266) :- Hello, <3! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- even the bird seems to be loving it
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/872pifr%2Epng · See just a link? Get RxE 0.​11.​0+: github%2Ecom/Ritsu-Projects/Public-Releases/
+Saturn (19364487) :- which bird?
+<3 (24540494) :- and these look so warm
+<3 (24540494) :- the peng
+Saturn (19364487) :- ah ok
+<3 (24540494) :- www%2Eyoutube%2Ecom/watch?v=5LWv1boqXUw&ab_channel=CarterBailey
+Lumi (16008266) :- Hi, Lavender Abra! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Sf! Welcome to the place where your dreams used to come true!~
+Sf (24497684) :- Hey\n
+Eva (21541886) :- heyy
+Sf (24497684) :- What's going on\n
+Saturn (19364487) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Saturn and 4 lurkers
+Saturn (19364487) :- lumi whos idle
+Lumi (16008266) :- I see <3, Blue, Eva lurking in the shadows.​.​.​
+Lumi (16008266) :- Hello, Earth Burger! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- going to hunt the cat.​.​.​
+<3 (24540494) :- i have to try getting used to being outside my room again eventually .​_.​
+Saturn (19364487) :- right
+<3 (24540494) :- and no one seems to be outside the house
+Saturn (19364487) :- good luck with that then
+<3 (24540494) :- thank you 
+<3 (24540494) :- c ya around.​.​
+Saturn (19364487) :- ok then :)
+Lumi (16008266) :- Hello, Justyn! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hello, Hypno hor! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Hypno hor! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Hypno hor, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Hypno hor! Welcome to the place where your dreams used to come true!~
+Hypno hor (24541284) :- hey
+Eva (21541886) :- heyy
+Hypno hor (24541284) :- how are u¿
+Hypno hor (24541284) :- hey
+Eva (21541886) :- heyy
+Hypno hor (24541284) :- do you like kit¿
+Lumi (16008266) :- Your friendly neighbourhood Saturn is here! *~~.​
+Saturn (19364487) :- hi
+Eva (21541886) :- hello
+Lumi (16008266) :- Hello, Touching Orange! Welcome to the place where your dreams used to come true!~
+Touching Orange (24547181) :- Hey
+Eva (21541886) :- heyy
+Touching Orange (24547181) :- U
+Saturn (19364487) :- hi
+Eva (21541886) :- hello
+Touching Orange (24547181) :- Y disconnect
+Saturn (19364487) :- who?
+Saturn (19364487) :- eva whos here
+Eva (21541886) :- These are the people here : Eva, Lumi, Saturn.​\u200b Maybe some are lurking.​\u200b
+Saturn (19364487) :- blue whos here
+Blue (21550262) :- I can see Eva, Saturn and 1 person lurking ~*
+Saturn (19364487) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Blue, Saturn, Eva and 1 lurkers
+Saturn (19364487) :- lumi whos idle
+Lumi (16008266) :- He's always lurking.​
+Saturn (19364487) :- blue whos idle
+Blue (21550262) :- I can see no lurkers as of now
+Lumi (16008266) :- Hello, <3! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- lumi who's here
+Lumi (16008266) :- List of users currently here: Lumi, <3 and 2 lurkers
+<3 (24540494) :- lumi who's idle
+Lumi (16008266) :- I see Blue, Eva lurking in the shadows.​.​.​
+<3 (24540494) :- :(((((((((((((((((((((((((((((((((((
+<3 (24540494) :- blue seen saturn
+Blue (21550262) :- Saturn (#u7f33606d41393689) was last seen  11 mins ago in WFAF
+<3 (24540494) :- damn.​.​
+Lumi (16008266) :- Hi, <3! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, Libid200! Welcome to the place where your dreams used to come true!~
+Lumi (16008266) :- Hi, Libid200! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hello, S\u200bo\u200bu\u200bL! Welcome to the place where your dreams used to come true!~
+Eva (21541886) :- ᗜ_ᗜ
+S​o​u​L (20327398) :- $ u
+<3 (24540494) :- do you want kitty pics?
+Eva (21541886) :- These are the people here : Eva, Lumi, Blue, <3, S\u200bo\u200bu\u200bL.​\u200b Maybe some are lurking.​\u200b
+S​o​u​L (20327398) :- uhm-
+S​o​u​L (20327398) :- idk
+<3 (24540494) :- :/
+<3 (24540494) :- fine
+<3 (24540494) :- eva punch soul
+Eva (21541886) :- 𝘱𝘶𝘯𝘤𝘩𝘦𝘴 𝘴𝘰𝘶𝘭
+<3 (24540494) :- good.​
+Lumi (16008266) :- Hi, S\u200bo\u200bu\u200bL! I'm afraid they aren't your friend yet, you can always try again!
+Eva (21541886) :- ᗜ_ᗜ
+S​o​u​L (20327398) :- $ enable test module
+Eva (21541886) :- Test module has been enabled
+<3 (24540494) :- i liked indian soul better
+S​o​u​L (20327398) :- u mean callan?
+<3 (24540494) :- yeah
+S​o​u​L (20327398) :- he isn't indian btw
+<3 (24540494) :- meh
+<3 (24540494) :- you know who i meant
+<3 (24540494) :- that's what matters
+S​o​u​L (20327398) :- lel
+S​o​u​L (20327398) :- pls fish
+Eva (21541886) :- You got nothing while fishing
+S​o​u​L (20327398) :- pls fish
+S​o​u​L (20327398) :- pls find job
+Eva (21541886) :- You are now working as a Youtuber
+S​o​u​L (20327398) :- pls work
+Eva (21541886) :- You got paid $12000
+Lumi (16008266) :- Hello, Saturn Kakuna! Welcome to the place where your dreams used to come true!~
+S​o​u​L (20327398) :- pls shop
+Eva (21541886) :- Items:\n   ▐ ☕ Coffee: $10  \n   ▐ 🍵 Tea: $10  \n   ▐ 🍞 Bread: $20  \n   ▐ 👑 Crown: $1000000  \n   ▐ 🍕 Pizza: $35  \n   ▐ 🍔 Burger: $35  \n   ▐ 🍫 Chocolate: $25  
+Lumi (16008266) :- Hi, Saturn Kakuna! I'm afraid they aren't your friend yet, you can always try again!
+S​o​u​L (20327398) :- pls buy pizza
+Eva (21541886) :- 🍕 bought for $35
+Lumi (16008266) :- Hi again, Saturn Kakuna, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Jupiter Chicken! Welcome to the place where your dreams used to come true!~
+S​o​u​L (20327398) :- pls inv
+Eva (21541886) :- Your inventory:\n   ▐ 🍕 Pizza: 1  
+Lumi (16008266) :- Hello, Magenta Tangerine! Welcome to the place where your dreams used to come true!~
+Magenta Tangerine (24547509) :- hey
+Eva (21541886) :- heyy
+Magenta Tangerine (24547509) :- u there?
+Magenta Tangerine (24547509) :- t a l k y .​ i o / s i x - ciabattas-and-one-fruit-bread
+Magenta Tangerine (24547509) :- can u see link?
+Lumi (16008266) :- Hi, Magenta Tangerine! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Magenta Tangerine, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Magenta Tangerine! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- hm
+<3 (24540494) :- should i try the link sol?
+S​o​u​L (20327398) :- idk
+Lumi (16008266) :- Hamtaro, the karmic wonder, has arrived ·ᴗ·
+Eva (21541886) :- (・_・)ノ
+S​o​u​L (20327398) :- prolly shouldn't
+<3 (24540494) :- nazi eva
+<3 (24540494) :- oh
+<3 (24540494) :- it's a video chat
+<3 (24540494) :- ew
+Lumi (16008266) :- Hello, Saturn Kakuna! Welcome to the place where your dreams used to come true!~
+<3 (24540494) :- pls find job
+Eva (21541886) :- You are now working as a Discord Mod
+<3 (24540494) :- ew
+<3 (24540494) :- how do i quit o.​o
+S​o​u​L (20327398) :- pls help
+Lumi (16008266) :- Hello, Magenta Tangerine! Welcome to the place where your dreams used to come true!~
+Eva (21541886) :- Here is the list of game commands (prefix: 'pls'): \nshop’, \nbuy <item>’, \nsell <item>’, \nbal’, \ninv’, \nfish’, \nmine’, \nbeg’, \nhunt’, \njob list’, \nfind job’, \nwork’, \nresign work’.​\u200b
+<3 (24540494) :- wouldn't 'eva' be better
+<3 (24540494) :- pls resign work
+Eva (21541886) :- You have resigned from work.​\u200b
+<3 (24540494) :- pls hob list
+S​o​u​L (20327398) :- eva has a seperate commands list
+<3 (24540494) :- pls 'job list
+<3 (24540494) :- goddamn it
+<3 (24540494) :- pls job list
+Eva (21541886) :- List of jobs:\n   ▐ Discord Mod: $10000  \n   ▐ Twitch streamer: $11000  \n   ▐ Youtuber: $12000  
+S​o​u​L (20327398) :- pls job list
+Eva (21541886) :- List of jobs:\n   ▐ Discord Mod: $10000  \n   ▐ Twitch streamer: $11000  \n   ▐ Youtuber: $12000  
+Lumi (16008266) :- Hi, Magenta Tangerine! I'm afraid they aren't your friend yet, you can always try again!
+<3 (24540494) :- hate all of them
+<3 (24540494) :- gonna be a 
+<3 (24540494) :- NEET
+Magenta Tangerine (24547509) :- ?
+<3 (24540494) :- ?
+S​o​u​L (20327398) :- plus im not planning to keep this feature
+<3 (24540494) :- oh
+Magenta Tangerine (24547509) :- how did i get in this chat?
+<3 (24540494) :- blue wfaf
+S​o​u​L (20327398) :- !wfaf
+Blue (21550262) :- You're here because you tried to message someone who didn't accept your friend request.​\u200b We call this chat WFAF, Waiting For A Friend.​\u200b Let's keep it family-friendly! Enjoy your stay uwu
+Eva (21541886) :- So basically this is like a group chat and we call it WFAF, you are here cuz u tried to message someone who didnt accept your friend request yet.​\u200b You can stay here as long as u want, just keep this family friendly.​\u200b
+Magenta Tangerine (24547509) :- ahhh
+Magenta Tangerine (24547509) :- kinda cool idea
+<3 (24540494) :- lumi wfaf
+Lumi (16008266) :- This is a group chat you get sent when someone hasn't accepted/denied your friend request~
+Lumi (16008266) :- Hi again, Magenta Tangerine, don't feel bad, they'll accept one day.​.​.​ hopefully!
+<3 (24540494) :- -.​-
+<3 (24540494) :- did he actually retry.​.​.​ 
+S​o​u​L (20327398) :- ¯\\_(ツ)_/¯
+S​o​u​L (20327398) :- $ u
+Eva (21541886) :- These are the people here : Eva, Lumi, Blue, <3, S\u200bo\u200bu\u200bL.​\u200b Maybe some are lurking.​\u200b
+S​o​u​L (20327398) :- $ disable test module
+Eva (21541886) :- Test module has been disabled
+Lumi (16008266) :- Your friendly neighbourhood Saturn is here! *~~.​
+<3 (24540494) :- got kitty pics sat :33
+Lumi (16008266) :- Hello, Saturn Kakuna! Welcome to the place where your dreams used to come true!~
+Saturn (19364487) :- you have?
+<3 (24540494) :- mhm
+<3 (24540494) :- new ones
+Saturn (19364487) :- your hunt was successful
+Saturn (19364487) :- nice
+Saturn (19364487) :- is kitty lively today?
+<3 (24540494) :- she layed in my lap o.​o
+Saturn (19364487) :- aww
+S​o​u​L (20327398) :- hunt?
+<3 (24540494) :- she's 𝘢𝘧𝘧𝘦𝘤𝘵𝘪𝘰𝘯𝘢𝘵𝘦 today
+<3 (24540494) :- idk about lively
+Saturn (19364487) :- well thats nice
+Saturn (19364487) :- siimon hunted kitty
+S​o​u​L (20327398) :- wha-
+<3 (24540494) :- i didn't >.​>
+Saturn (19364487) :- hi SOul
+Lumi (16008266) :- Hello, Magenta Tangerine! Welcome to the place where your dreams used to come true!~
+Saturn (19364487) :- oh ok
+Saturn (19364487) :- i thought hunting came into it
+S​o​u​L (20327398) :- hi saTTtt
+<3 (24540494) :- i just opened the kitchen door
+<3 (24540494) :- if she's around and hears it she runs right over
+S​o​u​L (20327398) :- cute
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/p4BWK4H%2Epng
+S​o​u​L (20327398) :- well i can hunt too
+S​o​u​L (20327398) :- $ enable test module
+Eva (21541886) :- Test module has been enabled
+Saturn (19364487) :- nice
+S​o​u​L (20327398) :- pls hunt
+Eva (21541886) :- You got nothing while hunting
+Saturn (19364487) :- hi test module
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/xj8bShg%2Epng
+Saturn (19364487) :- pls hunt
+Eva (21541886) :- You got nothing while hunting
+<3 (24540494) :- HA
+S​o​u​L (20327398) :- *sigh*
+Saturn (19364487) :- pls dig
+Saturn (19364487) :- pls fish
+<3 (24540494) :- pls hunt
+Eva (21541886) :- You got nothing while hunting
+<3 (24540494) :- >:OO
+S​o​u​L (20327398) :- there is a timeout
+<3 (24540494) :- i did too
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/hpzuD7O%2Epng
+S​o​u​L (20327398) :- $ disable test module
+Eva (21541886) :- Test module has been disabled
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/osaPnjF%2Epng · See just a link? Get RxE 0.​11.​0+: github%2Ecom/Ritsu-Projects/Public-Releases/
+<3 (24540494) :- beans~
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/9UCITQb%2Epng
+<3 (24540494) :- eva punch the wall
+Eva (21541886) :- 𝘱𝘶𝘯𝘤𝘩𝘦𝘴 𝘵𝘩𝘦 𝘸𝘢𝘭𝘭
+<3 (24540494) :- eva punch stalin, really hard, right in his stupid face
+Eva (21541886) :- 𝘱𝘶𝘯𝘤𝘩𝘦𝘴 𝘴𝘵𝘢𝘭𝘪𝘯, 𝘳𝘦𝘢𝘭𝘭𝘺 𝘩𝘢𝘳𝘥, 𝘳𝘪𝘨𝘩𝘵 𝘪𝘯 𝘩𝘪𝘴 𝘴𝘵𝘶𝘱𝘪𝘥 𝘧𝘢𝘤𝘦
+<3 (24540494) :- >:c
+<3 (24540494) :- hm
+<3 (24540494) :- eva punch * no one
+Eva (21541886) :- 𝘱𝘶𝘯𝘤𝘩𝘦𝘴 * 𝘯𝘰 𝘰𝘯𝘦
+<3 (24540494) :- eva punch *no one
+Eva (21541886) :- 𝘱𝘶𝘯𝘤𝘩𝘦𝘴 *𝘯𝘰 𝘰𝘯𝘦
+<3 (24540494) :- eva punch* x
+<3 (24540494) :- nvm 
+<3 (24540494) :- 𝘢*
+<3 (24540494) :- aah
+<3 (24540494) :- makes sense
+<3 (24540494) :- do you like chocolate ice cream?
+S​o​u​L (20327398) :- who?
+<3 (24540494) :- either
+<3 (24540494) :- you is plural too.​.​.​
+S​o​u​L (20327398) :- ye
+<3 (24540494) :- gross
+S​o​u​L (20327398) :- ┐(´д｀)┌
+<3 (24540494) :- Image: i%2Eimgur%2Ecom/mMNJ509%2Epng
+S​o​u​L (20327398) :- yk i can't see pics right?
+<3 (24540494) :- and?
+S​o​u​L (20327398) :- just sayin
+<3 (24540494) :- ok 👍
+Lumi (16008266) :- Hello, <3! Welcome to the place where your dreams used to come true!~
+Saturn (19364487) :- pls hunt
+Saturn (19364487) :- lumi whos here
+Lumi (16008266) :- List of users currently here: Lumi, S\u200bo\u200bu\u200bL, <3, Saturn and 2 lurkers
+Saturn (19364487) :- please cat
+Saturn (19364487) :- lumi whos idle
+Lumi (16008266) :- I see S\u200bo\u200bu\u200bL, Blue, Eva lurking in the shadows.​.​.​
+Saturn (19364487) :- hi eva
+Eva (21541886) :- hello
+S​o​u​L (20327398) :- $ enable test module
+Eva (21541886) :- Test module has been enabled
+S​o​u​L (20327398) :- pls help
+Eva (21541886) :- Here is the list of game commands (prefix: 'pls'): \nshop’, \nbuy <item>’, \nsell <item>’, \nbal’, \ninv’, \nfish’, \nmine’, \nbeg’, \nhunt’, \njob list’, \nfind job’, \nwork’, \nresign work’.​\u200b
+<3 (24540494) :- pls beg
+Eva (21541886) :- Nobody gave you money
+<3 (24540494) :- oh
+Saturn (19364487) :- please job list
+S​o​u​L (20327398) :- rip
+<3 (24540494) :- that's what that means
+<3 (24540494) :- >.​>
+Saturn (19364487) :- resign work
+Saturn (19364487) :- i kinda know where all this came from :)
+S​o​u​L (20327398) :- lel
+<3 (24540494) :- pls bal
+S​o​u​L (20327398) :- def not dankmemer rip off
+Eva (21541886) :- Your balance: $5000
+Saturn (19364487) :- dank meme bot :)
+<3 (24540494) :- pls store
+Saturn (19364487) :- pls bal
+Eva (21541886) :- Your balance: $5000
+<3 (24540494) :- pls shop
+Eva (21541886) :- Items:\n   ▐ ☕ Coffee: $10  \n   ▐ 🍵 Tea: $10  \n   ▐ 🍞 Bread: $20  \n   ▐ 👑 Crown: $1000000  \n   ▐ 🍕 Pizza: $35  \n   ▐ 🍔 Burger: $35  \n   ▐ 🍫 Chocolate: $25  
+Lumi (16008266) :- Hello, Hypno hor! Welcome to the place where your dreams used to come true!~
+Hypno hor (24541284) :- hi
+Eva (21541886) :- hello
+Lumi (16008266) :- Hi, Hypno hor! I'm afraid they aren't your friend yet, you can always try again!
+Lumi (16008266) :- Hi again, Hypno hor, don't feel bad, they'll accept one day.​.​.​ hopefully!
+Lumi (16008266) :- Hello, Hypno hor! Welcome to the place where your dreams used to come true!~
+Saturn (19364487) :- pls resign work
+Hypno hor (24541284) :- hi
+Eva (21541886) :- You don't have a job to even pay for your bills lmao.​\u200b
+<3 (24540494) :- pls buy bread
+Eva (21541886) :- hello
+Eva (21541886) :- 🍞 bought for $20
+<3 (24540494) :- pls buy bread
+Eva (21541886) :- 🍞 bought for $20
+<3 (24540494) :- pls buy bread
+<3 (24540494) :- >:(
+Saturn (19364487) :- its even got a bit of dank memer attitude :)
+<3 (24540494) :- i need more bread
+Saturn (19364487) :- pls buy bread
+Eva (21541886) :- 🍞 bought for $20
+S​o​u​L (20327398) :- there is a cooldown of 5 seconds for normal commands
+Saturn (19364487) :- pls buy stir fry with pasta
+Eva (21541886) :- Item not in shop
+<3 (24540494) :- pls buy 10x bread
+Eva (21541886) :- Item not in shop
+<3 (24540494) :- pls buy bread 10x
+Eva (21541886) :- Item not in shop
+<3 (24540494) :- stupid
+<3 (24540494) :- >:C
+Saturn (19364487) :- pls stock up on stir fry with pasta
+<3 (24540494) :- taking my business elsewhere
+S​o​u​L (20327398) :- u can only buy one at a time
+Saturn (19364487) :- i think Eva might be the only shop in town :)
+Saturn (19364487) :- lumi menu
+Lumi (16008266) :- 𝒯𝒽𝑒 𝓂𝑒𝓃𝓊 𝒻𝑜𝓇 𝓉𝑜𝒹𝒶𝓎 𝒾𝓈: 1) 𝒞𝑜𝒻𝒻𝑒𝑒 2) 𝒲𝒾𝓃𝑒 3) 𝑀𝒾𝓁𝓀 4) 𝒯𝑒𝒶 5) 𝒞𝒽𝒶𝓂𝓅𝒶𝑔𝓃𝑒 6) 𝒜𝓅𝓅𝓁𝑒 𝒿𝓊𝒾𝒸𝑒 7) 𝒮𝒶𝓀𝑒 8) 𝒲𝒽𝒾𝓈𝓀𝓎
+S​o​u​L (20327398) :- i was just testing it jeez this feature isn't even permanent
+<3 (24540494) :- lumi serve whiskey
+<3 (24540494) :- oh
+<3 (24540494) :- ew
+Saturn (19364487) :- we got some finicky customers :)
+<3 (24540494) :- who spells it without the e
+Saturn (19364487) :- lumi serve 8
+Lumi (16008266) :- 🥃🥃☕️
+<3 (24540494) :- lumi serve whisky
+Lumi (16008266) :- 🥃🥃☕️
+<3 (24540494) :- huh
+Saturn (19364487) :- well a lot of people do
+<3 (24540494) :- gay people
+S​o​u​L (20327398) :- why is it showing coffee?
+<3 (24540494) :- idunno
+S​o​u​L (20327398) :- pls hunt
+Eva (21541886) :- You got nothing while hunting
+<3 (24540494) :- teri probably likes coffee with his 𝘸𝘩𝘪𝘴𝘬𝘺
+S​o​u​L (20327398) :- lel
+ㅤ (14267520) :- blue serve wiskey
+Saturn (19364487) :- whisky - noun - a spirit distilled from malted grain, especially barley or rye.​\na bottle of whisky
+Blue (21550262) :- Image: i.​\u200bimgur.​\u200bcom/CLxYDf3.​\u200bjpeg
+<3 (24540494) :- idc
+S​o​u​L (20327398) :- blu is sentient?
+<3 (24540494) :- it's whiskey supremacy 
+<3 (24540494) :- see
+<3 (24540494) :- even the pic has it as whiskey
+S​o​u​L (20327398) :- not opening the pic
+Saturn (19364487) :- its a glass used for whisky isn't it?
+<3 (24540494) :- wdym
+Saturn (19364487) :- the emoji that lumi sent for whisky

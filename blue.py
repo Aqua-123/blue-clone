@@ -818,9 +818,11 @@ def name_from_id(id_inp):
         return name
 
 
-def get_seen(_result_):
+def get_seen(_result_, id_inp):
     try:
         string = _result_.group(1)
+        me_regex = re.compile(r"me(\\n)*\s*$", re.I)
+        if me_regex.match(string): string = str(id_inp)
         if string.isnumeric():
             return fix_message(send_seen_db(string))
         string = string.replace("#", "")
@@ -841,9 +843,9 @@ def get_seen(_result_):
             try:
                 return send_seen_db(list(possibles.keys())[0])
             except:
-                return fix_message(f"I dont remember seeing user with name {string}")
+                return fix_message(f"I dont remember seeing anyone named {string}")
         if len(possibles) == 0:
-            return fix_message(f"I dont remember seeing user with name {string}")
+            return fix_message(f"I dont remember seeing anyone named {string}")
         return fix_message(f"I have seen the following users with the name {string} :- {curly_replace(str(possibles))}. Specify the ID correspnding to their name and ask 'Blue seen ID'")
     except Exception as e:
         return fix_message(f"I dont remember seeing {name_from_id(string)} around")
@@ -934,23 +936,29 @@ def get_insult(res):
         return
     name = res.group(1)
     r = requests.get(insult_url)
-    r = json.loads(r.text)
-    r = r["insult"]
+    r = json.loads(r.text)["insult"]
     return f"{name}, {r}"
 
 
 def send_feelings(index, id_inp, _result_, console):
     global DATA
     input_name = _result_.group(1)
+    #remove any newline char
+    if not input_name or index == 3: input_name = _result_.group(4)
+    input_name = input_name.replace("\n", "").strip()
+    # check if input name matches "me"
+    me_regex = re.compile(r"me(\\n)*\s*$", re.I)
+    if me_regex.match(input_name):
+        input_name = "you"
     resp = ""
     match index:
         case 1: resp = sending_love % input_name
         case 2: resp = sending_pats % input_name
-        case 3: resp = sending_hugs % _result_.group(4)
+        case 3: resp = sending_hugs % input_name
         case 4: resp = sending_bonks % input_name
         case 5 if id_inp in DATA["admin"] or console: resp = getid(_result_)
         case 6 if id_inp in DATA["admin"] or console: resp = get_details(_result_)
-        case 7: resp = get_seen(_result_)
+        case 7: resp = get_seen(_result_, id_inp)
         case 8 | 9: Thread(target=send_pic, args=(input_name, False if index == 8 else True)).start()
         case 10: resp = get_insult(_result_)
     return resp
@@ -1122,8 +1130,7 @@ while True:
             admin_func(message, ID, True if ID in DATA["admin"] else False)
             guessing_starter(ID, message)
             guesser(ID, message)
-            if ID in DATA["mutelist"]:
-                continue
+            if ID in DATA["mutelist"]: continue
             coins_feelings(message, ID, False)
             matching(fix_name(name), response_dict, message, False, False)
             matching(fix_name(name), whos_here_res, message, False, True)
