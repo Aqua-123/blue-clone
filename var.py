@@ -124,10 +124,10 @@ im_bored_list = [
 hey1 = re.compile(r"""hi blue(\\n)*\s*$""", re.I)
 howdy = re.compile(r"""howdy Blue\??\s*$""", re.I)
 whos_here = re.compile(
-    r"""blue (who'?’?s here\??)|(das crazy\??)|(who is all here)|(who all are t?here\??)|(blue where the hoes at\??)(\\n)*\s*$""",
+    r"""(!u)|(blue (who'?’?s here\??)|(das crazy\??)|(who is all here)|(who all are t?here\??)|(blue where the hoes at\??))(\\n)*\s*$""",
     re.I)
 whos_idle = re.compile(
-    r"""blue (who'?’?s idle|lurking)|(who is all idle|lurking)\??(\\n)*\s*$""",
+    r"""(!i)|(blue (who'?’?s idle|lurking)|(who is all idle|lurking)\??)(\\n)*\s*$""",
     re.I)
 tldr = re.compile(
     r"""(blue (wfaf|tldr)|(where are we))|(what is wfaf)(\\n)*\s*$""", re.I)
@@ -173,8 +173,9 @@ hideregex = re.compile(r"""blue help me hide(\\n)*\s*$""", re.I)
 ily = re.compile(r"""blue i(ly)|( love you)(\\n)*\s*""", re.I)
 love = re.compile(r"""blue gift love(\\n)*\s*$""", re.I)
 dice = re.compile(r"""blue roll a dice(\\n)*\s*$""", re.I)
-mutereg = re.compile(r"""blue mute ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
-unmutereg = re.compile(r"""blue unmute ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+mutereg = re.compile(r"""(?:blue|eva) mute ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+unmutereg = re.compile(
+    r"""(?:blue|eva) unmute ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 enableai = re.compile(r"""blue enable chat-ai(\\n)*\s*""", re.I)
 disableai = re.compile(r"""blue disable chat-ai(\\n)*\s*""", re.I)
 setgreet = re.compile(
@@ -190,7 +191,8 @@ refresh_data = re.compile(r"""blue reload data(\\n)*\s*""", re.I)
 refresh_messages = re.compile(r"""blue reload message data(\\n)*\s*""", re.I)
 seen_reg = re.compile(r"""blue seen ([^\\]+)(\\n)*\s*""", re.I)
 
-addlandmine = re.compile(r"""blue add landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+addlandmine = re.compile(
+    r"""blue add landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 removelandmine = re.compile(r"""blue remove landmine ([a-z0-9\W ]+)(\\n)*\s*""",
                             re.I)
 getlandmine = re.compile(r"""blue get landmine list(\\n)*\s*""", re.I)
@@ -249,7 +251,7 @@ chess_game = re.compile(r"""blue start chess game against ([0-9]+)(\\n)*\s*""",
 chess_reset = re.compile(r"""!chess reset(\\n)*\s*""", re.I)
 chess_get_board = re.compile(r"""!chess get board(\\n)*\s*""", re.I)
 
-#insult
+# insult
 insult = re.compile(r"""blue insult ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 save_message_r = "Okay message saved for user %s"
 # Mene replies
@@ -272,8 +274,8 @@ hate_myself_r = "I like you, have a cupcake 🧁 ^-^"
 thanks_r = "You're welcome :D"
 hi_r = "Hellosss :D"
 smile_r = "<:"
-#kill_r = "Ahem 🔪 "
-kill_r = "Nu, smh"
+kill_r = "Ahem 🔪 "
+#kill_r = "Nu, smh"
 pats_r = "._.)/(._."
 hug_r = "(੭｡╹▿╹｡)੭"
 party_r = "partyyy wohooo 🥳"

@@ -1,6 +1,6 @@
 {
-  "python.linting.pylintEnabled": false,
- "python.linting.enabled": false,
+  "python.linting.pylintEnabled": true,
+ "python.linting.enabled": true,
   "files.exclude": {
     "**/.git/objects/**": true,
     "**/node_modules/**": true,
@@ -9,5 +9,8 @@
     "**/wfaf-logs/**": true,
     "database.sqlite4": true,
     
-  }
+  },
+  "editor.formatOnSave": true
+
+
 }
