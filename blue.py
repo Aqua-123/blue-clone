@@ -1,4 +1,6 @@
-# pylint: disable=missing-function-docstring, global-statement, wildcard-import. broad-except, unused-wildcard-import, global-variable-not-assigned
+# pylint: disable=missing-function-docstring, global-statement,
+# wildcard-import. broad-except, unused-wildcard-import,
+# global-variable-not-assigned
 import json
 import random
 from pathlib import Path
@@ -21,10 +23,16 @@ def send_message(content):
     jsonmessage = {
         "command": "message",
         "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":null}",
-        "data": "{\"message\":\"" + fix_message(content) + "\",\"id\":null,\"action\":\"speak\"}"}
+        "data": "{\"message\":\"" +
+        fix_message(content) +
+        "\",\"id\":null,\"action\":\"speak\"}"}
 
-    jsonmessage_alt = {"command": "message", "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":\"blueyblue\"}",
-                       "data": "{\"message\":\"" + fix_message(content) + "\",\"id\":\"blueyblue\",\"action\":\"speak\"}"}
+    jsonmessage_alt = {
+        "command": "message",
+        "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":\"blueyblue\"}",
+        "data": "{\"message\":\"" +
+        fix_message(content) +
+        "\",\"id\":\"blueyblue\",\"action\":\"speak\"}"}
     if ALT_UNIVERSE_TOGGLE:
         ws.send(json.dumps(jsonmessage_alt))
     else:
@@ -179,7 +187,8 @@ def send_greet(name_inp, username_inp):
 
 def greet(action, _result_, greet_var, userdat):
     global DATA, SAVED_MESSAGES, MAIN_DICT, IDLE_DICT, TIMEOUT_CONTROL, STATS_LIST
-    if not ((action in userdat) and ("user" in userdat) and "display_name" in userdat["user"]):
+    if not ((action in userdat) and ("user" in userdat)
+            and "display_name" in userdat["user"]):
         return
     name_inp = fix_name(userdat["user"]["display_name"])
     username = userdat["user"]["username"]
@@ -225,7 +234,8 @@ def check_greeters(inputmessage, id_inp):
     if id_inp not in DATA["greeter_fallback"]:
         return
     for reg_m in greet_check:
-        if inputmessage in DATA["custom_greet"].values() or reg_m.match(inputmessage) or inputmessage == blue_greet:
+        if inputmessage in DATA["custom_greet"].values() or reg_m.match(
+                inputmessage) or inputmessage == blue_greet:
             dis_en_greets(id_inp)
             return
     for reg_m in DATA["custom_greet"].values():
@@ -257,7 +267,8 @@ def saving_messages(name_inp, _result_):
         update_messages_json()
         return save_message_r % _input_
     else:
-        return fix_message(f"I have seen the following users with the name {_result_.group(2)} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
+        return fix_message(
+            f"I have seen the following users with the name {_result_.group(2)} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
 
 
 def downvote(cookie, id_inp):
@@ -311,8 +322,11 @@ def stalker(id_inp, time_now):
         if resp.status_code == 200:
             resp = json.loads(resp.text)["user"]
             time = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
-            text = logging_text % (
-                str(time), resp["display_name"], resp["karma"], resp["username"], resp["gender"])
+            text = logging_text % (str(time),
+                                   resp["display_name"],
+                                   resp["karma"],
+                                   resp["username"],
+                                   resp["gender"])
             with open(file, "a") as file:
                 file.write(text)
         if resp.status_code == 404:
@@ -332,13 +346,13 @@ def stalker(id_inp, time_now):
 def respond_uptime():
     sr = str(datetime.now() - STARTTIME).split(":")
     if sr[0] == "0":
-        mins = int(sr[1])+0
+        mins = int(sr[1]) + 0
         if mins == 0:
             return just_joined
         elif mins == 1:
             return here_for_one_min
         else:
-            return here_for_x_mins % str(int(sr[1])+0)
+            return here_for_x_mins % str(int(sr[1]) + 0)
     elif sr[0] == "1":
         return here_for_an_hour
     return here_for_hours_and_mins % (str(sr[0]))
@@ -492,7 +506,8 @@ def make_knight(_result_):
         DATA["knight"].append(id_inp)
         update_data_json()
         return knight_added % name_inp
-    return fix_message(f"I have seen the following users with the name {name_inp} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
+    return fix_message(
+        f"I have seen the following users with the name {name_inp} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
 
 
 def remove_knight(_result_):
@@ -503,13 +518,14 @@ def remove_knight(_result_):
     if not id_inp or (isinstance(id_inp, dict) and len(id_inp) == 0):
         return not_seen % name_inp
     if not isinstance(id_inp, dict):
-        if not id_inp in DATA["knight"]:
+        if id_inp not in DATA["knight"]:
             return knight_not_added % name_inp
         DATA["knight"].remove(id_inp)
         update_data_json()
         return knight_removed % name_inp
     if len(id_inp) != 1:
-        return fix_message(f"I have seen the following users with the name {name_inp} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
+        return fix_message(
+            f"I have seen the following users with the name {name_inp} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
     id_inp = list(id_inp.keys())[0]
     if id_inp not in DATA["knight"]:
         return knight_not_added % name_inp
@@ -548,7 +564,8 @@ def save_nickname(_result_):
         DATA["nickname"][id_inp].append(nickname)
         update_data_json()
         return nickname_updated % (nickname, name_inp)
-    return fix_message(f"I have seen the following users with the name {input_name} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
+    return fix_message(
+        f"I have seen the following users with the name {input_name} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
 
 
 def toggle_greets(_result_):
@@ -596,7 +613,77 @@ def toggle_insult_func(_result_):
     insult_control = False
     return done
 
+def get_wall_id(user_id):
+    url = f"https://emeraldchat.com/profile_json?id={user_id}"
+    resp = requests.get(url, cookies = cookies)
+    if resp.status_code == 200:
+        return resp.json()["wall_id"]
+    return None
 
+def get_wall_posts(wall_id):
+    url = f"https://emeraldchat.com/microposts_default?id={wall_id}"
+    resp = requests.get(url, cookies = cookies)
+    if resp.status_code == 200:
+        return resp.json()["microposts"]
+    return None
+
+def get_post_contents(post_id):
+    url = f"https://emeraldchat.com/micropost_json?id={post_id}"
+    response = requests.get(url, cookies = cookies)
+    if response.status_code == 200:
+        post = response.json()["micropost"]
+        return post["content"]
+    return None
+
+def test_mega(content):
+    mega_regex = re.compile(r"https://mega\.nz/((folder|file)/([^#]+)#(.+)|#(F?)!([^!]+)!(.+))", re.MULTILINE)
+    mega_match = mega_regex.search(content)
+    return bool(mega_match)
+
+def test_dropbox(content):
+    # check if contains word dropbox
+    dropbox_regex = re.compile(r"dropbox", re.I)
+    dropbox_match = dropbox_regex.search(content)
+    return bool(dropbox_match)
+
+def is_flaged(content):
+    if test_mega(content) or test_dropbox(content): 
+        return True
+    return False
+
+def log_link(id, link):
+    file = open("report_links.txt", "a+")
+    for line in file:
+        if link in line:
+            return
+    file.write(f"{id} - {link}\n")
+    file.close()
+
+# segment array into chunks of size n
+def segment(array, n):
+    for i in range(0, len(array), n):
+        yield array[i:i + n]
+    return array
+
+def report_id(_result_):
+    id_inp = _result_.group(1)
+    wall_id = get_wall_id(id_inp)
+    if not wall_id:
+        return
+    wall_posts = get_wall_posts(wall_id)
+    if not wall_posts:
+        return
+    if len(wall_posts) > 90:
+        wall_posts = segment(wall_posts, 90)
+    else: 
+        wall_posts = [wall_posts]
+    for seg in wall_posts:
+        for post in seg:
+            content = get_post_contents(post)
+            if content and is_flaged(content):
+                log_link(id_inp, content)
+        sleep(15)
+    
 def admin_function_init(i, id_inp, isadmin, _result_):
     global GREET_STATUS, RUNNING, input_name, STARTTIME, aichatstate, GREET_TIMEOUT, DATA
     if i == 0:
@@ -671,6 +758,9 @@ def admin_function_init(i, id_inp, isadmin, _result_):
         return_response = save_nickname(_result_)
     elif i == 36:
         return_response = toggle_insult_func(_result_)
+    elif i == 37:
+        return_response = "Okay, thank you for reporting ^^"
+        Thread(target=report_id, args=(_result_,)).start()
     else:
         return_response = False
     if return_response:
@@ -709,7 +799,8 @@ def spam_checker():
     for eyedee, spam_keys in SPAM_TIMEOUT.items():
         if eyedee in banned:
             continue
-        if (len(spam_keys) >= 3 and spam_keys[-1] - spam_keys[-3] < 1.3) or (len(spam_keys) >= 5 and spam_keys[-1] - spam_keys[-5] < 3):
+        if (len(spam_keys) >= 3 and spam_keys[-1] - spam_keys[-3] < 1.3) or (
+                len(spam_keys) >= 5 and spam_keys[-1] - spam_keys[-5] < 3):
             thread(eyedee)
 
 
@@ -763,31 +854,38 @@ def send_seen_db(id_inp):
     name, inp_user = query_res[1], query_res[2]
     date_string = return_datestring(deltatime.days, inputdate)
     resp = f"{date_string} {deltatime.seconds//3600} hours ago "
-    if deltatime.seconds//3600 == 0:
+    if deltatime.seconds // 3600 == 0:
         resp = f"{date_string} {deltatime.seconds//60 % 60} mins ago "
-    if deltatime.seconds//60 % 60 == 0:
+    if deltatime.seconds // 60 % 60 == 0:
         resp = f"{date_string} a couple moments ago "
     if channel_name == "WFAF":
         return f"{name} (#{inp_user}) was last seen {resp}in WFAF"
     res = get_last_record_id(id_inp, True)
     channel_name = channel_dict[channel_name]
     if not res:
-        secs = deltatime.seconds//60 % 60
+        mins = deltatime.seconds // 60 % 60
+        hours = deltatime.seconds // 3600
         date_channel = inputdate.split(" ")[0]
         date_string = return_datestring(deltatime.days, date_channel)
         broiler_response = f"I dont remember seeing {name} (#{inp_user}) in WFAF but they were last seen "
-        if deltatime.seconds//3600 != 0:
-            return broiler_response + f"{date_string} {deltatime.seconds//3600} hours ago in {channel_name}"
-        if deltatime.seconds//60 % 60 == 0:
+        if hours != 0:
+            return broiler_response + \
+                f"{date_string} {hours} hours ago in {channel_name}"
+        if mins == 0:
             return broiler_response + f"a couple moments ago in {channel_name}"
-        return broiler_response + f"{date_string} {secs} mins ago in {channel_name}"
+        return broiler_response + \
+            f"{date_string} {mins} mins ago in {channel_name}"
     deltatime_wfaf = return_deltatime(res[-1])
     date_string = return_datestring(deltatime_wfaf.days, inputdate)
-    re = f"{name} (#{inp_user}) was last seen {date_string} {deltatime_wfaf.seconds//3600} hours ago "
-    if deltatime_wfaf.seconds//3600 == 0:
-        re = f"{name} (#{inp_user}) was last seen {date_string} {deltatime_wfaf.seconds//60 % 60} mins ago "
-    if deltatime_wfaf.seconds//60 % 60 == 0:
+    hours_wfaf = deltatime_wfaf.seconds // 3600
+    mins_wfaf = deltatime_wfaf.seconds // 60 % 60
+    re = f"{name} (#{inp_user}) was last seen {date_string} {hours_wfaf} hours ago "
+    if hours_wfaf == 0:
+        re = f"{name} (#{inp_user}) was last seen {date_string} {mins_wfaf} mins ago "
+    if deltatime_wfaf.seconds // 60 % 60 == 0:
         re = f"{name} (#{inp_user}) was last seen {date_string} a couple moments ago "
+    if (deltatime.seconds // 3600 - hours_wfaf == 0) or (hours_wfaf == 0 and deltatime.seconds // 60 % 60 - mins_wfaf == 0):
+        return f"{re} in {channel_name}"
     return f"{re}in WFAF but was more recently seen {resp} in {channel_name}"
 
 
@@ -854,7 +952,8 @@ def reply_whos_here():
 def reply_whos_idle():
     global WHOS_HERE_RESPONSE
     dict_thread_starter(IDLE_DICT)
-    return fix_message(whos_lurking_none) if len(IDLE_DICT) == 0 else fix_message(whos_lurking_gen % format_out_list(WHOS_HERE_RESPONSE))
+    return fix_message(whos_lurking_none) if len(IDLE_DICT) == 0 else fix_message(
+        whos_lurking_gen % format_out_list(WHOS_HERE_RESPONSE))
 
 
 def name_from_id(id_inp):
@@ -873,7 +972,7 @@ def name_from_id(id_inp):
 def get_seen(_result_, id_inp):
     try:
         string = _result_.group(1).strip()
-        me_regex = re.compile(r"me(\\n)*\s*$", re.I)
+        me_regex = re.compile(r"m\s*e(\\n)*\s*$", re.I)
         if me_regex.match(string):
             string = str(id_inp)
         if string.isnumeric():
@@ -896,12 +995,15 @@ def get_seen(_result_, id_inp):
             try:
                 return send_seen_db(list(possibles.keys())[0])
             except Exception:
-                return fix_message(f"I dont remember seeing anyone named {string}")
+                return fix_message(
+                    f"I dont remember seeing anyone named {string}")
         if len(possibles) == 0:
             return fix_message(f"I dont remember seeing anyone named {string}")
-        return fix_message(f"I have seen the following users with the name {string} :- {curly_replace(str(possibles))}. Specify the ID correspnding to their name and ask 'Blue seen ID'")
+        return fix_message(
+            f"I have seen the following users with the name {string} :- {curly_replace(str(possibles))}. Specify the ID correspnding to their name and ask 'Blue seen ID'")
     except Exception:
-        return fix_message(f"I dont remember seeing {name_from_id(string)} around")
+        return fix_message(
+            f"I dont remember seeing {name_from_id(string)} around")
 
 
 def coin_handling(_result_):
@@ -912,7 +1014,8 @@ def coin_handling(_result_):
         return too_many_coins
     DATA["coins"] += coin_add
     update_data_json()
-    return (adding_one_coin if num == "1" else adding_coins) % (coin_add, DATA["coins"])
+    return (adding_one_coin if num == "1" else adding_coins) % (
+        coin_add, DATA["coins"])
 
 
 def getid(_result_):
@@ -929,7 +1032,8 @@ def getid(_result_):
         return not_seen % input_str
     if len(id_inp) == 1:
         return id_response % (input_str, list(id_inp.keys())[0])
-    return fix_message(f"I have seen the following users with the name {input_str} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
+    return fix_message(
+        f"I have seen the following users with the name {input_str} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
 
 
 def get_jokes():
@@ -978,8 +1082,10 @@ def get_details(_result_):
         gender = resp["gender"]
         created = resp["created_at"].split("T")
         if gender:
-            return details_response_null_gender % (id_inp, name_inp, username, karma, created[0], created[1])
-        return details_response % (id_inp, name_inp, username, karma, gender, created[0], created[1])
+            return details_response_null_gender % (
+                id_inp, name_inp, username, karma, created[0], created[1])
+        return details_response % (
+            id_inp, name_inp, username, karma, gender, created[0], created[1])
     if resp.status_code == 404:
         return account_deleted
     if resp.status_code == 403:
@@ -1002,7 +1108,7 @@ def send_feelings(index, id_inp, _result_, console):
     if not input_name or index == 3:
         input_name = _result_.group(4)
     input_name = input_name.replace("\n", "").strip()
-    me_regex = re.compile(r"me(\\n)*", re.I)
+    me_regex = re.compile(r"m\s*e(\\n)*", re.I)
     input_name = re.sub(me_regex, "you", input_name)
     resp = ""
     if index == 1:
@@ -1059,7 +1165,8 @@ def console_init():
             whoshere = {
                 whos_here: [],
                 whos_idle: [],
-                bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
+                list_all: [],
+                bored: im_bored_list[random.randint(0, len(im_bored_list) - 1)],
                 dice: dice_statement % random.randint(1, 6)
             }
             admin_func(text, 0, True)
@@ -1098,7 +1205,8 @@ def guesser(input_id, input_message):
     guess = int(res.group(1))
     if DATA["guess"][input_id][1] > 5:
         send_message(
-            "You have guessed incorrectly 6 times. The number was %s" % DATA["guess"][input_id][0])
+            "You have guessed incorrectly 6 times. The number was %s" %
+            DATA["guess"][input_id][0])
         del DATA["guess"][input_id]
     elif guess == DATA["guess"][input_id][0]:
         send_message(f"You guessed it! The number was {guess}")
@@ -1111,6 +1219,18 @@ def guesser(input_id, input_message):
         DATA["guess"][input_id][1] += 1
     update_data_json()
 
+
+def consolecheck(content, console):
+    if console:
+        print(f"Console:- {content}")
+    else:
+        send_message(content)
+
+def send_both_lists(isconsole):
+    resp = reply_whos_here()
+    consolecheck(resp, isconsole)
+    resp = reply_whos_idle()
+    consolecheck(resp, isconsole)
 
 def matching(name_inp, dictname, input_text, console, dict_bool):
     def consolecheck(content):
@@ -1128,6 +1248,9 @@ def matching(name_inp, dictname, input_text, console, dict_bool):
                 resp = reply_whos_here()
             elif re_m == whos_idle:
                 resp = reply_whos_idle()
+            elif re_m == list_all:
+                Thread(target=send_both_lists, args=(console,)).start()
+                resp = None
         else:
             if re_m == jok:
                 resp = get_jokes()
@@ -1161,7 +1284,8 @@ while True:
             whos_here_res = {
                 whos_here: WHOS_HERE_RESPONSE,
                 whos_idle: WHOS_HERE_RESPONSE,
-                bored: im_bored_list[random.randint(0, len(im_bored_list)-1)],
+                list_all: WHOS_HERE_RESPONSE,
+                bored: im_bored_list[random.randint(0, len(im_bored_list) - 1)],
                 dice: dice_statement % random.randint(1, 6)
             }
             if not (("identifier" in result) and ("message" in result)):

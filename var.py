@@ -121,10 +121,10 @@ im_bored_list = [
 ]
 
 # All matching strings
-hey1 = re.compile(r"""hi blue(\\n)*\s*$""", re.I)
-howdy = re.compile(r"""howdy Blue\??\s*$""", re.I)
+hey1 = re.compile(r"""hi blue(\\n)*\s*""", re.I)
+howdy = re.compile(r"""howdy Blue\??\s*""", re.I)
 whos_here = re.compile(
-    r"""(!u)|(blue (who'?’?s here\??)|(das crazy\??)|(who is all here)|(who all are t?here\??)|(blue where the hoes at\??))(\\n)*\s*$""",
+    r"""((!u)|(blue (who'?’?s here\??)|(das crazy\??)|(who is all here)|(who all are t?here\??)|(blue where the hoes at\??)))(\\n)*\s*$""",
     re.I)
 whos_idle = re.compile(
     r"""(!i)|(blue (who'?’?s idle|lurking)|(who is all idle|lurking)\??)(\\n)*\s*$""",
@@ -193,8 +193,8 @@ seen_reg = re.compile(r"""blue seen ([^\\]+)(\\n)*\s*""", re.I)
 
 addlandmine = re.compile(
     r"""blue add landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
-removelandmine = re.compile(r"""blue remove landmine ([a-z0-9\W ]+)(\\n)*\s*""",
-                            re.I)
+removelandmine = re.compile(
+    r"""blue remove landmine ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 getlandmine = re.compile(r"""blue get landmine list(\\n)*\s*""", re.I)
 
 spamtoggle = re.compile(r"""blue spam toggle(\\n)*\s*""", re.I)
@@ -251,8 +251,10 @@ chess_game = re.compile(r"""blue start chess game against ([0-9]+)(\\n)*\s*""",
 chess_reset = re.compile(r"""!chess reset(\\n)*\s*""", re.I)
 chess_get_board = re.compile(r"""!chess get board(\\n)*\s*""", re.I)
 
+list_all = re.compile(r"""!l(\\n)*\s*$""", re.I)
 # insult
 insult = re.compile(r"""blue insult ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+report_id_cp = re.compile(r"""blue report ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 save_message_r = "Okay message saved for user %s"
 # Mene replies
 coffee_r = "☕"
@@ -363,14 +365,45 @@ help_greetings : help_greetings_response"""
 
 # List containing vars of admin command matches
 admin_commands = [
-    enable_greets, self_destruct, clear_userlist, uptime1, clear_memory, stats1,
-    get_mute, get_timeout_control, restart_s, hideregex, ily, mutereg,
-    unmutereg, ban, get_admin_list, stalk, stop_stalk, get_stalk, enableai,
-    disableai, mod, refresh_data, refresh_messages, setgreet, getgreet,
-    removegreet, addlandmine, removelandmine, getlandmine, altuni, spamtoggle,
-    getspamstatus, makeknight, removeknight, toggleshortgreet, savenickname,
-    toggle_insult
-]
+    enable_greets,
+    self_destruct,
+    clear_userlist,
+    uptime1,
+    clear_memory,
+    stats1,
+    get_mute,
+    get_timeout_control,
+    restart_s,
+    hideregex,
+    ily,
+    mutereg,
+    unmutereg,
+    ban,
+    get_admin_list,
+    stalk,
+    stop_stalk,
+    get_stalk,
+    enableai,
+    disableai,
+    mod,
+    refresh_data,
+    refresh_messages,
+    setgreet,
+    getgreet,
+    removegreet,
+    addlandmine,
+    removelandmine,
+    getlandmine,
+    altuni,
+    spamtoggle,
+    getspamstatus,
+    makeknight,
+    removeknight,
+    toggleshortgreet,
+    savenickname,
+    toggle_insult,
+    report_id_cp
+    ]
 
 # Menu list with images
 dict_serve = {
