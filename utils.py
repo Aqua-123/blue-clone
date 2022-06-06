@@ -75,3 +75,6 @@ def return_deltatime(timestamp):
     return datetime.strptime(current_time,
                              "%a, %d %b %Y %I:%M:%S %p %Z") - datetime.strptime(
                                  timestamp, "%Y-%m-%d %H:%M:%S")
+
+def join_list(list):
+    return ", ".join(list)

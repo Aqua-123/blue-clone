@@ -6,8 +6,16 @@ from datetime import datetime
 from imgurpython import ImgurClient
 
 from simple_image_download import simple_image_download as simp
-with open("config.json", "r") as f:
+
+with open("config.json", "r", encoding='utf-8') as f:
     config = json.loads(f.read())
+with open('data.json', 'r', encoding='utf-8') as f:
+    DATA = json.loads(f.read())
+with open('messages.json', 'r', encoding='utf-8') as f:
+    SAVED_MESSAGES = json.loads(f.read())
+with open('image_cache.json', 'r', encoding='utf-8') as f:
+    image_cache = json.loads(f.read())
+
 
 main_cookie = config["main_cookie"]
 client_id = config["imgur_client_id"]
@@ -16,13 +24,6 @@ client_secret = config["imgur_client_secret"]
 response = simp.simple_image_download
 
 CLIENT = ImgurClient(client_id, client_secret)
-
-with open('data.json', 'r') as f:
-    DATA = json.loads(f.read())
-with open('messages.json', 'r') as f:
-    SAVED_MESSAGES = json.loads(f.read())
-with open('image_cache.json', 'r') as f:
-    image_cache = json.loads(f.read())
 
 # main connecting request json
 connect_json = {
@@ -66,6 +67,7 @@ connect_json_blue = {
     "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":\"blueyblue\"}"
 }
 threads = []  # List of threads
+PLACEHOLDER_LIST = []
 RUNNING = True  # Main while loop control variable
 GREET_STATUS = True  # Handles enabling and disabling greetings
 ALT_UNIVERSE_TOGGLE = False
@@ -75,11 +77,6 @@ chess_game_status = True
 insult_control = True
 forbiden_chars = [
     "\u202e",
-    # "'",     #Forbidden chars to be removed
-    # '"',
-    # "’",
-    "\u202e",
-    # "'",
 ]
 
 bracs = [
@@ -241,7 +238,7 @@ help_sending = re.compile(
     re.I)
 help_admin = re.compile(r"""blue help admin commands(\\n)*\s*""", re.I)
 save_message = re.compile(
-    r"""blue save ?a? message for ([^""]+) :- ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
+    r"""blue (?:save|leave) ?a? message for ([^""]+) :- ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 serve = re.compile(r"""blue serve ([a-z0-9\W ]+)(\\n)*\s*""", re.I)
 getmeme = re.compile(r"""blue meme(\\n)*\s*""", re.I)
 guessing_game = re.compile(r"""blue start guessing game(\\n)*\s*""", re.I)

@@ -1,6 +1,4 @@
-# pylint: disable=missing-function-docstring, global-statement,
-# wildcard-import. broad-except, unused-wildcard-import,
-# global-variable-not-assigned
+# pylint: disable=missing-function-docstring, global-statement, wildcard-import, broad-except, unused-wildcard-import
 import json
 import random
 from pathlib import Path
@@ -64,7 +62,6 @@ def return_id(string):
 
 
 def remove_blue():
-    global MAIN_DICT, IDLE_DICT, TIMEOUT_CONTROL
     if 21550262 in MAIN_DICT:
         del MAIN_DICT[21550262]
     if 21550262 in IDLE_DICT:
@@ -93,41 +90,38 @@ def clocking():
 
 def refreshdata():
     global DATA
-    with open('data.json', 'r') as file:
+    with open('data.json', 'r', encoding='utf-8') as file:
         DATA = json.loads(file.read())
     return done
 
 
 def update_data_json():
-    global DATA
-    with open('data.json', 'w') as file:
+    with open('data.json', 'w', encoding='utf-8') as file:
         json.dump(DATA, file)
     refreshdata()
 
 
 def refreshmessages():
     global SAVED_MESSAGES
-    with open('messages.json', 'r') as file:
+    with open('messages.json', 'r', encoding='utf-8') as file:
         SAVED_MESSAGES = json.loads(file.read())
     return done
 
 
 def update_messages_json():
-    global SAVED_MESSAGES
-    with open('messages.json', 'w') as file:
+    with open('messages.json', 'w', encoding='utf-8') as file:
         json.dump(SAVED_MESSAGES, file)
     refreshmessages()
 
 
 def update_image_cache():
-    global IMAGE_CACHE
-    with open('image_cache.json', 'w') as file:
+    with open('image_cache.json', 'w', encoding='utf-8') as file:
         json.dump(IMAGE_CACHE, file)
 
 
 def refresh_image_cache():
     global IMAGE_CACHE
-    with open('image_cache.json', 'r') as file:
+    with open('image_cache.json', 'r', encoding='utf-8') as file:
         IMAGE_CACHE = json.loads(file.read())
 
 
@@ -186,7 +180,6 @@ def send_greet(name_inp, username_inp):
 
 
 def greet(action, _result_, greet_var, userdat):
-    global DATA, SAVED_MESSAGES, MAIN_DICT, IDLE_DICT, TIMEOUT_CONTROL, STATS_LIST
     if not ((action in userdat) and ("user" in userdat)
             and "display_name" in userdat["user"]):
         return
@@ -214,8 +207,8 @@ def greet(action, _result_, greet_var, userdat):
     elif _result_ == "remove":
         db_update(id_inp, name_inp, username, "None", "WFAF", "Left", ts)
     elif "messages" in userdat:
-        message = fix_message(str(userdat["messages"])).strip("'")
-        db_update(id_inp, name_inp, username, message, "WFAF", "Message", ts)
+        text = fix_message(str(userdat["messages"])).strip("'")
+        db_update(id_inp, name_inp, username, text, "WFAF", "Message", ts)
     else:
         db_update(id_inp, name_inp, username, "None", "WFAF", "Typing", ts)
 
@@ -246,7 +239,6 @@ def check_greeters(inputmessage, id_inp):
 
 
 def saving_messages(name_inp, _result_):
-    global SAVED_MESSAGES
     _input_ = _result_.group(1).rstrip()
     id_inp = return_id(_input_)
     if not id_inp:
@@ -309,7 +301,6 @@ def mute_func(_result_, index):
 
 
 def stalker(id_inp, time_now):
-    global STALKING_LOG
     filename = str(id_inp) + ".txt"
     git_prefix = "stalker-logs/"
     file = git_prefix + filename
@@ -374,7 +365,6 @@ def start_stalking(id_inp):
 
 
 def stop_stalking(id_inp):
-    global STALKING_LOG
     if id_inp not in STALKING_LOG:
         return already_not_stalking % id_inp
     STALKING_LOG[id_inp][1] = False
@@ -382,7 +372,6 @@ def stop_stalking(id_inp):
 
 
 def mod_demod(_result_):
-    global DATA
     mod_id = _result_.group(2)
     if _result_.group(1) == "mod":
         if mod_id in DATA["mod"] or mod_id in DATA["admin"]:
@@ -401,7 +390,6 @@ def mod_demod(_result_):
 
 
 def clear_lists():
-    global MAIN_DICT, IDLE_DICT, TIMEOUT_CONTROL
     TIMEOUT_CONTROL.clear()
     MAIN_DICT.clear()
     IDLE_DICT.clear()
@@ -581,7 +569,6 @@ def toggle_greets(_result_):
 
 
 def hide(id_inp):
-    global TIMEOUT_CONTROL, MAIN_DICT, IDLE_DICT
     id_inp = int(id_inp)
     del TIMEOUT_CONTROL[int(id_inp)]
     if id_inp in MAIN_DICT:
@@ -629,9 +616,9 @@ def get_wall_posts(wall_id):
 
 def get_post_contents(post_id):
     url = f"https://emeraldchat.com/micropost_json?id={post_id}"
-    response = requests.get(url, cookies = cookies)
-    if response.status_code == 200:
-        post = response.json()["micropost"]
+    resp = requests.get(url, cookies = cookies)
+    if resp.status_code == 200:
+        post = resp.json()["micropost"]
         return post["content"]
     return None
 
@@ -685,7 +672,7 @@ def report_id(_result_):
         sleep(15)
     
 def admin_function_init(i, id_inp, isadmin, _result_):
-    global GREET_STATUS, RUNNING, input_name, STARTTIME, aichatstate, GREET_TIMEOUT, DATA
+    global RUNNING, aichatstate
     if i == 0:
         return_response = toggle_greets(_result_)
     elif i == 1:
@@ -695,11 +682,13 @@ def admin_function_init(i, id_inp, isadmin, _result_):
     elif i == 3:
         return_response = respond_uptime()
     elif i == 4:
-        GREET_TIMEOUT, return_response = {}, done
+        GREET_TIMEOUT.clear()
+        return_response = done
     elif i == 5:
         return_response = send_stats()
     elif i == 6:
-        return_response = "Mutelist is: %s" % " ,".join(DATA["mutelist"])
+        mutelist = DATA["mutelist"]
+        return_response = f"Mutelist is: {join_list(mutelist)}"
     elif i == 7:
         return_response = str(TIMEOUT_CONTROL)
     elif i == 8:
@@ -713,7 +702,8 @@ def admin_function_init(i, id_inp, isadmin, _result_):
     elif i == 13:
         return_response = banfunc(id_inp, _result_)
     elif i == 14:
-        return_response = "Current admins are: %s" % " ,".join(DATA["admins"])
+        adminlist = DATA["adminlist"]
+        return_response = f"Current admins are: {join_list(adminlist)}"
     elif i == 15:
         return_response = str(_result_.group(2))
     elif i == 16:
@@ -789,7 +779,6 @@ def landmine_checker(inputmessage, id_inp):
 
 
 def spam_controlling(id_inp):
-    global SPAM_TIMEOUT
     if id_inp not in SPAM_TIMEOUT:
         SPAM_TIMEOUT[id_inp] = []
     SPAM_TIMEOUT[id_inp].append(perf_counter())
@@ -805,7 +794,6 @@ def spam_checker():
 
 
 def image_upload(query, urly):
-    global CLIENT
     if query in IMAGE_CACHE:
         return IMAGE_CACHE[query][1]
     for i in IMAGE_CACHE:
@@ -879,14 +867,14 @@ def send_seen_db(id_inp):
     date_string = return_datestring(deltatime_wfaf.days, inputdate)
     hours_wfaf = deltatime_wfaf.seconds // 3600
     mins_wfaf = deltatime_wfaf.seconds // 60 % 60
-    re = f"{name} (#{inp_user}) was last seen {date_string} {hours_wfaf} hours ago "
+    ree = f"{name} (#{inp_user}) was last seen {date_string} {hours_wfaf} hours ago "
     if hours_wfaf == 0:
-        re = f"{name} (#{inp_user}) was last seen {date_string} {mins_wfaf} mins ago "
+        ree = f"{name} (#{inp_user}) was last seen {date_string} {mins_wfaf} mins ago "
     if deltatime_wfaf.seconds // 60 % 60 == 0:
-        re = f"{name} (#{inp_user}) was last seen {date_string} a couple moments ago "
+        ree = f"{name} (#{inp_user}) was last seen {date_string} a couple moments ago "
     if (deltatime.seconds // 3600 - hours_wfaf == 0) or (hours_wfaf == 0 and deltatime.seconds // 60 % 60 - mins_wfaf == 0):
-        return f"{re} in {channel_name}"
-    return f"{re}in WFAF but was more recently seen {resp} in {channel_name}"
+        return f"{resp} in {channel_name}"
+    return f"{ree}in WFAF but was more recently seen {resp} in {channel_name}"
 
 
 def log_chats(inputmessage, user_id, inpuser):
@@ -894,12 +882,11 @@ def log_chats(inputmessage, user_id, inpuser):
     filename = f"wfaf-logs/log ({inputdate}).txt"
     inpname = fix_name(inpuser["display_name"])
     log = message_log_text % (inpname, user_id, inputmessage) + "\n"
-    with open(filename, "a+") as file:
+    with open(filename, "a+", encoding='utf-8' ) as file:
         file.write(log)
 
 
 def list_removal(id_inp):
-    global MAIN_DICT, TIMEOUT_CONTROL, IDLE_DICT
     if id_inp in TIMEOUT_CONTROL:
         del TIMEOUT_CONTROL[id_inp]
     if id_inp in MAIN_DICT:
@@ -909,7 +896,6 @@ def list_removal(id_inp):
 
 
 def whos_here_appending(id_inp):
-    global WHOS_HERE_RESPONSE
     try:
         resp = requests.get(profile_url % id_inp, cookies=cookies, timeout=0.2)
         resp = json.loads(resp.text)
@@ -920,12 +906,12 @@ def whos_here_appending(id_inp):
     except Exception:
         name_inp = return_name(id_inp)
     finally:
-        WHOS_HERE_RESPONSE.append(name_inp)
+        PLACEHOLDER_LIST.append(name_inp)
 
 
-def dict_thread_starter(dict):
+def dict_thread_starter(input_dict):
     thread_list = []
-    for i in dict:
+    for i in input_dict:
         thread_list.append(Thread(target=whos_here_appending, args=(i,)))
     for i in thread_list:
         i.start()
@@ -934,26 +920,26 @@ def dict_thread_starter(dict):
 
 
 def reply_whos_here():
-    global WHOS_HERE_RESPONSE
+    PLACEHOLDER_LIST.clear()
     dict_thread_starter(MAIN_DICT)
     threads.clear()
     idle_len = len(IDLE_DICT)
     if idle_len == 0:
         resp = whos_here_response_no_lurkers % format_out_list(
-            WHOS_HERE_RESPONSE)
+            PLACEHOLDER_LIST)
     elif idle_len == 1:
-        resp = whos_here_response_gen1 % format_out_list(WHOS_HERE_RESPONSE)
+        resp = whos_here_response_gen1 % format_out_list(PLACEHOLDER_LIST)
     else:
         resp = whos_here_response_gen2 % (
-            format_out_list(WHOS_HERE_RESPONSE), idle_len)
+            format_out_list(PLACEHOLDER_LIST), idle_len)
     return fix_message(resp)
 
 
 def reply_whos_idle():
-    global WHOS_HERE_RESPONSE
+    PLACEHOLDER_LIST.clear()
     dict_thread_starter(IDLE_DICT)
     return fix_message(whos_lurking_none) if len(IDLE_DICT) == 0 else fix_message(
-        whos_lurking_gen % format_out_list(WHOS_HERE_RESPONSE))
+        whos_lurking_gen % format_out_list(PLACEHOLDER_LIST))
 
 
 def name_from_id(id_inp):
@@ -963,11 +949,23 @@ def name_from_id(id_inp):
         resp = json.loads(resp.text)
         name_return = resp["user"]["display_name"]
     except Exception():
-        # fallback when everything is idiotic
         name_return = return_name(id_inp)
-    finally:
-        return name_return
+    return name_return
 
+def fix_seen(text):
+    #replace one hours with an hour
+    rege = re.compile(r'1 hour(s)?\s*')
+    text = re.sub(rege, 'an hour ', text)
+    #replace one minutes with a minute
+    rege = re.compile(r'1 minute(s)?\s*')
+    text = re.sub(rege, 'a minute ', text)
+    #replace one seconds with a second
+    rege = re.compile(r'1 second(s)?\s*')
+    text = re.sub(rege, 'a second ', text)
+    #replace one days with a day
+    rege = re.compile(r'1 day(s)?\s*')
+    text = re.sub(rege, 'a day ', text)
+    return text
 
 def get_seen(_result_, id_inp):
     try:
@@ -976,7 +974,8 @@ def get_seen(_result_, id_inp):
         if me_regex.match(string):
             string = str(id_inp)
         if string.isnumeric():
-            return fix_message(send_seen_db(string))
+            seeny = fix_message(send_seen_db(string)) 
+            return fix_seen(seeny)
         string = string.replace("#", "")
         possibles = {}
         for id_inp in DATA["nickname"]:
@@ -988,12 +987,14 @@ def get_seen(_result_, id_inp):
         if len(possibles) == 0:
             query_res = regex_query(string)
             if len(query_res) == 1:
-                return send_seen_db(query_res[0][0])
+                seeny = send_seen_db(query_res[0][0])
+                return fix_seen(seeny)
             for i in query_res:
                 possibles[i[0]] = i[1] + "(#" + str(i[2]) + ")"
         if len(possibles) == 1:
             try:
-                return send_seen_db(list(possibles.keys())[0])
+                seeny = send_seen_db(list(possibles.keys())[0])
+                return fix_seen(seeny)
             except Exception:
                 return fix_message(
                     f"I dont remember seeing anyone named {string}")
@@ -1007,7 +1008,6 @@ def get_seen(_result_, id_inp):
 
 
 def coin_handling(_result_):
-    global DATA
     num = _result_.group(1)
     coin_add = int(num) + 0
     if coin_add > 100:
@@ -1019,7 +1019,6 @@ def coin_handling(_result_):
 
 
 def getid(_result_):
-    print(_result_)
     input_str = _result_.group(4).strip()
     id_inp = return_id(input_str)
     if not id_inp:
@@ -1163,9 +1162,9 @@ def console_init():
             send_message(content)
         else:
             whoshere = {
-                whos_here: [],
-                whos_idle: [],
-                list_all: [],
+                whos_here: PLACEHOLDER_LIST,
+                whos_idle: PLACEHOLDER_LIST,
+                list_all: PLACEHOLDER_LIST,
                 bored: im_bored_list[random.randint(0, len(im_bored_list) - 1)],
                 dice: dice_statement % random.randint(1, 6)
             }
@@ -1204,9 +1203,9 @@ def guesser(input_id, input_message):
         return
     guess = int(res.group(1))
     if DATA["guess"][input_id][1] > 5:
+        original_num = DATA["guess"][input_id][0]
         send_message(
-            "You have guessed incorrectly 6 times. The number was %s" %
-            DATA["guess"][input_id][0])
+            f"You have guessed incorrectly 6 times. The number was {original_num}" )
         del DATA["guess"][input_id]
     elif guess == DATA["guess"][input_id][0]:
         send_message(f"You guessed it! The number was {guess}")
@@ -1233,11 +1232,6 @@ def send_both_lists(isconsole):
     consolecheck(resp, isconsole)
 
 def matching(name_inp, dictname, input_text, console, dict_bool):
-    def consolecheck(content):
-        if console:
-            print(f"Console:- {content}")
-        else:
-            send_message(content)
     for re_m in dictname:
         inputres = re_m.match(input_text)
         if not inputres:
@@ -1259,7 +1253,7 @@ def matching(name_inp, dictname, input_text, console, dict_bool):
             elif re_m == save_message:
                 resp = saving_messages(name_inp, inputres)
         if resp:
-            consolecheck(resp)
+            consolecheck(resp, console)
         break
 
 
@@ -1280,11 +1274,10 @@ while True:
             idle_function()
             clocking()
             check_singing()
-            WHOS_HERE_RESPONSE = []
             whos_here_res = {
-                whos_here: WHOS_HERE_RESPONSE,
-                whos_idle: WHOS_HERE_RESPONSE,
-                list_all: WHOS_HERE_RESPONSE,
+                whos_here: PLACEHOLDER_LIST,
+                whos_idle: PLACEHOLDER_LIST,
+                list_all: PLACEHOLDER_LIST,
                 bored: im_bored_list[random.randint(0, len(im_bored_list) - 1)],
                 dice: dice_statement % random.randint(1, 6)
             }
@@ -1300,19 +1293,18 @@ while True:
             user = b["user"]
             ID = str(user["id"])
             input_name = fix_name(user["display_name"])
-            message = fix_message(str(b["messages"])).strip("'")
-            print(f"{input_name} ({ID}) :- {message}")
-            Thread(target=check_greeters, args=(message, ID,)).start()
-            Thread(target=log_chats, args=(message, ID, user,)).start()
-            admin_func(message, ID, True if ID in DATA["admin"] else False)
-            guessing_starter(ID, message)
-            guesser(ID, message)
+            MESSAGE = fix_message(str(b["messages"])).strip("'")
+            print(f"{input_name} ({ID}) :- {MESSAGE}")
+            Thread(target=check_greeters, args=(MESSAGE, ID,)).start()
+            Thread(target=log_chats, args=(MESSAGE, ID, user,)).start()
+            admin_func(MESSAGE, ID, True if ID in DATA["admin"] else False)
+            guessing_starter(ID, MESSAGE)
+            guesser(ID, MESSAGE)
             if ID in DATA["mutelist"]:
                 continue
-            coins_feelings(message, ID, False)
+            coins_feelings(MESSAGE, ID, False)
             matching(fix_name(input_name), response_dict,
-                     message, False, False)
-            matching(fix_name(input_name), whos_here_res, message, False, True)
+                     MESSAGE, False, False)
+            matching(fix_name(input_name), whos_here_res, MESSAGE, False, True)
     except Exception as e:
-        #print("Hello young boi an error occurred :- %s" % e)
         sleep(1)
