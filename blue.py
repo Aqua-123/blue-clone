@@ -5,7 +5,7 @@ from pathlib import Path
 from threading import Thread
 from time import gmtime, perf_counter, sleep, strftime
 from timeit import default_timer as timer
-
+from unidecode import unidecode
 import requests
 import websocket
 from imgurpython.helpers.error import (ImgurClientError,
@@ -17,7 +17,21 @@ from utils import *
 from var import *
 
 
+def reduce_space(text):
+    # swap all spaces more than one space with a single space
+    space_regex = re.compile(r'\s+')
+    return space_regex.sub(' ', text)
+
+def remove_newline(text):
+    newline_regex = re.compile(r'(\\n)+')
+    return newline_regex.sub('', text)
+
+
+
+
 def send_message(content):
+    content = reduce_space(content)
+    content = remove_newline(content)
     jsonmessage = {
         "command": "message",
         "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":null}",
@@ -284,11 +298,22 @@ def thread(id_inp):
 
 
 def mute_func(_result_, index):
-    global DATA
-    id_inp = _result_.group(1)
+    inp = _result_.group(1)
+    id_inp = return_id(inp)
+    if not id_inp:
+        return not_seen % inp
+    if not isinstance(id_inp, dict):
+        id_inp = id_inp
+    elif len(id_inp) == 0:
+        return not_seen % inp
+    elif len(id_inp) == 1:
+        id_inp = list(id_inp.keys())[0]
+    else:
+        return fix_message(
+            f"I have seen the following users with the name {_result_.group(2)} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
     if index == 11:
         if id_inp in DATA["mutelist"]:
-            return already_ignoring
+            return already_ignoring % name_from_id(id_inp)
         DATA["mutelist"].append(id_inp)
         return start_ignoring % name_from_id(id_inp)
     if index == 12:
@@ -873,7 +898,7 @@ def send_seen_db(id_inp):
     if deltatime_wfaf.seconds // 60 % 60 == 0:
         ree = f"{name} (#{inp_user}) was last seen {date_string} a couple moments ago "
     if (deltatime.seconds // 3600 - hours_wfaf == 0) or (hours_wfaf == 0 and deltatime.seconds // 60 % 60 - mins_wfaf == 0):
-        return f"{resp} in {channel_name}"
+        return f"{resp} in {channel_name} and WFAF"
     return f"{ree}in WFAF but was more recently seen {resp} in {channel_name}"
 
 
@@ -948,22 +973,18 @@ def name_from_id(id_inp):
         resp = requests.get(profile_url % int(id_inp), cookies=cookies)
         resp = json.loads(resp.text)
         name_return = resp["user"]["display_name"]
-    except Exception():
+    except Exception:
         name_return = return_name(id_inp)
     return name_return
 
 def fix_seen(text):
-    #replace one hours with an hour
-    rege = re.compile(r'1 hour(s)?\s*')
-    text = re.sub(rege, 'an hour ', text)
-    #replace one minutes with a minute
-    rege = re.compile(r'1 minute(s)?\s*')
+    rege = re.compile(r' 1 hours\s*')
+    text = re.sub(rege, ' an hour ', text)
+    rege = re.compile(r' 1 mins\s*')
     text = re.sub(rege, 'a minute ', text)
-    #replace one seconds with a second
-    rege = re.compile(r'1 second(s)?\s*')
+    rege = re.compile(r' 1 secs\s*')
     text = re.sub(rege, 'a second ', text)
-    #replace one days with a day
-    rege = re.compile(r'1 day(s)?\s*')
+    rege = re.compile(r' 1 days\s*')
     text = re.sub(rege, 'a day ', text)
     return text
 
@@ -1102,13 +1123,16 @@ def get_insult(res):
 
 
 def send_feelings(index, id_inp, _result_, console):
-    global DATA
     input_name = _result_.group(1)
     if not input_name or index == 3:
         input_name = _result_.group(4)
     input_name = input_name.replace("\n", "").strip()
-    me_regex = re.compile(r"m\s*e(\\n)*", re.I)
+    me_regex = re.compile(r"m\s*e(\\n)*\b", re.I)
     input_name = re.sub(me_regex, "you", input_name)
+    myself_regex = re.compile(r"my\s*self\s*(\\n)*\b", re.I)
+    input_name = re.sub(myself_regex, "you", input_name)
+    my_regex = re.compile(r"my\s*(\\n)*\b", re.I)
+    input_name = re.sub(my_regex, "your", input_name)
     resp = ""
     if index == 1:
         resp = sending_love % input_name
@@ -1117,7 +1141,14 @@ def send_feelings(index, id_inp, _result_, console):
     elif index == 3:
         resp = sending_hugs % input_name
     elif index == 4:
-        resp = sending_bonks % input_name
+        blue_regex = re.compile(r"blue|yourself(\\n)*\b", re.I)
+        if id_inp == "24540494":
+            resp = "No Mr. Pengu uwu"
+
+        elif re.search(blue_regex, input_name):
+            resp = "Nu ;-;"
+        else:
+            resp = sending_bonks % input_name
     elif index == 5 and (id_inp in DATA["admin"] or console):
         resp = getid(_result_)
     elif index == 6 and (id_inp in DATA["admin"] or console):
@@ -1294,6 +1325,7 @@ while True:
             ID = str(user["id"])
             input_name = fix_name(user["display_name"])
             MESSAGE = fix_message(str(b["messages"])).strip("'")
+            MESSAGE = unidecode(MESSAGE)
             print(f"{input_name} ({ID}) :- {MESSAGE}")
             Thread(target=check_greeters, args=(MESSAGE, ID,)).start()
             Thread(target=log_chats, args=(MESSAGE, ID, user,)).start()
@@ -1306,5 +1338,6 @@ while True:
             matching(fix_name(input_name), response_dict,
                      MESSAGE, False, False)
             matching(fix_name(input_name), whos_here_res, MESSAGE, False, True)
-    except Exception as e:
+    except RuntimeError as e:
+        print(e)
         sleep(1)
