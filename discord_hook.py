@@ -14,4 +14,3 @@ async def on_message(message):
 
 client.run(TOKEN)
 client.on_message(on_message)
-

@@ -1,5 +1,5 @@
 import mysql.connector
-
+import time
 
 def connect_db():
     return mysql.connector.connect(host='localhost',
@@ -17,16 +17,22 @@ def query_runner(query):
     db.close()
     return result
 
+def rec_without_wfaf(id):
+    query = f"""SELECT * FROM latest_seen where id = {id} and room != 'WFAF'"""
+    return query_runner(query)
+
+def rec_with_wfaf(id):
+    query = f"""SELECT * FROM latest_seen where id = {id} and room = 'WFAF'"""
+    return query_runner(query)
 
 def db_update(id, name, username, message, room, action, timestamp):
+    start = time.perf_counter()
     if not message:
         message = 'None'
     id = str(id)
     db = connect_db()
     cursor = db.cursor()
-    cursor.execute(
-        "INSERT INTO users (id,name,username,message,room,action,timestamp) VALUES (%(id)s,%(name)s,%(username)s,%(message)s,%(room)s,%(action)s,%(timestamp)s)",
-        {
+    data = {
             'id': id,
             'name': name,
             'username': username,
@@ -34,27 +40,36 @@ def db_update(id, name, username, message, room, action, timestamp):
             'room': room,
             'action': action,
             'timestamp': timestamp
-        })
+        }
+    cursor.execute(
+        "INSERT INTO all_log (id,name,username,message,room,action,timestamp) VALUES (%(id)s,%(name)s,%(username)s,%(message)s,%(room)s,%(action)s,%(timestamp)s)",
+        data)
+    cursor.execute(
+        "INSERT INTO latest_seen (id,name,username,message,room,action,timestamp) VALUES (%(id)s,%(name)s,%(username)s,%(message)s,%(room)s,%(action)s,%(timestamp)s)",
+        data)
     db.commit()
     db.close()
+    end = time.perf_counter()
 
 
-def regex_query(name):
-    query = f"""SELECT DISTINCT * FROM users WHERE name REGEXP '^{name}' GROUP BY ID"""
+def regex_query(name, db_name = 'latest_seen'):
+    query = f"""SELECT DISTINCT * FROM {db_name} WHERE name REGEXP '^{name}' GROUP BY ID"""
     result = query_runner(query)
     if len(result) == 0:
-        query = f"""SELECT DISTINCT * FROM users WHERE username REGEXP '^{name}' GROUP BY ID"""
+        query = f"""SELECT DISTINCT * FROM {db_name} WHERE username REGEXP '^{name}' GROUP BY ID"""
         result = query_runner(query)
+    # if len(result) == 0 and db_name == 'latest_seen':
+    #     result = regex_query(name, "all_log")
     return result
 
 
 def get_id(id):
-    query = "SELECT * FROM users WHERE id = '" + id + "'"
+    query = "SELECT * FROM latest_seen WHERE id = '" + id + "'"
     return query_runner(query)
 
 
 def return_name(id):
-    query = f"""SELECT name, username FROM users WHERE id = {id}"""
+    query = f"""SELECT name, username FROM latest_seen WHERE id = {id}"""
     result = query_runner(query)
     if len(result[0][0]) >= 3:
         return result[0][0]
@@ -63,9 +78,9 @@ def return_name(id):
 
 def get_last_record_id(id, only_wfaf):
     if only_wfaf:
-        query = f"""SELECT * FROM users where id = {id} and room = 'WFAF' ORDER BY timestamp DESC LIMIT 1"""
+        query = f"""SELECT * FROM latest_seen where id = {id} and room = 'WFAF' ORDER BY timestamp DESC LIMIT 1"""
     else:
-        query = f"""SELECT * FROM users where id = {id} ORDER BY timestamp DESC LIMIT 1"""
+        query = f"""SELECT * FROM latest_seen where id = {id} ORDER BY timestamp DESC LIMIT 1"""
     result = query_runner(query)
     try:
         return result[0]
@@ -74,5 +89,5 @@ def get_last_record_id(id, only_wfaf):
 
 
 def get_all_messages():
-    query = """SELECT message FROM users where message != 'None' ORDER BY room"""
+    query = """SELECT message FROM latest_seen where message != 'None' ORDER BY room"""
     return query_runner(query)

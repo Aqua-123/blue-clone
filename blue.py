@@ -70,8 +70,9 @@ def return_id(string):
             for i in query_res:
                 possibles[i[0]] = f"{i[1]}(#{str(i[2])})"
         return possibles
+    except re.error:
+        return {}
     except Exception as error:
-        print(error)
         return_id(string)
 
 
@@ -897,8 +898,8 @@ def send_seen_db(id_inp):
         ree = f"{name} (#{inp_user}) was last seen {date_string} {mins_wfaf} mins ago "
     if deltatime_wfaf.seconds // 60 % 60 == 0:
         ree = f"{name} (#{inp_user}) was last seen {date_string} a couple moments ago "
-    if (deltatime.seconds // 3600 - hours_wfaf == 0) or (hours_wfaf == 0 and deltatime.seconds // 60 % 60 - mins_wfaf == 0):
-        return f"{resp} in {channel_name} and WFAF"
+    if (hours_wfaf == 0 and deltatime.seconds // 3600 == 0 and mins_wfaf == deltatime.seconds // 60 % 60) or (deltatime_wfaf.days == deltatime.days and hours_wfaf == deltatime.seconds // 3600):
+        return f"{name} (#{inp_user}) was last seen {resp} in {channel_name} and WFAF"
     return f"{ree}in WFAF but was more recently seen {resp} in {channel_name}"
 
 
@@ -974,7 +975,10 @@ def name_from_id(id_inp):
         resp = json.loads(resp.text)
         name_return = resp["user"]["display_name"]
     except Exception:
-        name_return = return_name(id_inp)
+        try:
+            name_return = return_name(id_inp)
+        except Exception:
+            name_return = id_inp
     return name_return
 
 def fix_seen(text):
@@ -1101,7 +1105,7 @@ def get_details(_result_):
         username = resp["username"]
         gender = resp["gender"]
         created = resp["created_at"].split("T")
-        if gender:
+        if not gender:
             return details_response_null_gender % (
                 id_inp, name_inp, username, karma, created[0], created[1])
         return details_response % (
@@ -1124,15 +1128,16 @@ def get_insult(res):
 
 def send_feelings(index, id_inp, _result_, console):
     input_name = _result_.group(1)
-    if not input_name or index == 3:
+    if (not input_name or index == 3) and index not in (8,9):
         input_name = _result_.group(4)
-    input_name = input_name.replace("\n", "").strip()
-    me_regex = re.compile(r"m\s*e(\\n)*\b", re.I)
-    input_name = re.sub(me_regex, "you", input_name)
-    myself_regex = re.compile(r"my\s*self\s*(\\n)*\b", re.I)
-    input_name = re.sub(myself_regex, "you", input_name)
-    my_regex = re.compile(r"my\s*(\\n)*\b", re.I)
-    input_name = re.sub(my_regex, "your", input_name)
+    if input_name:
+        input_name = input_name.replace("\n", "").strip()
+        me_regex = re.compile(r"m\s*e(\\n)*\b", re.I)
+        input_name = re.sub(me_regex, "you", input_name)
+        myself_regex = re.compile(r"my\s*self\s*(\\n)*\b", re.I)
+        input_name = re.sub(myself_regex, "you", input_name)
+        my_regex = re.compile(r"my\s*(\\n)*\b", re.I)
+        input_name = re.sub(my_regex, "your", input_name)
     resp = ""
     if index == 1:
         resp = sending_love % input_name
@@ -1142,7 +1147,7 @@ def send_feelings(index, id_inp, _result_, console):
         resp = sending_hugs % input_name
     elif index == 4:
         blue_regex = re.compile(r"blue|yourself(\\n)*\b", re.I)
-        if id_inp == "24540494":
+        if id_inp == "24708860":
             resp = "No Mr. Pengu uwu"
 
         elif re.search(blue_regex, input_name):
@@ -1175,7 +1180,7 @@ def coins_feelings(input_message, id_inp, console):
         resp = send_feelings(index, id_inp, _result_, True)
         if index == 0:
             resp = coin_handling(_result_)
-        if resp == "":
+        if not resp:
             return
         if console:
             print(f"Console:- {resp}")
@@ -1338,6 +1343,6 @@ while True:
             matching(fix_name(input_name), response_dict,
                      MESSAGE, False, False)
             matching(fix_name(input_name), whos_here_res, MESSAGE, False, True)
-    except RuntimeError as e:
+    except Exception as e:
         print(e)
         sleep(1)
