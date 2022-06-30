@@ -71,6 +71,7 @@ def chess_imgur():
 
 
 def return_deltatime(timestamp):
+    timestamp = str(timestamp)
     current_time = strftime("%a, %d %b %Y %I:%M:%S %p %Z", gmtime())
     return datetime.strptime(current_time,
                              "%a, %d %b %Y %I:%M:%S %p %Z") - datetime.strptime(

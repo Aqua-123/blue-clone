@@ -1020,7 +1020,8 @@ def get_seen(_result_, id_inp):
             try:
                 seeny = send_seen_db(list(possibles.keys())[0])
                 return fix_seen(seeny)
-            except Exception:
+            except Exception as e:
+                print(e)
                 return fix_message(
                     f"I dont remember seeing anyone named {string}")
         if len(possibles) == 0:
