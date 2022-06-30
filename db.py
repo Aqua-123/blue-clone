@@ -18,11 +18,11 @@ def query_runner(query):
     return result
 
 def rec_without_wfaf(id):
-    query = f"""SELECT * FROM latest_seen where id = {id} and room != 'WFAF'"""
+    query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} and room != 'WFAF'"""
     return query_runner(query)
 
 def rec_with_wfaf(id):
-    query = f"""SELECT * FROM latest_seen where id = {id} and room = 'WFAF'"""
+    query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} and room = 'WFAF'"""
     return query_runner(query)
 
 def db_update(id, name, username, message, room, action, timestamp):
@@ -53,16 +53,16 @@ def db_update(id, name, username, message, room, action, timestamp):
 
 
 def regex_query(name, db_name = 'latest_seen'):
-    query = f"""SELECT DISTINCT * FROM {db_name} WHERE name REGEXP '^{name}' GROUP BY ID"""
+    query = f"""SELECT DISTINCT id, name, username, message, room, action, timestamp FROM {db_name} WHERE name REGEXP '^{name}' GROUP BY ID"""
     result = query_runner(query)
     if len(result) == 0:
-        query = f"""SELECT DISTINCT * FROM {db_name} WHERE username REGEXP '^{name}' GROUP BY ID"""
+        query = f"""SELECT DISTINCT id, name, username, message, room, action, timestamp FROM {db_name} WHERE username REGEXP '^{name}' GROUP BY ID"""
         result = query_runner(query)
     return result
 
 
 def get_id(id):
-    query = "SELECT * FROM latest_seen WHERE id = '" + id + "' LIMIT 1"
+    query = "SELECT id, name, username, message, room, action, timestamp FROM latest_seen WHERE id = '" + id + "' LIMIT 1"
     return query_runner(query)
 
 
@@ -76,9 +76,9 @@ def return_name(id):
 
 def get_last_record_id(id, only_wfaf):
     if only_wfaf:
-        query = f"""SELECT * FROM latest_seen where id = {id} and room = 'WFAF' ORDER BY timestamp DESC LIMIT 1"""
+        query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} and room = 'WFAF' ORDER BY timestamp DESC LIMIT 1"""
     else:
-        query = f"""SELECT * FROM latest_seen where id = {id} ORDER BY timestamp DESC LIMIT 1"""
+        query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} ORDER BY timestamp DESC LIMIT 1"""
     result = query_runner(query)
     try:
         return result[0]

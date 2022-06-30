@@ -571,3 +571,188 @@ Blue (21550262) :- Jamie Yowzah MkIIb (#_jamie) was last seen 4 mins ago in WFAF
 🤖 Mecha Nurse 💉 (20909261) :- I last saw '. ' (as 'Saturn Moose') (#me2345678) 3573065 in WFAF 210 days, 14 hours, 34 minutes ago. 
 🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Roleplay-SIARNAQ' (#john111429) 111430 in WFAF 172 days, 9 hours, 27 minutes ago. 
 Twilight Sparkle 📚🔍🌟 (19422865) :- Hey, Lumi'! 
+Lumi (16008266) :- so i kind of need a reminder
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Jamie' (#jamie4995740) 5016867 in WFAF 4 days, 2 hours, 2 minutes ago. 
+Lumi (16008266) :- what would happen if i started threading that account right now? :confused_face:
+‎ (24039236) :- this is a reminder for whatever you wanted a reminder for
+🤖 Mecha Nurse 💉 (20909261) :- I last saw \'Jamie Yowzah MkIIb\' (#_jamie) 15044537 in WFAF 5 minutes ago. 
+‎ (24039236) :- uh
+‎ (24039236) :- which. . . 
+Lumi (16008266) :- that one ^
+‎ (24039236) :- mine?
+‎ (24039236) :- uh
+Lumi (16008266) :- yeah
+‎ (24039236) :- karma drop 
+‎ (24039236) :- or 
+‎ (24039236) :- eme crash 
+‎ (24039236) :- or both 
+Lumi (16008266) :- ah, that's fair
+‎ (24039236) :- question 
+Jamie "Yowzah" MkIIb (15044537) :- answer
+‎ (24039236) :- did a popup on top right 
+‎ (24039236) :- saying eme is not responding its not advisable to 
+Jamie "Yowzah" MkIIb (15044537) :- three little red bars
+‎ (24039236) :- switch chats 
+‎ (24039236) :- yes
+Jamie "Yowzah" MkIIb (15044537) :- RxE thing
+‎ (24039236) :- oh 
+‎ (24039236) :- i didnt know
+‎ (24039236) :- damn thats neat
+Lumi (16008266) :- is that yet a new version?
+‎ (24039236) :- yeah
+‎ (24039236) :- straw changed a lot of code so im gonna guess they added it somewhere in there 
+Lumi (16008266) :- i see
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, Xxmarcx'! Please be nice! ~*
+‎ (24039236) :- i didnt know that setting the expected value length to high in sql also consumed space 
+‎ (24039236) :- i thought its like a max length thing
+Jamie "Yowzah" MkIIb (15044537) :- ?
+Lumi (16008266) :- mhm
+‎ (24039236) :- like 
+Twilight Sparkle 📚🔍🌟 (19422865) :- Hi again, Xxmarcx'! Try twi wfaf' for info.  *~~. 
+‎ (24039236) :- having a column datatype set to varchar 1024
+‎ (24039236) :- is gonna consume more space 
+‎ (24039236) :- than 
+Jamie "Yowzah" MkIIb (15044537) :- oh
+Jamie "Yowzah" MkIIb (15044537) :- yes
+‎ (24039236) :- yeah i didnt know that 
+Jamie "Yowzah" MkIIb (15044537) :- rows are the length of the MAX of all column lengths
+‎ (24039236) :- ohhh
+Jamie "Yowzah" MkIIb (15044537) :- that's why datatypes and lengths are a thing
+‎ (24039236) :- i seee
+‎ (24039236) :- i expected them to scale as per the data length 
+‎ (24039236) :- and scream when exceeded the max value
+Jamie "Yowzah" MkIIb (15044537) :- nope
+Jamie "Yowzah" MkIIb (15044537) :- that's why databases are fast and uniform, each record is the same
+‎ (24039236) :- hm hmmm
+‎ (24039236) :- btw does this look sane?
+‎ (24039236) :- Image: i%2Eimgur%2Ecom/UO4k2uN%2Epng * See just a link? Get RxE 0. 11. 0+: github%2Ecom/Ritsu-Projects/Public-Releases/
+Jamie "Yowzah" MkIIb (15044537) :- seem to be missing a key?
+Jamie "Yowzah" MkIIb (15044537) :- also check the max length of a message
+Jamie "Yowzah" MkIIb (15044537) :- 1024 chars is a lot of chars
+‎ (24039236) :- 512 didnt cut it so i just went and made it 1024 
+‎ (24039236) :- which has been holding. . 
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, <3'! Please be nice! ~~. *~
+<3 (24708860) :- !l
+Blue (21550262) :- I can see <3 (#siimon), \u200e (#voidexception), Twilight Sparkle , Jamie Yowzah MkIIb and 2 peeps lurking ~*
+Blue (21550262) :- I can see  Mecha Nurse , Lumi lurking
+‎ (24039236) :- key is supposed to be unique for each record? or no
+<3 (24708860) :- heh
+<3 (24708860) :- furry and femboi :3
+Jamie "Yowzah" MkIIb (15044537) :- yes
+‎ (24039236) :- smh
+Jamie "Yowzah" MkIIb (15044537) :- so
+Jamie "Yowzah" MkIIb (15044537) :- a primary key is unique to each row
+<3 (24708860) :- oh bad time
+<3 (24708860) :- sorrz
+<3 (24708860) :- have fun u. u
+Jamie "Yowzah" MkIIb (15044537) :- if id isnt unique to each row
+‎ (24039236) :- it isnt 
+Jamie "Yowzah" MkIIb (15044537) :- add an extra row, int, auto increment
+‎ (24039236) :- oooo
+‎ (24039236) :- adding it rn will update for all records?
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, Obtaining Goat'! Please be nice! 
+Jamie "Yowzah" MkIIb (15044537) :- yes if you set autoincrement
+Jamie "Yowzah" MkIIb (15044537) :- i think
+Jamie "Yowzah" MkIIb (15044537) :- tbh im not really in a good position for this rn
+‎ (24039236) :- hm hmm ill test on a copy first then 
+Jamie "Yowzah" MkIIb (15044537) :- ^ yes
+🤖 Mecha Nurse 💉 (20909261) :- Welcome, Omnissiah, to WFAF - Waiting For A Friend.  This is a family-friendly group chat you get sent to when you try to message someone who you've sent a friend request to and they haven't accepted your request. 
+Blue (21550262) :- Re-enabling greets :D
+🤖 Mecha Nurse 💉 (20909261) :- Welcome, princesshugs_give0, to WFAF - Waiting For A Friend.  This is a family-friendly group chat you get sent to when you try to message someone who you've sent a friend request to and they haven't accepted your request. 
+Blue (21550262) :- Hi, princesshugs_give0, welcome to Waiting For A Friend. \u200b You're here because you tried texting someone who's not your friend yet, enjoy your stay :D
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, princesshugs_give0'! Please be nice! ~*
+Blue (21550262) :- Hi, Jamie Yowzah MkIIb, welcome to Waiting For A Friend. \u200b You're here because you tried texting someone who's not your friend yet, enjoy your stay :D
+princesshugs_give0🖕 (18133491) :- Lumi whos here
+Lumi (16008266) :- List of users currently here: princesshugs_give0, Blue, Omnissiah, diamond heart, Twilight Sparkle ,  Mecha Nurse , Lumi
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, Jamie Yowzah MkIIb'! Please be nice! *~~. 
+princesshugs_give0🖕 (18133491) :- diamonddd
+Twilight Sparkle 📚🔍🌟 (19422865) :- Hey, ' (#voidexception)! ~~. *~
+Lumi (16008266) :- meanwhile me not having the slightest idea about databases
+Lumi (16008266) :- how fun
+Jamie "Yowzah" MkIIb (15044537) :- remind me to explain one day
+Jamie "Yowzah" MkIIb (15044537) :- not now tho
+Lumi (16008266) :- sure thing
+diamond heart (24872539) :- hi hugs
+princesshugs_give0🖕 (18133491) :- hii diamond
+Jamie "Yowzah" MkIIb (15044537) :- hey diamond
+diamond heart (24872539) :- hi
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, chips'! Please be nice! 
+Jamie "Yowzah" MkIIb (15044537) :- if anyone should see kratt in the near future
+Jamie "Yowzah" MkIIb (15044537) :- tell her im alive
+Jamie "Yowzah" MkIIb (15044537) :- dont ask
+chips (24869233) :- hi jamie
+Lumi (16008266) :- also sure thing
+chips (24869233) :- how are you?
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, Significant Insignificance'! Please be nice! ~*
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, Turquoise Antelope'! Please be nice! *~~. 
+Twilight Sparkle 📚🔍🌟 (19422865) :- Hi again, Turquoise Antelope'! Try twi wfaf' for info.  ~~. *~
+Jamie "Yowzah" MkIIb (15044537) :- @chips, dont ask
+Jamie "Yowzah" MkIIb (15044537) :- not good
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, Preparing Bulbasaur'! Please be nice! 
+‎ (24039236) :- lumi 
+chips (24869233) :- may I ask why?
+Lumi (16008266) :- yes?
+‎ (24039236) :- may i use your dms ase testing ground?
+‎ (24039236) :- *as
+Lumi (16008266) :- go ahead
+‎ (24039236) :- great
+Jamie "Yowzah" MkIIb (15044537) :- chips you probably dont want to know
+chips (24869233) :- be sure I do.  but it's fine if you're not ok with telling me.  I wish you all the best whatever it is
+‎ (24039236) :- fun fact in case someone wants to know 
+Twilight Sparkle 📚🔍🌟 (19422865) :- Hey, chainsmokers ~ '! ~*
+chainsmokers ~  (14751444) :- TWI
+‎ (24039236) :- eme message length limit is 1024
+chainsmokers ~  (14751444) :- AQUA
+‎ (24039236) :- hello
+chainsmokers ~  (14751444) :- hola
+Lumi (16008266) :- noted
+chainsmokers ~  (14751444) :- lumii
+Lumi (16008266) :- hihi
+chainsmokers ~  (14751444) :- hihihihi
+chainsmokers ~  (14751444) :- c:
+Lumi (16008266) :- lmao
+chips (24869233) :- hi lumi, how are you?
+Lumi (16008266) :- hi chips
+Lumi (16008266) :- i'm good thx, hbu?
+chips (24869233) :- I'm well, thanks
+Lumi (16008266) :- glad to hear
+chips (24869233) :- still crunchy
+Lumi (16008266) :- seemingly
+chips (24869233) :- and you're still bright?
+Lumi (16008266) :- always
+chips (24869233) :- awesome
+Lumi (16008266) :- ^^
+chips (24869233) :- ^^
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, Xxx'! Please be nice! *~~. 
+Twilight Sparkle 📚🔍🌟 (19422865) :- Hi again, Xxx'! Try twi wfaf' for info.  ~~. *~
+‎ (24039236) :- blue seen teri
+Blue (21550262) :- I dont remember seeing anyone named teri
+‎ (24039236) :- blue seen teriyaki
+Blue (21550262) :- I dont remember seeing teriyaki around
+‎ (24039236) :- aw
+‎ (24039236) :- blue seen saturn
+Blue (21550262) :- I dont remember seeing anyone named saturn
+‎ (24039236) :- no. . . 
+‎ (24039236) :- the. . . 
+‎ (24039236) :- UGH
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Teriyaki' (#teri_the_yaki) 14496406 in WFAF 8 days, 1 hour ago. 
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Teriyaki' (#teri_the_yaki) 14496406 in WFAF 8 days, 1 hour ago. 
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Sami' (as 'Saturn') (#saturn14728230) 14762895 in WFAF 192 days, 19 hours, 19 minutes ago. 
+Lumi (16008266) :- time to reset the counter
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, Teriyaki'! Please be nice! 
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Hi, its Blue ^-^
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, Blue'! Please be nice! ~*
+‎ (24039236) :- blue seen sat
+Blue (21550262) :- Saturn (#u7f33606d41393689) was last seen an hour ago in WFAF
+‎ (24039236) :- phew
+‎ (24039236) :- blue seen teriyaki
+Blue (21550262) :- Teriyaki (#teri_the_yaki) was last seen a couple moments ago in WFAF
+Blue (21550262) :- Hi, princesshugs_give0, welcome to Waiting For A Friend. \u200b You're here because you tried texting someone who's not your friend yet, enjoy your stay :D
+Twilight Sparkle 📚🔍🌟 (19422865) :- Welcome to WFAF, princesshugs_give0'! Please be nice! *~~. 
+princesshugs_give0🖕 (18133491) :- Lumi whos here 
+Lumi (16008266) :- List of users currently here: princesshugs_give0, \u200e, Blue, Lumi, Twilight Sparkle ,  Mecha Nurse  and 3 lurkers
+‎ (24039236) :- blue disable greets
+Blue (21550262) :- Okay done ^-^
+🤖 Mecha Nurse 💉 (20909261) :- I last saw '. ' (as 'Saturn Moose') (#me2345678) 3573065 in WFAF 210 days, 15 hours, 4 minutes ago. 
+🤖 Mecha Nurse 💉 (20909261) :- I last saw 'Teriyaki' (#teri_the_yaki) 14496406 in WFAF 1 minute ago. 
