@@ -58,18 +58,16 @@ def regex_query(name, db_name = 'latest_seen'):
     if len(result) == 0:
         query = f"""SELECT DISTINCT * FROM {db_name} WHERE username REGEXP '^{name}' GROUP BY ID"""
         result = query_runner(query)
-    # if len(result) == 0 and db_name == 'latest_seen':
-    #     result = regex_query(name, "all_log")
     return result
 
 
 def get_id(id):
-    query = "SELECT * FROM latest_seen WHERE id = '" + id + "'"
+    query = "SELECT * FROM latest_seen WHERE id = '" + id + "' LIMIT 1"
     return query_runner(query)
 
 
 def return_name(id):
-    query = f"""SELECT name, username FROM latest_seen WHERE id = {id}"""
+    query = f"""SELECT name, username FROM latest_seen WHERE id = {id} ORDER BY timestamp DESC LIMIT 1"""
     result = query_runner(query)
     if len(result[0][0]) >= 3:
         return result[0][0]
