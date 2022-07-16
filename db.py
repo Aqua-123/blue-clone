@@ -67,7 +67,7 @@ def get_id(id):
 
 
 def return_name(id):
-    query = f"""SELECT name, username FROM latest_seen WHERE id = {id} ORDER BY timestamp DESC LIMIT 1"""
+    query = f"""SELECT name, username FROM latest_seen WHERE id = {id} ORDER BY unique_key DESC LIMIT 1"""
     result = query_runner(query)
     if len(result[0][0]) >= 3:
         return result[0][0]
@@ -76,9 +76,9 @@ def return_name(id):
 
 def get_last_record_id(id, only_wfaf):
     if only_wfaf:
-        query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} and room = 'WFAF' ORDER BY timestamp DESC LIMIT 1"""
+        query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} and room = 'WFAF' ORDER BY unique_key DESC LIMIT 1"""
     else:
-        query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} ORDER BY timestamp DESC LIMIT 1"""
+        query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} ORDER BY unique_key DESC LIMIT 1"""
     result = query_runner(query)
     try:
         return result[0]

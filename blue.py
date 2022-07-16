@@ -26,12 +26,8 @@ def remove_newline(text):
     newline_regex = re.compile(r'(\\n)+')
     return newline_regex.sub('', text)
 
-
-
-
-def send_message(content):
-    content = reduce_space(content)
-    content = remove_newline(content)
+def sender(content, delay):
+    sleep(delay)
     jsonmessage = {
         "command": "message",
         "identifier": "{\"channel\":\"RoomChannel\",\"room_id\":null}",
@@ -50,6 +46,20 @@ def send_message(content):
     else:
         ws.send(json.dumps(jsonmessage))
 
+def calculate_delay(id):
+    delay = 1.5
+    if id not in delay_handle:
+        return 0
+    if perf_counter() - delay_handle[id] < delay:
+        return delay - (perf_counter() - delay_handle[id])
+    return 0
+    
+def send_message(content):
+    content = reduce_space(content)
+    content = remove_newline(content)
+    delay = calculate_delay(ID)
+    delay_handle[ID] = perf_counter()
+    Thread(target=sender, args=(content,delay,)).start()
 
 def return_id(string):
     try:
@@ -725,10 +735,10 @@ def admin_function_init(i, id_inp, isadmin, _result_):
         return_response = ily_r
     elif i == 11 or i == 12:
         return_response = mute_func(_result_, i)
-    elif i == 13:
+    elif i == 13 and isadmin:
         return_response = banfunc(id_inp, _result_)
     elif i == 14:
-        adminlist = DATA["adminlist"]
+        adminlist = DATA["admin"] + DATA["mod"]
         return_response = f"Current admins are: {join_list(adminlist)}"
     elif i == 15:
         return_response = str(_result_.group(2))
@@ -768,7 +778,7 @@ def admin_function_init(i, id_inp, isadmin, _result_):
         return_response = make_knight(_result_)
     elif i == 33 and isadmin:
         return_response = remove_knight(_result_)
-    elif i == 34 and isadmin:
+    elif i == 34:
         return_response = toggle_shortened_greet()
     elif i == 35 and isadmin:
         return_response = save_nickname(_result_)
@@ -863,7 +873,7 @@ def get_meme():
 def send_seen_db(id_inp):
     query_res = get_last_record_id(id_inp, False)
     channel_name = query_res[4]
-    inputdate = query_res[-1]
+    inputdate =str(query_res[-1])
     deltatime = return_deltatime(inputdate)
     name, inp_user = query_res[1], query_res[2]
     date_string = return_datestring(deltatime.days, inputdate)
@@ -1028,7 +1038,8 @@ def get_seen(_result_, id_inp):
             return fix_message(f"I dont remember seeing anyone named {string}")
         return fix_message(
             f"I have seen the following users with the name {string} :- {curly_replace(str(possibles))}. Specify the ID correspnding to their name and ask 'Blue seen ID'")
-    except Exception:
+    except Exception as e:
+        print(e)
         return fix_message(
             f"I dont remember seeing {name_from_id(string)} around")
 
@@ -1148,7 +1159,7 @@ def send_feelings(index, id_inp, _result_, console):
         resp = sending_hugs % input_name
     elif index == 4:
         blue_regex = re.compile(r"blue|yourself(\\n)*\b", re.I)
-        if id_inp == "24708860":
+        if id_inp == "25033006":
             resp = "No Mr. Pengu uwu"
 
         elif re.search(blue_regex, input_name):

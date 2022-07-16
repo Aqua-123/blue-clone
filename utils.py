@@ -37,7 +37,7 @@ def curly_replace(text):
 
 
 def is_creator(id):
-    if id in ("0", "14267520"):
+    if id in ("0", "14267520", "24039236"):
         return True
 
 
