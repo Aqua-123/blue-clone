@@ -53,11 +53,15 @@ def db_update(id, name, username, message, room, action, timestamp):
 
 
 def regex_query(name, db_name = 'latest_seen'):
-    query = f"""SELECT DISTINCT id, name, username, message, room, action, timestamp FROM {db_name} WHERE name REGEXP '^{name}' GROUP BY ID"""
+    start = time.perf_counter()
+    # query = f"""SELECT DISTINCT id, name, username, message, room, action, timestamp FROM {db_name} WHERE concat (name,username) REGEXP '^{name}' Group by id"""
+    query = f"""SELECT id, name, username FROM {db_name} WHERE name like '{name}%' Group by id"""
     result = query_runner(query)
     if len(result) == 0:
-        query = f"""SELECT DISTINCT id, name, username, message, room, action, timestamp FROM {db_name} WHERE username REGEXP '^{name}' GROUP BY ID"""
+        query = f"""SELECT DISTINCT id, name, username FROM {db_name} WHERE username like '{name}%' Group by id"""
         result = query_runner(query)
+    end = time.perf_counter()
+    print(f"Query took {end - start} seconds")
     return result
 
 
@@ -75,11 +79,14 @@ def return_name(id):
 
 
 def get_last_record_id(id, only_wfaf):
+    start = time.perf_counter()
     if only_wfaf:
         query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} and room = 'WFAF' ORDER BY unique_key DESC LIMIT 1"""
     else:
         query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} ORDER BY unique_key DESC LIMIT 1"""
     result = query_runner(query)
+    end = time.perf_counter()
+    print(f"Query took {end - start} seconds")
     try:
         return result[0]
     except:

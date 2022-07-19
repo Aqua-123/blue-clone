@@ -47,7 +47,7 @@
     "24872539",
     "18560513"
   ],
-  "greeter_fallback": ["20909261", "16008266"],
+  "greeter_fallback": ["20909261", "16008266", "24960047"],
   "greet_exempt": ["20909261", "20909232"],
   "custom_greet": {
     "16986137": "The river of life bubbles when Aqua comes near~ ",
@@ -82,7 +82,7 @@
     "24493506": "Your personal babygirl has entered the chat *wink wink*",
     "18133491": "A coconut falls from the palm trees ~*"
   },
-  "coins": 22278,
+  "coins": 22279,
   "landmine_words": ["nigger", "banner", "retard", "whore"],
   "knight": [
     "20199174",
@@ -92,10 +92,11 @@
     "24540494",
     "19364487",
     "24039236",
-    "24872539"
+    "24872539",
+    "24960047"
   ],
   "nickname": {
-    "11427049": ["teri", "ribbit", "phantom", "alien1"],
+    "11427049": ["ribbit", "phantom", "alien1"],
     "21550262": ["blew", "blue"],
     "22466125": ["night", "nightjaz", "jaz"],
     "19259507": ["caffee"],
@@ -126,7 +127,8 @@
     "18133491": ["hugs"],
     "24872539": ["dio"],
     "19422865": ["twi"],
-    "24960047": ["pika", "pikachu"]
+    "24960047": ["pika", "pikachu"],
+    "14496406": ["teri"]
   },
   "guess": {},
   "chess": {}

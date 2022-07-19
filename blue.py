@@ -172,15 +172,15 @@ def greet_text(count, name_inp):
     if SHORTEN_GREET_TOGGLE:
         if count == 1:
             return Greet_1_short % name_inp
-        elif count == 2:
+        if count == 2:
             return Greet_2_short % name_inp
-        elif count == 3:
+        if count == 3:
             return Greet_general_short % name_inp
     if count == 1:
         return Greet_1 % name_inp
-    elif count == 2:
+    if count == 2:
         return Greet_2 % name_inp
-    elif count == 3:
+    if count == 3:
         return Greet_general % name_inp
 
 
@@ -240,7 +240,7 @@ def greet(action, _result_, greet_var, userdat):
 
 def dis_en_greets(id_inp):
     global GREET_STATUS
-    if id_inp == "16008266" and GREET_STATUS:
+    if id_inp in ("16008266", "24960047") and GREET_STATUS:
         send_message(disabling_greet)
         GREET_STATUS = False
     elif id_inp == "20909261" and not GREET_STATUS:
@@ -253,7 +253,7 @@ def check_greeters(inputmessage, id_inp):
         return
     for reg_m in greet_check:
         if inputmessage in DATA["custom_greet"].values() or reg_m.match(
-                inputmessage) or inputmessage == blue_greet:
+                inputmessage) or inputmessage == blue_greet or inputmessage == blue_greet2:
             dis_en_greets(id_inp)
             return
     for reg_m in DATA["custom_greet"].values():
@@ -1019,6 +1019,7 @@ def get_seen(_result_, id_inp):
                 if regex2.search(nickname):
                     possibles = {id_inp: nickname}
                     break
+        print(possibles)
         if len(possibles) == 0:
             query_res = regex_query(string)
             if len(query_res) == 1:
@@ -1028,6 +1029,7 @@ def get_seen(_result_, id_inp):
                 possibles[i[0]] = i[1] + "(#" + str(i[2]) + ")"
         if len(possibles) == 1:
             try:
+                print(possibles)
                 seeny = send_seen_db(list(possibles.keys())[0])
                 return fix_seen(seeny)
             except Exception as e:
@@ -1342,8 +1344,8 @@ while True:
             ID = str(user["id"])
             input_name = fix_name(user["display_name"])
             MESSAGE = fix_message(str(b["messages"])).strip("'")
-            MESSAGE = unidecode(MESSAGE)
             print(f"{input_name} ({ID}) :- {MESSAGE}")
+            MESSAGE = unidecode(MESSAGE).replace("\u200B", "")
             Thread(target=check_greeters, args=(MESSAGE, ID,)).start()
             Thread(target=log_chats, args=(MESSAGE, ID, user,)).start()
             admin_func(MESSAGE, ID, True if ID in DATA["admin"] else False)
