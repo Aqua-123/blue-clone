@@ -57,7 +57,7 @@ def regex_query(name, db_name = 'latest_seen'):
     # query = f"""SELECT DISTINCT id, name, username, message, room, action, timestamp FROM {db_name} WHERE concat (name,username) REGEXP '^{name}' Group by id"""
     query = f"""SELECT id, name, username FROM {db_name} WHERE name like '{name}%' Group by id"""
     result = query_runner(query)
-    if len(result) == 0:
+    if not result:
         query = f"""SELECT DISTINCT id, name, username FROM {db_name} WHERE username like '{name}%' Group by id"""
         result = query_runner(query)
     end = time.perf_counter()

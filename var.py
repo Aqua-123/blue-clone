@@ -4,8 +4,7 @@ import re
 import json
 from datetime import datetime
 from imgurpython import ImgurClient
-
-from simple_image_download import simple_image_download as simp
+import simp
 
 with open("config.json", "r", encoding='utf-8') as f:
     config = json.loads(f.read())
@@ -74,7 +73,7 @@ PLACEHOLDER_LIST = []
 RUNNING = True  # Main while loop control variable
 GREET_STATUS = True  # Handles enabling and disabling greetings
 ALT_UNIVERSE_TOGGLE = False
-SHORTEN_GREET_TOGGLE = False  # Handles enabling and disabling shortened greetings
+SHORTEN_GREET_TOGGLE = True  # Handles enabling and disabling shortened greetings
 guessing_game_status = True
 chess_game_status = True
 insult_control = True

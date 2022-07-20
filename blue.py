@@ -276,16 +276,15 @@ def saving_messages(name_inp, _result_):
         return save_message_r % _input_
     if len(id_inp) == 0:
         return not_seen % _input_
-    elif len(id_inp) == 1:
+    if len(id_inp) == 1:
         id_inp = list(id_inp.keys())[0]
         if id_inp not in SAVED_MESSAGES:
             SAVED_MESSAGES[id_inp] = []
         SAVED_MESSAGES[id_inp].append(f"{name_inp}:- {_result_.group(2)}")
         update_messages_json()
         return save_message_r % _input_
-    else:
-        return fix_message(
-            f"I have seen the following users with the name {_result_.group(2)} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
+    return fix_message(
+        f"I have seen the following users with the name {_result_.group(2)} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
 
 
 def downvote(cookie, id_inp):
@@ -835,6 +834,9 @@ def image_upload(query, urly):
     for i in IMAGE_CACHE:
         if IMAGE_CACHE[i][0] == urly:
             return IMAGE_CACHE[i][1]
+    gstatic_reg = re.compile(r"gstatic")
+    if gstatic_reg.search(urly):
+        return None
     image = CLIENT.upload_from_url(urly)
     formattedlink = image_to_link(image)
     IMAGE_CACHE[query] = [urly, formattedlink]
@@ -851,7 +853,9 @@ def get_image_link(query, meme):
         if meme:
             return get_meme()
         url = response().urls(query, 6)
-        return image_upload(query, url[-1])
+        r = image_upload(query, url[-1])
+        if r: return r 
+        return f"Sorry I couldn't find {query}"
     except ImgurClientError:
         return f"Sorry I couldn't find {query}"
     except ImgurClientRateLimitError:
@@ -1135,7 +1139,9 @@ def get_insult(res):
     if not insult_control:
         return ""
     input_name = res.group(1)
-    result = requests.get(insult_url)
+    randomstr = "&something=" + str(random.randint(0, 100000))
+    result = requests.get(insult_url + randomstr)
+    print(result.text)
     result = json.loads(result.text)["insult"]
     return f"{input_name}, {result}"
 

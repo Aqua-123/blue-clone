@@ -9,6 +9,7 @@
     "**/wfaf-logs/**": true,
     "database.sqlite4": true,
     
+    
   },
   "editor.formatOnSave": true
 
