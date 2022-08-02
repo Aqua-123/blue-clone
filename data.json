@@ -19,12 +19,8 @@
     "24915724",
     "24975857",
     "24909963",
-<<<<<<< HEAD
     "24871422",
     "25102628"
-=======
-    "24871422"
->>>>>>> parent of 3f7047d6 (.)
   ],
   "admin": [
     "0",
@@ -47,7 +43,6 @@
     "18695559",
     "19422865",
     "24540494",
-<<<<<<< HEAD
     "25205818",
     "24493506",
     "24872539",
@@ -56,22 +51,10 @@
     "24960047"
   ],
   "greeter_fallback": ["20909261", "16008266", "25138230"],
-=======
-    "25033006",
-    "24493506",
-    "24872539",
-    "18560513"
-  ],
-  "greeter_fallback": ["20909261", "16008266", "24960047"],
->>>>>>> parent of 3f7047d6 (.)
   "greet_exempt": ["20909261", "20909232"],
   "custom_greet": {
     "16986137": "The river of life bubbles when Aqua comes near~ ",
     "21550262": "Hi, its Blue ^-^",
-<<<<<<< HEAD
-=======
-    "21388579": "Sir This recruit tactically acquired the fig bars sir~",
->>>>>>> parent of 3f7047d6 (.)
     "20835136": "Testing, testing, Wan, two, three! ",
     "291734": "Here comes our favorite magical frog! \ud83d\udc38 ~~.*~",
     "14751444": "Hamtaro, the karmic wonder, has arrived \u00b7\u1d17\u00b7",
@@ -97,20 +80,12 @@
     "16008266": "The most radiant & shining greeter has arrived wohooo! <3",
     "16521287": "Greetings Strawberry ^-^",
     "14267520": "The river of life bubbles when Aqua comes near ~*",
-<<<<<<< HEAD
     "25205818": "Penguins do be looking fine today :3",
     "24493506": "Your personal babygirl has entered the chat *wink wink*",
     "18133491": "A coconut falls from the palm trees ~*",
     "23937061": "A star lights up the wfaf sky!  ~*"
   },
   "coins": 22522,
-=======
-    "25033006": "Penguins do be looking fine today :3",
-    "24493506": "Your personal babygirl has entered the chat *wink wink*",
-    "18133491": "A coconut falls from the palm trees ~*"
-  },
-  "coins": 22279,
->>>>>>> parent of 3f7047d6 (.)
   "landmine_words": ["nigger", "banner", "retard", "whore"],
   "knight": [
     "20199174",
@@ -121,12 +96,8 @@
     "19364487",
     "24039236",
     "24872539",
-<<<<<<< HEAD
     "24960047",
     "21388579"
-=======
-    "24960047"
->>>>>>> parent of 3f7047d6 (.)
   ],
   "nickname": {
     "11427049": ["ribbit", "phantom", "alien1"],
@@ -153,24 +124,14 @@
     "14648841": ["sen"],
     "20909209": ["a dude"],
     "24174651": ["lav"],
-<<<<<<< HEAD
     "25205818": ["siimon", "pengu", "siimon diimon"],
-=======
-    "25033006": ["siimon", "pengu", "siimon diimon"],
->>>>>>> parent of 3f7047d6 (.)
     "18491422": ["kim"],
     "24493506": ["atua"],
     "20597891": ["ritsu"],
     "18133491": ["hugs"],
-<<<<<<< HEAD
     "24960047": ["dio"],
     "19422865": ["twi"],
     "25138230": ["pika", "pikachu"],
-=======
-    "24872539": ["dio"],
-    "19422865": ["twi"],
-    "24960047": ["pika", "pikachu"],
->>>>>>> parent of 3f7047d6 (.)
     "14496406": ["teri"]
   },
   "guess": {},

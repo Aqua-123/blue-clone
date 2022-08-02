@@ -1,0 +1,17 @@
+Lumi (16008266) :- Our favorite Blue greeter is here!
+Blue (21550262) :- Hi, its Blue ^-^
+Blue (21550262) :- Disabling greets uwu
+Naughtywolf (25203209) :- ok
+ㅤ  (24039236) :- Ugh that was annoying
+ㅤ  (24039236) :- idk how many changes got reverted 
+Lumi (16008266) :- Hello, Naughtywolf! Welcome to WFAF! Welcome to the place where your dreams will come true~
+ㅤ  (24039236) :- dio could yuo check if the fallback with pika is working?
+ㅤ  (24039236) :- meanwhile ill sort this out
+Lumi (16008266) :- Hi, Naughtywolf! I'm afraid they aren't your friend yet, you can always try again!
+diamond heart (24960047) :- lumi disable greets
+Lumi (16008266) :- Ok, I'll stop greeting people now :D
+diamond heart (24960047) :- pika toggle greets
+Pikachu (25138230) :- OK, done!
+diamond heart (24960047) :- pika clear greets
+Pikachu (25138230) :- Open the floodgates!
+Pikachu (25138230) :- Welcome Naughtywolf to WFAF - Waiting for a Friend.  Say 'pika tldr' for more information!

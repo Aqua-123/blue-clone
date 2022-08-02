@@ -53,6 +53,7 @@
 24871422 - https://www.dropbox.com/sh/8uzozr8iesix3k6/AADn2kmlNeamryyU4gQipWzxa?dl=0
 20259666 - https://mega.nz/folder/cc0GUSaI#7Op1VL1OxggbBYF9MQPIpA/folder/sVcEkZoZ
 20259666 - https://www.dropbox.com/sh/8uzozr8iesix3k6/AADn2kmlNeamryyU4gQipWzxa?dl=0
+<<<<<<< HEAD
 9370364 - https://mega.nz/folder/4gRG0aJJ#VbhpOK0Ugw09ufKiMVmo7Q
 25076567 - https://mega.nz/folder/sBkhTY7K#nxvzLF5Fei5Sm5G3k58HyQ/folder/8I0RACSK
 25008735 - https://mega.nz/folder/sBkhTY7K#nxvzLF5Fei5Sm5G3k58HyQ
@@ -85,3 +86,8 @@
 20259666 - https://mega.nz/folder/cc0GUSaI#7Op1VL1OxggbBYF9MQPIpA/folder/sVcEkZoZ
 24941272 - https://mega.nz/folder/JpNh0RLJ#6KWjpOZau571BGiLduU5bw
 24941272 - https://mega.nz/folder/YEwSxYDL#F9LjMO3e-jpdM6iimJL7Ig
+25179594 - https://mega.nz/folder/ljhiQBhI#TvAws0P02q2Gam5NtBZDpQ
+24242143 - https://mega.nz/folder/jawl3Ijb#YzwmavXQNo7lH7Rmco5wMw
+24242143 - https://mega.nz/folder/TyJhTYJR#xTuNfbsQx0KfPIJWj2YHrA
+=======
+>>>>>>> parent of 3f7047d6 (.)

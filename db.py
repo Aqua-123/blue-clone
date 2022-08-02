@@ -41,9 +41,7 @@ def db_update(id, name, username, message, room, action, timestamp):
             'action': action,
             'timestamp': timestamp
         }
-    cursor.execute(
-        "INSERT INTO all_log (id,name,username,message,room,action,timestamp) VALUES (%(id)s,%(name)s,%(username)s,%(message)s,%(room)s,%(action)s,%(timestamp)s)",
-        data)
+  
     cursor.execute(
         "INSERT INTO latest_seen (id,name,username,message,room,action,timestamp) VALUES (%(id)s,%(name)s,%(username)s,%(message)s,%(room)s,%(action)s,%(timestamp)s)",
         data)
