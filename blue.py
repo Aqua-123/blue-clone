@@ -1,4 +1,4 @@
-# pylint: disable=missing-function-docstring, global-statement, wildcard-import, broad-except, unused-wildcard-import
+# pylint: disable=missing-function-docstring, global-statement, wildcard-import, broad-except, unused-wildcard-import, bad-indentation
 import json
 import random
 from pathlib import Path
