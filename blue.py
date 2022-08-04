@@ -47,7 +47,7 @@ def sender(content, delay):
 		ws.send(json.dumps(jsonmessage))
 
 def calculate_delay(id):
-	delay = 1.5
+	delay = 2
 	if id not in delay_handle:
 		return 0
 	if perf_counter() - delay_handle[id] < delay:
@@ -209,13 +209,14 @@ def greet(action, _result_, greet_var, userdat):
 			and "display_name" in userdat["user"]):
 		return
 	name_inp = fix_name(userdat["user"]["display_name"])
+	name_inp_1 = "‎".join(name_inp)
 	username = userdat["user"]["username"]
 	id_inp = userdat["user"]["id"]
 	if _result_ == "add":
-		MAIN_DICT[id_inp] = name_inp
-		STATS_LIST[id_inp] = name_inp
+		MAIN_DICT[id_inp] = name_inp_1
+		STATS_LIST[id_inp] = name_inp_1
 		TIMEOUT_CONTROL[id_inp] = perf_counter()
-		saved_message_handler(str(id_inp), name_inp)
+		saved_message_handler(str(id_inp), name_inp_1)
 	elif _result_ == "remove":
 		list_removal(id_inp)
 	id_inp = str(id_inp)
@@ -223,16 +224,16 @@ def greet(action, _result_, greet_var, userdat):
 		if id_inp in DATA["custom_greet"]:
 			send_message(DATA["custom_greet"][id_inp])
 		elif id_inp in DATA["knight"]:
-			send_message(f"Greetings {name_inp} ~*")
+			send_message(f"Greetings {name_inp_1} ~*")
 		else:
-			send_greet(name_inp, username)
+			send_greet(name_inp_1, username)
 	ts = strftime("%Y-%m-%d %H:%M:%S", gmtime())
 	if greet_var:
 		db_update(id_inp, name_inp, username, "None", "WFAF", "Joined", ts)
 	elif _result_ == "remove":
 		db_update(id_inp, name_inp, username, "None", "WFAF", "Left", ts)
 	elif "messages" in userdat:
-		text = fix_message(str(userdat["messages"])).strip("'")
+		text = fix_message(str(userdat["messages"])).strip("'").replace("\u200B", "")
 		db_update(id_inp, name_inp, username, text, "WFAF", "Message", ts)
 	else:
 		db_update(id_inp, name_inp, username, "None", "WFAF", "Typing", ts)
@@ -1348,9 +1349,9 @@ while True:
 			user = b["user"]
 			ID = str(user["id"])
 			input_name = fix_name(user["display_name"])
-			MESSAGE = fix_message(str(b["messages"])).strip("'")
+			MESSAGE = fix_message(str(b["messages"][0].replace("‎", "").replace("\u200B",""))).strip("'")
+			MESSAGE = unidecode(MESSAGE)
 			print(f"{input_name} ({ID}) :- {MESSAGE}")
-			MESSAGE = unidecode(MESSAGE).replace("\u200B", "")
 			Thread(target=check_greeters, args=(MESSAGE, ID,)).start()
 			Thread(target=log_chats, args=(MESSAGE, ID, user,)).start()
 			admin_func(MESSAGE, ID, True if ID in DATA["admin"] else False)
