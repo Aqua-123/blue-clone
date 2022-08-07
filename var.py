@@ -95,6 +95,7 @@ TIMEOUT_CONTROL = {}  # Control dict for list switch timeout
 SPAM_TIMEOUT = {}  # Control dict for spam control
 banned = set()  # banned list
 STALKING_LOG = {}  # the name suggests
+spam_control = {}  # spam control dict
 RESET_CLOCK = 0  # reset greet timeout
 STARTTIME = datetime.now()  # Script start timestamp
 t = datetime.now()  # Current date time

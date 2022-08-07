@@ -1312,6 +1312,25 @@ def matching(name_inp, dictname, input_text, console, dict_bool):
 			consolecheck(resp, console)
 		break
 
+#def update_spam_dict(id, message):
+#	timestamp = time.time()
+#	if id not in spam_control:
+#		spam_control[id] = [timestamp, message]
+#	else:
+#		spam_control[id].append([timestamp, message])
+#
+#def check_spam(id, message):
+#	#if 4/5 last 5 messages are within time interval of 1 second, then it is spam
+#	if id not in spam_control:
+#		return False
+#	if len(spam_control[id]) < 5:
+#		return False
+#	for i in range(len(spam_control[id]) - 1, -1, -1):
+#		if spam_control[id][i][0] + 1 > time.time():
+#			return True					
+#	return False
+#
+	
 
 Thread(target=console_input).start()
 Thread(target=thread_function).start()
@@ -1359,7 +1378,7 @@ while True:
 			guesser(ID, MESSAGE)
 			if ID in DATA["mutelist"]:
 				continue
-			coins_feelings(MESSAGE, ID, False)
+			Thread(target=coins_feelings, args=(MESSAGE, ID, False,)).start()
 			matching(fix_name(input_name), response_dict,
 					 MESSAGE, False, False)
 			matching(fix_name(input_name), whos_here_res, MESSAGE, False, True)
