@@ -82,7 +82,7 @@ def return_id(string):
 		return possibles
 	except re.error:
 		return {}
-	except Exception as error:
+	except Exception:
 		return_id(string)
 
 
@@ -109,8 +109,8 @@ def idle_function():
 def clocking():
 	global RESET_CLOCK, GREET_TIMEOUT
 	RESET_CLOCK += 1
-	if RESET_CLOCK == 500:
-		GREET_TIMEOUT, RESET_CLOCK = {}, 0
+	if RESET_CLOCK != 500: return
+	GREET_TIMEOUT, RESET_CLOCK = {}, 0
 
 
 def refreshdata():
@@ -285,7 +285,7 @@ def saving_messages(name_inp, _result_):
 		update_messages_json()
 		return save_message_r % _input_
 	return fix_message(
-		f"I have seen the following users with the name {_result_.group(2)} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
+		f"I have seen the following users with the name {_result_.group(1)} :- {curly_replace(str(id_inp))}. Specify the ID correspnding to their name")
 
 
 def downvote(cookie, id_inp):
@@ -689,6 +689,9 @@ def segment(array, n):
 
 def report_id(_result_):
 	id_inp = _result_.group(1)
+	if id not in DATA["mutelist"]:
+		DATA["mutelist"].append(id_inp)
+		update_data_json()
 	wall_id = get_wall_id(id_inp)
 	if not wall_id:
 		return
@@ -875,8 +878,9 @@ def get_meme():
 
 
 def send_seen_db(id_inp):
+	start = perf_counter()
 	query_res = get_last_record_id(id_inp, False)
-	channel_name = query_res[4]
+	channel_name = query_res[3]
 	inputdate =str(query_res[-1])
 	deltatime = return_deltatime(inputdate)
 	name, inp_user = query_res[1], query_res[2]
@@ -893,7 +897,7 @@ def send_seen_db(id_inp):
 	if not res:
 		mins = deltatime.seconds // 60 % 60
 		hours = deltatime.seconds // 3600
-		date_channel = inputdate.split(" ")[0]
+		date_channel = inputdate.split(" ", maxsplit=1)[0]
 		date_string = return_datestring(deltatime.days, date_channel)
 		broiler_response = f"I dont remember seeing {name} (#{inp_user}) in WFAF but they were last seen "
 		if hours != 0:
@@ -1036,16 +1040,22 @@ def get_seen(_result_, id_inp):
 				print(possibles)
 				seeny = send_seen_db(list(possibles.keys())[0])
 				return fix_seen(seeny)
-			except Exception as e:
-				print(e)
-				return fix_message(
-					f"I dont remember seeing anyone named {string}")
+			except Exception as err:
+				print(err)
+				#one in a 1000 chance of this happening
+				if random.randint(0, 1000) == 0:
+					return "I checked the db backups cupboard and the cupboard was bare ~*"
+				return fix_message(f"I dont remember seeing anyone named {string}")
 		if len(possibles) == 0:
+			if random.randint(0, 1000) == 0:
+				return "I checked the db backups cupboard and the cupboard was bare ~*"
 			return fix_message(f"I dont remember seeing anyone named {string}")
 		return fix_message(
 			f"I have seen the following users with the name {string} :- {curly_replace(str(possibles))}. Specify the ID correspnding to their name and ask 'Blue seen ID'")
 	except Exception as e:
 		print(e)
+		if random.randint(0, 1000) == 0:
+			return "I checked the db backups cupboard and the cupboard was bare ~*"
 		return fix_message(
 			f"I dont remember seeing {name_from_id(string)} around")
 
@@ -1054,6 +1064,8 @@ def coin_handling(_result_):
 	num = _result_.group(1)
 	coin_add = int(num) + 0
 	if coin_add > 100:
+		if random.randint(0, 1000) == 0:
+			return "Syntax Error [757] :- Excessively polite"
 		return too_many_coins
 	DATA["coins"] += coin_add
 	update_data_json()
@@ -1083,6 +1095,10 @@ def get_jokes():
 	if resp.status_code == 200:
 		joke = json.loads(resp.text)["attachments"][0]["text"]
 		return joke
+	if random.randint(0, 1000) == 0:
+		return "This is the last page of the Internet. Go back"
+	if random.randint(0, 1000) == 0:
+		return "I have no idea what you are talking about ~*"
 	return "I am unable to fetch a joke at the moment. Please try again later"
 
 
@@ -1312,25 +1328,6 @@ def matching(name_inp, dictname, input_text, console, dict_bool):
 			consolecheck(resp, console)
 		break
 
-#def update_spam_dict(id, message):
-#	timestamp = time.time()
-#	if id not in spam_control:
-#		spam_control[id] = [timestamp, message]
-#	else:
-#		spam_control[id].append([timestamp, message])
-#
-#def check_spam(id, message):
-#	#if 4/5 last 5 messages are within time interval of 1 second, then it is spam
-#	if id not in spam_control:
-#		return False
-#	if len(spam_control[id]) < 5:
-#		return False
-#	for i in range(len(spam_control[id]) - 1, -1, -1):
-#		if spam_control[id][i][0] + 1 > time.time():
-#			return True					
-#	return False
-#
-	
 
 Thread(target=console_input).start()
 Thread(target=thread_function).start()
@@ -1379,9 +1376,8 @@ while True:
 			if ID in DATA["mutelist"]:
 				continue
 			Thread(target=coins_feelings, args=(MESSAGE, ID, False,)).start()
-			matching(fix_name(input_name), response_dict,
-					 MESSAGE, False, False)
+			matching(fix_name(input_name), response_dict, MESSAGE, False, False)
 			matching(fix_name(input_name), whos_here_res, MESSAGE, False, True)
-	except Exception as e:
+	except RuntimeError as e:
 		print(e)
 		sleep(1)

@@ -79,9 +79,9 @@ def return_name(id):
 def get_last_record_id(id, only_wfaf):
     start = time.perf_counter()
     if only_wfaf:
-        query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} and room = 'WFAF' ORDER BY unique_key DESC LIMIT 1"""
+        query = f"""SELECT timestamp FROM latest_seen where id = {id} and room = 'WFAF' ORDER BY unique_key DESC LIMIT 1"""
     else:
-        query = f"""SELECT id, name, username, message, room, action, timestamp FROM latest_seen where id = {id} ORDER BY unique_key DESC LIMIT 1"""
+        query = f"""SELECT id, name, username, room, timestamp FROM latest_seen where id = {id} ORDER BY unique_key DESC LIMIT 1"""
     result = query_runner(query)
     end = time.perf_counter()
     print(f"Query took {end - start} seconds")

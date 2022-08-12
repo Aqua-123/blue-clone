@@ -8,6 +8,11 @@
     "**/__pycache__/**": true,
     "**/wfaf-logs/**": true,
     "database.sqlite4": true,
+    "**/Blue_DB/**": true,
+    "**/Old files/**": true,
+    "**/image_cache.json/**": true,
+    "**/messages.json/**": true,
+    "**/log.txt/**": true,
     
     
   },
