@@ -241,7 +241,7 @@ def greet(action, _result_, greet_var, userdat):
 
 def dis_en_greets(id_inp):
 	global GREET_STATUS
-	if id_inp in ("16008266", "25138230") and GREET_STATUS:
+	if id_inp in ("16008266", "25308787") and GREET_STATUS:
 		send_message(disabling_greet)
 		GREET_STATUS = False
 	elif id_inp == "20909261" and not GREET_STATUS:
@@ -358,9 +358,7 @@ def stalker(id_inp, time_now):
 		if resp.status_code == 404:
 			send_message(stopping_logging % id_inp)
 			break
-		else:
-			if timer() - time_now < 3600:
-				pass
+		if timer() - time_now >= 3600:
 			send_message(f"Ending stalk session of ID: {id_inp}")
 			break
 		sleep(15)
@@ -636,7 +634,7 @@ def toggle_insult_func(_result_):
 	return done
 
 def get_wall_id(user_id):
-	url = f"https://emeraldchat.com/profile_json?id={user_id}"
+	url = profile_url % int(user_id)
 	resp = requests.get(url, cookies = cookies, data=data_csrf, headers=head)
 	if resp.status_code == 200:
 		return resp.json()["wall_id"]
@@ -652,10 +650,10 @@ def get_wall_posts(wall_id):
 def get_post_contents(post_id):
 	url = f"https://emeraldchat.com/micropost_json?id={post_id}"
 	resp = requests.get(url, cookies = cookies, data=data_csrf, headers=head)
-	if resp.status_code == 200:
-		post = resp.json()["micropost"]
-		return post["content"]
-	return None
+	if resp.status_code != 200:
+		None
+	post = resp.json()["micropost"]
+	return post["content"]
 
 def test_mega(content):
 	mega_regex = re.compile(r"https://mega\.nz/((folder|file)/([^#]+)#(.+)|#(F?)!([^!]+)!(.+))", re.MULTILINE)
@@ -709,6 +707,30 @@ def report_id(_result_):
 				log_link(id_inp, content)
 		sleep(15)
 	
+def is_deleted(id):
+	url = profile_url % int(id)
+	resp = requests.get(url, cookies = cookies, data=data_csrf, headers=head)
+	if resp.status_code == 404:
+		return True
+	return False
+
+def sort_admin_list():
+	for id in DATA["admin"]:
+		if int(id) == 0: pass
+		if is_deleted(id):
+			DATA["admin"].remove(id)
+			update_data_json()
+	for id in DATA["mod"]:
+		if is_deleted(id):
+			DATA["mod"].remove(id)
+			update_data_json()
+
+def sort_mute_list():
+	for id in DATA["mutelist"]:
+		if is_deleted(id):
+			DATA["mutelist"].remove(id)
+			update_data_json()
+
 def admin_function_init(i, id_inp, isadmin, _result_):
 	global RUNNING, aichatstate
 	if i == 0:
@@ -789,6 +811,12 @@ def admin_function_init(i, id_inp, isadmin, _result_):
 	elif i == 37:
 		return_response = "Okay, thank you for reporting ^^"
 		Thread(target=report_id, args=(_result_,)).start()
+	elif i == 38 and is_creator(id_inp):
+		Thread(target=sort_admin_list).start()
+		return_response = "Sorting admin list... ~*"
+	elif i == 39 and is_creator(id_inp):
+		Thread(target=sort_mute_list).start()
+		return_response = "Sorting mute list... ~*"
 	else:
 		return_response = False
 	if return_response:
@@ -878,7 +906,6 @@ def get_meme():
 
 
 def send_seen_db(id_inp):
-	start = perf_counter()
 	query_res = get_last_record_id(id_inp, False)
 	channel_name = query_res[3]
 	inputdate =str(query_res[-1])
@@ -1024,7 +1051,7 @@ def get_seen(_result_, id_inp):
 		for id_inp in DATA["nickname"]:
 			for nickname in DATA["nickname"][id_inp]:
 				regex2 = re.compile(string, re.I)
-				if regex2.search(nickname):
+				if regex2.match(nickname):
 					possibles = {id_inp: nickname}
 					break
 		print(possibles)
@@ -1054,10 +1081,8 @@ def get_seen(_result_, id_inp):
 			f"I have seen the following users with the name {string} :- {curly_replace(str(possibles))}. Specify the ID correspnding to their name and ask 'Blue seen ID'")
 	except Exception as e:
 		print(e)
-		if random.randint(0, 1000) == 0:
-			return "I checked the db backups cupboard and the cupboard was bare ~*"
-		return fix_message(
-			f"I dont remember seeing {name_from_id(string)} around")
+		if random.randint(0, 1000) == 0:return "I checked the db backups cupboard and the cupboard was bare ~*"
+		return fix_message(f"I dont remember seeing {name_from_id(string)} around")
 
 
 def coin_handling(_result_):
@@ -1129,9 +1154,11 @@ def check_singing():
 		Thread(target=singing).start()
 
 
-def get_details(_result_):
-	id_inp = int(_result_.group(2))
-	resp = requests.get(profile_url % id_inp, cookies=cookies, data=data_csrf, headers=head)
+def get_details(_result_, alt_resp = False):
+	id_inp = _result_
+	if type(_result_) == re.Match:
+		id_inp = int(_result_.group(2))
+	resp = requests.get(profile_url % int(id_inp), cookies=cookies, data=data_csrf, headers=head)
 	if resp.status_code == 200:
 		resp = json.loads(resp.text)["user"]
 		name_inp = resp["display_name"]
@@ -1139,11 +1166,16 @@ def get_details(_result_):
 		username = resp["username"]
 		gender = resp["gender"]
 		created = resp["created_at"].split("T")
-		if not gender:
-			return details_response_null_gender % (
-				id_inp, name_inp, username, karma, created[0], created[1])
-		return details_response % (
-			id_inp, name_inp, username, karma, gender, created[0], created[1])
+		if not alt_resp:
+			if not gender:
+				return details_response_null_gender % (
+					id_inp, name_inp, username, karma, created[0], created[1])
+			return details_response % (
+				id_inp, name_inp, username, karma, gender, created[0], created[1])
+		else:
+			if not gender:
+				return details_response_alt_null_gen % (name_inp, username, id_inp,  karma, created[0], created[1])
+			return details_response_alt % (name_inp, username, id_inp,  karma, gender, created[0], created[1])
 	if resp.status_code == 404:
 		return account_deleted
 	if resp.status_code == 403:
@@ -1167,13 +1199,7 @@ def send_feelings(index, id_inp, _result_, console):
 	if (not input_name or index == 3) and index not in (8,9):
 		input_name = _result_.group(4)
 	if input_name:
-		input_name = input_name.replace("\n", "").strip()
-		me_regex = re.compile(r"m\s*e(\\n)*\b", re.I)
-		input_name = re.sub(me_regex, "you", input_name)
-		myself_regex = re.compile(r"my\s*self\s*(\\n)*\b", re.I)
-		input_name = re.sub(myself_regex, "you", input_name)
-		my_regex = re.compile(r"my\s*(\\n)*\b", re.I)
-		input_name = re.sub(my_regex, "your", input_name)
+		input_name = process_input_name(input_name)
 	resp = ""
 	if index == 1:
 		resp = sending_love % input_name
@@ -1185,7 +1211,6 @@ def send_feelings(index, id_inp, _result_, console):
 		blue_regex = re.compile(r"blue|yourself(\\n)*\b", re.I)
 		if id_inp == "25205818":
 			resp = "No Mr. Pengu uwu"
-
 		elif re.search(blue_regex, input_name):
 			resp = "Nu ;-;"
 		else:
@@ -1204,6 +1229,11 @@ def send_feelings(index, id_inp, _result_, console):
 			input_name, arg)).start()
 	elif index == 10:
 		resp = get_insult(_result_)
+	elif index == 11:
+		if _result_.group(1) == "who am i":
+			resp = get_details(int(id_inp), True)
+		else:
+			resp = get_details(int(id_inp))
 	return resp
 
 
@@ -1328,7 +1358,6 @@ def matching(name_inp, dictname, input_text, console, dict_bool):
 			consolecheck(resp, console)
 		break
 
-
 Thread(target=console_input).start()
 Thread(target=thread_function).start()
 while True:
@@ -1378,6 +1407,6 @@ while True:
 			Thread(target=coins_feelings, args=(MESSAGE, ID, False,)).start()
 			matching(fix_name(input_name), response_dict, MESSAGE, False, False)
 			matching(fix_name(input_name), whos_here_res, MESSAGE, False, True)
-	except RuntimeError as e:
+	except Exception as e:
 		print(e)
 		sleep(1)

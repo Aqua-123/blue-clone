@@ -79,3 +79,13 @@ def return_deltatime(timestamp):
 
 def join_list(list):
     return ", ".join(list)
+
+def process_input_name(input_name):
+    input_name = input_name.replace("\n", "").strip()
+    me_regex = re.compile(r"m\s*e(\\n)*\b", re.I)
+    input_name = re.sub(me_regex, "you", input_name)
+    myself_regex = re.compile(r"my\s*self\s*(\\n)*\b", re.I)
+    input_name = re.sub(myself_regex, "you", input_name)
+    my_regex = re.compile(r"my\s*(\\n)*\b", re.I)
+    input_name = re.sub(my_regex, "your", input_name)
+    return input_name
