@@ -1,22 +1,18 @@
 {
   "python.linting.pylintEnabled": true,
- "python.linting.enabled": true,
+  "python.linting.enabled": true,
   "files.exclude": {
     "**/.git/objects/**": true,
     "**/node_modules/**": true,
     "**/stalker-logs/**": true,
     "**/__pycache__/**": true,
-    "**/wfaf-logs/**": true,
+    "**/wfaf-logs/**": false,
     "database.sqlite4": true,
     "**/Blue_DB/**": true,
     "**/Old files/**": true,
     "**/image_cache.json/**": true,
     "**/messages.json/**": true,
-    "**/log.txt/**": true,
-    
-    
+    "**/log.txt/**": true
   },
   "editor.formatOnSave": true
-
-
 }
