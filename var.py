@@ -23,6 +23,7 @@ client_secret = config["imgur_client_secret"]
 response = simp.simple_image_download
 
 CLIENT = ImgurClient(client_id, client_secret)
+print(CLIENT.credits)
 ID = 0
 
 delay_handle = {}
@@ -590,10 +591,10 @@ unknown_error = "Unknown error occurred, restarting... ~*"
 chatlog_file = "chatlogs.txt"
 
 Greet_1 = (
-    "Hi, %s, retrying won't help, you can try asking 'what is wfaf' for more info :D"
+    "Hi, %s, retrying won't help, you can try asking 'what is wfaf' or friend one us for more info :D"
 )
-Greet_2 = "Hi again, %s, try asking 'what is wfaf' for more info :D "
-Greet_general = "Hi, %s, welcome to Waiting For A Friend. You're here because you tried texting someone who's not your friend yet, enjoy your stay :D"
+Greet_2 = "Hi again, %s, try asking 'what is wfaf' for more info or friend one of us for any questions :D "
+Greet_general = "Hi, %s, welcome to Waiting For A Friend. You're here because you tried texting someone who's not your friend yet, you will need the RxE extension to speak here. Enjoy your stay :D"
 
 whos_here_response_no_lurkers = "I can see %s and no lurkers at the moment ~*"
 whos_here_response_gen1 = "I can see %s and 1 person lurking ~*"
@@ -632,9 +633,9 @@ knight_not_added = "%s is already not a knight ~*"
 shortened_greet_on = "Short greets are now on"
 shortened_greet_off = "Short greets are turned off now"
 
-Greet_1_short = "Hi again, %s, say 'what is wfaf' for more info ~*"
-Greet_2_short = "Hello, %s, try asking 'what is wfaf' for more info ~*"
-Greet_general_short = "Hi, %s, welcome to WFAF ~*"
+Greet_1_short = "Hi again, %s, you can add one of us for more info ~*"
+Greet_2_short = "Hello, %s, you can add one of us for more info ~*"
+Greet_general_short = "Hi, %s, welcome to WFAF. You will need the RxE extension to speak here. ~*"
 
 nickname_added = "Nickname %s added for %s"
 nickname_updated = "Nickname %s updated for %s"

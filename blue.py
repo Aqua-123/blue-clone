@@ -15,7 +15,7 @@ from db import db_update, get_last_record_id, regex_query, return_name
 from gc_logging import *
 from utils import *
 from var import *
-
+import mysql.connector as m
 
 def reduce_space(text):
 	# swap all spaces more than one space with a single space
@@ -1358,6 +1358,17 @@ def matching(name_inp, dictname, input_text, console, dict_bool):
 			consolecheck(resp, console)
 		break
 
+
+def startSQlServer(action):
+	commandStart = 'systemctl start mariadb.service'
+	sudoPassword = '19216811'
+	if action not in ("start","stop"):
+		return 
+	if action == "stop":
+		commandStart = 'systemctl stop mariadb.service'
+	p = os.system('echo %s|sudo -S %s' % (sudoPassword, commandStart))
+
+#startSQlServer("start")
 Thread(target=console_input).start()
 Thread(target=thread_function).start()
 while True:
@@ -1407,6 +1418,8 @@ while True:
 			Thread(target=coins_feelings, args=(MESSAGE, ID, False,)).start()
 			matching(fix_name(input_name), response_dict, MESSAGE, False, False)
 			matching(fix_name(input_name), whos_here_res, MESSAGE, False, True)
+			#except KeyboardInterrupt:
+			#	startSQlServer("stop")
 	except Exception as e:
 		print(e)
 		sleep(1)

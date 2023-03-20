@@ -4,6 +4,7 @@ from utils import *
 from db import db_update
 import websocket
 from cl import cl
+import mysql.connector as m
 
 
 def thread_function():
